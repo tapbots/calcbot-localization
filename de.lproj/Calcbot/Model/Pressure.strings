@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Pressure</key>
+    <string>Druck</string>
+    <key>KG/Square Metre</key>
+    <string>KG/Quadratmeter</string>
+    <key>MM of Water</key>
+    <string>MM Wassersäule</string>
+    <key>Pounds/Square Foot</key>
+    <string>Pfund/Quadrat Fuss</string>
+    <key>CM of Water</key>
+    <string>CM Wassersäule</string>
+    <key>Hectopascal</key>
+    <string>Hektopascal</string>
+    <key>MM of Mercury</key>
+    <string>MM Quecksilbersäule</string>
+    <key>Inch of Water</key>
+    <string>Zoll Wassersäule</string>
+    <key>CM of Mercury</key>
+    <string>Zentimeter Quecks.</string>
+    <key>Inches of Mercury</key>
+    <string>Quecksilber Zoll</string>
+    <key>Pounds/Square Inch</key>
+    <string>Pfund/Quadrat Inch</string>
+    <key>KG/Square CM</key>
+    <string>KG/Quadratzentimeter</string>
+    <key>Bars</key>
+    <string>Bar</string>
+    <key>Atmospheres</key>
+    <string>Atmosphäre</string>
+  </dict>
+</plist>

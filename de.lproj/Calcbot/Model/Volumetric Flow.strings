@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Volumetric Flow</key>
+    <string>Volumendurchsatz</string>
+    <key>Gallon/Day</key>
+    <string>Gallone/Tag</string>
+    <key>Gallon/Day (Imperial)</key>
+    <string>Gallon/Day (Imperial)</string>
+    <key>Litre/Hour</key>
+    <string>Liter/Stunde</string>
+    <key>Litre/Min.</key>
+    <string>Liter/Min</string>
+    <key>Gallon/Min.</key>
+    <string>Gallone/Min</string>
+    <key>Gallon/Min. (Imperial)</key>
+    <string>Gallon/Min. (Imperial)</string>
+    <key>Cubic Metre/Hour</key>
+    <string>Kubikmeter/Stunde</string>
+    <key>Cubic Feet/Min.</key>
+    <string>Kubikfuß/Min</string>
+    <key>Litre/Sec.</key>
+    <string>Liter/Sek</string>
+    <key>Gallon/Sec.</key>
+    <string>Gallone/Sek</string>
+    <key>Gallon/Sec. (Imperial)</key>
+    <string>Gallon/Sec. (Imperial)</string>
+    <key>Cubic Metre/Min</key>
+    <string>Kubikmeter/Min</string>
+    <key>Cubic Feet/Sec.</key>
+    <string>Kubikfuß/Sek</string>
+    <key>Cubic Yard/Sec.</key>
+    <string>Kubikyard/Sek</string>
+    <key>Cubic Metre/Sec.</key>
+    <string>Kubikmeter/Sek</string>
+  </dict>
+</plist>

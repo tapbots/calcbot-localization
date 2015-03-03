@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Mass</key>
+    <string>Masse</string>
+    <key>Microgram</key>
+    <string>Mikrogramm</string>
+    <key>Milligram</key>
+    <string>Milligramm</string>
+    <key>Carat</key>
+    <string>Karat</string>
+    <key>Gram</key>
+    <string>Gramm</string>
+    <key>Ounce</key>
+    <string>Unze</string>
+    <key>Troy Ounce</key>
+    <string>Feinunze</string>
+    <key>Pound</key>
+    <string>Pfund</string>
+    <key>Kilogram</key>
+    <string>Kilogramm</string>
+    <key>Short Ton</key>
+    <string>Kurze Tonne</string>
+    <key>Metric Ton</key>
+    <string>Metrische Tonne</string>
+    <key>Long Ton</key>
+    <string>Lange Tonne</string>
+  </dict>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Speed</key>
+    <string>Geschw.</string>
+    <key>Feet/Minute</key>
+    <string>Fuss/Minute</string>
+    <key>Kilometres/Hour</key>
+    <string>Kilometer/Stunde</string>
+    <key>Feet/Second</key>
+    <string>Fuss/Sekunde</string>
+    <key>Miles/Hour</key>
+    <string>Meilen/Stunde</string>
+    <key>Knots</key>
+    <string>Knoten</string>
+    <key>Metres/Second</key>
+    <string>Meter/Sekunde</string>
+    <key>Kilometres/Minute</key>
+    <string>Kilometer/Minute</string>
+    <key>Miles/Second</key>
+    <string>Meilen/Sekunde</string>
+    <key>Minutes/Metres</key>
+    <string>Minuten/Metres</string>
+    <key>Minutes/Kilometres</key>
+    <string>Minuten/Kilometer</string>
+    <key>Miles/Minute</key>
+    <string>Meilen/Minute</string>
+    <key>Minutes/Yards</key>
+    <string>Minuten/Yard</string>
+    <key>Minutes/Miles</key>
+    <string>Minuten/Meilen</string>
+  </dict>
+</plist>

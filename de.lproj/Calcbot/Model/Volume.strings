@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Volume</key>
+    <string>Volumen</string>
+    <key>Cubic Millimetre</key>
+    <string>Kubikmillimeter</string>
+    <key>Microlitre</key>
+    <string>Mikroliter</string>
+    <key>Drop</key>
+    <string>Tropfen</string>
+    <key>Drop (Imperial)</key>
+    <string>Drop (Imperial)</string>
+    <key>Dash (Imperial)</key>
+    <string>Dash (Imperial)</string>
+    <key>Pinch (Imperial)</key>
+    <string>Pinch (Imperial)</string>
+    <key>Cubic Centimetre</key>
+    <string>Kubikzentimeter</string>
+    <key>Millilitre</key>
+    <string>Milliliter</string>
+    <key>Teaspoon</key>
+    <string>Teelöffel</string>
+    <key>Teaspoon (Metric)</key>
+    <string>Teaspoon (Metric)</string>
+    <key>Teaspoon (Imperial)</key>
+    <string>Teaspoon (Imperial)</string>
+    <key>Tablespoon</key>
+    <string>Esslöffel</string>
+    <key>Tablespoon (Metric)</key>
+    <string>Tablespoon (Metric)</string>
+    <key>Cubic Inch</key>
+    <string>Kubikzoll</string>
+    <key>Tablespoon (Imperial)</key>
+    <string>Tablespoon (Imperial)</string>
+    <key>Ounce (Imperial)</key>
+    <string>Ounce (Imperial)</string>
+    <key>Ounce</key>
+    <string>Unze</string>
+    <key>Gill (Imperial)</key>
+    <string>Gill (Imperial)</string>
+    <key>Cup (Metric)</key>
+    <string>Cup (Metric)</string>
+    <key>Cup (Imperial)</key>
+    <string>Cup (Imperial)</string>
+    <key>Dry Pint</key>
+    <string>US dry.pt.</string>
+    <key>Pint (Imperial)</key>
+    <string>Pint (Imperial)</string>
+    <key>Fifth</key>
+    <string>Quint</string>
+    <key>Litre</key>
+    <string>Liter</string>
+    <key>Dry Quart</key>
+    <string>US dry.qt.</string>
+    <key>Quart (Imperial)</key>
+    <string>Quart (Imperial)</string>
+    <key>Gallon</key>
+    <string>Gallone</string>
+    <key>Dry Gallon</key>
+    <string>US dry.gal.</string>
+    <key>Gallon (Imperial)</key>
+    <string>Gallon (Imperial)</string>
+    <key>Cubic Feet</key>
+    <string>Kubikfuss</string>
+    <key>Bushel</key>
+    <string>Scheffel</string>
+    <key>Beer Barrel</key>
+    <string>Bierfass</string>
+    <key>Oil Barrel</key>
+    <string>Barrel</string>
+    <key>Beer Barrel (Imperial)</key>
+    <string>Beer Barrel (Imperial)</string>
+    <key>Cubic Yard</key>
+    <string>Kubik Yard</string>
+    <key>Cubic Metre</key>
+    <string>Kubikmeter</string>
+  </dict>
+</plist>

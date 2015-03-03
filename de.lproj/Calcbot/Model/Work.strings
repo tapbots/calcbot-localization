@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Work</key>
+    <string>Arbeit</string>
+    <key>Electron Volt</key>
+    <string>Elektronenvolt</string>
+    <key>Erg</key>
+    <string>ERG</string>
+    <key>Inch Pound</key>
+    <string>Zoll Pfund</string>
+    <key>Newton Metre</key>
+    <string>Newton Meter</string>
+    <key>Foot Pound</key>
+    <string>Fuss Pfund</string>
+    <key>Calorie</key>
+    <string>Kalorie</string>
+    <key>Watt Hour</key>
+    <string>Watt Stunde</string>
+    <key>Kilogram Calorie</key>
+    <string>Kilogrammkalorie</string>
+    <key>Kilowatt Hour</key>
+    <string>Kilowatt Stunde</string>
+    <key>Megawatt Hour</key>
+    <string>Megawatt Stunde</string>
+    <key>Tonne of Coal</key>
+    <string>Tonnen Kohle</string>
+    <key>Tonne of Oil</key>
+    <string>Tonnen Öl</string>
+    <key>Gigawatt Hour</key>
+    <string>Gigawatt Stunde</string>
+  </dict>
+</plist>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Currency</key>
+    <string>Währung</string>
+    <key>UAE Dirham</key>
+    <string>U.A.E Dirham</string>
+    <key>Dutch Guilder</key>
+    <string>Holländische Gulden</string>
+    <key>Argentine Peso</key>
+    <string>Argentinischer Peso</string>
+    <key>Australian Dollar</key>
+    <string>Australischer Dollar</string>
+    <key>Aruban Florin</key>
+    <string>Arubanische Florin</string>
+    <key>Bangladeshi Taka</key>
+    <string>Bangladesch. Taka</string>
+    <key>Bulgarian Lev</key>
+    <string>Bulgarischer Lew</string>
+    <key>Bahraini Dinar</key>
+    <string>Bahrainischer Dinar</string>
+    <key>Burundian Franc</key>
+    <string>Burundischer Franc</string>
+    <key>Bermudian Dollar</key>
+    <string>Bermudischer Dollar</string>
+    <key>Brazilian Real</key>
+    <string>Brazilianischer Real</string>
+    <key>Bahamian Dollar</key>
+    <string>Bahamaischer Dollar</string>
+    <key>Belarussian Ruble</key>
+    <string>Belorussischer Rubel</string>
+    <key>Canadian Dollar</key>
+    <string>Kanadischer Dollar</string>
+    <key>Swiss Franc</key>
+    <string>Schweizer Franken</string>
+    <key>Chilean Peso</key>
+    <string>Chilenischer Peso</string>
+    <key>Chinese Yuan</key>
+    <string>Chinesische Yuan</string>
+    <key>Colombian Peso</key>
+    <string>Kolumbianischer Peso</string>
+    <key>Costa Rican Colón</key>
+    <string>Costa Rican Colón</string>
+    <key>Cuban Peso</key>
+    <string>Kubanischer Peso</string>
+    <key>Cyprus Pound</key>
+    <string>Zyprische Pfund</string>
+    <key>Czech Koruna</key>
+    <string>Tschechische Krone</string>
+    <key>Danish Krone</key>
+    <string>Dänische Krone</string>
+    <key>Dominican Peso</key>
+    <string>Dominikanischer Peso</string>
+    <key>Algerian Dinar</key>
+    <string>Algerischer Dinar</string>
+    <key>Egyptian Pound</key>
+    <string>Ägyptisches Pfund</string>
+    <key>Ethiopian Birr</key>
+    <string>Äthiopische Birr</string>
+    <key>Fiji Dollar</key>
+    <string>Fidschi Dollar</string>
+    <key>Pound Sterling</key>
+    <string>Pfund Sterling</string>
+    <key>Croatian Kuna</key>
+    <string>Kroatische Kuna</string>
+    <key>Indonesian Rupiah</key>
+    <string>Rupiah</string>
+    <key>Israeli New Sheqel</key>
+    <string>Israel. N. Sheqel</string>
+    <key>Indian Rupee</key>
+    <string>Indisch Rupie</string>
+    <key>Iraqi Dinar</key>
+    <string>Irakischer Dinar</string>
+    <key>Iranian Rial</key>
+    <string>Iranischer Rial</string>
+    <key>Iceland Krona</key>
+    <string>Isländische krone</string>
+    <key>Jamaican Dollar</key>
+    <string>Jamaica. Dollar</string>
+    <key>Jordanian Dinar</key>
+    <string>Jordanischer Dinar</string>
+    <key>Japanese Yen</key>
+    <string>Japanischer Yen</string>
+    <key>Kenyan Shilling</key>
+    <string>Kenia. Schilling</string>
+    <key>Comoro Franc</key>
+    <string>Komorische Franc</string>
+    <key>South Korean Won</key>
+    <string>Südkoreanischer Won</string>
+    <key>Cayman Island Dollar</key>
+    <string>Cayman Inseln Dollar</string>
+    <key>Lebanese Pound</key>
+    <string>Libanesische Pfund</string>
+    <key>Sri Lanka Rupee</key>
+    <string>Sri -lankische Rupie</string>
+    <key>Lithuanian Litas</key>
+    <string>Litauische Litas</string>
+    <key>Latvian Lats</key>
+    <string>Lettische Lats</string>
+    <key>Moroccan Dirham</key>
+    <string>Marokkanische Dirham</string>
+    <key>Moldovan Leu</key>
+    <string>Moldawische Leu</string>
+    <key>Macedonian Denar</key>
+    <string>Mazedonischer Denar</string>
+    <key>Mauritius Rupee</key>
+    <string>Mauritische Rupie</string>
+    <key>Mexican Peso</key>
+    <string>Mexikanischer Peso</string>
+    <key>Malaysian Ringgit</key>
+    <string>Malaysische Ringgit</string>
+    <key>Namibian Dollar</key>
+    <string>Namibischer Dollar</string>
+    <key>Cordoba Oro</key>
+    <string>Cordoba Gold</string>
+    <key>Norwegian Krone</key>
+    <string>Norwegische Krone</string>
+    <key>Nepalese Rupee</key>
+    <string>Nepalesische Rupie</string>
+    <key>New Zealand Dollar</key>
+    <string>N. Neuseel. Dollar</string>
+    <key>Rial Omani</key>
+    <string>Omanischer Rial</string>
+    <key>Philippine Peso</key>
+    <string>Philippinischer Peso</string>
+    <key>Pakistan Rupee</key>
+    <string>Pakistanische Rupie</string>
+    <key>Qatari Riyal</key>
+    <string>Qatarischer Rial</string>
+    <key>Romanian New Leu</key>
+    <string>Rumänischer N. Leu</string>
+    <key>Russian Rouble</key>
+    <string>Russischer Rubel</string>
+    <key>Rwanda Franc</key>
+    <string>Ruandische Franc</string>
+    <key>Saudi Riyal</key>
+    <string>Saudische Rial</string>
+    <key>Solomon Is. Dollar</key>
+    <string>Salomoninseln Dollar</string>
+    <key>Seychelles Rupee</key>
+    <string>Seychellen Rupie</string>
+    <key>Swedish Krona</key>
+    <string>Schwedische Krone</string>
+    <key>Singapore Dollar</key>
+    <string>Singapur Dollar</string>
+    <key>Slovenian Tolar</key>
+    <string>Slowenischer Tolar</string>
+    <key>Slovak Koruna</key>
+    <string>Slowakische Krone</string>
+    <key>El Salvador Colon</key>
+    <string>El Salvador Colón</string>
+    <key>Thai Baht</key>
+    <string>Thailändischer Baht</string>
+    <key>Tunisian Dinar</key>
+    <string>Tunesischer Dinar</string>
+    <key>Pa’anga</key>
+    <string>Pa’anga</string>
+    <key>Turkish Lira</key>
+    <string>Türkische Lire</string>
+    <key>Tri. and Tob. Dollar</key>
+    <string>Tri. und Tob. Dollar</string>
+    <key>New Taiwan Dollar</key>
+    <string>N. Taiwan. Dollar</string>
+    <key>Tanzanian Shilling</key>
+    <string>Tansan. Schilling</string>
+    <key>Uganda Shilling</key>
+    <string>Uganda Schillig</string>
+    <key>Peso Uruguayo</key>
+    <string>Uruguayischer Peso</string>
+    <key>Ven. Bolivar</key>
+    <string>Venezuela Bolivar</string>
+    <key>Vietnamese Dong</key>
+    <string>Vietnamesischer Dong</string>
+    <key>Samoan Tala</key>
+    <string>Samoanische Tala</string>
+    <key>Yemen Riyal</key>
+    <string>Jemenitischer Riyal</string>
+    <key>South African Rand</key>
+    <string>Südafrik. Rand</string>
+    <key>Cape Verdean Escudo</key>
+    <string>Kap-Verde-Escudo</string>
+    <key>Austrian Schilling</key>
+    <string>Öst. Schilling</string>
+    <key>Belgian Franc</key>
+    <string>Belgischer Franc</string>
+    <key>Finnish Markka</key>
+    <string>Finnmark</string>
+    <key>French Franc</key>
+    <string>Frnzösicher Franc</string>
+    <key>Irish Pound</key>
+    <string>Irischer Pfund</string>
+    <key>Italian Lira</key>
+    <string>Italienische Lire</string>
+    <key>Luxembourgish Franc</key>
+    <string>Lux. Franc</string>
+    <key>Portuguese Escudo</key>
+    <string>Port. Escudo</string>
+    <key>Spanish Peseta</key>
+    <string>Spanischer Peseta</string>
+    <key>Greek Drachma</key>
+    <string>Griechische Drachmen</string>
+    <key>Cypriot Pound</key>
+    <string>Zypern-Pfund </string>
+    <key>Maltese Lira</key>
+    <string>Maltesische Lira</string>
+    <key>Syrian Pound</key>
+    <string>Syrische Pfund</string>
+    <key>Serbian Dinar</key>
+    <string>Serbischer Dinar</string>
+  </dict>
+</plist>

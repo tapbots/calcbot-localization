@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Atto</key>
+    <string>Atto Meter</string>
+    <key>Micro</key>
+    <string>Mikro</string>
+    <key>Deci</key>
+    <string>Dezi</string>
+    <key>Base</key>
+    <string>Basis</string>
+    <key>Hecto</key>
+    <string>Hekto</string>
+  </dict>
+</plist>
