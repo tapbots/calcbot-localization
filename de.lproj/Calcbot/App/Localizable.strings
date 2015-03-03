@@ -174,5 +174,111 @@
     <string>Value</string>
     <key>result</key>
     <string>result</string>
+    <key>Attach Tape</key>
+    <string>Attach Tape</string>
+    <key>Basic</key>
+    <string>Basic</string>
+    <key>Checking for updated currency rates</key>
+    <string>Checking for updated currency rates</string>
+    <key>Conversion</key>
+    <string>Conversion</string>
+    <key>Copy Expression</key>
+    <string>Copy Expression</string>
+    <key>Could not fetch currency rates</key>
+    <string>Could not fetch currency rates</string>
+    <key>Delete</key>
+    <string>Delete</string>
+    <key>Detach Tape</key>
+    <string>Detach Tape</string>
+    <key>Email Tape</key>
+    <string>Email Tape</string>
+    <key>General</key>
+    <string>General</string>
+    <key>Hide Conversion</key>
+    <string>Hide Conversion</string>
+    <key>Hide Tape</key>
+    <string>Hide Tape</string>
+    <key>Large Type</key>
+    <string>Large Type</string>
+    <key>Last Updated: </key>
+    <string>Last Updated: </string>
+    <key>Main</key>
+    <string>Main</string>
+    <key>Please type your message above this line</key>
+    <string>Please type your message above this line</string>
+    <key>Remove All</key>
+    <string>Remove All</string>
+    <key>Scientific</key>
+    <string>Scientific</string>
+    <key>Select All</key>
+    <string>Select All</string>
+    <key>Show Conversion</key>
+    <string>Show Conversion</string>
+    <key>Show Tape</key>
+    <string>Show Tape</string>
+    <key>Tape</key>
+    <string>Tape</string>
+    <key>Type a unit...</key>
+    <string>Type a unit...</string>
+    <key>Version</key>
+    <string>Version</string>
+    <key>View</key>
+    <string>View</string>
+    <key>You cannot deselect every enabled conversion unit.</key>
+    <string>You cannot deselect every enabled conversion unit.</string>
+    <key>You cannot deselect the last enabled conversion unit.</key>
+    <string>You cannot deselect the last enabled conversion unit.</string>
+    <key>You need at least one enabled conversion unit</key>
+    <string>You need at least one enabled conversion unit</string>
+    <key>calculated result</key>
+    <string>calculated result</string>
+    <key>conversion category chooser</key>
+    <string>conversion category chooser</string>
+    <key>conversion category picker</key>
+    <string>conversion category picker</string>
+    <key>conversion from unit</key>
+    <string>conversion from unit</string>
+    <key>conversion from unit symbol</key>
+    <string>conversion from unit symbol</string>
+    <key>conversion to unit</key>
+    <string>conversion to unit</string>
+    <key>conversion to unit symbol</key>
+    <string>conversion to unit symbol</string>
+    <key>current expression</key>
+    <string>current expression</string>
+    <key>display options segmented control</key>
+    <string>display options segmented control</string>
+    <key>favorite expression</key>
+    <string>favorite expression</string>
+    <key>hide conversion</key>
+    <string>hide conversion</string>
+    <key>hide tape</key>
+    <string>hide tape</string>
+    <key>saved expression</key>
+    <string>saved expression</string>
+    <key>saved result</key>
+    <string>saved result</string>
+    <key>show conversion</key>
+    <string>show conversion</string>
+    <key>show favorited saved expressions</key>
+    <string>show favorited saved expressions</string>
+    <key>show tape</key>
+    <string>show tape</string>
+    <key>show tape of saved expressions</key>
+    <string>show tape of saved expressions</string>
+    <key>swap from and to conversion units</key>
+    <string>swap from and to conversion units</string>
+    <key>table of favorited expressions</key>
+    <string>table of favorited expressions</string>
+    <key>table of saved expressions</key>
+    <string>table of saved expressions</string>
+    <key>tape options segmented control</key>
+    <string>tape options segmented control</string>
+    <key>tape settings button</key>
+    <string>tape settings button</string>
+    <key>unfavorite expression</key>
+    <string>unfavorite expression</string>
+    <key>unknown</key>
+    <string>unknown</string>
   </dict>
 </plist>

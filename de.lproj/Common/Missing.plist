@@ -84,5 +84,7 @@ Paul codes in Texas and Mark designs in California.</string>
     <string>Which account do you want to follow %@ with?</string>
     <key>Yesterday at %@</key>
     <string>Yesterday at %@</string>
+    <key>Calcbot Preferences</key>
+    <string>Calcbot Preferences</string>
   </dict>
 </plist>
