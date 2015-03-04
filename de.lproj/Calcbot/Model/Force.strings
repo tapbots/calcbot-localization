@@ -8,6 +8,8 @@
     <string>Dyn</string>
     <key>Poundal</key>
     <string>Pfund Bezogen</string>
+    <key>Newton</key>
+    <string>Newton</string>
     <key>Pound-Force</key>
     <string>Pfund-Kraft</string>
     <key>Kilogram-Force</key>

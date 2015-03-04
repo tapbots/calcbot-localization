@@ -2,7 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <array>
-    <string>OK</string>
-    <string>To</string>
+    <string>Fahrenheit</string>
+    <string>Celsius</string>
+    <string>Kelvin</string>
+    <string>Rankine</string>
   </array>
 </plist>

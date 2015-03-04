@@ -2,144 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>Pi</key>
-    <string>Pi</string>
-    <key>Planck</key>
-    <string>Planck</string>
-    <key>Nuclear Magneton</key>
-    <string>Nuclear Magneton</string>
-    <key>Bohr Magneton</key>
-    <string>Bohr Magneton</string>
-    <key>Fine-Structure Constant</key>
-    <string>Fine-Structure Constant</string>
-    <key>Classical Electron Radius</key>
-    <string>Classical Electron Radius</string>
-    <key>Compton Wavelength</key>
-    <string>Compton Wavelength</string>
-    <key>Proton Gyromagnetic Ratio</key>
-    <string>Proton Gyromagnetic Ratio</string>
-    <key>Proton Compton Wavelength</key>
-    <string>Proton Compton Wavelength</string>
-    <key>Neutron Compton Wavelength</key>
-    <string>Neutron Compton Wavelength</string>
-    <key>Rydberg Constant</key>
-    <string>Rydberg Constant</string>
-    <key>Proton Magnetic Moment</key>
-    <string>Proton Magnetic Moment</string>
-    <key>Electron Magnetic Moment</key>
-    <string>Electron Magnetic Moment</string>
-    <key>Neutron Magnetic Moment</key>
-    <string>Neutron Magnetic Moment</string>
-    <key>Muon Magnetic Moment</key>
-    <string>Muon Magnetic Moment</string>
-    <key>First Radiation Constant</key>
-    <string>First Radiation Constant</string>
-    <key>Second Radiation Constant</key>
-    <string>Second Radiation Constant</string>
-    <key>Electric Constant</key>
-    <string>Electric Constant</string>
-    <key>Magnetic Constant</key>
-    <string>Magnetic Constant</string>
-    <key>Magnetic Flux Quantum</key>
-    <string>Magnetic Flux Quantum</string>
-    <key>Standard Acceleration of Gravity</key>
-    <string>Standard Acceleration of Gravity</string>
-    <key>Standard Atmosphere</key>
-    <string>Standard Atmosphere</string>
-    <key>Conductance Quantum</key>
-    <string>Conductance Quantum</string>
-    <key>Characteristic Impedance of Vacuum</key>
-    <string>Characteristic Impedance of Vacuum</string>
-    <key>Pa’anga</key>
-    <string>Pa’anga</string>
-    <key>Kilobit (SI)</key>
-    <string>Kilobit (SI)</string>
-    <key>Kilobyte (SI)</key>
-    <string>Kilobyte (SI)</string>
-    <key>Megabit (SI)</key>
-    <string>Megabit (SI)</string>
-    <key>Megabyte (SI)</key>
-    <string>Megabyte (SI)</string>
-    <key>Gigabit (SI)</key>
-    <string>Gigabit (SI)</string>
-    <key>Gigabyte (SI)</key>
-    <string>Gigabyte (SI)</string>
-    <key>Terabit (SI)</key>
-    <string>Terabit (SI)</string>
-    <key>Terabyte (SI)</key>
-    <string>Terabyte (SI)</string>
-    <key>Petabit (SI)</key>
-    <string>Petabit (SI)</string>
-    <key>Petabyte (SI)</key>
-    <string>Petabyte (SI)</string>
-    <key>10 to the power of</key>
-    <string>10 to the power of</string>
-    <key>2 to the power of</key>
-    <string>2 to the power of</string>
-    <key>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</key>
-    <string>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</string>
-    <key>add</key>
-    <string>add</string>
-    <key>alternate functions</key>
-    <string>alternate functions</string>
-    <key>ee engineering exponent</key>
-    <string>ee engineering exponent</string>
-    <key>equal</key>
-    <string>equal</string>
-    <key>exponential</key>
-    <string>exponential</string>
-    <key>factorial</key>
-    <string>factorial</string>
-    <key>log base 10</key>
-    <string>log base 10</string>
-    <key>log base 2</key>
-    <string>log base 2</string>
-    <key>power</key>
-    <string>power</string>
-    <key>radians</key>
-    <string>radians</string>
-    <key>reciprocal</key>
-    <string>reciprocal</string>
-    <key>reeverse power</key>
-    <string>reeverse power</string>
-    <key>round</key>
-    <string>round</string>
-    <key>sine</key>
-    <string>sine</string>
-    <key>square</key>
-    <string>square</string>
-    <key>square root</key>
-    <string>square root</string>
-    <key>subtract</key>
-    <string>subtract</string>
-    <key>tangent</key>
-    <string>tangent</string>
-    <key>Atto</key>
-    <string>Atto</string>
-    <key>Pixel (300 dpi)</key>
-    <string>Pixel (300 dpi)</string>
-    <key>Pixel (150 dpi)</key>
-    <string>Pixel (150 dpi)</string>
-    <key>Pixel (96 dpi)</key>
-    <string>Pixel (96 dpi)</string>
-    <key>Pixel (72 dpi)</key>
-    <string>Pixel (72 dpi)</string>
-    <key>Dash (Imperial)</key>
-    <string>Dash (Imperial)</string>
-    <key>Pinch (Imperial)</key>
-    <string>Pinch (Imperial)</string>
-    <key>Gill (Imperial)</key>
-    <string>Gill (Imperial)</string>
-    <key>Pint (Imperial)</key>
-    <string>Pint (Imperial)</string>
-    <key>Quart (Imperial)</key>
-    <string>Quart (Imperial)</string>
-    <key>Gallon (Imperial)</key>
-    <string>Gallon (Imperial)</string>
-    <key>Beer Barrel (Imperial)</key>
-    <string>Beer Barrel (Imperial)</string>
-    <key>Gallon/Sec. (Imperial)</key>
-    <string>Gallon/Sec. (Imperial)</string>
     <key>%@ ago</key>
     <string>%@ ago</string>
     <key>About Tapbots</key>
@@ -150,6 +12,10 @@
     <string>Add New</string>
     <key>Add your own values and labels to the constants menu.</key>
     <string>Add your own values and labels to the constants menu.</string>
+    <key>Attach Tape</key>
+    <string>Attach Tape</string>
+    <key>Basic</key>
+    <string>Basic</string>
     <key>COMPANY</key>
     <string>COMPANY</string>
     <key>CONVERSION</key>
@@ -164,6 +30,8 @@
     <string>Categories and Units</string>
     <key>Category</key>
     <string>Category</string>
+    <key>Checking for updated currency rates</key>
+    <string>Checking for updated currency rates</string>
     <key>Clear Favorites</key>
     <string>Clear Favorites</string>
     <key>Clear Tape</key>
@@ -174,22 +42,34 @@
     <string>Constants</string>
     <key>Contact Us</key>
     <string>Contact Us</string>
+    <key>Conversion</key>
+    <string>Conversion</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
     <string>Convert with over 200 units across 20 conversion categories.</string>
     <key>Copy</key>
     <string>Copy</string>
+    <key>Copy Expression</key>
+    <string>Copy Expression</string>
     <key>Copy Result</key>
     <string>Copy Result</string>
+    <key>Could not fetch currency rates</key>
+    <string>Could not fetch currency rates</string>
     <key>Custom Constants.</key>
     <string>Custom Constants.</string>
     <key>DEFAULT</key>
     <string>DEFAULT</string>
     <key>Dark Ninja</key>
     <string>Dark Ninja</string>
+    <key>Delete</key>
+    <string>Delete</string>
+    <key>Detach Tape</key>
+    <string>Detach Tape</string>
     <key>Disable All</key>
     <string>Disable All</string>
     <key>Edit Units</key>
     <string>Edit Units</string>
+    <key>Email Tape</key>
+    <string>Email Tape</string>
     <key>Enable All</key>
     <string>Enable All</string>
     <key>Enable constants in the settings.</key>
@@ -208,8 +88,16 @@
     <string>From</string>
     <key>GENERAL</key>
     <string>GENERAL</string>
+    <key>General</key>
+    <string>General</string>
+    <key>Hide Conversion</key>
+    <string>Hide Conversion</string>
+    <key>Hide Tape</key>
+    <string>Hide Tape</string>
     <key>History</key>
     <string>History</string>
+    <key>Last Updated: </key>
+    <string>Last Updated: </string>
     <key>Last updated: %@</key>
     <string>Last updated: %@</string>
     <key>Learn More</key>
@@ -222,6 +110,8 @@
     <string>MY CONSTANTS</string>
     <key>MY THEMES</key>
     <string>MY THEMES</string>
+    <key>Main</key>
+    <string>Main</string>
     <key>Mark’s Office</key>
     <string>Mark’s Office</string>
     <key>Melancholy</key>
@@ -246,6 +136,8 @@
     <string>Please enter a valid constant.</string>
     <key>Please try again later</key>
     <string>Please try again later</string>
+    <key>Please type your message above this line</key>
+    <string>Please type your message above this line</string>
     <key>Pro</key>
     <string>Pro</string>
     <key>Pro Theme.</key>
@@ -254,6 +146,8 @@
     <string>Purchase for %@</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>
     <string>Purchase this theme pack and get the following %@ themes:</string>
+    <key>Remove All</key>
+    <string>Remove All</string>
     <key>Remove the 10 record limit and never lose a calculation again.</key>
     <string>Remove the 10 record limit and never lose a calculation again.</string>
     <key>Restore Purchased Themes</key>
@@ -264,6 +158,10 @@
     <string>Round for Currency</string>
     <key>Save</key>
     <string>Save</string>
+    <key>Scientific</key>
+    <string>Scientific</string>
+    <key>Select All</key>
+    <string>Select All</string>
     <key>Send as Email</key>
     <string>Send as Email</string>
     <key>Send to Calculator</key>
@@ -274,12 +172,18 @@
     <string>Shark Attack</string>
     <key>Show All Conversion Results</key>
     <string>Show All Conversion Results</string>
+    <key>Show Conversion</key>
+    <string>Show Conversion</string>
+    <key>Show Tape</key>
+    <string>Show Tape</string>
     <key>Sounds</key>
     <string>Sounds</string>
     <key>Standard</key>
     <string>Standard</string>
     <key>THEME PACKS</key>
     <string>THEME PACKS</string>
+    <key>Tape</key>
+    <string>Tape</string>
     <key>Tape Entry</key>
     <string>Tape Entry</string>
     <key>Theme Pack 1</key>
@@ -290,6 +194,8 @@
     <string>Themes</string>
     <key>Title</key>
     <string>Title</string>
+    <key>Type a unit...</key>
+    <string>Type a unit...</string>
     <key>Unit Conversions.</key>
     <string>Unit Conversions.</string>
     <key>Unlimited History Tape.</key>
@@ -308,52 +214,6 @@
     <string>Use Result</string>
     <key>Value</key>
     <string>Value</string>
-    <key>result</key>
-    <string>result</string>
-    <key>Attach Tape</key>
-    <string>Attach Tape</string>
-    <key>Basic</key>
-    <string>Basic</string>
-    <key>Checking for updated currency rates</key>
-    <string>Checking for updated currency rates</string>
-    <key>Conversion</key>
-    <string>Conversion</string>
-    <key>Copy Expression</key>
-    <string>Copy Expression</string>
-    <key>Could not fetch currency rates</key>
-    <string>Could not fetch currency rates</string>
-    <key>Delete</key>
-    <string>Delete</string>
-    <key>Detach Tape</key>
-    <string>Detach Tape</string>
-    <key>Email Tape</key>
-    <string>Email Tape</string>
-    <key>General</key>
-    <string>General</string>
-    <key>Hide Conversion</key>
-    <string>Hide Conversion</string>
-    <key>Hide Tape</key>
-    <string>Hide Tape</string>
-    <key>Last Updated: </key>
-    <string>Last Updated: </string>
-    <key>Main</key>
-    <string>Main</string>
-    <key>Please type your message above this line</key>
-    <string>Please type your message above this line</string>
-    <key>Remove All</key>
-    <string>Remove All</string>
-    <key>Scientific</key>
-    <string>Scientific</string>
-    <key>Select All</key>
-    <string>Select All</string>
-    <key>Show Conversion</key>
-    <string>Show Conversion</string>
-    <key>Show Tape</key>
-    <string>Show Tape</string>
-    <key>Tape</key>
-    <string>Tape</string>
-    <key>Type a unit...</key>
-    <string>Type a unit...</string>
     <key>Version</key>
     <string>Version</string>
     <key>View</key>
@@ -388,6 +248,8 @@
     <string>hide conversion</string>
     <key>hide tape</key>
     <string>hide tape</string>
+    <key>result</key>
+    <string>result</string>
     <key>saved expression</key>
     <string>saved expression</string>
     <key>saved result</key>
@@ -414,15 +276,5 @@
     <string>unfavorite expression</string>
     <key>unknown</key>
     <string>unknown</string>
-    <key>Large Type</key>
-    <string>Large Type</string>
-    <key>Tap on the current category icon to quickly enable/disable units.</key>
-    <string>Tap on the current category icon to quickly enable/disable units.</string>
-    <key>Pull down on the display to reveal the history tape.</key>
-    <string>Pull down on the display to reveal the history tape.</string>
-    <key>Hold down the delete key to clear the expression.</key>
-    <string>Hold down the delete key to clear the expression.</string>
-    <key>Swipe right across the display to access conversion mode.</key>
-    <string>Swipe right across the display to access conversion mode.</string>
   </dict>
 </plist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Pi</key>
+    <string>Pi</string>
+    <key>Planck</key>
+    <string>Planck</string>
+    <key>Nuclear Magneton</key>
+    <string>Nuclear Magneton</string>
+    <key>Bohr Magneton</key>
+    <string>Bohr Magneton</string>
+    <key>Fine-Structure Constant</key>
+    <string>Fine-Structure Constant</string>
+    <key>Classical Electron Radius</key>
+    <string>Classical Electron Radius</string>
+    <key>Compton Wavelength</key>
+    <string>Compton Wavelength</string>
+    <key>Proton Gyromagnetic Ratio</key>
+    <string>Proton Gyromagnetic Ratio</string>
+    <key>Proton Compton Wavelength</key>
+    <string>Proton Compton Wavelength</string>
+    <key>Neutron Compton Wavelength</key>
+    <string>Neutron Compton Wavelength</string>
+    <key>Rydberg Constant</key>
+    <string>Rydberg Constant</string>
+    <key>Proton Magnetic Moment</key>
+    <string>Proton Magnetic Moment</string>
+    <key>Electron Magnetic Moment</key>
+    <string>Electron Magnetic Moment</string>
+    <key>Neutron Magnetic Moment</key>
+    <string>Neutron Magnetic Moment</string>
+    <key>Muon Magnetic Moment</key>
+    <string>Muon Magnetic Moment</string>
+    <key>First Radiation Constant</key>
+    <string>First Radiation Constant</string>
+    <key>Second Radiation Constant</key>
+    <string>Second Radiation Constant</string>
+    <key>Electric Constant</key>
+    <string>Electric Constant</string>
+    <key>Magnetic Constant</key>
+    <string>Magnetic Constant</string>
+    <key>Magnetic Flux Quantum</key>
+    <string>Magnetic Flux Quantum</string>
+    <key>Standard Acceleration of Gravity</key>
+    <string>Standard Acceleration of Gravity</string>
+    <key>Standard Atmosphere</key>
+    <string>Standard Atmosphere</string>
+    <key>Conductance Quantum</key>
+    <string>Conductance Quantum</string>
+    <key>Characteristic Impedance of Vacuum</key>
+    <string>Characteristic Impedance of Vacuum</string>
+  </dict>
+</plist>

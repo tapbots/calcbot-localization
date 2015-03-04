@@ -2,7 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <array>
-    <string>OK</string>
-    <string>To</string>
+    <string>Pica</string>
+    <string>Cicero</string>
+    <string>歯 (H)</string>
+    <string>級 (Q)</string>
   </array>
 </plist>

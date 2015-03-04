@@ -30,6 +30,8 @@
     <string>1 Sekunde</string>
     <key>About</key>
     <string>Über</string>
+    <key>Calcbot Preferences</key>
+    <string>Calcbot Einstellungen</string>
     <key>Cancel</key>
     <string>Abbrechen</string>
     <key>Cancelled</key>
@@ -84,7 +86,5 @@ Paul programmiert in Texas und Mark designed in Kalifornien.</string>
     <string>Mit welchem Account möchten Sie %@ folgen?</string>
     <key>Yesterday at %@</key>
     <string>Gestern um %@</string>
-    <key>Calcbot Preferences</key>
-    <string>Calcbot Einstellungen</string>
   </dict>
 </plist>
