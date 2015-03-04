@@ -8,12 +8,17 @@ We are testing this new process with **German** conversion only at the moment. W
 There's 4 types of files
 
 * **\*.strings**: The various localizable strings in XML plist format
-* **Localizable.stringsComments**: Mostly the same strings as above, but with comments, don't edit these directly, they are just for reference for some of the weirder strings
-* **Localizable.stringsIgnore**: A list of strings that don't need to be localized for this language
-* **Missing.plist**: Contains only the strings that are currently not localized and not in the .stringsIgnore file
+* **\*.stringsMissing**: Contains only the strings that are currently not localized and not in the .stringsIgnore file
+* **\*.stringsIgnore**: A list of strings that don't need to be localized for this language
+* **\*.stringsComments**: Mostly the same strings as above, but with comments, don't edit these directly, they are just for reference for some of the weirder strings
 
-You should either edit the **\*.strings** file directly or the **Missing.plist** file, but not both. I have scripts that'll fill in/remove details from the files as needed. Assuming this works, I'll clean up their ugly code and upload them with instructions.
+You can edit the **\*.strings** or the **\*.stringsMissing** files. If a string shouldn't be localized please add it to the **\*.stringsIgnore**.
 
-I'd highly recommend using Xcode to edit these or if not at least run a plutil -lint on any modified files to make sure they are formatted properly.
+Once you are done editing a file, run the **UpdateStrings.rb** script in tools
+> ./tools/UpdateStrings.rb de.lproj
+
+This will remove/add any strings to the **\*.stringsMissing** files as well as verify that the files are properly formatted.
+
+I'd highly recommend using Xcode to edit these and not doing too many files per pull request, will just make everything easier.
 
 Thanks in advance!
