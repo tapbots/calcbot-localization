@@ -3,21 +3,21 @@
 <plist version="1.0">
   <dict>
     <key>Golden Ratio</key>
-    <string>Golden Ratio</string>
+    <string>Goldener Schnitt</string>
     <key>Pi</key>
     <string>Pi</string>
     <key>Euler’s Number</key>
-    <string>Euler’s Number</string>
+    <string>Eulersche Zahl</string>
     <key>Proton Mass</key>
-    <string>Proton Mass</string>
+    <string>Protonen Masse</string>
     <key>Neutron Mass</key>
-    <string>Neutron Mass</string>
+    <string>Neutronen Masse</string>
     <key>Electron Mass</key>
-    <string>Electron Mass</string>
+    <string>Electronen Masse</string>
     <key>Muon Mass</key>
-    <string>Muon Mass</string>
+    <string>Muon Masse</string>
     <key>Bohr Radius</key>
-    <string>Bohr Radius</string>
+    <string>Bohrscher Radius</string>
     <key>Planck</key>
     <string>Planck</string>
     <key>Nuclear Magneton</key>
@@ -39,7 +39,7 @@
     <key>Rydberg Constant</key>
     <string>Rydberg Constant</string>
     <key>Atomic Mass</key>
-    <string>Atomic Mass</string>
+    <string>Atomare Masse</string>
     <key>Proton Magnetic Moment</key>
     <string>Proton Magnetic Moment</string>
     <key>Electron Magnetic Moment</key>
@@ -49,25 +49,25 @@
     <key>Muon Magnetic Moment</key>
     <string>Muon Magnetic Moment</string>
     <key>Faraday Constant</key>
-    <string>Faraday Constant</string>
+    <string>Faraday Konstante</string>
     <key>Elementary Charge</key>
-    <string>Elementary Charge</string>
+    <string>Elementare Ladung</string>
     <key>Avogadro Constant</key>
-    <string>Avogadro Constant</string>
+    <string>Avogadro Konstante</string>
     <key>Boltzmann Constant</key>
-    <string>Boltzmann Constant</string>
+    <string>Boltzmann Konstante</string>
     <key>Molar Volume of Ideal Gas</key>
-    <string>Molar Volume of Ideal Gas</string>
+    <string>Molares Volumen idealer Gase</string>
     <key>Molar Gas Constant</key>
-    <string>Molar Gas Constant</string>
+    <string>Molare Gas-Konstante</string>
     <key>Speed of Light</key>
-    <string>Speed of Light</string>
+    <string>Lichtgeschwindigkeit</string>
     <key>First Radiation Constant</key>
     <string>First Radiation Constant</string>
     <key>Second Radiation Constant</key>
     <string>Second Radiation Constant</string>
     <key>Stefan-Boltzmann Constant</key>
-    <string>Stefan-Boltzmann Constant</string>
+    <string>Stefan-Boltzmann Konstante</string>
     <key>Electric Constant</key>
     <string>Electric Constant</string>
     <key>Magnetic Constant</key>
@@ -83,8 +83,8 @@
     <key>Characteristic Impedance of Vacuum</key>
     <string>Characteristic Impedance of Vacuum</string>
     <key>Celsius Temperature</key>
-    <string>Celsius Temperature</string>
+    <string>Temperatur in Celsius</string>
     <key>Newtonian Constant of Gravitation</key>
-    <string>Newtonian Constant of Gravitation</string>
+    <string>Newtonsche Gravitationskonstante</string>
   </dict>
 </plist>

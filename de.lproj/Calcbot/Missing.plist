@@ -2,22 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>Golden Ratio</key>
-    <string>Goldener Schnitt</string>
     <key>Pi</key>
     <string>Pi</string>
-    <key>Euler’s Number</key>
-    <string>Eulersche Zahl</string>
-    <key>Proton Mass</key>
-    <string>Protonen Masse</string>
-    <key>Neutron Mass</key>
-    <string>Neutronen Masse</string>
-    <key>Electron Mass</key>
-    <string>Electronen Masse</string>
-    <key>Muon Mass</key>
-    <string>Muon Masse</string>
-    <key>Bohr Radius</key>
-    <string>Bohrscher Radius</string>
     <key>Planck</key>
     <string>Planck</string>
     <key>Nuclear Magneton</key>
@@ -38,8 +24,6 @@
     <string>Neutron Compton Wavelength</string>
     <key>Rydberg Constant</key>
     <string>Rydberg Constant</string>
-    <key>Atomic Mass</key>
-    <string>Atomare Masse</string>
     <key>Proton Magnetic Moment</key>
     <string>Proton Magnetic Moment</string>
     <key>Electron Magnetic Moment</key>
@@ -48,26 +32,10 @@
     <string>Neutron Magnetic Moment</string>
     <key>Muon Magnetic Moment</key>
     <string>Muon Magnetic Moment</string>
-    <key>Faraday Constant</key>
-    <string>Faraday Konstante</string>
-    <key>Elementary Charge</key>
-    <string>Elementare Ladung</string>
-    <key>Avogadro Constant</key>
-    <string>Avogadro Konstante</string>
-    <key>Boltzmann Constant</key>
-    <string>Boltzmann Konstante</string>
-    <key>Molar Volume of Ideal Gas</key>
-    <string>Molares Volumen idealer Gase</string>
-    <key>Molar Gas Constant</key>
-    <string>Molare Gas-Konstante</string>
-    <key>Speed of Light</key>
-    <string>Lichtgeschwindigkeit</string>
     <key>First Radiation Constant</key>
     <string>First Radiation Constant</string>
     <key>Second Radiation Constant</key>
     <string>Second Radiation Constant</string>
-    <key>Stefan-Boltzmann Constant</key>
-    <string>Stefan-Boltzmann Konstante</string>
     <key>Electric Constant</key>
     <string>Electric Constant</string>
     <key>Magnetic Constant</key>
@@ -82,30 +50,10 @@
     <string>Conductance Quantum</string>
     <key>Characteristic Impedance of Vacuum</key>
     <string>Characteristic Impedance of Vacuum</string>
-    <key>Celsius Temperature</key>
-    <string>Temperatur in Celsius</string>
-    <key>Newtonian Constant of Gravitation</key>
-    <string>Newtonsche Gravitationskonstante</string>
     <key>Costa Rican Colón</key>
     <string>Costa Rican Colón</string>
     <key>Pa’anga</key>
     <string>Pa’anga</string>
-    <key>Kilobits/Sec. (SI)</key>
-    <string>Kilobits/Sek. (SI)</string>
-    <key>Kilobytes/Sec. (SI)</key>
-    <string>Kilobytes/Sek. (SI)</string>
-    <key>Megabits/Sec. (SI)</key>
-    <string>Megabits/Sek. (SI)</string>
-    <key>Megabytes/Sec. (SI)</key>
-    <string>Megabytes/Sek. (SI)</string>
-    <key>Gigabits/Sec. (SI)</key>
-    <string>Gigabits/Sek. (SI)</string>
-    <key>Gigabytes/Sec. (SI)</key>
-    <string>Gigabytes/Sek. (SI)</string>
-    <key>Terabits/Sec. (SI)</key>
-    <string>Terabits/Sek. (SI)</string>
-    <key>Terabytes/Sec. (SI)</key>
-    <string>Terabytes/Sek. (SI)</string>
     <key>Kilobit (SI)</key>
     <string>Kilobit (SI)</string>
     <key>Kilobyte (SI)</key>
@@ -136,34 +84,12 @@
     <string>10 to the power of</string>
     <key>2 to the power of</key>
     <string>2 to the power of</string>
-    <key>Error</key>
-    <string>Fehler</string>
     <key>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</key>
     <string>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</string>
     <key>add</key>
     <string>add</string>
     <key>alternate functions</key>
     <string>alternate functions</string>
-    <key>clear</key>
-    <string>löschen</string>
-    <key>close parenthesis</key>
-    <string>Klammern schließen</string>
-    <key>constants</key>
-    <string>Konstanten</string>
-    <key>cosine</key>
-    <string>Cosinus</string>
-    <key>cube</key>
-    <string>Quadrat</string>
-    <key>cube root</key>
-    <string>Quadratwurzel</string>
-    <key>decimal</key>
-    <string>Dezimal</string>
-    <key>degrees</key>
-    <string>Grad</string>
-    <key>delete</key>
-    <string>Löschen</string>
-    <key>divide</key>
-    <string>teilen</string>
     <key>ee engineering exponent</key>
     <string>ee engineering exponent</string>
     <key>equal</key>
@@ -172,54 +98,18 @@
     <string>exponential</string>
     <key>factorial</key>
     <string>factorial</string>
-    <key>favorites</key>
-    <string>Favoriten</string>
-    <key>hyperbolic cosine</key>
-    <string>hyperbolischer Cosinus</string>
-    <key>hyperbolic sine</key>
-    <string>hyperbolischer Sinus</string>
-    <key>hyperbolic tangent</key>
-    <string>hyperbolische Tangente</string>
-    <key>inverse cosine</key>
-    <string>inverser Cosinus</string>
-    <key>inverse hyperbolic cosine</key>
-    <string>inverser hyperbolischer Cosinus</string>
-    <key>inverse hyperbolic sine</key>
-    <string>inverser hyperbolischer Sinus</string>
-    <key>inverse hyperbolic tangent</key>
-    <string>inverse hyperbolische Tangente</string>
-    <key>inverse sine</key>
-    <string>inverser Sinus</string>
-    <key>inverse tangent</key>
-    <string>inverse Tangente</string>
     <key>log base 10</key>
     <string>log base 10</string>
     <key>log base 2</key>
     <string>log base 2</string>
-    <key>logarithm</key>
-    <string>Logarithmus</string>
-    <key>multiply</key>
-    <string>multiplizieren</string>
-    <key>natural log</key>
-    <string>natürlicher Logarithmus</string>
-    <key>open parenthesis</key>
-    <string>offene Klammer</string>
-    <key>percent</key>
-    <string>Prozent</string>
-    <key>plus, minus</key>
-    <string>Plus, Minus</string>
     <key>power</key>
     <string>power</string>
     <key>radians</key>
     <string>radians</string>
-    <key>random</key>
-    <string>Zufällig</string>
     <key>reciprocal</key>
     <string>reciprocal</string>
     <key>reeverse power</key>
     <string>reeverse power</string>
-    <key>root</key>
-    <string>Wurzel</string>
     <key>round</key>
     <string>round</string>
     <key>sine</key>
@@ -470,8 +360,6 @@
     <string>Hide Conversion</string>
     <key>Hide Tape</key>
     <string>Hide Tape</string>
-    <key>Large Type</key>
-    <string>Large Type</string>
     <key>Last Updated: </key>
     <string>Last Updated: </string>
     <key>Main</key>
@@ -552,6 +440,8 @@
     <string>unfavorite expression</string>
     <key>unknown</key>
     <string>unknown</string>
+    <key>Large Type</key>
+    <string>Large Type</string>
     <key>Tap on the current category icon to quickly enable/disable units.</key>
     <string>Tap on the current category icon to quickly enable/disable units.</string>
     <key>Pull down on the display to reveal the history tape.</key>

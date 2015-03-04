@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>%@ ago</key>
-    <string>vor %@</string>
+    <string>%@ ago</string>
     <key>About Tapbots</key>
-    <string>Über Tapbots</string>
+    <string>About Tapbots</string>
     <key>Access to the special pro theme.</key>
     <string>Access to the special pro theme.</string>
     <key>Add New</key>
-    <string>Hinzufügen</string>
+    <string>Add New</string>
     <key>Add your own values and labels to the constants menu.</key>
     <string>Add your own values and labels to the constants menu.</string>
     <key>COMPANY</key>
@@ -21,99 +21,99 @@
     <key>Calcbot Calculations</key>
     <string>Calcbot Calculations</string>
     <key>Categories</key>
-    <string>Kategorien</string>
+    <string>Categories</string>
     <key>Categories and Units</key>
-    <string>Kategorien und Einheiten</string>
+    <string>Categories and Units</string>
     <key>Category</key>
-    <string>Kategorie</string>
+    <string>Category</string>
     <key>Clear Favorites</key>
-    <string>Favoriten löschen</string>
+    <string>Clear Favorites</string>
     <key>Clear Tape</key>
     <string>Clear Tape</string>
     <key>Close</key>
-    <string>Schließen</string>
+    <string>Close</string>
     <key>Constants</key>
-    <string>Konstanten</string>
+    <string>Constants</string>
     <key>Contact Us</key>
     <string>Contact Us</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
     <string>Convert with over 200 units across 20 conversion categories.</string>
     <key>Copy</key>
-    <string>Kopieren</string>
+    <string>Copy</string>
     <key>Copy Result</key>
-    <string>Ergebnis kopieren</string>
+    <string>Copy Result</string>
     <key>Custom Constants.</key>
     <string>Custom Constants.</string>
     <key>DEFAULT</key>
-    <string>STANDARD</string>
+    <string>DEFAULT</string>
     <key>Dark Ninja</key>
     <string>Dark Ninja</string>
     <key>Disable All</key>
     <string>Disable All</string>
     <key>Edit Units</key>
-    <string>Einheiten bearbeiten</string>
+    <string>Edit Units</string>
     <key>Enable All</key>
     <string>Enable All</string>
     <key>Enable constants in the settings.</key>
-    <string>Aktiviere Konstanten in den Einstellungen.</string>
+    <string>Enable constants in the settings.</string>
     <key>Enter a Calculation to Save it Here.</key>
-    <string>Gebe eine Rechenaufgabe ein um sie hier zu speichern.</string>
+    <string>Enter a Calculation to Save it Here.</string>
     <key>Failed to Restore Purchases</key>
-    <string>Wiederherstellen der Käufe fehlgeschlagen</string>
+    <string>Failed to Restore Purchases</string>
     <key>Fav an item in the history tape for quick access here.</key>
     <string>Fav an item in the history tape for quick access here.</string>
     <key>Fave a Calculation to Show it Here.</key>
     <string>Fave a Calculation to Show it Here.</string>
     <key>Favorites</key>
-    <string>Favoriten</string>
+    <string>Favorites</string>
     <key>From</key>
-    <string>Von</string>
+    <string>From</string>
     <key>GENERAL</key>
-    <string>ALLGEMEIN</string>
+    <string>GENERAL</string>
     <key>History</key>
-    <string>Verlauf</string>
+    <string>History</string>
     <key>Last updated: %@</key>
-    <string>Zuletzt geändert: %@</string>
+    <string>Last updated: %@</string>
     <key>Learn More</key>
-    <string>Erfahre mehr</string>
+    <string>Learn More</string>
     <key>Light Ninja</key>
     <string>Light Ninja</string>
     <key>Loading…</key>
     <string>Loading…</string>
     <key>MY CONSTANTS</key>
-    <string>MEINE KONSTANTEN</string>
+    <string>MY CONSTANTS</string>
     <key>MY THEMES</key>
-    <string>MEINE THEMES</string>
+    <string>MY THEMES</string>
     <key>Mark’s Office</key>
     <string>Mark’s Office</string>
     <key>Melancholy</key>
-    <string>Melancholie</string>
+    <string>Melancholy</string>
     <key>Memories</key>
-    <string>Erinnerungen</string>
+    <string>Memories</string>
     <key>My Constant</key>
-    <string>Meine Konstante</string>
+    <string>My Constant</string>
     <key>Never</key>
-    <string>Nie</string>
+    <string>Never</string>
     <key>Number from Calcbot</key>
     <string>Number from Calcbot</string>
     <key>Options</key>
-    <string>Optionen</string>
+    <string>Options</string>
     <key>Otaku</key>
     <string>Otaku</string>
     <key>PRO</key>
     <string>PRO</string>
     <key>Paste (%@)</key>
-    <string>Füge (%@) ein</string>
+    <string>Paste (%@)</string>
     <key>Please enter a valid constant.</key>
-    <string>Bitte gebe eine gültige Konstante ein.</string>
+    <string>Please enter a valid constant.</string>
     <key>Please try again later</key>
-    <string>Bitte versuche es später wieder</string>
+    <string>Please try again later</string>
     <key>Pro</key>
     <string>Pro</string>
     <key>Pro Theme.</key>
     <string>Pro Theme.</string>
     <key>Purchase for %@</key>
-    <string>Für %@ kaufen</string>
+    <string>Purchase for %@</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>
     <string>Purchase this theme pack and get the following %@ themes:</string>
     <key>Remove the 10 record limit and never lose a calculation again.</key>
@@ -125,21 +125,21 @@
     <key>Round for Currency</key>
     <string>Round for Currency</string>
     <key>Save</key>
-    <string>Speichern</string>
+    <string>Save</string>
     <key>Send Tape as Email</key>
     <string>Send Tape as Email</string>
     <key>Send as Email</key>
-    <string>Als E-Mail senden</string>
+    <string>Send as Email</string>
     <key>Send to Calculator</key>
     <string>Send to Calculator</string>
     <key>Settings</key>
-    <string>Einstellungen</string>
+    <string>Settings</string>
     <key>Shark Attack</key>
-    <string>Haiangriff</string>
+    <string>Shark Attack</string>
     <key>Show All Conversion Results</key>
     <string>Show All Conversion Results</string>
     <key>Sounds</key>
-    <string>Töne</string>
+    <string>Sounds</string>
     <key>Standard</key>
     <string>Standard</string>
     <key>THEME PACKS</key>
@@ -153,7 +153,7 @@
     <key>Themes</key>
     <string>Themes</string>
     <key>Title</key>
-    <string>Titel</string>
+    <string>Title</string>
     <key>Unit Conversions.</key>
     <string>Unit Conversions.</string>
     <key>Unlimited History Tape.</key>
@@ -171,9 +171,9 @@
     <key>Use Result</key>
     <string>Use Result</string>
     <key>Value</key>
-    <string>Wert</string>
+    <string>Value</string>
     <key>result</key>
-    <string>ergebnis</string>
+    <string>result</string>
     <key>Attach Tape</key>
     <string>Attach Tape</string>
     <key>Basic</key>
@@ -187,13 +187,13 @@
     <key>Could not fetch currency rates</key>
     <string>Could not fetch currency rates</string>
     <key>Delete</key>
-    <string>Löschen</string>
+    <string>Delete</string>
     <key>Detach Tape</key>
     <string>Detach Tape</string>
     <key>Email Tape</key>
     <string>Email Tape</string>
     <key>General</key>
-    <string>Allgemein</string>
+    <string>General</string>
     <key>Hide Conversion</key>
     <string>Hide Conversion</string>
     <key>Hide Tape</key>
@@ -201,7 +201,7 @@
     <key>Große Schrift</key>
     <string>Large Type</string>
     <key>Last Updated: </key>
-    <string>Zuletzt geändert: </string>
+    <string>Last Updated: </string>
     <key>Main</key>
     <string>Main</string>
     <key>Please type your message above this line</key>
@@ -211,7 +211,7 @@
     <key>Scientific</key>
     <string>Scientific</string>
     <key>Select All</key>
-    <string>Alles auswählen</string>
+    <string>Select All</string>
     <key>Show Conversion</key>
     <string>Show Conversion</string>
     <key>Show Tape</key>
@@ -279,7 +279,7 @@
     <key>unfavorite expression</key>
     <string>unfavorite expression</string>
     <key>unknown</key>
-    <string>unbekannt</string>
+    <string>unknown</string>
     <key>Large Type</key>
     <string>Large Type</string>
   </dict>
