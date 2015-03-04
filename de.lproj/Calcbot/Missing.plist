@@ -50,8 +50,6 @@
     <string>Conductance Quantum</string>
     <key>Characteristic Impedance of Vacuum</key>
     <string>Characteristic Impedance of Vacuum</string>
-    <key>Costa Rican Colón</key>
-    <string>Costa Rican Colón</string>
     <key>Pa’anga</key>
     <string>Pa’anga</string>
     <key>Kilobit (SI)</key>
@@ -74,12 +72,6 @@
     <string>Petabit (SI)</string>
     <key>Petabyte (SI)</key>
     <string>Petabyte (SI)</string>
-    <key>Pound/Gallon (Imperial)</key>
-    <string>Pound/Gallon (Imperial)</string>
-    <key>Gallons/100 Miles UK</key>
-    <string>Gallons/100 Miles UK</string>
-    <key>Miles/Gallon UK</key>
-    <string>Miles/Gallon UK</string>
     <key>10 to the power of</key>
     <string>10 to the power of</string>
     <key>2 to the power of</key>
@@ -122,6 +114,8 @@
     <string>subtract</string>
     <key>tangent</key>
     <string>tangent</string>
+    <key>Atto</key>
+    <string>Atto</string>
     <key>Pixel (300 dpi)</key>
     <string>Pixel (300 dpi)</string>
     <key>Pixel (150 dpi)</key>
@@ -130,28 +124,12 @@
     <string>Pixel (96 dpi)</string>
     <key>Pixel (72 dpi)</key>
     <string>Pixel (72 dpi)</string>
-    <key>Drop (Imperial)</key>
-    <string>Drop (Imperial)</string>
     <key>Dash (Imperial)</key>
     <string>Dash (Imperial)</string>
     <key>Pinch (Imperial)</key>
     <string>Pinch (Imperial)</string>
-    <key>Teaspoon (Metric)</key>
-    <string>Teaspoon (Metric)</string>
-    <key>Teaspoon (Imperial)</key>
-    <string>Teaspoon (Imperial)</string>
-    <key>Tablespoon (Metric)</key>
-    <string>Tablespoon (Metric)</string>
-    <key>Tablespoon (Imperial)</key>
-    <string>Tablespoon (Imperial)</string>
-    <key>Ounce (Imperial)</key>
-    <string>Ounce (Imperial)</string>
     <key>Gill (Imperial)</key>
     <string>Gill (Imperial)</string>
-    <key>Cup (Metric)</key>
-    <string>Cup (Metric)</string>
-    <key>Cup (Imperial)</key>
-    <string>Cup (Imperial)</string>
     <key>Pint (Imperial)</key>
     <string>Pint (Imperial)</string>
     <key>Quart (Imperial)</key>
@@ -160,10 +138,6 @@
     <string>Gallon (Imperial)</string>
     <key>Beer Barrel (Imperial)</key>
     <string>Beer Barrel (Imperial)</string>
-    <key>Gallon/Day (Imperial)</key>
-    <string>Gallon/Day (Imperial)</string>
-    <key>Gallon/Min. (Imperial)</key>
-    <string>Gallon/Min. (Imperial)</string>
     <key>Gallon/Sec. (Imperial)</key>
     <string>Gallon/Sec. (Imperial)</string>
     <key>%@ ago</key>
