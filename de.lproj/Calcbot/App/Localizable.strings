@@ -57,7 +57,7 @@
     <key>Enable constants in the settings.</key>
     <string>Aktiviere Konstanten in den Einstellungen.</string>
     <key>Enter a Calculation to Save it Here.</key>
-    <string>Enter a Calculation to Save it Here.</string>
+    <string>Gebe eine Rechenaufgabe ein um sie hier zu speichern.</string>
     <key>Failed to Restore Purchases</key>
     <string>Wiederherstellen der Käufe fehlgeschlagen</string>
     <key>Fav an item in the history tape for quick access here.</key>
@@ -75,7 +75,7 @@
     <key>Last updated: %@</key>
     <string>Zuletzt geändert: %@</string>
     <key>Learn More</key>
-    <string>Learn More</string>
+    <string>Erfahre mehr</string>
     <key>Light Ninja</key>
     <string>Light Ninja</string>
     <key>Loading…</key>
@@ -83,13 +83,13 @@
     <key>MY CONSTANTS</key>
     <string>MEINE KONSTANTEN</string>
     <key>MY THEMES</key>
-    <string>MY THEMES</string>
+    <string>MEINE THEMES</string>
     <key>Mark’s Office</key>
     <string>Mark’s Office</string>
     <key>Melancholy</key>
     <string>Melancholie</string>
     <key>Memories</key>
-    <string>Memories</string>
+    <string>Erinnerungen</string>
     <key>My Constant</key>
     <string>Meine Konstante</string>
     <key>Never</key>
@@ -105,9 +105,9 @@
     <key>Paste (%@)</key>
     <string>Füge (%@) ein</string>
     <key>Please enter a valid constant.</key>
-    <string>Please enter a valid constant.</string>
+    <string>Bitte gebe eine gültige Konstante ein.</string>
     <key>Please try again later</key>
-    <string>Please try again later</string>
+    <string>Bitte versuche es später wieder</string>
     <key>Pro</key>
     <string>Pro</string>
     <key>Pro Theme.</key>
