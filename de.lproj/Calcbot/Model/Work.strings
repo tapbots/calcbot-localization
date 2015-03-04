@@ -17,18 +17,18 @@
     <key>Calorie</key>
     <string>Kalorie</string>
     <key>Watt Hour</key>
-    <string>Watt Stunde</string>
+    <string>Wattstunde</string>
     <key>Kilogram Calorie</key>
     <string>Kilogrammkalorie</string>
     <key>Kilowatt Hour</key>
-    <string>Kilowatt Stunde</string>
+    <string>Kilowattstunde</string>
     <key>Megawatt Hour</key>
-    <string>Megawatt Stunde</string>
+    <string>Megawattstunde</string>
     <key>Tonne of Coal</key>
     <string>Tonnen Kohle</string>
     <key>Tonne of Oil</key>
     <string>Tonnen Öl</string>
     <key>Gigawatt Hour</key>
-    <string>Gigawatt Stunde</string>
+    <string>Gigawattstunde</string>
   </dict>
 </plist>
