@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>%@d</key>
-    <string>%@d</string>
-    <key>%d days</key>
-    <string>%d days</string>
-    <key>%d hours</key>
-    <string>%d hours</string>
-    <key>%d minutes</key>
-    <string>%d minutes</string>
-    <key>%d seconds</key>
-    <string>%d seconds</string>
-    <key>%dd</key>
-    <string>%dd</string>
-    <key>%dh</key>
-    <string>%dh</string>
-    <key>%dm</key>
-    <string>%dm</string>
-    <key>%ds</key>
-    <string>%ds</string>
-    <key>1 day</key>
-    <string>1 day</string>
-    <key>1 hour</key>
-    <string>1 hour</string>
-    <key>1 minute</key>
-    <string>1 minute</string>
-    <key>1 second</key>
-    <string>1 second</string>
-    <key>About</key>
-    <string>About</string>
-    <key>Cancel</key>
-    <string>Cancel</string>
-    <key>Cancelled</key>
-    <string>Cancelled</string>
-    <key>Close</key>
-    <string>Close</string>
-    <key>Couldn’t parse JSON data.</key>
-    <string>Couldn’t parse JSON data.</string>
-    <key>Dumb Quotes</key>
-    <string>Dumb Quotes</string>
-    <key>FOLLOW US ON TWITTER</key>
-    <string>FOLLOW US ON TWITTER</string>
-    <key>Invalid Data</key>
-    <string>Invalid Data</string>
-    <key>Leave %@?</key>
-    <string>Leave %@?</string>
-    <key>Network Connection Busy</key>
-    <string>Network Connection Busy</string>
-    <key>Now</key>
-    <string>Now</string>
-    <key>OFF</key>
-    <string>OFF</string>
-    <key>ON</key>
-    <string>ON</string>
-    <key>OTHER APPS</key>
-    <string>OTHER APPS</string>
-    <key>Open</key>
-    <string>Open</string>
-    <key>Over 1 year</key>
-    <string>Over 1 year</string>
-    <key>Please try again later.</key>
-    <string>Please try again later.</string>
-    <key>Privacy Policy</key>
-    <string>Privacy Policy</string>
-    <key>Request Timed Out</key>
-    <string>Request Timed Out</string>
-    <key>Review %@ on iTunes</key>
-    <string>Review %@ on iTunes</string>
-    <key>Smart Quotes</key>
-    <string>Smart Quotes</string>
-    <key>The link is requesting to open an external application. Would you like to continue?</key>
-    <string>The link is requesting to open an external application. Would you like to continue?</string>
-    <key>Today at %@</key>
-    <string>Today at %@</string>
-    <key>Unknown Error.</key>
-    <string>Unknown Error.</string>
-    <key>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
+<dict>
+	<key>%@d</key>
+	<string>%@d</string>
+	<key>%d days</key>
+	<string>%d Tage</string>
+	<key>%d hours</key>
+	<string>%d Stunden</string>
+	<key>%d minutes</key>
+	<string>%d Minuten</string>
+	<key>%d seconds</key>
+	<string>%d Sekunden</string>
+	<key>%dd</key>
+	<string>%dd</string>
+	<key>%dh</key>
+	<string>%dh</string>
+	<key>%dm</key>
+	<string>%dm</string>
+	<key>%ds</key>
+	<string>%ds</string>
+	<key>1 day</key>
+	<string>1 Tag</string>
+	<key>1 hour</key>
+	<string>1 Stunde</string>
+	<key>1 minute</key>
+	<string>1 Minute</string>
+	<key>1 second</key>
+	<string>1 Sekunde</string>
+	<key>About</key>
+	<string>Über</string>
+	<key>Cancel</key>
+	<string>Abbrechen</string>
+	<key>Cancelled</key>
+	<string>Abgebrochen</string>
+	<key>Close</key>
+	<string>Schließen</string>
+	<key>Couldn’t parse JSON data.</key>
+	<string>JSON Daten konnten nicht analysiert werden.</string>
+	<key>Dumb Quotes</key>
+	<string>Dumb Quotes</string>
+	<key>FOLLOW US ON TWITTER</key>
+	<string>FOLGE UNS AUF TWITTER</string>
+	<key>Invalid Data</key>
+	<string>Ungültige Daten</string>
+	<key>Leave %@?</key>
+	<string>%@ verlassen?</string>
+	<key>Network Connection Busy</key>
+	<string>Netzwerkverbindung besetzt</string>
+	<key>Now</key>
+	<string>Jetzt</string>
+	<key>OFF</key>
+	<string>AUS</string>
+	<key>ON</key>
+	<string>AN</string>
+	<key>OTHER APPS</key>
+	<string>ANDERE APPS</string>
+	<key>Open</key>
+	<string>Öffnen</string>
+	<key>Over 1 year</key>
+	<string>Über 1 Jahr</string>
+	<key>Please try again later.</key>
+	<string>Versuchen Sie es bitte später.</string>
+	<key>Privacy Policy</key>
+	<string>Datenschutzerklärung</string>
+	<key>Request Timed Out</key>
+	<string>Zeitüberschreitung der Anfrage </string>
+	<key>Review %@ on iTunes</key>
+	<string>Bewerte %@ auf iTunes</string>
+	<key>Smart Quotes</key>
+	<string>Smart Quotes</string>
+	<key>The link is requesting to open an external application. Would you like to continue?</key>
+	<string>Der Link möchte eine externe Anwendung öffnen. Möchten Sie fortfahren?</string>
+	<key>Today at %@</key>
+	<string>Heute um %@</string>
+	<key>Unknown Error.</key>
+	<string>Unbekannter Fehler.</string>
+	<key>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
 Paul codes in Texas and Mark designs in California.</key>
-    <string>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
-Paul codes in Texas and Mark designs in California.</string>
-    <key>Which account do you want to follow %@ with?</key>
-    <string>Which account do you want to follow %@ with?</string>
-    <key>Yesterday at %@</key>
-    <string>Yesterday at %@</string>
-    <key>Calcbot Preferences</key>
-    <string>Calcbot Preferences</string>
-  </dict>
+	<string>Wir sind ein kleines Zwei-Personen Unternehmen (manchmal drei), die es lieben, außergewöhnliche Anwendungen für iOS und den Mac zu entwickeln.
+Paul codet in Texas und Mark designt in Karlifornien.</string>
+	<key>Which account do you want to follow %@ with?</key>
+	<string>Mit welchem Account möchtest du %@ folgen?</string>
+	<key>Yesterday at %@</key>
+	<string>Gestern um %@</string>
+	<key>Calcbot Preferences</key>
+	<string>Calcbot Einstellungen</string>
+</dict>
 </plist>
