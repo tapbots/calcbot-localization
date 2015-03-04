@@ -3,88 +3,88 @@
 <plist version="1.0">
   <dict>
     <key>Golden Ratio</key>
-    <string>Golden Ratio</string>
+    <string>Goldener Schnitt</string>
     <key>Pi</key>
     <string>Pi</string>
     <key>Euler’s Number</key>
-    <string>Euler’s Number</string>
+    <string>Eulersche Zahl</string>
     <key>Proton Mass</key>
-    <string>Proton Mass</string>
+    <string>Protonen Masse</string>
     <key>Neutron Mass</key>
-    <string>Neutron Mass</string>
+    <string>Neutronen Masse</string>
     <key>Electron Mass</key>
-    <string>Electron Mass</string>
+    <string>Elektronen Masse</string>
     <key>Muon Mass</key>
-    <string>Muon Mass</string>
+    <string>Myonen Masse</string>
     <key>Bohr Radius</key>
-    <string>Bohr Radius</string>
+    <string>Bohrscher Radius</string>
     <key>Planck</key>
-    <string>Planck</string>
+    <string>Plancksches Wirkungsquantum</string>
     <key>Nuclear Magneton</key>
-    <string>Nuclear Magneton</string>
+    <string>Kernmagneton</string>
     <key>Bohr Magneton</key>
-    <string>Bohr Magneton</string>
+    <string>Bohrsches Magneton</string>
     <key>Fine-Structure Constant</key>
-    <string>Fine-Structure Constant</string>
+    <string>Feinstrukturkonstante</string>
     <key>Classical Electron Radius</key>
-    <string>Classical Electron Radius</string>
+    <string>Klassischer Elektronen Radius</string>
     <key>Compton Wavelength</key>
-    <string>Compton Wavelength</string>
+    <string>Comptonsche Wellenlänge</string>
     <key>Proton Gyromagnetic Ratio</key>
-    <string>Proton Gyromagnetic Ratio</string>
+    <string>Gyromagnetisches Verhältnis des Protons</string>
     <key>Proton Compton Wavelength</key>
-    <string>Proton Compton Wavelength</string>
+    <string>Comptonsche Wellenlänbge des Protons</string>
     <key>Neutron Compton Wavelength</key>
-    <string>Neutron Compton Wavelength</string>
+    <string>Comptonsche Wellelänge des Neutrons</string>
     <key>Rydberg Constant</key>
-    <string>Rydberg Constant</string>
+    <string>Rydberg Konstante</string>
     <key>Atomic Mass</key>
-    <string>Atomic Mass</string>
+    <string>Atommasse</string>
     <key>Proton Magnetic Moment</key>
-    <string>Proton Magnetic Moment</string>
+    <string>Magnetisches Moment des Protons</string>
     <key>Electron Magnetic Moment</key>
-    <string>Electron Magnetic Moment</string>
+    <string>Magnetisches Moment des Elektrons</string>
     <key>Neutron Magnetic Moment</key>
-    <string>Neutron Magnetic Moment</string>
+    <string>Magnetisches Moment des Neutrons</string>
     <key>Muon Magnetic Moment</key>
-    <string>Muon Magnetic Moment</string>
+    <string>Magnetisches Moment des Myons</string>
     <key>Faraday Constant</key>
-    <string>Faraday Constant</string>
+    <string>Faraday Konstante</string>
     <key>Elementary Charge</key>
-    <string>Elementary Charge</string>
+    <string>Elementarladung</string>
     <key>Avogadro Constant</key>
-    <string>Avogadro Constant</string>
+    <string>Avogadro Konstante</string>
     <key>Boltzmann Constant</key>
-    <string>Boltzmann Constant</string>
+    <string>Boltzmann Konstante</string>
     <key>Molar Volume of Ideal Gas</key>
-    <string>Molar Volume of Ideal Gas</string>
+    <string>Molares Volumen eines idealen Gases</string>
     <key>Molar Gas Constant</key>
-    <string>Molar Gas Constant</string>
+    <string>Molare Gas Konstante</string>
     <key>Speed of Light</key>
-    <string>Speed of Light</string>
+    <string>Lichtgeschwindigkeit</string>
     <key>First Radiation Constant</key>
-    <string>First Radiation Constant</string>
+    <string>Erste strahlungskonstante</string>
     <key>Second Radiation Constant</key>
-    <string>Second Radiation Constant</string>
+    <string>Zweite Strahlungskonstante</string>
     <key>Stefan-Boltzmann Constant</key>
-    <string>Stefan-Boltzmann Constant</string>
+    <string>Stefan-Boltzmann Konstante</string>
     <key>Electric Constant</key>
-    <string>Electric Constant</string>
+    <string>Electrische Feldkonstante</string>
     <key>Magnetic Constant</key>
-    <string>Magnetic Constant</string>
+    <string>Magnetische Feldkonstante</string>
     <key>Magnetic Flux Quantum</key>
-    <string>Magnetic Flux Quantum</string>
+    <string>Magnetisches Flussquantum</string>
     <key>Standard Acceleration of Gravity</key>
-    <string>Standard Acceleration of Gravity</string>
+    <string>Standardbeschleunigung der Schwerkraft</string>
     <key>Standard Atmosphere</key>
-    <string>Standard Atmosphere</string>
+    <string>Standard Atmosphäre</string>
     <key>Conductance Quantum</key>
     <string>Conductance Quantum</string>
     <key>Characteristic Impedance of Vacuum</key>
-    <string>Characteristic Impedance of Vacuum</string>
+    <string>Characteristische Impedanz im Vakuum</string>
     <key>Celsius Temperature</key>
-    <string>Celsius Temperature</string>
+    <string>Celsius Temperatur</string>
     <key>Newtonian Constant of Gravitation</key>
-    <string>Newtonian Constant of Gravitation</string>
+    <string>Newtonsche Gravitationskonstante</string>
   </dict>
 </plist>
