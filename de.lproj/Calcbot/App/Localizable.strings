@@ -3,9 +3,9 @@
 <plist version="1.0">
   <dict>
     <key>%@ ago</key>
-    <string>%@ ago</string>
+    <string>vor %@</string>
     <key>About Tapbots</key>
-    <string>About Tapbots</string>
+    <string>Über Tapbots</string>
     <key>Access to the special pro theme.</key>
     <string>Access to the special pro theme.</string>
     <key>Add New</key>
@@ -21,29 +21,29 @@
     <key>Calcbot Calculations</key>
     <string>Calcbot Calculations</string>
     <key>Categories</key>
-    <string>Categories</string>
+    <string>Kategorien</string>
     <key>Categories and Units</key>
-    <string>Categories and Units</string>
+    <string>Kategorien und Einheiten</string>
     <key>Category</key>
-    <string>Category</string>
+    <string>Kategorie</string>
     <key>Clear Favorites</key>
-    <string>Clear Favorites</string>
+    <string>Favoriten löschen</string>
     <key>Clear Tape</key>
-    <string>Clear Tape</string>
+    <string>Band löschen</string>
     <key>Close</key>
-    <string>Close</string>
+    <string>Schließen</string>
     <key>Constants</key>
-    <string>Constants</string>
+    <string>Konstanten</string>
     <key>Contact Us</key>
     <string>Contact Us</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
     <string>Convert with over 200 units across 20 conversion categories.</string>
     <key>Copy</key>
-    <string>Copy</string>
+    <string>Kopieren</string>
     <key>Copy Result</key>
-    <string>Copy Result</string>
+    <string>Ergebnis kopieren</string>
     <key>Custom Constants.</key>
-    <string>Custom Constants.</string>
+    <string>Eigene Konstanten.</string>
     <key>DEFAULT</key>
     <string>DEFAULT</string>
     <key>Dark Ninja</key>
@@ -51,7 +51,7 @@
     <key>Disable All</key>
     <string>Disable All</string>
     <key>Edit Units</key>
-    <string>Edit Units</string>
+    <string>Einheiten bearbeiten</string>
     <key>Enable All</key>
     <string>Enable All</string>
     <key>Enable constants in the settings.</key>
@@ -65,13 +65,13 @@
     <key>Fave a Calculation to Show it Here.</key>
     <string>Fave a Calculation to Show it Here.</string>
     <key>Favorites</key>
-    <string>Favorites</string>
+    <string>Favoriten</string>
     <key>From</key>
     <string>From</string>
     <key>GENERAL</key>
     <string>GENERAL</string>
     <key>History</key>
-    <string>History</string>
+    <string>Verlauf</string>
     <key>Last updated: %@</key>
     <string>Last updated: %@</string>
     <key>Learn More</key>
@@ -79,7 +79,7 @@
     <key>Light Ninja</key>
     <string>Light Ninja</string>
     <key>Loading…</key>
-    <string>Loading…</string>
+    <string>Laden…</string>
     <key>MY CONSTANTS</key>
     <string>MY CONSTANTS</string>
     <key>MY THEMES</key>
@@ -93,7 +93,7 @@
     <key>My Constant</key>
     <string>My Constant</string>
     <key>Never</key>
-    <string>Never</string>
+    <string>Nie</string>
     <key>Number from Calcbot</key>
     <string>Number from Calcbot</string>
     <key>Options</key>
@@ -103,9 +103,9 @@
     <key>PRO</key>
     <string>PRO</string>
     <key>Paste (%@)</key>
-    <string>Paste (%@)</string>
+    <string>Einfügen (%@)</string>
     <key>Please enter a valid constant.</key>
-    <string>Please enter a valid constant.</string>
+    <string>Bitte eine gültige Konstante eingeben.</string>
     <key>Please try again later</key>
     <string>Please try again later</string>
     <key>Pro</key>
@@ -127,19 +127,19 @@
     <key>Save</key>
     <string>Save</string>
     <key>Send Tape as Email</key>
-    <string>Send Tape as Email</string>
+    <string>Band als Email senden</string>
     <key>Send as Email</key>
-    <string>Send as Email</string>
+    <string>Als Email senden</string>
     <key>Send to Calculator</key>
     <string>Send to Calculator</string>
     <key>Settings</key>
-    <string>Settings</string>
+    <string>Einstellungen</string>
     <key>Shark Attack</key>
     <string>Shark Attack</string>
     <key>Show All Conversion Results</key>
     <string>Show All Conversion Results</string>
     <key>Sounds</key>
-    <string>Sounds</string>
+    <string>Töne</string>
     <key>Standard</key>
     <string>Standard</string>
     <key>THEME PACKS</key>
