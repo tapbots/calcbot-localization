@@ -1,5 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array/>
+<array>
+<string>Ångström</string>
+<string>Acre</string>
+<string>BTU/Minute</string>
+<string>Balboa</string>
+<string>Barbados Dollar</string>
+<string>Becquerel</string>
+<string>Belize Dollar</string>
+<string>Bit</string>
+<string>Boliviano</string>
+<string>Brunei Dollar</string>
+<string>Byte</string>
+<string>CFA Franc (BEAC)</string>
+<string>CFA Franc (BCEAO)</string>
+<string>CFP Franc</string>
+<string>Celsius</string>
+<string>Centi</string>
+<string>Cicero</string>
+<string>Cup</string>
+<string>Curie</string>
+<string>BTU</string>
+<string>DEMO</string>
+<string>Dalasi</string>
+<string>Deka</string>
+<string>Dobra</string>
+<string>Dram</string>
+<string>E. Car. Dollar</string>
+<string>Exa</string>
+<string>Euro</string>
+<string>Fahrenheit</string>
+<string>Femto</string>
+<string>Forint</string>
+<string>Gigabit</string>
+<string>Gigabyte</string>
+<string>Giga</string>
+<string>Gigabecquerel</string>
+<string>Gigapascal</string>
+<string>Gill</string>
+<string>Guarani</string>
+<string>Guinea Franc</string>
+<string>Hand</string>
+<string>Haiti Gourde</string>
+<string>Hong Kong Dollar</string>
+<string>Hryvnia</string>
+<string>Joule</string>
+<string>Kelvin</string>
+<string>Kilobit</string>
+<string>Kilobyte</string>
+<string>Kilo</string>
+<string>Kilojoule</string>
+<string>Kilopascal</string>
+<string>Kilowatt</string>
+<string>Kina</string>
+<string>Kroon</string>
+<string>Kuwaiti Dinar</string>
+<string>Kwacha</string>
+<string>Lek</string>
+<string>Lempira</string>
+<string>Leone</string>
+<string>Lilangeni</string>
+<string>Loti</string>
+<string>Megabit</string>
+<string>Megabyte</string>
+<string>Mega</string>
+<string>Megabecquerel</string>
+<string>Megapascal</string>
+<string>Milli</string>
+<string>Millicurie</string>
+<string>Naira</string>
+<string>Nano</string>
+<string>Newton</string>
+<string>Ngultrum</string>
+<string>Nuevo Sol</string>
+<string>OK</string>
+<string>Ouguiya</string>
+<string>Pa&apos;anga</string>
+<string>Pascal</string>
+<string>Pataca</string>
+<string>Petabit</string>
+<string>Petabyte</string>
+<string>Peta</string>
+<string>Pica</string>
+<string>Pico</string>
+<string>Pint</string>
+<string>Pula</string>
+<string>Quart</string>
+<string>Quetzal</string>
+<string>Rankine</string>
+<string>Renminbi</string>
+<string>Rufiyaa</string>
+<string>SI</string>
+<string>Stone</string>
+<string>Terabit</string>
+<string>Terabyte</string>
+<string>Tenge</string>
+<string>Tera</string>
+<string>Terabecquerel</string>
+<string>Tugrik</string>
+<string>US Dollar</string>
+<string>Vanuatu Vatu</string>
+<string>Watt</string>
+<string>Yard</string>
+<string>Yocto</string>
+<string>Yotta</string>
+<string>Zepto</string>
+<string>Zetta</string>
+<string>Złoty</string>
+<string>Bu</string>
+<string>Chō</string>
+<string>Fun</string>
+<string>Gō</string>
+<string>Hiro</string>
+<string>Hyakume</string>
+<string>Jō</string>
+<string>Kan</string>
+<string>Kanejaku</string>
+<string>Ken</string>
+<string>Kin</string>
+<string>Koku</string>
+<string>Momme</string>
+<string>Mō</string>
+<string>Ri</string>
+<string>Rin</string>
+<string>Sai</string>
+<string>Se</string>
+<string>Shaku</string>
+<string>Shō</string>
+<string>Sun</string>
+<string>Tan</string>
+<string>Tsubo</string>
+<string>To</string>
+<string>Bytes/Min.</string>
+<string>Chain</string>
+<string>Gigabytes/Min.</string>
+<string>Grain</string>
+<string>Kilolux</string>
+<string>Nox</string>
+<string>Parsec</string>
+<string>Peck</string>
+<string>Phot</string>
+<string>Pinch</string>
+<string>Rod</string>
+<string>Slug</string>
+<string>Smoot</string>
+<string>Thou</string>
+<string>Link</string>
+<string>Lux</string>
+<string>Millilux</string>
+<string>Kilobytes/Min.</string>
+<string>Pferdestärke</string>
+<string>Megabytes/Min.</string>
+<string>Terabytes/Min.</string>
+<string>Bucket</string>
+<string>Dash</string>
+<string>Foot Candle</string>
+<string>Mil</string>
+<string>Shot</string>
+<string>Torr</string>
+<string>Millibar</string>
+<string>歯 (H)</string>
+<string>級 (Q)</string>
+<string>Deutsche Mark</string>
+<string>Dunam</string>
+<string>MBTU</string>
+<string>MMBTU</string>
+<string>Megajoule</string>
+<string>Megawatt</string>
+<string>Pennyweight</string>
+<string>Pixel</string>
+<string>Quad</string>
+<string>Rai</string>
+<string>Support</string>
+<string>Therm</string>
+</array>
 </plist>

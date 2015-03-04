@@ -280,5 +280,7 @@
     <string>unfavorite expression</string>
     <key>unknown</key>
     <string>unbekannt</string>
+    <key>Large Type</key>
+    <string>Large Type</string>
   </dict>
 </plist>

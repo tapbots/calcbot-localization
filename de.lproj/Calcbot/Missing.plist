@@ -276,14 +276,8 @@
     <string>Gallon/Min. (Imperial)</string>
     <key>Gallon/Sec. (Imperial)</key>
     <string>Gallon/Sec. (Imperial)</string>
-    <key>%@ ago</key>
-    <string>%@ ago</string>
-    <key>About Tapbots</key>
-    <string>About Tapbots</string>
     <key>Access to the special pro theme.</key>
     <string>Access to the special pro theme.</string>
-    <key>Add New</key>
-    <string>Add New</string>
     <key>Add your own values and labels to the constants menu.</key>
     <string>Add your own values and labels to the constants menu.</string>
     <key>COMPANY</key>
@@ -294,100 +288,40 @@
     <string>Calcbot Calculation</string>
     <key>Calcbot Calculations</key>
     <string>Calcbot Calculations</string>
-    <key>Categories</key>
-    <string>Categories</string>
-    <key>Categories and Units</key>
-    <string>Categories and Units</string>
-    <key>Category</key>
-    <string>Category</string>
-    <key>Clear Favorites</key>
-    <string>Clear Favorites</string>
     <key>Clear Tape</key>
     <string>Clear Tape</string>
-    <key>Close</key>
-    <string>Close</string>
-    <key>Constants</key>
-    <string>Constants</string>
     <key>Contact Us</key>
     <string>Contact Us</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
     <string>Convert with over 200 units across 20 conversion categories.</string>
-    <key>Copy</key>
-    <string>Copy</string>
-    <key>Copy Result</key>
-    <string>Copy Result</string>
     <key>Custom Constants.</key>
     <string>Custom Constants.</string>
-    <key>DEFAULT</key>
-    <string>DEFAULT</string>
     <key>Dark Ninja</key>
     <string>Dark Ninja</string>
     <key>Disable All</key>
     <string>Disable All</string>
-    <key>Edit Units</key>
-    <string>Edit Units</string>
     <key>Enable All</key>
     <string>Enable All</string>
-    <key>Enable constants in the settings.</key>
-    <string>Enable constants in the settings.</string>
-    <key>Enter a Calculation to Save it Here.</key>
-    <string>Enter a Calculation to Save it Here.</string>
-    <key>Failed to Restore Purchases</key>
-    <string>Failed to Restore Purchases</string>
     <key>Fav an item in the history tape for quick access here.</key>
     <string>Fav an item in the history tape for quick access here.</string>
     <key>Fave a Calculation to Show it Here.</key>
     <string>Fave a Calculation to Show it Here.</string>
-    <key>Favorites</key>
-    <string>Favorites</string>
-    <key>From</key>
-    <string>From</string>
-    <key>GENERAL</key>
-    <string>GENERAL</string>
-    <key>History</key>
-    <string>History</string>
-    <key>Last updated: %@</key>
-    <string>Last updated: %@</string>
-    <key>Learn More</key>
-    <string>Learn More</string>
     <key>Light Ninja</key>
     <string>Light Ninja</string>
     <key>Loading…</key>
     <string>Loading…</string>
-    <key>MY CONSTANTS</key>
-    <string>MY CONSTANTS</string>
-    <key>MY THEMES</key>
-    <string>MY THEMES</string>
     <key>Mark’s Office</key>
     <string>Mark’s Office</string>
-    <key>Melancholy</key>
-    <string>Melancholy</string>
-    <key>Memories</key>
-    <string>Memories</string>
-    <key>My Constant</key>
-    <string>My Constant</string>
-    <key>Never</key>
-    <string>Never</string>
     <key>Number from Calcbot</key>
     <string>Number from Calcbot</string>
-    <key>Options</key>
-    <string>Options</string>
     <key>Otaku</key>
     <string>Otaku</string>
     <key>PRO</key>
     <string>PRO</string>
-    <key>Paste (%@)</key>
-    <string>Paste (%@)</string>
-    <key>Please enter a valid constant.</key>
-    <string>Please enter a valid constant.</string>
-    <key>Please try again later</key>
-    <string>Please try again later</string>
     <key>Pro</key>
     <string>Pro</string>
     <key>Pro Theme.</key>
     <string>Pro Theme.</string>
-    <key>Purchase for %@</key>
-    <string>Purchase for %@</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>
     <string>Purchase this theme pack and get the following %@ themes:</string>
     <key>Remove the 10 record limit and never lose a calculation again.</key>
@@ -398,20 +332,10 @@
     <string>Retro</string>
     <key>Round for Currency</key>
     <string>Round for Currency</string>
-    <key>Save</key>
-    <string>Save</string>
-    <key>Send as Email</key>
-    <string>Send as Email</string>
     <key>Send to Calculator</key>
     <string>Send to Calculator</string>
-    <key>Settings</key>
-    <string>Settings</string>
-    <key>Shark Attack</key>
-    <string>Shark Attack</string>
     <key>Show All Conversion Results</key>
     <string>Show All Conversion Results</string>
-    <key>Sounds</key>
-    <string>Sounds</string>
     <key>Standard</key>
     <string>Standard</string>
     <key>THEME PACKS</key>
@@ -424,8 +348,6 @@
     <string>Theme Pack 2</string>
     <key>Themes</key>
     <string>Themes</string>
-    <key>Title</key>
-    <string>Title</string>
     <key>Unit Conversions.</key>
     <string>Unit Conversions.</string>
     <key>Unlimited History Tape.</key>
@@ -442,10 +364,6 @@
     <string>Use Expression</string>
     <key>Use Result</key>
     <string>Use Result</string>
-    <key>Value</key>
-    <string>Value</string>
-    <key>result</key>
-    <string>result</string>
     <key>Attach Tape</key>
     <string>Attach Tape</string>
     <key>Basic</key>
@@ -458,22 +376,14 @@
     <string>Copy Expression</string>
     <key>Could not fetch currency rates</key>
     <string>Could not fetch currency rates</string>
-    <key>Delete</key>
-    <string>Delete</string>
     <key>Detach Tape</key>
     <string>Detach Tape</string>
     <key>Email Tape</key>
     <string>Email Tape</string>
-    <key>General</key>
-    <string>General</string>
     <key>Hide Conversion</key>
     <string>Hide Conversion</string>
     <key>Hide Tape</key>
     <string>Hide Tape</string>
-    <key>Large Type</key>
-    <string>Large Type</string>
-    <key>Last Updated: </key>
-    <string>Last Updated: </string>
     <key>Main</key>
     <string>Main</string>
     <key>Please type your message above this line</key>
@@ -482,8 +392,6 @@
     <string>Remove All</string>
     <key>Scientific</key>
     <string>Scientific</string>
-    <key>Select All</key>
-    <string>Select All</string>
     <key>Show Conversion</key>
     <string>Show Conversion</string>
     <key>Show Tape</key>
@@ -550,8 +458,8 @@
     <string>tape settings button</string>
     <key>unfavorite expression</key>
     <string>unfavorite expression</string>
-    <key>unknown</key>
-    <string>unknown</string>
+    <key>Large Type</key>
+    <string>Large Type</string>
     <key>Tap on the current category icon to quickly enable/disable units.</key>
     <string>Tap on the current category icon to quickly enable/disable units.</string>
     <key>Pull down on the display to reveal the history tape.</key>
