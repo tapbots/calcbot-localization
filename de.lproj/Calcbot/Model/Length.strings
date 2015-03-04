@@ -27,16 +27,16 @@
     <key>Mile</key>
     <string>Meile</string>
     <key>Nautical Mile</key>
-    <string>Meile Nautische</string>
+    <string>Nautische Meile</string>
     <key>League</key>
     <string>Meile</string>
     <key>Light Second</key>
-    <string>Licht Minute Sekunde</string>
+    <string>Licht Sekunde</string>
     <key>Light Minute</key>
     <string>Licht Minute</string>
     <key>Astronomical Unit</key>
     <string>Astron. Einheit</string>
     <key>Light Year</key>
-    <string>Licht Minute Jahr</string>
+    <string>Lichtjahr</string>
   </dict>
 </plist>
