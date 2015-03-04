@@ -11,7 +11,7 @@
     <key>Drop</key>
     <string>Tropfen</string>
     <key>Drop (Imperial)</key>
-    <string>Drop (Imperial)</string>
+    <string>Tropfen (Imperial)</string>
     <key>Dash (Imperial)</key>
     <string>Dash (Imperial)</string>
     <key>Pinch (Imperial)</key>
@@ -23,27 +23,27 @@
     <key>Teaspoon</key>
     <string>Teelöffel</string>
     <key>Teaspoon (Metric)</key>
-    <string>Teaspoon (Metric)</string>
+    <string>Teelöffel (Metric)</string>
     <key>Teaspoon (Imperial)</key>
-    <string>Teaspoon (Imperial)</string>
+    <string>Teelöffel (Imperial)</string>
     <key>Tablespoon</key>
     <string>Esslöffel</string>
     <key>Tablespoon (Metric)</key>
-    <string>Tablespoon (Metric)</string>
+    <string>Esslöffel (Metric)</string>
     <key>Cubic Inch</key>
     <string>Kubikzoll</string>
     <key>Tablespoon (Imperial)</key>
-    <string>Tablespoon (Imperial)</string>
+    <string>Esslöffel (Imperial)</string>
     <key>Ounce (Imperial)</key>
-    <string>Ounce (Imperial)</string>
+    <string>Unze (Imperial)</string>
     <key>Ounce</key>
     <string>Unze</string>
     <key>Gill (Imperial)</key>
     <string>Gill (Imperial)</string>
     <key>Cup (Metric)</key>
-    <string>Cup (Metric)</string>
+    <string>Tasse (Metric)</string>
     <key>Cup (Imperial)</key>
-    <string>Cup (Imperial)</string>
+    <string>Tasse (Imperial)</string>
     <key>Dry Pint</key>
     <string>US dry.pt.</string>
     <key>Pint (Imperial)</key>

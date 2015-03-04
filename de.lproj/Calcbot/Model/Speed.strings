@@ -21,13 +21,13 @@
     <key>Miles/Second</key>
     <string>Meilen/Sekunde</string>
     <key>Minutes/Metres</key>
-    <string>Minuten/Metres</string>
+    <string>Minuten/Meter</string>
     <key>Minutes/Kilometres</key>
     <string>Minuten/Kilometer</string>
     <key>Miles/Minute</key>
     <string>Meilen/Minute</string>
     <key>Minutes/Yards</key>
-    <string>Minuten/Yard</string>
+    <string>Minuten/Yards</string>
     <key>Minutes/Miles</key>
     <string>Minuten/Meilen</string>
   </dict>

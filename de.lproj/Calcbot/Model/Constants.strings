@@ -15,7 +15,7 @@
     <key>Electron Mass</key>
     <string>Electronen Masse</string>
     <key>Muon Mass</key>
-    <string>Muon Masse</string>
+    <string>Myonen Masse</string>
     <key>Bohr Radius</key>
     <string>Bohrscher Radius</string>
     <key>Planck</key>
@@ -51,15 +51,15 @@
     <key>Faraday Constant</key>
     <string>Faraday Konstante</string>
     <key>Elementary Charge</key>
-    <string>Elementare Ladung</string>
+    <string>Elementarladung</string>
     <key>Avogadro Constant</key>
     <string>Avogadro Konstante</string>
     <key>Boltzmann Constant</key>
     <string>Boltzmann Konstante</string>
     <key>Molar Volume of Ideal Gas</key>
-    <string>Molares Volumen idealer Gase</string>
+    <string>Molares Volumen eines idealen Gases</string>
     <key>Molar Gas Constant</key>
-    <string>Molare Gas-Konstante</string>
+    <string>Molare Gas Konstante</string>
     <key>Speed of Light</key>
     <string>Lichtgeschwindigkeit</string>
     <key>First Radiation Constant</key>
