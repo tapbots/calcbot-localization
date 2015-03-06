@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>%@d</key>
-    <string>%@d</string>
     <key>%d days</key>
     <string>%d Tage</string>
     <key>%d hours</key>
@@ -12,14 +10,6 @@
     <string>%d Minuten</string>
     <key>%d seconds</key>
     <string>%d Sekunden</string>
-    <key>%dd</key>
-    <string>%dd</string>
-    <key>%dh</key>
-    <string>%dh</string>
-    <key>%dm</key>
-    <string>%dm</string>
-    <key>%ds</key>
-    <string>%ds</string>
     <key>1 day</key>
     <string>1 Tag</string>
     <key>1 hour</key>
