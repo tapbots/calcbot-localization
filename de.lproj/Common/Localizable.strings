@@ -29,7 +29,7 @@
     <key>Close</key>
     <string>Schließen</string>
     <key>Couldn’t parse JSON data.</key>
-    <string>Konnte JSON Daten nicht lesen.</string>
+    <string>Konnte JSON-Daten nicht lesen.</string>
     <key>Dumb Quotes</key>
     <string>Senkrechte Anführungszeichen</string>
     <key>FOLLOW US ON TWITTER</key>
