@@ -39,7 +39,7 @@
     <key>Leave %@?</key>
     <string>%@ verlassen?</string>
     <key>Network Connection Busy</key>
-    <string>Netzwerkverbindung beschäftigt</string>
+    <string>Netzwerkverbindung besetzt</string>
     <key>Now</key>
     <string>Jetzt</string>
     <key>OFF</key>
