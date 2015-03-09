@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Illuminance</key>
+    <string>Illuminance</string>
+    <key>Lumen/Square Metre</key>
+    <string>Lumen/Square Metre</string>
+    <key>Lumen/Square Foot</key>
+    <string>Lumen/Square Foot</string>
+    <key>Lumen/Square CM</key>
+    <string>Lumen/Square CM</string>
+  </dict>
+</plist>

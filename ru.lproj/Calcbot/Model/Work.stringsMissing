@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Work</key>
+    <string>Work</string>
+    <key>Electron Volt</key>
+    <string>Electron Volt</string>
+    <key>Erg</key>
+    <string>Erg</string>
+    <key>Inch Pound</key>
+    <string>Inch Pound</string>
+    <key>Joule</key>
+    <string>Joule</string>
+    <key>Newton Metre</key>
+    <string>Newton Metre</string>
+    <key>Foot Pound</key>
+    <string>Foot Pound</string>
+    <key>Calorie</key>
+    <string>Calorie</string>
+    <key>Kilojoule</key>
+    <string>Kilojoule</string>
+    <key>BTU</key>
+    <string>BTU</string>
+    <key>Watt Hour</key>
+    <string>Watt Hour</string>
+    <key>Kilogram Calorie</key>
+    <string>Kilogram Calorie</string>
+    <key>Megajoule</key>
+    <string>Megajoule</string>
+    <key>MBTU</key>
+    <string>MBTU</string>
+    <key>Kilowatt Hour</key>
+    <string>Kilowatt Hour</string>
+    <key>Therm</key>
+    <string>Therm</string>
+    <key>MMBTU</key>
+    <string>MMBTU</string>
+    <key>Megawatt Hour</key>
+    <string>Megawatt Hour</string>
+    <key>Tonne of Coal</key>
+    <string>Tonne of Coal</string>
+    <key>Tonne of Oil</key>
+    <string>Tonne of Oil</string>
+    <key>Gigawatt Hour</key>
+    <string>Gigawatt Hour</string>
+    <key>Quad</key>
+    <string>Quad</string>
+  </dict>
+</plist>

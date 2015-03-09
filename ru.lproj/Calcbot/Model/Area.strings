@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Area</key>
+    <string>Area</string>
+    <key>Square Millimetre</key>
+    <string>Square Millimetre</string>
+    <key>Square Centimetre</key>
+    <string>Square Centimetre</string>
+    <key>Square Inch</key>
+    <string>Square Inch</string>
+    <key>Shaku</key>
+    <string>Shaku</string>
+    <key>Square Foot</key>
+    <string>Square Foot</string>
+    <key>Gō</key>
+    <string>Gō</string>
+    <key>Square Yard</key>
+    <string>Square Yard</string>
+    <key>Square Metre</key>
+    <string>Square Metre</string>
+    <key>Jō</key>
+    <string>Jō</string>
+    <key>Bu</key>
+    <string>Bu</string>
+    <key>Tsubo</key>
+    <string>Tsubo</string>
+    <key>Se</key>
+    <string>Se</string>
+    <key>Are</key>
+    <string>Are</string>
+    <key>Tan</key>
+    <string>Tan</string>
+    <key>Dunam</key>
+    <string>Dunam</string>
+    <key>Rai</key>
+    <string>Rai</string>
+    <key>Acre</key>
+    <string>Acre</string>
+    <key>Chō</key>
+    <string>Chō</string>
+    <key>Hectare</key>
+    <string>Hectare</string>
+    <key>Square Kilometre</key>
+    <string>Square Kilometre</string>
+    <key>Square Mile</key>
+    <string>Square Mile</string>
+  </dict>
+</plist>
