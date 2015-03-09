@@ -3,7 +3,7 @@ Localization for Calcbot
 
 This repository was set up to help us localize our apps for your native language. We have gotten many requests to help us localize, but coordinating everything has always been a pain. To help with this process, you must have a basic understanding of GitHub and editing files in Xcode.
 
-We are testing this new process with **German** conversion only at the moment. We will do more languages if this works out well. Please use the **Issues** tab to coordinate.
+We are testing this new process with **German, Arabic, Russian and Simplified Chinese** conversion only at the moment. We will do more languages if this works out well. Please use the **Issues** tab to coordinate.
 
 There's 4 types of files
 
