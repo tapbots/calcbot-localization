@@ -44,8 +44,8 @@
     <string>Magnetischer Flussquant</string>
     <key>Standard Acceleration of Gravity</key>
     <string>Normfallbeschleunigung</string>
-    <key>Normalathmospäre</key>
-    <string>Standard Atmosphäre</string>
+    <key>Standard Atmosphere</key>
+    <string>Normalathmospäre</string>
     <key>Conductance Quantum</key>
     <string>Conductance Quantum</string>
     <key>Characteristic Impedance of Vacuum</key>
