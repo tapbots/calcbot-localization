@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Work</key>
+    <string>仕事量</string>
+    <key>Electron Volt</key>
+    <string>電子ボルト</string>
+    <key>Erg</key>
+    <string>エルグ</string>
+    <key>Inch Pound</key>
+    <string>インチポンド</string>
+    <key>Joule</key>
+    <string>ジュール</string>
+    <key>Newton Metre</key>
+    <string>ニュートンメートル</string>
+    <key>Foot Pound</key>
+    <string>フィートポンド</string>
+    <key>Calorie</key>
+    <string>カロリー</string>
+    <key>Kilojoule</key>
+    <string>キロジュール</string>
+    <key>BTU</key>
+    <string>BTU</string>
+    <key>Watt Hour</key>
+    <string>ワット時</string>
+    <key>Kilogram Calorie</key>
+    <string>キログラムカロリー</string>
+    <key>Megajoule</key>
+    <string>メガジュール</string>
+    <key>MBTU</key>
+    <string>MBTU</string>
+    <key>Kilowatt Hour</key>
+    <string>キロワット時</string>
+    <key>Therm</key>
+    <string>サーム</string>
+    <key>MMBTU</key>
+    <string>MMBTU</string>
+    <key>Megawatt Hour</key>
+    <string>メガワット時</string>
+    <key>Tonne of Coal</key>
+    <string>石炭換算トン</string>
+    <key>Tonne of Oil</key>
+    <string>石油換算トン</string>
+    <key>Gigawatt Hour</key>
+    <string>ギガワット時</string>
+    <key>Quad</key>
+    <string>クォード</string>
+  </dict>
+</plist>

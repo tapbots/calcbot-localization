@@ -3,12 +3,12 @@
 <plist version="1.0">
   <dict>
     <key>Tap on the current category icon to quickly enable/disable units.</key>
-    <string>Tap on the current category icon to quickly enable/disable units.</string>
+    <string>Berühre die aktuelle Kategorie, um schnell Einheiten zu aktivieren/deaktivieren.</string>
     <key>Pull down on the display to reveal the history tape.</key>
-    <string>Pull down on the display to reveal the history tape.</string>
+    <string>Wische nach unten, um den Verlauf anzuzeigen.</string>
     <key>Hold down the delete key to clear the expression.</key>
-    <string>Hold down the delete key to clear the expression.</string>
+    <string>Halte den Löschen-Knopf gedrückt, um die ganze Rechnung zu löschen.</string>
     <key>Swipe right across the display to access conversion mode.</key>
-    <string>Swipe right across the display to access conversion mode.</string>
+    <string>Wische nach rechts, um in den Umrechnungs-Modus zu gelangen.</string>
   </dict>
 </plist>

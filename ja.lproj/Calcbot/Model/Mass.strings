@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Mass</key>
+    <string>重さ／質量</string>
+    <key>Microgram</key>
+    <string>マイクログラム</string>
+    <key>Milligram</key>
+    <string>ミリグラム</string>
+    <key>Grain</key>
+    <string>グレーン</string>
+    <key>Carat</key>
+    <string>カラット</string>
+    <key>Fun</key>
+    <string>分</string>
+    <key>Gram</key>
+    <string>グラム</string>
+    <key>Pennyweight</key>
+    <string>ペニーウェイト</string>
+    <key>Momme</key>
+    <string>匁</string>
+    <key>Ounce</key>
+    <string>オンス</string>
+    <key>Troy Ounce</key>
+    <string>トロイオンス</string>
+    <key>Hyakume</key>
+    <string>百目</string>
+    <key>Pound</key>
+    <string>ポンド</string>
+    <key>Kin</key>
+    <string>斤</string>
+    <key>Kilogram</key>
+    <string>キログラム</string>
+    <key>Kan</key>
+    <string>貫</string>
+    <key>Stone</key>
+    <string>ストーン</string>
+    <key>Slug</key>
+    <string>スラグ</string>
+    <key>Short Ton</key>
+    <string>米トン</string>
+    <key>Metric Ton</key>
+    <string>トン</string>
+    <key>Long Ton</key>
+    <string>英トン</string>
+  </dict>
+</plist>

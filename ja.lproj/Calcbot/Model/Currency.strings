@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Currency</key>
+    <string>通貨</string>
+    <key>UAE Dirham</key>
+    <string>UAE ディルハム</string>
+    <key>Lek</key>
+    <string>アルバニア レク</string>
+    <key>Dutch Guilder</key>
+    <string>オランダ ギルダー</string>
+    <key>Argentine Peso</key>
+    <string>アルゼンチン ペソ</string>
+    <key>Australian Dollar</key>
+    <string>オーストラリア ドル</string>
+    <key>Aruban Florin</key>
+    <string>アルバ フロリン</string>
+    <key>Barbados Dollar</key>
+    <string>バルバドス ドル</string>
+    <key>Bangladeshi Taka</key>
+    <string>バングラデシュ タカ</string>
+    <key>Bulgarian Lev</key>
+    <string>ブルガリア レフ</string>
+    <key>Bahraini Dinar</key>
+    <string>バーレーン ディナール</string>
+    <key>Burundian Franc</key>
+    <string>ブルンジ フラン</string>
+    <key>Bermudian Dollar</key>
+    <string>バミューダ ドル</string>
+    <key>Brunei Dollar</key>
+    <string>ブルネイ ドル</string>
+    <key>Boliviano</key>
+    <string>ボリビア ボリビアーノ</string>
+    <key>Brazilian Real</key>
+    <string>ブラジル レアル</string>
+    <key>Bahamian Dollar</key>
+    <string>バハマ ドル</string>
+    <key>Ngultrum</key>
+    <string>ブータン ニュルタム</string>
+    <key>Pula</key>
+    <string>ボツワナ プラ</string>
+    <key>Belarussian Ruble</key>
+    <string>ベラルーシ ルーブル</string>
+    <key>Belize Dollar</key>
+    <string>ベリーズ ドル</string>
+    <key>Canadian Dollar</key>
+    <string>カナダ ドル</string>
+    <key>Swiss Franc</key>
+    <string>スイス フラン</string>
+    <key>Chilean Peso</key>
+    <string>チリ ペソ</string>
+    <key>Chinese Yuan</key>
+    <string>中国 人民元（CNY）</string>
+    <key>Colombian Peso</key>
+    <string>コロンビア ペソ</string>
+    <key>Costa Rican Colón</key>
+    <string>Costa Rican Colón</string>
+    <key>Cuban Peso</key>
+    <string>キューバ ペソ</string>
+    <key>Cyprus Pound</key>
+    <string>キプロス ポンド</string>
+    <key>Czech Koruna</key>
+    <string>チェコ コルナ</string>
+    <key>Danish Krone</key>
+    <string>デンマーク クローネ</string>
+    <key>Dominican Peso</key>
+    <string>ドミニカ ペソ</string>
+    <key>Algerian Dinar</key>
+    <string>アルジェリア ディナール</string>
+    <key>Kroon</key>
+    <string>エストニア クルーン</string>
+    <key>Egyptian Pound</key>
+    <string>エジプト ポンド</string>
+    <key>Ethiopian Birr</key>
+    <string>エチオピア ブル</string>
+    <key>Euro</key>
+    <string>ユーロ</string>
+    <key>Fiji Dollar</key>
+    <string>フィジー ドル</string>
+    <key>Pound Sterling</key>
+    <string>英国 ポンド</string>
+    <key>Dalasi</key>
+    <string>ガンビア ダラシ</string>
+    <key>Guinea Franc</key>
+    <string>ギニア フラン</string>
+    <key>Quetzal</key>
+    <string>グアテマラ ケツァル</string>
+    <key>Hong Kong Dollar</key>
+    <string>香港 ドル</string>
+    <key>Lempira</key>
+    <string>ホンジュラス レンピラ</string>
+    <key>Croatian Kuna</key>
+    <string>クロアチア クーナ</string>
+    <key>Haiti Gourde</key>
+    <string>ハイチ グールド</string>
+    <key>Forint</key>
+    <string>ハンガリー フォリント</string>
+    <key>Indonesian Rupiah</key>
+    <string>インドネシア ルピア</string>
+    <key>Israeli New Sheqel</key>
+    <string>イスラエル 新シェケル</string>
+    <key>Indian Rupee</key>
+    <string>インド ルピー</string>
+    <key>Iraqi Dinar</key>
+    <string>イラク ディナール</string>
+    <key>Iranian Rial</key>
+    <string>イラン リヤル</string>
+    <key>Iceland Krona</key>
+    <string>アイスランド クローナ</string>
+    <key>Jamaican Dollar</key>
+    <string>ジャマイカ ドル</string>
+    <key>Jordanian Dinar</key>
+    <string>ヨルダン ディナール</string>
+    <key>Japanese Yen</key>
+    <string>日本 円</string>
+    <key>Kenyan Shilling</key>
+    <string>ケニア シリング</string>
+    <key>Comoro Franc</key>
+    <string>コモロ フラン</string>
+    <key>South Korean Won</key>
+    <string>韓国 ウォン</string>
+    <key>Kuwaiti Dinar</key>
+    <string>クウェート ディナール</string>
+    <key>Cayman Island Dollar</key>
+    <string>ケイマン諸島 ドル</string>
+    <key>Tenge</key>
+    <string>カザフスタン テンゲ</string>
+    <key>Lebanese Pound</key>
+    <string>レバノン ポンド</string>
+    <key>Sri Lanka Rupee</key>
+    <string>スリランカ ルピー</string>
+    <key>Loti</key>
+    <string>レソト ロチ</string>
+    <key>Lithuanian Litas</key>
+    <string>リトアニア リタス</string>
+    <key>Latvian Lats</key>
+    <string>ラトビア ラッツ</string>
+    <key>Moroccan Dirham</key>
+    <string>モロッコ ディルハム</string>
+    <key>Moldovan Leu</key>
+    <string>モルドバ レウ</string>
+    <key>Macedonian Denar</key>
+    <string>マケドニア デナル</string>
+    <key>Tugrik</key>
+    <string>モンゴル トゥグルク</string>
+    <key>Pataca</key>
+    <string>マカオ パタカ</string>
+    <key>Ouguiya</key>
+    <string>モーリタニア ウギア</string>
+    <key>Mauritius Rupee</key>
+    <string>モーリシャス ルピー</string>
+    <key>Rufiyaa</key>
+    <string>モルディブ ルフィヤ</string>
+    <key>Kwacha</key>
+    <string>マラウイ クワチャ</string>
+    <key>Mexican Peso</key>
+    <string>メキシコ ペソ</string>
+    <key>Malaysian Ringgit</key>
+    <string>マレーシア リンギット</string>
+    <key>Namibian Dollar</key>
+    <string>ナミビア ドル</string>
+    <key>Naira</key>
+    <string>ナイジェリア ナイラ</string>
+    <key>Cordoba Oro</key>
+    <string>コルドバ オロ</string>
+    <key>Norwegian Krone</key>
+    <string>ノルウェー クローネ</string>
+    <key>Nepalese Rupee</key>
+    <string>ネパール ルピー</string>
+    <key>New Zealand Dollar</key>
+    <string>ニュージーランド ドル</string>
+    <key>Rial Omani</key>
+    <string>オマーン リアル</string>
+    <key>Balboa</key>
+    <string>パナマ バルボア</string>
+    <key>Nuevo Sol</key>
+    <string>ペルー ヌエボ・ソル</string>
+    <key>Kina</key>
+    <string>パプアニューギニア キナ</string>
+    <key>Philippine Peso</key>
+    <string>フィリピン ペソ</string>
+    <key>Pakistan Rupee</key>
+    <string>パキスタン ルピー</string>
+    <key>Złoty</key>
+    <string>ポーランド ズウォティ</string>
+    <key>Guarani</key>
+    <string>パラグアイ グアラニー</string>
+    <key>Qatari Riyal</key>
+    <string>カタール リヤル</string>
+    <key>Renminbi</key>
+    <string>中国 人民元（RMB）</string>
+    <key>Romanian New Leu</key>
+    <string>ルーマニア 新レウ</string>
+    <key>Russian Rouble</key>
+    <string>ロシア ルーブル</string>
+    <key>Rwanda Franc</key>
+    <string>ルワンダ フラン</string>
+    <key>Saudi Riyal</key>
+    <string>サウジアラビア リヤル</string>
+    <key>Solomon Is. Dollar</key>
+    <string>ソロモン諸島 ドル</string>
+    <key>Seychelles Rupee</key>
+    <string>セイシェル ルピー</string>
+    <key>Swedish Krona</key>
+    <string>スウェーデン クローナ</string>
+    <key>Singapore Dollar</key>
+    <string>シンガポール ドル</string>
+    <key>Slovenian Tolar</key>
+    <string>スロベニア トラール</string>
+    <key>Slovak Koruna</key>
+    <string>スロバキア コルナ</string>
+    <key>Leone</key>
+    <string>シエラレオネ レオン</string>
+    <key>Dobra</key>
+    <string>サントメ・プリンシペ ドブラ</string>
+    <key>El Salvador Colon</key>
+    <string>エルサルバドル コロン</string>
+    <key>Lilangeni</key>
+    <string>スワジランド リランゲニ</string>
+    <key>Thai Baht</key>
+    <string>タイ バーツ</string>
+    <key>Tunisian Dinar</key>
+    <string>チュニジア ディナール</string>
+    <key>Pa’anga</key>
+    <string>Pa’anga</string>
+    <key>Turkish Lira</key>
+    <string>トルコ リラ</string>
+    <key>Tri. and Tob. Dollar</key>
+    <string>トリニダード・トバゴ ドル</string>
+    <key>New Taiwan Dollar</key>
+    <string>ニュー台湾ドル</string>
+    <key>Tanzanian Shilling</key>
+    <string>タンザニア シリング</string>
+    <key>Hryvnia</key>
+    <string>ウクライナ フリヴニャ</string>
+    <key>Uganda Shilling</key>
+    <string>ウガンダ シリング</string>
+    <key>US Dollar</key>
+    <string>米国 ドル</string>
+    <key>Peso Uruguayo</key>
+    <string>ウルグアイ ペソ</string>
+    <key>Ven. Bolivar</key>
+    <string>ベネズエラ ボリバル</string>
+    <key>Vietnamese Dong</key>
+    <string>ベトナム ドン</string>
+    <key>Vanuatu Vatu</key>
+    <string>バヌアツ バツ</string>
+    <key>Samoan Tala</key>
+    <string>サモア タラ</string>
+    <key>CFA Franc (BEAC)</key>
+    <string>CFA フラン (BEAC)</string>
+    <key>E. Car. Dollar</key>
+    <string>東カリブ ドル</string>
+    <key>CFA Franc (BCEAO)</key>
+    <string>CFA フラン（BCEAO）</string>
+    <key>CFP Franc</key>
+    <string>CFP フラン</string>
+    <key>Yemen Riyal</key>
+    <string>イエメン リアル</string>
+    <key>South African Rand</key>
+    <string>南アフリカ ランド</string>
+    <key>Cape Verdean Escudo</key>
+    <string>カーボヴェルデ エスクード</string>
+    <key>Austrian Schilling</key>
+    <string>オーストリア シリング</string>
+    <key>Belgian Franc</key>
+    <string>ベルギー フラン</string>
+    <key>Deutsche Mark</key>
+    <string>ドイツ マルク</string>
+    <key>Finnish Markka</key>
+    <string>フィンランド マルカ</string>
+    <key>French Franc</key>
+    <string>フランス フラン</string>
+    <key>Irish Pound</key>
+    <string>アイルランド ポンド</string>
+    <key>Italian Lira</key>
+    <string>イタリア リラ</string>
+    <key>Luxembourgish Franc</key>
+    <string>ルクセンブルグ フラン</string>
+    <key>Portuguese Escudo</key>
+    <string>ポルトガル エスクード</string>
+    <key>Spanish Peseta</key>
+    <string>スペイン ペセタ</string>
+    <key>Greek Drachma</key>
+    <string>ギリシャ ドラクマ</string>
+    <key>Cypriot Pound</key>
+    <string>キプロス ポンド</string>
+    <key>Maltese Lira</key>
+    <string>マルタ リラ</string>
+    <key>Syrian Pound</key>
+    <string>シリア ポンド</string>
+    <key>Serbian Dinar</key>
+    <string>セルビア ディナール</string>
+  </dict>
+</plist>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Length</key>
+    <string>Length</string>
+    <key>Ångström</key>
+    <string>Ångström</string>
+    <key>Nanometre</key>
+    <string>Nanometre</string>
+    <key>Micron</key>
+    <string>Micron</string>
+    <key>Mil</key>
+    <string>Mil</string>
+    <key>Thou</key>
+    <string>Thou</string>
+    <key>Mō</key>
+    <string>Mō</string>
+    <key>Rin</key>
+    <string>Rin</string>
+    <key>Millimetre</key>
+    <string>Millimetre</string>
+    <key>Bu</key>
+    <string>Bu</string>
+    <key>Centimetre</key>
+    <string>Centimetre</string>
+    <key>Inch</key>
+    <string>Inch</string>
+    <key>Sun</key>
+    <string>Sun</string>
+    <key>Hand</key>
+    <string>Hand</string>
+    <key>Link</key>
+    <string>Link</string>
+    <key>Kanejaku</key>
+    <string>Kanejaku</string>
+    <key>Foot</key>
+    <string>Foot</string>
+    <key>Yard</key>
+    <string>Yard</string>
+    <key>Metre</key>
+    <string>Metre</string>
+    <key>Smoot</key>
+    <string>Smoot</string>
+    <key>Hiro</key>
+    <string>Hiro</string>
+    <key>Ken</key>
+    <string>Ken</string>
+    <key>Fathom</key>
+    <string>Fathom</string>
+    <key>Jō</key>
+    <string>Jō</string>
+    <key>Rod</key>
+    <string>Rod</string>
+    <key>Chain</key>
+    <string>Chain</string>
+    <key>Chō</key>
+    <string>Chō</string>
+    <key>Furlong</key>
+    <string>Furlong</string>
+    <key>Kilometre</key>
+    <string>Kilometre</string>
+    <key>Mile</key>
+    <string>Mile</string>
+    <key>Nautical Mile</key>
+    <string>Nautical Mile</string>
+    <key>Ri</key>
+    <string>Ri</string>
+    <key>League</key>
+    <string>League</string>
+    <key>Light Second</key>
+    <string>Light Second</string>
+    <key>Light Minute</key>
+    <string>Light Minute</string>
+    <key>Astronomical Unit</key>
+    <string>Astronomical Unit</string>
+    <key>Light Year</key>
+    <string>Light Year</string>
+    <key>Parsec</key>
+    <string>Parsec</string>
+  </dict>
+</plist>

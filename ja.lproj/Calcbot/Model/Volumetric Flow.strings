@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Volumetric Flow</key>
+    <string>流量</string>
+    <key>Gallon/Day</key>
+    <string>ガロン／日</string>
+    <key>Gallon/Day (Imperial)</key>
+    <string>Gallon/Day (Imperial)</string>
+    <key>Litre/Hour</key>
+    <string>リットル／時</string>
+    <key>Litre/Min.</key>
+    <string>リットル／分</string>
+    <key>Gallon/Min.</key>
+    <string>ガロン／分</string>
+    <key>Gallon/Min. (Imperial)</key>
+    <string>Gallon/Min. (Imperial)</string>
+    <key>Cubic Metre/Hour</key>
+    <string>立方メートル／時</string>
+    <key>Cubic Feet/Min.</key>
+    <string>立方フィート／分</string>
+    <key>Litre/Sec.</key>
+    <string>リットル／秒</string>
+    <key>Gallon/Sec.</key>
+    <string>ガロン／秒</string>
+    <key>Gallon/Sec. (Imperial)</key>
+    <string>Gallon/Sec. (Imperial)</string>
+    <key>Cubic Metre/Min</key>
+    <string>立方メートル／分</string>
+    <key>Cubic Feet/Sec.</key>
+    <string>立方フィート／秒</string>
+    <key>Cubic Yard/Sec.</key>
+    <string>立方ヤード／秒</string>
+    <key>Cubic Metre/Sec.</key>
+    <string>立方メートル／秒</string>
+  </dict>
+</plist>

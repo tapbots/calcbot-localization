@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Length</key>
+    <string>Length</string>
+    <key>Nanometre</key>
+    <string>Nanometre</string>
+    <key>Micron</key>
+    <string>Micron</string>
+    <key>Millimetre</key>
+    <string>Millimetre</string>
+    <key>Centimetre</key>
+    <string>Centimetre</string>
+    <key>Inch</key>
+    <string>Inch</string>
+    <key>Foot</key>
+    <string>Foot</string>
+    <key>Metre</key>
+    <string>Metre</string>
+    <key>Fathom</key>
+    <string>Fathom</string>
+    <key>Furlong</key>
+    <string>Furlong</string>
+    <key>Kilometre</key>
+    <string>Kilometre</string>
+    <key>Mile</key>
+    <string>Mile</string>
+    <key>Nautical Mile</key>
+    <string>Nautical Mile</string>
+    <key>League</key>
+    <string>League</string>
+    <key>Light Second</key>
+    <string>Light Second</string>
+    <key>Light Minute</key>
+    <string>Light Minute</string>
+    <key>Astronomical Unit</key>
+    <string>Astronomical Unit</string>
+    <key>Light Year</key>
+    <string>Light Year</string>
+  </dict>
+</plist>

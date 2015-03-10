@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Data Rate</key>
+    <string>Data Rate</string>
+    <key>Bytes/Week</key>
+    <string>Bytes/Week</string>
+    <key>Bytes/Day</key>
+    <string>Bytes/Day</string>
+    <key>Bytes/Hour</key>
+    <string>Bytes/Hour</string>
+    <key>Kilobytes/Week</key>
+    <string>Kilobytes/Week</string>
+    <key>Kilobytes/Day</key>
+    <string>Kilobytes/Day</string>
+    <key>Bytes/Min.</key>
+    <string>Bytes/Min.</string>
+    <key>Bits/Sec.</key>
+    <string>Bits/Sec.</string>
+    <key>Kilobytes/Hour</key>
+    <string>Kilobytes/Hour</string>
+    <key>Bytes/Sec.</key>
+    <string>Bytes/Sec.</string>
+    <key>Megabytes/Week</key>
+    <string>Megabytes/Week</string>
+    <key>Megabytes/Day</key>
+    <string>Megabytes/Day</string>
+    <key>Kilobytes/Min.</key>
+    <string>Kilobytes/Min.</string>
+    <key>Kilobits/Sec. (SI)</key>
+    <string>Kilobits/Sec. (SI)</string>
+    <key>Kilobits/Sec.</key>
+    <string>Kilobits/Sec.</string>
+    <key>Megabytes/Hour</key>
+    <string>Megabytes/Hour</string>
+    <key>Kilobytes/Sec. (SI)</key>
+    <string>Kilobytes/Sec. (SI)</string>
+    <key>Kilobytes/Sec.</key>
+    <string>Kilobytes/Sec.</string>
+    <key>Gigabytes/Week</key>
+    <string>Gigabytes/Week</string>
+    <key>Gigabytes/Day</key>
+    <string>Gigabytes/Day</string>
+    <key>Megabytes/Min.</key>
+    <string>Megabytes/Min.</string>
+    <key>Megabits/Sec. (SI)</key>
+    <string>Megabits/Sec. (SI)</string>
+    <key>Megabits/Sec.</key>
+    <string>Megabits/Sec.</string>
+    <key>Gigabytes/Hour</key>
+    <string>Gigabytes/Hour</string>
+    <key>Megabytes/Sec. (SI)</key>
+    <string>Megabytes/Sec. (SI)</string>
+    <key>Megabytes/Sec.</key>
+    <string>Megabytes/Sec.</string>
+    <key>Terabytes/Week</key>
+    <string>Terabytes/Week</string>
+    <key>Terabytes/Day</key>
+    <string>Terabytes/Day</string>
+    <key>Gigabytes/Min.</key>
+    <string>Gigabytes/Min.</string>
+    <key>Gigabits/Sec. (SI)</key>
+    <string>Gigabits/Sec. (SI)</string>
+    <key>Gigabits/Sec.</key>
+    <string>Gigabits/Sec.</string>
+    <key>Terabytes/Hour</key>
+    <string>Terabytes/Hour</string>
+    <key>Gigabytes/Sec. (SI)</key>
+    <string>Gigabytes/Sec. (SI)</string>
+    <key>Gigabytes/Sec.</key>
+    <string>Gigabytes/Sec.</string>
+    <key>Terabytes/Min.</key>
+    <string>Terabytes/Min.</string>
+    <key>Terabits/Sec. (SI)</key>
+    <string>Terabits/Sec. (SI)</string>
+    <key>Terabits/Sec.</key>
+    <string>Terabits/Sec.</string>
+    <key>Terabytes/Sec. (SI)</key>
+    <string>Terabytes/Sec. (SI)</string>
+    <key>Terabytes/Sec.</key>
+    <string>Terabytes/Sec.</string>
+  </dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Dash (Imperial)</key>
+    <string>Dash (Imperial)</string>
+    <key>Pinch (Imperial)</key>
+    <string>Pinch (Imperial)</string>
+    <key>Gill (Imperial)</key>
+    <string>Gill (Imperial)</string>
+    <key>Pint (Imperial)</key>
+    <string>Pint (Imperial)</string>
+    <key>Quart (Imperial)</key>
+    <string>Quart (Imperial)</string>
+    <key>Gallon (Imperial)</key>
+    <string>Gallon (Imperial)</string>
+    <key>Beer Barrel (Imperial)</key>
+    <string>Beer Barrel (Imperial)</string>
+  </dict>
+</plist>

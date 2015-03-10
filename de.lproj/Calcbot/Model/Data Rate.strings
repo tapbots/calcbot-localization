@@ -25,13 +25,13 @@
     <key>Megabytes/Day</key>
     <string>Megabytes/Tag</string>
     <key>Kilobits/Sec. (SI)</key>
-    <string>Kilobits/Sec. (SI)</string>
+    <string>Kilobits/Sek. (SI)</string>
     <key>Kilobits/Sec.</key>
     <string>Kilobits/Sek.</string>
     <key>Megabytes/Hour</key>
     <string>Megabytes/Stunde</string>
     <key>Kilobytes/Sec. (SI)</key>
-    <string>Kilobytes/Sec. (SI)</string>
+    <string>Kilobytes/Sek. (SI)</string>
     <key>Kilobytes/Sec.</key>
     <string>Kilobytes/Sek.</string>
     <key>Gigabytes/Week</key>
@@ -39,13 +39,13 @@
     <key>Gigabytes/Day</key>
     <string>Gigabytes/Tag</string>
     <key>Megabits/Sec. (SI)</key>
-    <string>Megabits/Sec. (SI)</string>
+    <string>Megabits/Sek. (SI)</string>
     <key>Megabits/Sec.</key>
     <string>Megabits/Sek.</string>
     <key>Gigabytes/Hour</key>
     <string>Gigabytes/Stunde</string>
     <key>Megabytes/Sec. (SI)</key>
-    <string>Megabytes/Sec. (SI)</string>
+    <string>Megabytes/Sek. (SI)</string>
     <key>Megabytes/Sec.</key>
     <string>Megabytes/Sek.</string>
     <key>Terabytes/Week</key>
@@ -53,21 +53,21 @@
     <key>Terabytes/Day</key>
     <string>Terabytes/Tag</string>
     <key>Gigabits/Sec. (SI)</key>
-    <string>Gigabits/Sec. (SI)</string>
+    <string>Gigabits/Sek. (SI)</string>
     <key>Gigabits/Sec.</key>
     <string>Gigabits/Sek.</string>
     <key>Terabytes/Hour</key>
     <string>Terabytes/Stunde</string>
     <key>Gigabytes/Sec. (SI)</key>
-    <string>Gigabytes/Sec. (SI)</string>
+    <string>Gigabytes/Sek. (SI)</string>
     <key>Gigabytes/Sec.</key>
     <string>Gigabytes/Sek.</string>
     <key>Terabits/Sec. (SI)</key>
-    <string>Terabits/Sec. (SI)</string>
+    <string>Terabits/Sek. (SI)</string>
     <key>Terabits/Sec.</key>
     <string>Terabits/Sek.</string>
     <key>Terabytes/Sec. (SI)</key>
-    <string>Terabytes/Sec. (SI)</string>
+    <string>Terabytes/Sek. (SI)</string>
     <key>Terabytes/Sec.</key>
     <string>Terabytes/Sek.</string>
   </dict>

@@ -7,7 +7,7 @@
     <key>Gallon/Day</key>
     <string>Gallone/Tag</string>
     <key>Gallon/Day (Imperial)</key>
-    <string>Gallon/Day (Imperial)</string>
+    <string>Gallone/Tag (Imperial)</string>
     <key>Litre/Hour</key>
     <string>Liter/Stunde</string>
     <key>Litre/Min.</key>
@@ -15,7 +15,7 @@
     <key>Gallon/Min.</key>
     <string>Gallone/Min</string>
     <key>Gallon/Min. (Imperial)</key>
-    <string>Gallon/Min. (Imperial)</string>
+    <string>Gallone/Min. (Imperial)</string>
     <key>Cubic Metre/Hour</key>
     <string>Kubikmeter/Stunde</string>
     <key>Cubic Feet/Min.</key>

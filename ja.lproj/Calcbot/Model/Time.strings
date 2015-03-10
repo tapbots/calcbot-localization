@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Time</key>
+    <string>時間</string>
+    <key>Nanoseconds</key>
+    <string>ナノ秒</string>
+    <key>Microseconds</key>
+    <string>マイクロ秒</string>
+    <key>Milliseconds</key>
+    <string>ミリ秒</string>
+    <key>Seconds</key>
+    <string>秒</string>
+    <key>Minutes</key>
+    <string>分</string>
+    <key>Hours</key>
+    <string>時間</string>
+    <key>Days</key>
+    <string>日</string>
+    <key>Weeks</key>
+    <string>週</string>
+    <key>Years</key>
+    <string>年</string>
+  </dict>
+</plist>

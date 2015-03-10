@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Power</key>
+    <string>Power</string>
+    <key>Newton Metre/Hour</key>
+    <string>Newton Metre/Hour</string>
+    <key>Newton Metre/Minute</key>
+    <string>Newton Metre/Minute</string>
+    <key>Foot-Pound/Minute</key>
+    <string>Foot-Pound/Minute</string>
+    <key>BTU/Hour</key>
+    <string>BTU/Hour</string>
+    <key>Newton Metre/Second</key>
+    <string>Newton Metre/Second</string>
+    <key>Foot-Pound/Second</key>
+    <string>Foot-Pound/Second</string>
+    <key>Metric Horsepower</key>
+    <string>Metric Horsepower</string>
+    <key>Horsepower</key>
+    <string>Horsepower</string>
+    <key>BTU/Second</key>
+    <string>BTU/Second</string>
+    <key>Ton of Refrigeration</key>
+    <string>Ton of Refrigeration</string>
+  </dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Pixel (300 dpi)</key>
+    <string>Pixel (300 dpi)</string>
+    <key>Pixel (150 dpi)</key>
+    <string>Pixel (150 dpi)</string>
+    <key>Pixel (96 dpi)</key>
+    <string>Pixel (96 dpi)</string>
+    <key>Pixel (72 dpi)</key>
+    <string>Pixel (72 dpi)</string>
+  </dict>
+</plist>

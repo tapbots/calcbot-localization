@@ -3,87 +3,117 @@
 <plist version="1.0">
   <dict>
     <key>%@ ago</key>
-    <string>%@ ago</string>
+    <string>Vor %@</string>
     <key>About Tapbots</key>
-    <string>About Tapbots</string>
+    <string>Über Tapbots</string>
     <key>Access to the special pro theme.</key>
-    <string>Access to the special pro theme.</string>
+    <string>Zugang zum Spezial-Pro-Theme</string>
     <key>Add New</key>
-    <string>Add New</string>
+    <string>Neu hinzufügen</string>
     <key>Add your own values and labels to the constants menu.</key>
-    <string>Add your own values and labels to the constants menu.</string>
+    <string>Füge deine eigenen Werte und Bezeichnungen zum Konstanten-Menü hinzu.</string>
+    <key>Attach Tape</key>
+    <string>Beleg anheften</string>
+    <key>Basic</key>
+    <string>Basic</string>
     <key>COMPANY</key>
-    <string>COMPANY</string>
+    <string>FIRMA</string>
     <key>CONVERSION</key>
-    <string>CONVERSION</string>
+    <string>KONVERTIERUNG</string>
     <key>Calcbot Calculation</key>
-    <string>Calcbot Calculation</string>
+    <string>Calcbot Berechnung</string>
     <key>Calcbot Calculations</key>
-    <string>Calcbot Calculations</string>
+    <string>Calcbot Berechnungen</string>
     <key>Categories</key>
-    <string>Categories</string>
+    <string>Kategorien</string>
     <key>Categories and Units</key>
-    <string>Categories and Units</string>
+    <string>Kategorien und Einheiten</string>
     <key>Category</key>
-    <string>Category</string>
+    <string>Kategorie</string>
+    <key>Checking for updated currency rates</key>
+    <string>Frage aktuelle Wechselkurse ab</string>
     <key>Clear Favorites</key>
-    <string>Clear Favorites</string>
+    <string>Favoriten löschen</string>
     <key>Clear Tape</key>
-    <string>Clear Tape</string>
+    <string>Beleg löschen</string>
     <key>Close</key>
-    <string>Close</string>
+    <string>Schließen</string>
     <key>Constants</key>
-    <string>Constants</string>
+    <string>Konstanten</string>
     <key>Contact Us</key>
-    <string>Contact Us</string>
+    <string>Kontaktieren Sie uns</string>
+    <key>Conversion</key>
+    <string>Konvertierung</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
-    <string>Convert with over 200 units across 20 conversion categories.</string>
+    <string>Konvertiere über 200 Einheiten aus 20 Kategorien.</string>
     <key>Copy</key>
-    <string>Copy</string>
+    <string>Kopieren</string>
+    <key>Copy Expression</key>
+    <string>Terminus kopieren</string>
     <key>Copy Result</key>
-    <string>Copy Result</string>
+    <string>Ergebnis kopieren</string>
+    <key>Could not fetch currency rates</key>
+    <string>Wechselkurse konnten nicht geladen werden.</string>
     <key>Custom Constants.</key>
-    <string>Custom Constants.</string>
+    <string>Eigene Konstanten.</string>
     <key>DEFAULT</key>
-    <string>DEFAULT</string>
+    <string>STANDARD</string>
     <key>Dark Ninja</key>
     <string>Dark Ninja</string>
+    <key>Delete</key>
+    <string>Löschen</string>
+    <key>Detach Tape</key>
+    <string>Beleg abheften</string>
     <key>Disable All</key>
-    <string>Disable All</string>
+    <string>Alle ausschalten</string>
     <key>Edit Units</key>
-    <string>Edit Units</string>
+    <string>Einheiten bearbeiten</string>
+    <key>Email Tape</key>
+    <string>Beleg per Email versenden</string>
     <key>Enable All</key>
-    <string>Enable All</string>
+    <string>Alle einschalten</string>
     <key>Enable constants in the settings.</key>
-    <string>Enable constants in the settings.</string>
+    <string>Konstanten in den Einstellungen aktivieren.</string>
     <key>Enter a Calculation to Save it Here.</key>
-    <string>Enter a Calculation to Save it Here.</string>
+    <string>Eine Berechnung eingeben um sie hier zu speichern.</string>
     <key>Failed to Restore Purchases</key>
-    <string>Failed to Restore Purchases</string>
+    <string>Fehler beim Wiederherstellen der In-App-Käufe.</string>
     <key>Fav an item in the history tape for quick access here.</key>
-    <string>Fav an item in the history tape for quick access here.</string>
+    <string>Erstellen sie einen Favoriten im Beleg-Verlauf für den Schnellzugriff hier.</string>
     <key>Fave a Calculation to Show it Here.</key>
-    <string>Fave a Calculation to Show it Here.</string>
+    <string>Erstellen Sie einen Berechnungs-Favoriten um ihn hier anzuzeigen.</string>
     <key>Favorites</key>
-    <string>Favorites</string>
+    <string>Favoriten</string>
     <key>From</key>
-    <string>From</string>
+    <string>Von</string>
     <key>GENERAL</key>
-    <string>GENERAL</string>
+    <string>ALLGEMEIN</string>
+    <key>General</key>
+    <string>Allgemein</string>
+    <key>Hide Conversion</key>
+    <string>Konversation ausblenden</string>
+    <key>Hide Tape</key>
+    <string>Beleg ausblenden</string>
     <key>History</key>
-    <string>History</string>
+    <string>Verlauf</string>
+    <key>Large Type</key>
+    <string>Große Schrift</string>
+    <key>Last Updated: </key>
+    <string>Zuletzt aktualisiert: </string>
     <key>Last updated: %@</key>
-    <string>Last updated: %@</string>
+    <string>Zuletzt aktualisiert: %@</string>
     <key>Learn More</key>
-    <string>Learn More</string>
+    <string>Mehr erfahren</string>
     <key>Light Ninja</key>
     <string>Light Ninja</string>
     <key>Loading…</key>
-    <string>Loading…</string>
+    <string>Lade…</string>
     <key>MY CONSTANTS</key>
-    <string>MY CONSTANTS</string>
+    <string>EIGENE KONSTANTEN</string>
     <key>MY THEMES</key>
-    <string>MY THEMES</string>
+    <string>EIGENE THEMES</string>
+    <key>Main</key>
+    <string>Main</string>
     <key>Mark’s Office</key>
     <string>Mark’s Office</string>
     <key>Melancholy</key>
@@ -91,61 +121,73 @@
     <key>Memories</key>
     <string>Memories</string>
     <key>My Constant</key>
-    <string>My Constant</string>
+    <string>Eigene Konstanten</string>
     <key>Never</key>
-    <string>Never</string>
+    <string>Nie</string>
     <key>Number from Calcbot</key>
-    <string>Number from Calcbot</string>
+    <string>Nummer aus Calcbot</string>
     <key>Options</key>
-    <string>Options</string>
+    <string>Optionen</string>
     <key>Otaku</key>
     <string>Otaku</string>
     <key>PRO</key>
     <string>PRO</string>
     <key>Paste (%@)</key>
-    <string>Paste (%@)</string>
+    <string>(%@) einfügen</string>
     <key>Please enter a valid constant.</key>
-    <string>Please enter a valid constant.</string>
+    <string>Bitte geben Sie eine gültige Konstante ein.</string>
     <key>Please try again later</key>
-    <string>Please try again later</string>
+    <string>Versuchen Sie es später noch ein Mal.</string>
+    <key>Please type your message above this line</key>
+    <string>Beginnen Sie ihre Nachricht unter diesem Strich</string>
     <key>Pro</key>
     <string>Pro</string>
     <key>Pro Theme.</key>
     <string>Pro Theme.</string>
     <key>Purchase for %@</key>
-    <string>Purchase for %@</string>
+    <string>Für %@ kaufen</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>
-    <string>Purchase this theme pack and get the following %@ themes:</string>
+    <string>Kaufen Sie dieses Theme-Paket und erhalten Sie folgende %@ Themes:</string>
+    <key>Remove All</key>
+    <string>Alle entfernen</string>
     <key>Remove the 10 record limit and never lose a calculation again.</key>
-    <string>Remove the 10 record limit and never lose a calculation again.</string>
+    <string>Entfernen Sie das 10-Einträge-Limit und verlieren Sie nie wieder eine Berechnung.</string>
     <key>Restore Purchased Themes</key>
-    <string>Restore Purchased Themes</string>
+    <string>Gekaufte Themes wiederherstellen</string>
     <key>Retro</key>
     <string>Retro</string>
     <key>Round for Currency</key>
-    <string>Round for Currency</string>
+    <string>Bei Währungen runden</string>
     <key>Save</key>
-    <string>Save</string>
-    <key>Send Tape as Email</key>
-    <string>Send Tape as Email</string>
+    <string>Speichern</string>
+    <key>Scientific</key>
+    <string>Wissenschaftlich</string>
+    <key>Select All</key>
+    <string>Alle auswählen</string>
     <key>Send as Email</key>
-    <string>Send as Email</string>
+    <string>Als Email senden</string>
     <key>Send to Calculator</key>
-    <string>Send to Calculator</string>
+    <string>Zum Taschenrechner senden</string>
     <key>Settings</key>
-    <string>Settings</string>
+    <string>Einstellungen</string>
     <key>Shark Attack</key>
     <string>Shark Attack</string>
     <key>Show All Conversion Results</key>
-    <string>Show All Conversion Results</string>
+    <string>Alle Umrechnungsergebnisse anzeigen</string>
+    <key>Show Conversion</key>
+    <string>Umrechnung anzeigen</string>
+    <key>Show Tape</key>
+    <string>Beleg anzeigen</string>
     <key>Sounds</key>
-    <string>Sounds</string>
+    <string>Töne</string>
     <key>Standard</key>
     <string>Standard</string>
     <key>THEME PACKS</key>
-    <string>THEME PACKS</string>
+    <string>THEME PAKETE</string>
+    <key>Tape</key>
+    <string>Beleg</string>
     <key>Tape Entry</key>
-    <string>Tape Entry</string>
+    <string>Beleg-Eintrag</string>
     <key>Theme Pack 1</key>
     <string>Theme Pack 1</string>
     <key>Theme Pack 2</key>
@@ -153,132 +195,88 @@
     <key>Themes</key>
     <string>Themes</string>
     <key>Title</key>
-    <string>Title</string>
-    <key>Unit Conversions.</key>
-    <string>Unit Conversions.</string>
-    <key>Unlimited History Tape.</key>
-    <string>Unlimited History Tape.</string>
-    <key>Upgrade to Pro to add your own constants and more.</key>
-    <string>Upgrade to Pro to add your own constants and more.</string>
-    <key>Upgrade to Pro to convert with over 200 units across 20 categories and more.</key>
-    <string>Upgrade to Pro to convert with over 200 units across 20 categories and more.</string>
-    <key>Upgrade to Pro to get unlimited history tape records and more.</key>
-    <string>Upgrade to Pro to get unlimited history tape records and more.</string>
-    <key>Upgrade to pro and get the following benefits:</key>
-    <string>Upgrade to pro and get the following benefits:</string>
-    <key>Use Expression</key>
-    <string>Use Expression</string>
-    <key>Use Result</key>
-    <string>Use Result</string>
-    <key>Value</key>
-    <string>Value</string>
-    <key>result</key>
-    <string>result</string>
-    <key>Attach Tape</key>
-    <string>Attach Tape</string>
-    <key>Basic</key>
-    <string>Basic</string>
-    <key>Checking for updated currency rates</key>
-    <string>Checking for updated currency rates</string>
-    <key>Conversion</key>
-    <string>Conversion</string>
-    <key>Copy Expression</key>
-    <string>Copy Expression</string>
-    <key>Could not fetch currency rates</key>
-    <string>Could not fetch currency rates</string>
-    <key>Delete</key>
-    <string>Delete</string>
-    <key>Detach Tape</key>
-    <string>Detach Tape</string>
-    <key>Email Tape</key>
-    <string>Email Tape</string>
-    <key>General</key>
-    <string>General</string>
-    <key>Hide Conversion</key>
-    <string>Hide Conversion</string>
-    <key>Hide Tape</key>
-    <string>Hide Tape</string>
-    <key>Large Type</key>
-    <string>Large Type</string>
-    <key>Last Updated: </key>
-    <string>Last Updated: </string>
-    <key>Main</key>
-    <string>Main</string>
-    <key>Please type your message above this line</key>
-    <string>Please type your message above this line</string>
-    <key>Remove All</key>
-    <string>Remove All</string>
-    <key>Scientific</key>
-    <string>Scientific</string>
-    <key>Select All</key>
-    <string>Select All</string>
-    <key>Show Conversion</key>
-    <string>Show Conversion</string>
-    <key>Show Tape</key>
-    <string>Show Tape</string>
-    <key>Tape</key>
-    <string>Tape</string>
+    <string>Titel</string>
     <key>Type a unit...</key>
-    <string>Type a unit...</string>
+    <string>Einheit eingeben...</string>
+    <key>Unit Conversions.</key>
+    <string>Umrechnungen von Einheiten.</string>
+    <key>Unlimited History Tape.</key>
+    <string>Unbegrenzter Beleg-Verlauf.</string>
+    <key>Upgrade to Pro to add your own constants and more.</key>
+    <string>Zu Pro upgraden um eigene Konstanten und mehr hinzuzufügen.</string>
+    <key>Upgrade to Pro to convert with over 200 units across 20 categories and more.</key>
+    <string>Zu Pro upgraden um u.a. über 200 Einheiten aus 20 Kategorien umzurechnen.</string>
+    <key>Upgrade to Pro to get unlimited history tape records and more.</key>
+    <string>Zu Pro upgraden für unbegrenzte Beleg-Verläufe und mehr.</string>
+    <key>Upgrade to pro and get the following benefits:</key>
+    <string>Zu Pro upgraden und folgende Vorteile genießen:</string>
+    <key>Use Expression</key>
+    <string>Termini verwenden</string>
+    <key>Use Result</key>
+    <string>Ergebnisse verwenden</string>
+    <key>Value</key>
+    <string>Wert</string>
     <key>Version</key>
     <string>Version</string>
     <key>View</key>
-    <string>View</string>
+    <string>Anzeige</string>
     <key>You cannot deselect every enabled conversion unit.</key>
-    <string>You cannot deselect every enabled conversion unit.</string>
+    <string>Es muss mindestens eine Umrechnungs-Einheit ausgewählt sein.</string>
     <key>You cannot deselect the last enabled conversion unit.</key>
-    <string>You cannot deselect the last enabled conversion unit.</string>
+    <string>Es muss mindestens eine Umrechnungs-Einheit ausgewählt sein.</string>
     <key>You need at least one enabled conversion unit</key>
-    <string>You need at least one enabled conversion unit</string>
+    <string>Es muss mindestens eine Umrechnungs-Einheit ausgewählt sein.</string>
     <key>calculated result</key>
-    <string>calculated result</string>
+    <string>Berechnetes Ergebnis</string>
     <key>conversion category chooser</key>
-    <string>conversion category chooser</string>
+    <string>Umrechnungs-Kategorie Auswahl</string>
     <key>conversion category picker</key>
-    <string>conversion category picker</string>
+    <string>Umrechnungs-Kategorie Auswahl</string>
     <key>conversion from unit</key>
-    <string>conversion from unit</string>
+    <string>Umrechnung aus Einheit</string>
     <key>conversion from unit symbol</key>
-    <string>conversion from unit symbol</string>
+    <string>Umrechnung aus Einheitensymbol</string>
     <key>conversion to unit</key>
-    <string>conversion to unit</string>
+    <string>Umrechnung zu Einheit</string>
     <key>conversion to unit symbol</key>
-    <string>conversion to unit symbol</string>
+    <string>Umrechnung zu Einheitensymbol</string>
     <key>current expression</key>
-    <string>current expression</string>
+    <string>aktueller Terminus</string>
     <key>display options segmented control</key>
     <string>display options segmented control</string>
     <key>favorite expression</key>
-    <string>favorite expression</string>
+    <string>Termini-Favoriten</string>
     <key>hide conversion</key>
-    <string>hide conversion</string>
+    <string>Umrechnung ausblenden</string>
     <key>hide tape</key>
-    <string>hide tape</string>
+    <string>Beleg ausblenden</string>
+    <key>result</key>
+    <string>Ergebnis</string>
     <key>saved expression</key>
-    <string>saved expression</string>
+    <string>Gespeicherte Termini</string>
     <key>saved result</key>
-    <string>saved result</string>
+    <string>Gespeicherte Ergebnisse</string>
     <key>show conversion</key>
-    <string>show conversion</string>
+    <string>Umrechnung anziegen</string>
     <key>show favorited saved expressions</key>
-    <string>show favorited saved expressions</string>
+    <string>Gespeicherte Termini-Favoriten anzeigen</string>
     <key>show tape</key>
-    <string>show tape</string>
+    <string>Beleg anzeigen</string>
     <key>show tape of saved expressions</key>
-    <string>show tape of saved expressions</string>
+    <string>Beleg von gespeichertem Terminus anzeigen</string>
     <key>swap from and to conversion units</key>
-    <string>swap from and to conversion units</string>
+    <string>Umrechnungs-Einheiten vertauschen</string>
     <key>table of favorited expressions</key>
-    <string>table of favorited expressions</string>
+    <string>Liste der Termini-Favoriten</string>
     <key>table of saved expressions</key>
-    <string>table of saved expressions</string>
+    <string>Liste der gespeicherten Termini</string>
     <key>tape options segmented control</key>
     <string>tape options segmented control</string>
     <key>tape settings button</key>
-    <string>tape settings button</string>
+    <string>Beleg-Einstellungen-Button</string>
     <key>unfavorite expression</key>
-    <string>unfavorite expression</string>
+    <string>Terminus-Favoriten löschen</string>
     <key>unknown</key>
-    <string>unknown</string>
+    <string>unbekannt</string>
   </dict>
 </plist>
