@@ -10,45 +10,7 @@
     <string>Nuclear Magneton</string>
     <key>Bohr Magneton</key>
     <string>Bohr Magneton</string>
-    <key>Fine-Structure Constant</key>
-    <string>Feinstrukturkonstante</string>
-    <key>Classical Electron Radius</key>
-    <string>Klassischer Radius des Elektron</string>
-    <key>Compton Wavelength</key>
-    <string>Compton Wellenlänge</string>
-    <key>Proton Gyromagnetic Ratio</key>
-    <string>gyromagnetischer Koeffizient des Protons</string>
-    <key>Proton Compton Wavelength</key>
-    <string>Compton Wellenlänge des Protons</string>
-    <key>Neutron Compton Wavelength</key>
-    <string>Compton Wellenlänge des Neutrons</string>
-    <key>Rydberg Constant</key>
-    <string>Rydberg Konstante</string>
-    <key>Proton Magnetic Moment</key>
-    <string>Magnetischer Moment des Protons</string>
-    <key>Electron Magnetic Moment</key>
-    <string>Magnetischer Moment des Elektrons</string>
-    <key>Neutron Magnetic Moment</key>
-    <string>Magnetischer Moment des Neutrons</string>
-    <key>Muon Magnetic Moment</key>
-    <string>Magnetischer Moment des Muons</string>
-    <key>First Radiation Constant</key>
-    <string>Erste Strahlungskonstante</string>
-    <key>Second Radiation Constant</key>
-    <string>Zweite Strahlungskonstante</string>
-    <key>Electric Constant</key>
-    <string>elektrische Feldkonstante</string>
-    <key>Magnetic Constant</key>
-    <string>magnetische Feldkonstante</string>
-    <key>Magnetic Flux Quantum</key>
-    <string>Magnetischer Flussquant</string>
-    <key>Standard Acceleration of Gravity</key>
-    <string>Normfallbeschleunigung</string>
-    <key>Standard Atmosphere</key>
-    <string>Normalathmospäre</string>
     <key>Conductance Quantum</key>
     <string>Conductance Quantum</string>
-    <key>Characteristic Impedance of Vacuum</key>
-    <string>Charakteristische Impedanz des Vakuums</string>
   </dict>
 </plist>
