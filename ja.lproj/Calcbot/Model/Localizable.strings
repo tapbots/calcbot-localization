@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>10 to the power of</key>
+    <string>10 to the power of</string>
+    <key>2 to the power of</key>
+    <string>2 to the power of</string>
+    <key>Error</key>
+    <string>エラー</string>
+    <key>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</key>
+    <string>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</string>
+    <key>add</key>
+    <string>add</string>
+    <key>alternate functions</key>
+    <string>alternate functions</string>
+    <key>clear</key>
+    <string>clear</string>
+    <key>close parenthesis</key>
+    <string>close parenthesis</string>
+    <key>constants</key>
+    <string>constants</string>
+    <key>cosine</key>
+    <string>cosine</string>
+    <key>cube</key>
+    <string>cube</string>
+    <key>cube root</key>
+    <string>cube root</string>
+    <key>decimal</key>
+    <string>decimal</string>
+    <key>degrees</key>
+    <string>degrees</string>
+    <key>delete</key>
+    <string>delete</string>
+    <key>divide</key>
+    <string>divide</string>
+    <key>ee engineering exponent</key>
+    <string>ee engineering exponent</string>
+    <key>equal</key>
+    <string>equal</string>
+    <key>exponential</key>
+    <string>exponential</string>
+    <key>factorial</key>
+    <string>factorial</string>
+    <key>favorites</key>
+    <string>favorites</string>
+    <key>hyperbolic cosine</key>
+    <string>hyperbolic cosine</string>
+    <key>hyperbolic sine</key>
+    <string>hyperbolic sine</string>
+    <key>hyperbolic tangent</key>
+    <string>hyperbolic tangent</string>
+    <key>inverse cosine</key>
+    <string>inverse cosine</string>
+    <key>inverse hyperbolic cosine</key>
+    <string>inverse hyperbolic cosine</string>
+    <key>inverse hyperbolic sine</key>
+    <string>inverse hyperbolic sine</string>
+    <key>inverse hyperbolic tangent</key>
+    <string>inverse hyperbolic tangent</string>
+    <key>inverse sine</key>
+    <string>inverse sine</string>
+    <key>inverse tangent</key>
+    <string>inverse tangent</string>
+    <key>log base 10</key>
+    <string>log base 10</string>
+    <key>log base 2</key>
+    <string>log base 2</string>
+    <key>logarithm</key>
+    <string>logarithm</string>
+    <key>multiply</key>
+    <string>multiply</string>
+    <key>natural log</key>
+    <string>natural log</string>
+    <key>open parenthesis</key>
+    <string>open parenthesis</string>
+    <key>percent</key>
+    <string>percent</string>
+    <key>plus, minus</key>
+    <string>plus, minus</string>
+    <key>power</key>
+    <string>power</string>
+    <key>radians</key>
+    <string>radians</string>
+    <key>random</key>
+    <string>random</string>
+    <key>reciprocal</key>
+    <string>reciprocal</string>
+    <key>reeverse power</key>
+    <string>reeverse power</string>
+    <key>root</key>
+    <string>root</string>
+    <key>round</key>
+    <string>round</string>
+    <key>sine</key>
+    <string>sine</string>
+    <key>square</key>
+    <string>square</string>
+    <key>square root</key>
+    <string>square root</string>
+    <key>subtract</key>
+    <string>subtract</string>
+    <key>tangent</key>
+    <string>tangent</string>
+  </dict>
+</plist>

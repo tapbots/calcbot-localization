@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Radioactivity</key>
+    <string>放射能</string>
+    <key>Becquerel</key>
+    <string>ベクレル</string>
+    <key>Microcurie</key>
+    <string>マイクロキュリー</string>
+    <key>Megabecquerel</key>
+    <string>メガベクレル</string>
+    <key>Millicurie</key>
+    <string>ミリキュリー</string>
+    <key>Gigabecquerel</key>
+    <string>ギガベクレル</string>
+    <key>Curie</key>
+    <string>キュリー</string>
+    <key>Terabecquerel</key>
+    <string>テラベクレル</string>
+  </dict>
+</plist>

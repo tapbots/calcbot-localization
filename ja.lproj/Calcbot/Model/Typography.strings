@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Typography</key>
+    <string>タイポグラフィ</string>
+    <key>Pixel (300 dpi)</key>
+    <string>Pixel (300 dpi)</string>
+    <key>Pixel (150 dpi)</key>
+    <string>Pixel (150 dpi)</string>
+    <key>Pixel (96 dpi)</key>
+    <string>Pixel (96 dpi)</string>
+    <key>Pixel (72 dpi)</key>
+    <string>Pixel (72 dpi)</string>
+    <key>Point</key>
+    <string>ポイント</string>
+    <key>Didot</key>
+    <string>ディドー</string>
+    <key>Millimetre</key>
+    <string>ミリメートル</string>
+    <key>Agate Line</key>
+    <string>アゲートライン</string>
+    <key>Pica</key>
+    <string>パイカ</string>
+    <key>Cicero</key>
+    <string>シセロ</string>
+    <key>Centimetre</key>
+    <string>センチメートル</string>
+    <key>Inch</key>
+    <string>インチ</string>
+    <key>歯 (H)</key>
+    <string>歯 (H)</string>
+    <key>級 (Q)</key>
+    <string>級 (Q)</string>
+  </dict>
+</plist>

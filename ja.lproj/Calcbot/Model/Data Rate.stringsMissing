@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Kilobits/Sec. (SI)</key>
+    <string>Kilobits/Sec. (SI)</string>
+    <key>Kilobytes/Sec. (SI)</key>
+    <string>Kilobytes/Sec. (SI)</string>
+    <key>Megabits/Sec. (SI)</key>
+    <string>Megabits/Sec. (SI)</string>
+    <key>Megabytes/Sec. (SI)</key>
+    <string>Megabytes/Sec. (SI)</string>
+    <key>Gigabits/Sec. (SI)</key>
+    <string>Gigabits/Sec. (SI)</string>
+    <key>Gigabytes/Sec. (SI)</key>
+    <string>Gigabytes/Sec. (SI)</string>
+    <key>Terabits/Sec. (SI)</key>
+    <string>Terabits/Sec. (SI)</string>
+    <key>Terabytes/Sec. (SI)</key>
+    <string>Terabytes/Sec. (SI)</string>
+  </dict>
+</plist>

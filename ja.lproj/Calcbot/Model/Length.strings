@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Length</key>
+    <string>長さ</string>
+    <key>Ångström</key>
+    <string>オングストローム</string>
+    <key>Nanometre</key>
+    <string>ナノメートル</string>
+    <key>Micron</key>
+    <string>ミクロン</string>
+    <key>Mil</key>
+    <string>ミル</string>
+    <key>Thou</key>
+    <string>サウ</string>
+    <key>Mō</key>
+    <string>毛</string>
+    <key>Rin</key>
+    <string>厘</string>
+    <key>Millimetre</key>
+    <string>ミリメートル</string>
+    <key>Bu</key>
+    <string>分</string>
+    <key>Centimetre</key>
+    <string>センチメートル</string>
+    <key>Inch</key>
+    <string>インチ</string>
+    <key>Sun</key>
+    <string>寸</string>
+    <key>Hand</key>
+    <string>ハンド</string>
+    <key>Link</key>
+    <string>リンク</string>
+    <key>Kanejaku</key>
+    <string>曲尺</string>
+    <key>Foot</key>
+    <string>フィート</string>
+    <key>Yard</key>
+    <string>ヤード</string>
+    <key>Metre</key>
+    <string>メートル</string>
+    <key>Smoot</key>
+    <string>スムート</string>
+    <key>Hiro</key>
+    <string>尋</string>
+    <key>Ken</key>
+    <string>間</string>
+    <key>Fathom</key>
+    <string>ファゾム</string>
+    <key>Jō</key>
+    <string>丈</string>
+    <key>Rod</key>
+    <string>ロッド</string>
+    <key>Chain</key>
+    <string>チェーン</string>
+    <key>Chō</key>
+    <string>町</string>
+    <key>Furlong</key>
+    <string>ハロン</string>
+    <key>Kilometre</key>
+    <string>キロメートル</string>
+    <key>Mile</key>
+    <string>マイル</string>
+    <key>Nautical Mile</key>
+    <string>海里</string>
+    <key>Ri</key>
+    <string>里</string>
+    <key>League</key>
+    <string>リーグ</string>
+    <key>Light Second</key>
+    <string>光秒</string>
+    <key>Light Minute</key>
+    <string>光分</string>
+    <key>Astronomical Unit</key>
+    <string>天文単位</string>
+    <key>Light Year</key>
+    <string>光年</string>
+    <key>Parsec</key>
+    <string>パーセク</string>
+  </dict>
+</plist>

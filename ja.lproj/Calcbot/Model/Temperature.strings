@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Temperature</key>
+    <string>温度</string>
+    <key>Fahrenheit</key>
+    <string>華氏</string>
+    <key>Celsius</key>
+    <string>摂氏</string>
+    <key>Kelvin</key>
+    <string>ケルビン</string>
+    <key>Rankine</key>
+    <string>ランキン度</string>
+  </dict>
+</plist>

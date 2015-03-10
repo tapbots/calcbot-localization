@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Data Size</key>
+    <string>データサイズ</string>
+    <key>Bit</key>
+    <string>ビット</string>
+    <key>Byte</key>
+    <string>バイト</string>
+    <key>Kilobit (SI)</key>
+    <string>Kilobit (SI)</string>
+    <key>Kilobit</key>
+    <string>キロビット</string>
+    <key>Kilobyte (SI)</key>
+    <string>Kilobyte (SI)</string>
+    <key>Kilobyte</key>
+    <string>キロバイト</string>
+    <key>Megabit (SI)</key>
+    <string>Megabit (SI)</string>
+    <key>Megabit</key>
+    <string>メガビット</string>
+    <key>Megabyte (SI)</key>
+    <string>Megabyte (SI)</string>
+    <key>Megabyte</key>
+    <string>メガバイト</string>
+    <key>Gigabit (SI)</key>
+    <string>Gigabit (SI)</string>
+    <key>Gigabit</key>
+    <string>ギガビット</string>
+    <key>Gigabyte (SI)</key>
+    <string>Gigabyte (SI)</string>
+    <key>Gigabyte</key>
+    <string>ギガバイト</string>
+    <key>Terabit (SI)</key>
+    <string>Terabit (SI)</string>
+    <key>Terabit</key>
+    <string>テラビット</string>
+    <key>Terabyte (SI)</key>
+    <string>Terabyte (SI)</string>
+    <key>Terabyte</key>
+    <string>テラバイト</string>
+    <key>Petabit (SI)</key>
+    <string>Petabit (SI)</string>
+    <key>Petabit</key>
+    <string>ペタビット</string>
+    <key>Petabyte (SI)</key>
+    <string>Petabyte (SI)</string>
+    <key>Petabyte</key>
+    <string>ペタバイト</string>
+  </dict>
+</plist>

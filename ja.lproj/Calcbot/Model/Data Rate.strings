@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Data Rate</key>
+    <string>データレート</string>
+    <key>Bytes/Week</key>
+    <string>バイト／週</string>
+    <key>Bytes/Day</key>
+    <string>バイト／日</string>
+    <key>Bytes/Hour</key>
+    <string>バイト／時</string>
+    <key>Kilobytes/Week</key>
+    <string>キロバイト／週</string>
+    <key>Kilobytes/Day</key>
+    <string>キロバイト／日</string>
+    <key>Bytes/Min.</key>
+    <string>バイト／分</string>
+    <key>Bits/Sec.</key>
+    <string>ビット／秒</string>
+    <key>Kilobytes/Hour</key>
+    <string>キロバイト／時</string>
+    <key>Bytes/Sec.</key>
+    <string>バイト／秒</string>
+    <key>Megabytes/Week</key>
+    <string>メガバイト／週</string>
+    <key>Megabytes/Day</key>
+    <string>メガバイト／日</string>
+    <key>Kilobytes/Min.</key>
+    <string>キロバイト／分</string>
+    <key>Kilobits/Sec. (SI)</key>
+    <string>Kilobits/Sec. (SI)</string>
+    <key>Kilobits/Sec.</key>
+    <string>キロビット／秒</string>
+    <key>Megabytes/Hour</key>
+    <string>メガバイト／時</string>
+    <key>Kilobytes/Sec. (SI)</key>
+    <string>Kilobytes/Sec. (SI)</string>
+    <key>Kilobytes/Sec.</key>
+    <string>キロバイト／秒</string>
+    <key>Gigabytes/Week</key>
+    <string>ギガバイト／週</string>
+    <key>Gigabytes/Day</key>
+    <string>ギガバイト／日</string>
+    <key>Megabytes/Min.</key>
+    <string>メガバイト／分</string>
+    <key>Megabits/Sec. (SI)</key>
+    <string>Megabits/Sec. (SI)</string>
+    <key>Megabits/Sec.</key>
+    <string>メガビット／秒</string>
+    <key>Gigabytes/Hour</key>
+    <string>ギガバイト／時</string>
+    <key>Megabytes/Sec. (SI)</key>
+    <string>Megabytes/Sec. (SI)</string>
+    <key>Megabytes/Sec.</key>
+    <string>メガバイト／秒</string>
+    <key>Terabytes/Week</key>
+    <string>テラバイト／週</string>
+    <key>Terabytes/Day</key>
+    <string>テラバイト／日</string>
+    <key>Gigabytes/Min.</key>
+    <string>ギガバイト／分</string>
+    <key>Gigabits/Sec. (SI)</key>
+    <string>Gigabits/Sec. (SI)</string>
+    <key>Gigabits/Sec.</key>
+    <string>ギガビット／秒</string>
+    <key>Terabytes/Hour</key>
+    <string>テラバイト／時</string>
+    <key>Gigabytes/Sec. (SI)</key>
+    <string>Gigabytes/Sec. (SI)</string>
+    <key>Gigabytes/Sec.</key>
+    <string>ギガバイト／秒</string>
+    <key>Terabytes/Min.</key>
+    <string>テラバイト／分</string>
+    <key>Terabits/Sec. (SI)</key>
+    <string>Terabits/Sec. (SI)</string>
+    <key>Terabits/Sec.</key>
+    <string>テラビット／秒</string>
+    <key>Terabytes/Sec. (SI)</key>
+    <string>Terabytes/Sec. (SI)</string>
+    <key>Terabytes/Sec.</key>
+    <string>テラバイト／秒</string>
+  </dict>
+</plist>

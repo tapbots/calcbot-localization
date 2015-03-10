@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>%@d</key>
+    <string>%@日</string>
+    <key>%d days</key>
+    <string>%d日</string>
+    <key>%d hours</key>
+    <string>%d時間</string>
+    <key>%d minutes</key>
+    <string>%d分</string>
+    <key>%d seconds</key>
+    <string>%d秒</string>
+    <key>%dd</key>
+    <string>%d日</string>
+    <key>%dh</key>
+    <string>%d時間</string>
+    <key>%dm</key>
+    <string>%d分</string>
+    <key>%ds</key>
+    <string>%d秒</string>
+    <key>1 day</key>
+    <string>1日</string>
+    <key>1 hour</key>
+    <string>1時間</string>
+    <key>1 minute</key>
+    <string>1分</string>
+    <key>1 second</key>
+    <string>1秒</string>
+    <key>About</key>
+    <string>Tapbotsについて</string>
+    <key>Calcbot Preferences</key>
+    <string>Calcbot Preferences</string>
+    <key>Cancel</key>
+    <string>キャンセル</string>
+    <key>Cancelled</key>
+    <string>キャンセルされました</string>
+    <key>Close</key>
+    <string>閉じる</string>
+    <key>Couldn’t parse JSON data.</key>
+    <string>JSONデータを解析できませんでした。</string>
+    <key>Dumb Quotes</key>
+    <string>記号置換オフ</string>
+    <key>FOLLOW US ON TWITTER</key>
+    <string>TWITTERでフォロー</string>
+    <key>Invalid Data</key>
+    <string>不正なデータ</string>
+    <key>Leave %@?</key>
+    <string>%@を終了しますか？</string>
+    <key>Network Connection Busy</key>
+    <string>ネットワークが混雑しています</string>
+    <key>Now</key>
+    <string>今</string>
+    <key>OFF</key>
+    <string>オフ</string>
+    <key>ON</key>
+    <string>オン</string>
+    <key>OTHER APPS</key>
+    <string>OTHER APPS</string>
+    <key>Open</key>
+    <string>開く</string>
+    <key>Over 1 year</key>
+    <string>1年以上</string>
+    <key>Please try again later.</key>
+    <string>後で再度お試しください。</string>
+    <key>Privacy Policy</key>
+    <string>プライバシーポリシー</string>
+    <key>Request Timed Out</key>
+    <string>要求タイムアウト</string>
+    <key>Review %@ on iTunes</key>
+    <string>%@をiTunesでレビュー</string>
+    <key>Smart Quotes</key>
+    <string>記号置換オン</string>
+    <key>The link is requesting to open an external application. Would you like to continue?</key>
+    <string>このリンクは他のアプリケーションで
+開かれます。続けてよろしいですか？</string>
+    <key>Today at %@</key>
+    <string>今日、%@</string>
+    <key>Unknown Error.</key>
+    <string>不明のエラーです。</string>
+    <key>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
+Paul codes in Texas and Mark designs in California.</key>
+    <string>弊社はiOS・Mac用の優れたアプリを創ることを目標とする、2名（ときどき3名）だけの小さな会社です。
+テキサス在住のPaulがコードを書き、カリフォルニア在住のMarkがデザインしています。</string>
+    <key>Which account do you want to follow %@ with?</key>
+    <string>どのアカウントで%@をフォローしますか？</string>
+    <key>Yesterday at %@</key>
+    <string>昨日、%@</string>
+  </dict>
+</plist>

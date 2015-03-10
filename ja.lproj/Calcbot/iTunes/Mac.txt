@@ -1,0 +1,28 @@
+Calcbot is an intelligent calculator and unit converter for the rest of us. Featuring an easy-to-read history tape, expression view, intuitive conversion, and much more!
+
+History Tape.
+Every calculation you enter gets saved to the history tape and optionally sent to your clipboard for quick pasting. Refer to calculations later or send them right back to the calculator.
+
+Expression View.
+Calcbot’s original expression view allows you to see everything you have typed so you’ll never forget what you entered or miss a typo.
+
+Conversion.
+Convert any of your calculations with over 500 units across 22 different categories including auto-updating currency rates.
+
+Favorites.
+Fave a calculation and get instant access to its result via the Favorites Key. No more cryptic memory keys.
+
+Scientific Functions.
+Calcbot supports common scientific functions in case you ever need them.
+
+Constants.
+Get instant access to scientific constants like Pi, Atomic Mass or add your own.
+
+Round for Currency.
+Have all of your results rounded to two decimal places.
+
+iCloud Sync.
+Sync your history tape, constants, and faves across multiple Macs and all of your iOS devices.
+
+Sounds & Animations.
+Sound effects & animations to provide positive feedback when performing calculations.

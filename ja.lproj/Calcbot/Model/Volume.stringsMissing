@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Drop (Imperial)</key>
+    <string>Drop (Imperial)</string>
+    <key>Dash (Imperial)</key>
+    <string>Dash (Imperial)</string>
+    <key>Pinch (Imperial)</key>
+    <string>Pinch (Imperial)</string>
+    <key>Teaspoon (Metric)</key>
+    <string>Teaspoon (Metric)</string>
+    <key>Teaspoon (Imperial)</key>
+    <string>Teaspoon (Imperial)</string>
+    <key>Tablespoon (Metric)</key>
+    <string>Tablespoon (Metric)</string>
+    <key>Tablespoon (Imperial)</key>
+    <string>Tablespoon (Imperial)</string>
+    <key>Ounce (Imperial)</key>
+    <string>Ounce (Imperial)</string>
+    <key>Gill (Imperial)</key>
+    <string>Gill (Imperial)</string>
+    <key>Cup (Metric)</key>
+    <string>Cup (Metric)</string>
+    <key>Cup (Imperial)</key>
+    <string>Cup (Imperial)</string>
+    <key>Pint (Imperial)</key>
+    <string>Pint (Imperial)</string>
+    <key>Quart (Imperial)</key>
+    <string>Quart (Imperial)</string>
+    <key>Gallon (Imperial)</key>
+    <string>Gallon (Imperial)</string>
+    <key>Beer Barrel (Imperial)</key>
+    <string>Beer Barrel (Imperial)</string>
+  </dict>
+</plist>

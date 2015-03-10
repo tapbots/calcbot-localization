@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Pressure</key>
+    <string>圧力</string>
+    <key>Pascal</key>
+    <string>パスカル</string>
+    <key>KG/Square Metre</key>
+    <string>キログラム／平方メートル</string>
+    <key>MM of Water</key>
+    <string>水柱ミリメートル</string>
+    <key>Pounds/Square Foot</key>
+    <string>ポンド／立方フィート</string>
+    <key>CM of Water</key>
+    <string>水柱センチメートル</string>
+    <key>Hectopascal</key>
+    <string>ヘクトパスカル</string>
+    <key>Millibar</key>
+    <string>ミリバール</string>
+    <key>Torr</key>
+    <string>トル</string>
+    <key>MM of Mercury</key>
+    <string>水銀柱ミリメートル</string>
+    <key>Inch of Water</key>
+    <string>水柱インチ</string>
+    <key>Kilopascal</key>
+    <string>キロパスカル</string>
+    <key>CM of Mercury</key>
+    <string>水銀柱センチメートル</string>
+    <key>Inches of Mercury</key>
+    <string>水銀柱インチ</string>
+    <key>Pounds/Square Inch</key>
+    <string>ポンド／立方インチ</string>
+    <key>KG/Square CM</key>
+    <string>キログラム／平方センチメートル</string>
+    <key>Bars</key>
+    <string>バール</string>
+    <key>Atmospheres</key>
+    <string>気圧</string>
+    <key>Megapascal</key>
+    <string>メガパスカル</string>
+    <key>Gigapascal</key>
+    <string>ギガパスカル</string>
+  </dict>
+</plist>
