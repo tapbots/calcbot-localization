@@ -11,44 +11,44 @@
     <key>Bohr Magneton</key>
     <string>Bohr Magneton</string>
     <key>Fine-Structure Constant</key>
-    <string>Fine-Structure Constant</string>
+    <string>Feinstrukturkonstante</string>
     <key>Classical Electron Radius</key>
-    <string>Classical Electron Radius</string>
+    <string>Klassischer Radius des Elektron</string>
     <key>Compton Wavelength</key>
-    <string>Compton Wavelength</string>
+    <string>Compton Wellenlänge</string>
     <key>Proton Gyromagnetic Ratio</key>
-    <string>Proton Gyromagnetic Ratio</string>
+    <string>gyromagnetischer Koeffizient des Protons</string>
     <key>Proton Compton Wavelength</key>
-    <string>Proton Compton Wavelength</string>
+    <string>Compton Wellenlänge des Protons</string>
     <key>Neutron Compton Wavelength</key>
-    <string>Neutron Compton Wavelength</string>
+    <string>Compton Wellenlänge des Neutrons</string>
     <key>Rydberg Constant</key>
-    <string>Rydberg Constant</string>
+    <string>Rydberg Konstante</string>
     <key>Proton Magnetic Moment</key>
-    <string>Proton Magnetic Moment</string>
+    <string>Magnetischer Moment des Protons</string>
     <key>Electron Magnetic Moment</key>
-    <string>Electron Magnetic Moment</string>
+    <string>Magnetischer Moment des Elektrons</string>
     <key>Neutron Magnetic Moment</key>
-    <string>Neutron Magnetic Moment</string>
+    <string>Magnetischer Moment des Neutrons</string>
     <key>Muon Magnetic Moment</key>
-    <string>Muon Magnetic Moment</string>
+    <string>Magnetischer Moment des Muons</string>
     <key>First Radiation Constant</key>
-    <string>First Radiation Constant</string>
+    <string>Erste Strahlungskonstante</string>
     <key>Second Radiation Constant</key>
-    <string>Second Radiation Constant</string>
+    <string>Zweite Strahlungskonstante</string>
     <key>Electric Constant</key>
-    <string>Electric Constant</string>
+    <string>elektrische Feldkonstante</string>
     <key>Magnetic Constant</key>
-    <string>Magnetic Constant</string>
+    <string>magnetische Feldkonstante</string>
     <key>Magnetic Flux Quantum</key>
-    <string>Magnetic Flux Quantum</string>
+    <string>Magnetischer Flussquant</string>
     <key>Standard Acceleration of Gravity</key>
-    <string>Standard Acceleration of Gravity</string>
+    <string>Normfallbeschleunigung</string>
     <key>Standard Atmosphere</key>
-    <string>Standard Atmosphere</string>
+    <string>Normalathmospäre</string>
     <key>Conductance Quantum</key>
     <string>Conductance Quantum</string>
     <key>Characteristic Impedance of Vacuum</key>
-    <string>Characteristic Impedance of Vacuum</string>
+    <string>Charakteristische Impedanz des Vakuums</string>
   </dict>
 </plist>
