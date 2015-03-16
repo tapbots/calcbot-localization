@@ -3,12 +3,12 @@
 <plist version="1.0">
   <dict>
     <key>Tap on the current category icon to quickly enable/disable units.</key>
-    <string>Tap on the current category icon to quickly enable/disable units.</string>
+    <string>点按当前的类别图标快速启用或禁用单位。</string>
     <key>Pull down on the display to reveal the history tape.</key>
-    <string>Pull down on the display to reveal the history tape.</string>
+    <string>在屏幕上下拉以显示历史清单。</string>
     <key>Hold down the delete key to clear the expression.</key>
-    <string>Hold down the delete key to clear the expression.</string>
+    <string>按住删除键来清除算式。</string>
     <key>Swipe right across the display to access conversion mode.</key>
-    <string>Swipe right across the display to access conversion mode.</string>
+    <string>在屏幕上右滑以进入转换模式。</string>
   </dict>
 </plist>
