@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>Golden Ratio</key>
-	<string>黄金比</string>
-	<key>Pi</key>
-	<string>パイ</string>
-	<key>Euler’s Number</key>
-	<string>ネイピア数</string>
-	<key>Proton Mass</key>
-	<string>陽子質量</string>
-	<key>Neutron Mass</key>
-	<string>中性子質量</string>
-	<key>Electron Mass</key>
-	<string>電子質量</string>
-	<key>Muon Mass</key>
-	<string>ミューオン質量</string>
-	<key>Bohr Radius</key>
-	<string>ボーア半径</string>
-	<key>Planck</key>
-	<string>プランク</string>
-	<key>Nuclear Magneton</key>
-	<string>核磁子</string>
-	<key>Bohr Magneton</key>
-	<string>ボーア磁子</string>
-	<key>Fine-Structure Constant</key>
-	<string>微細構造定数</string>
-	<key>Classical Electron Radius</key>
-	<string>古典電子半径</string>
-	<key>Compton Wavelength</key>
-	<string>コンプトン波長</string>
-	<key>Proton Gyromagnetic Ratio</key>
-	<string>陽子磁気回転比</string>
-	<key>Proton Compton Wavelength</key>
-	<string>陽子コンプトン波長</string>
-	<key>Neutron Compton Wavelength</key>
-	<string>中性子コンプトン波長</string>
-	<key>Rydberg Constant</key>
-	<string>リュードベリ定数</string>
-	<key>Atomic Mass</key>
-	<string>原子質量</string>
-	<key>Proton Magnetic Moment</key>
-	<string>陽子磁気能率</string>
-	<key>Electron Magnetic Moment</key>
-	<string>電子磁気能率</string>
-	<key>Neutron Magnetic Moment</key>
-	<string>中性子磁気能率</string>
-	<key>Muon Magnetic Moment</key>
-	<string>ミューオン磁気能率</string>
-	<key>Faraday Constant</key>
-	<string>ファラデー定数</string>
-	<key>Elementary Charge</key>
-	<string>素電荷</string>
-	<key>Avogadro Constant</key>
-	<string>アボガドロ定数</string>
-	<key>Boltzmann Constant</key>
-	<string>ボルツマン定数</string>
-	<key>Molar Volume of Ideal Gas</key>
-	<string>完全ガスのモル体積</string>
-	<key>Molar Gas Constant</key>
-	<string>モル気体定数</string>
-	<key>Speed of Light</key>
-	<string>光の速さ</string>
-	<key>First Radiation Constant</key>
-	<string>第一放射定数</string>
-	<key>Second Radiation Constant</key>
-	<string>第二放射定数</string>
-	<key>Stefan-Boltzmann Constant</key>
-	<string>ステファン・ボルツマン定数</string>
-	<key>Electric Constant</key>
-	<string>電気定数</string>
-	<key>Magnetic Constant</key>
-	<string>磁気定数</string>
-	<key>Magnetic Flux Quantum</key>
-	<string>磁束の量子化</string>
-	<key>Standard Acceleration of Gravity</key>
-	<string>標準重力</string>
-	<key>Standard Atmosphere</key>
-	<string>標準大気</string>
-	<key>Conductance Quantum</key>
-	<string>量子コンダクタンス</string>
-	<key>Characteristic Impedance of Vacuum</key>
-	<string>特性インピーダンス</string>
-	<key>Celsius Temperature</key>
-	<string>セ氏温度</string>
-	<key>Newtonian Constant of Gravitation</key>
-	<string>ニュートン重力定数</string>
-</dict>
+  <dict>
+    <key>Golden Ratio</key>
+    <string>黄金比</string>
+    <key>Pi</key>
+    <string>パイ</string>
+    <key>Euler’s Number</key>
+    <string>ネイピア数</string>
+    <key>Proton Mass</key>
+    <string>陽子質量</string>
+    <key>Neutron Mass</key>
+    <string>中性子質量</string>
+    <key>Electron Mass</key>
+    <string>電子質量</string>
+    <key>Muon Mass</key>
+    <string>ミューオン質量</string>
+    <key>Bohr Radius</key>
+    <string>ボーア半径</string>
+    <key>Planck</key>
+    <string>プランク</string>
+    <key>Nuclear Magneton</key>
+    <string>核磁子</string>
+    <key>Bohr Magneton</key>
+    <string>ボーア磁子</string>
+    <key>Fine-Structure Constant</key>
+    <string>微細構造定数</string>
+    <key>Classical Electron Radius</key>
+    <string>古典電子半径</string>
+    <key>Compton Wavelength</key>
+    <string>コンプトン波長</string>
+    <key>Proton Gyromagnetic Ratio</key>
+    <string>陽子磁気回転比</string>
+    <key>Proton Compton Wavelength</key>
+    <string>陽子コンプトン波長</string>
+    <key>Neutron Compton Wavelength</key>
+    <string>中性子コンプトン波長</string>
+    <key>Rydberg Constant</key>
+    <string>リュードベリ定数</string>
+    <key>Atomic Mass</key>
+    <string>原子質量</string>
+    <key>Proton Magnetic Moment</key>
+    <string>陽子磁気能率</string>
+    <key>Electron Magnetic Moment</key>
+    <string>電子磁気能率</string>
+    <key>Neutron Magnetic Moment</key>
+    <string>中性子磁気能率</string>
+    <key>Muon Magnetic Moment</key>
+    <string>ミューオン磁気能率</string>
+    <key>Faraday Constant</key>
+    <string>ファラデー定数</string>
+    <key>Elementary Charge</key>
+    <string>素電荷</string>
+    <key>Avogadro Constant</key>
+    <string>アボガドロ定数</string>
+    <key>Boltzmann Constant</key>
+    <string>ボルツマン定数</string>
+    <key>Molar Volume of Ideal Gas</key>
+    <string>完全ガスのモル体積</string>
+    <key>Molar Gas Constant</key>
+    <string>モル気体定数</string>
+    <key>Speed of Light</key>
+    <string>光の速さ</string>
+    <key>First Radiation Constant</key>
+    <string>第一放射定数</string>
+    <key>Second Radiation Constant</key>
+    <string>第二放射定数</string>
+    <key>Stefan-Boltzmann Constant</key>
+    <string>ステファン・ボルツマン定数</string>
+    <key>Electric Constant</key>
+    <string>電気定数</string>
+    <key>Magnetic Constant</key>
+    <string>磁気定数</string>
+    <key>Magnetic Flux Quantum</key>
+    <string>磁束の量子化</string>
+    <key>Standard Acceleration of Gravity</key>
+    <string>標準重力</string>
+    <key>Standard Atmosphere</key>
+    <string>標準大気</string>
+    <key>Conductance Quantum</key>
+    <string>量子コンダクタンス</string>
+    <key>Characteristic Impedance of Vacuum</key>
+    <string>特性インピーダンス</string>
+    <key>Celsius Temperature</key>
+    <string>セ氏温度</string>
+    <key>Newtonian Constant of Gravitation</key>
+    <string>ニュートン重力定数</string>
+  </dict>
 </plist>
