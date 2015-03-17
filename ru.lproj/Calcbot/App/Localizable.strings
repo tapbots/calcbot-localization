@@ -3,284 +3,284 @@
 <plist version="1.0">
   <dict>
     <key>%@ ago</key>
-    <string>%@ ago</string>
+    <string>%@ тому назад</string>
     <key>About Tapbots</key>
-    <string>About Tapbots</string>
+    <string>О Tapbots</string>
     <key>Access to the special pro theme.</key>
-    <string>Access to the special pro theme.</string>
+    <string>Доступ к специальной теме оформления.</string>
     <key>Add New</key>
-    <string>Add New</string>
+    <string>Добавить новое</string>
     <key>Add your own values and labels to the constants menu.</key>
-    <string>Add your own values and labels to the constants menu.</string>
+    <string>Добавьте ваши собственные значения и метки в меню констант.</string>
     <key>Attach Tape</key>
-    <string>Attach Tape</string>
+    <string>Прикрепить ленту</string>
     <key>Basic</key>
-    <string>Basic</string>
+    <string>Основной</string>
     <key>COMPANY</key>
-    <string>COMPANY</string>
+    <string>КОМПАНИЯ</string>
     <key>CONVERSION</key>
-    <string>CONVERSION</string>
+    <string>КОНВЕРТАЦИЯ</string>
     <key>Calcbot Calculation</key>
-    <string>Calcbot Calculation</string>
+    <string>Calcbot Вычисление</string>
     <key>Calcbot Calculations</key>
-    <string>Calcbot Calculations</string>
+    <string>Calcbot Вычисления</string>
     <key>Categories</key>
-    <string>Categories</string>
+    <string>Категории</string>
     <key>Categories and Units</key>
-    <string>Categories and Units</string>
+    <string>Категории и Единицы Измерения</string>
     <key>Category</key>
-    <string>Category</string>
+    <string>Категория</string>
     <key>Checking for updated currency rates</key>
-    <string>Checking for updated currency rates</string>
+    <string>Проверка обновлений курсов валют</string>
     <key>Clear Favorites</key>
-    <string>Clear Favorites</string>
+    <string>Очистить избранное</string>
     <key>Clear Tape</key>
-    <string>Clear Tape</string>
+    <string>Очистить ленту</string>
     <key>Close</key>
-    <string>Close</string>
+    <string>Закрыть</string>
     <key>Constants</key>
-    <string>Constants</string>
+    <string>Константы</string>
     <key>Contact Us</key>
-    <string>Contact Us</string>
+    <string>Связаться с нами</string>
     <key>Conversion</key>
-    <string>Conversion</string>
+    <string>Конвертация</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
-    <string>Convert with over 200 units across 20 conversion categories.</string>
+    <string>Конвертируйте более чем 200 единиц измерений в 20 категориях.</string>
     <key>Copy</key>
-    <string>Copy</string>
+    <string>Копировать</string>
     <key>Copy Expression</key>
-    <string>Copy Expression</string>
+    <string>Копировать выражение</string>
     <key>Copy Result</key>
-    <string>Copy Result</string>
+    <string>Копировать результат</string>
     <key>Could not fetch currency rates</key>
-    <string>Could not fetch currency rates</string>
+    <string>Ошибка при обновлении курса валют</string>
     <key>Custom Constants.</key>
-    <string>Custom Constants.</string>
+    <string>Персональные константы.</string>
     <key>DEFAULT</key>
-    <string>DEFAULT</string>
+    <string>СТАНДАРТНЫЕ</string>
     <key>Dark Ninja</key>
-    <string>Dark Ninja</string>
+    <string>Тёмный Ниндзя</string>
     <key>Delete</key>
-    <string>Delete</string>
+    <string>Удалить</string>
     <key>Detach Tape</key>
-    <string>Detach Tape</string>
+    <string>Отсоединить ленту</string>
     <key>Disable All</key>
-    <string>Disable All</string>
+    <string>Отключить всё</string>
     <key>Edit Units</key>
-    <string>Edit Units</string>
+    <string>Редактировать единицы измерения</string>
     <key>Email Tape</key>
-    <string>Email Tape</string>
+    <string>Отправить ленту по эл. почте</string>
     <key>Enable All</key>
-    <string>Enable All</string>
+    <string>Включить всё</string>
     <key>Enable constants in the settings.</key>
-    <string>Enable constants in the settings.</string>
+    <string>Включить константы в настройках.</string>
     <key>Enter a Calculation to Save it Here.</key>
-    <string>Enter a Calculation to Save it Here.</string>
+    <string>Введите вычисление для сохранения.</string>
     <key>Failed to Restore Purchases</key>
-    <string>Failed to Restore Purchases</string>
+    <string>Ошибка при восстановлении покупок</string>
     <key>Fav an item in the history tape for quick access here.</key>
-    <string>Fav an item in the history tape for quick access here.</string>
+    <string>Добавьте элемент из архива в избранное для доступа отсюда.</string>
     <key>Fave a Calculation to Show it Here.</key>
-    <string>Fave a Calculation to Show it Here.</string>
+    <string>Добавьте вычисление в избранное чтобы отобразить здесь.</string>
     <key>Favorites</key>
-    <string>Favorites</string>
+    <string>Избранные</string>
     <key>From</key>
-    <string>From</string>
+    <string>От</string>
     <key>GENERAL</key>
-    <string>GENERAL</string>
+    <string>ОСНОВНЫЕ</string>
     <key>General</key>
-    <string>General</string>
+    <string>Основные</string>
     <key>Hide Conversion</key>
-    <string>Hide Conversion</string>
+    <string>Спрятать конвертацию</string>
     <key>Hide Tape</key>
-    <string>Hide Tape</string>
+    <string>Спрятать Ленту</string>
     <key>History</key>
-    <string>History</string>
+    <string>История</string>
     <key>Large Type</key>
-    <string>Large Type</string>
+    <string>Крупный шрифт</string>
     <key>Last Updated: </key>
-    <string>Last Updated: </string>
+    <string>Последнее обновление: </string>
     <key>Last updated: %@</key>
-    <string>Last updated: %@</string>
+    <string>Последнее обновление: %@</string>
     <key>Learn More</key>
-    <string>Learn More</string>
+    <string>Узнать больше</string>
     <key>Light Ninja</key>
-    <string>Light Ninja</string>
+    <string>Светлый Ниндзя</string>
     <key>Loading…</key>
-    <string>Loading…</string>
+    <string>Загрузка</string>
     <key>MY CONSTANTS</key>
-    <string>MY CONSTANTS</string>
+    <string>МОИ КОНСТАНТЫ</string>
     <key>MY THEMES</key>
-    <string>MY THEMES</string>
+    <string>МОИ ТЕМЫ</string>
     <key>Main</key>
-    <string>Main</string>
+    <string>Главная</string>
     <key>Mark’s Office</key>
-    <string>Mark’s Office</string>
+    <string>Офис Марка</string>
     <key>Melancholy</key>
-    <string>Melancholy</string>
+    <string>Меланхолия</string>
     <key>Memories</key>
-    <string>Memories</string>
+    <string>Воспоминания</string>
     <key>My Constant</key>
-    <string>My Constant</string>
+    <string>Моя константа</string>
     <key>Never</key>
-    <string>Never</string>
+    <string>Никогда</string>
     <key>Number from Calcbot</key>
-    <string>Number from Calcbot</string>
+    <string>Число из Calcbot</string>
     <key>OK</key>
-    <string>OK</string>
+    <string>ОК</string>
     <key>Options</key>
-    <string>Options</string>
+    <string>Настройки</string>
     <key>Otaku</key>
-    <string>Otaku</string>
+    <string>Отаку</string>
     <key>PRO</key>
-    <string>PRO</string>
+    <string>ПРО</string>
     <key>Paste (%@)</key>
-    <string>Paste (%@)</string>
+    <string>Вставить (%@)</string>
     <key>Please enter a valid constant.</key>
-    <string>Please enter a valid constant.</string>
+    <string>Пожалуйста введите корректную константу.</string>
     <key>Please try again later</key>
-    <string>Please try again later</string>
+    <string>Пожалуйста повторите позже</string>
     <key>Please type your message above this line</key>
-    <string>Please type your message above this line</string>
+    <string>Пожалуйста введите Ваше сообщение над этой линией</string>
     <key>Pro</key>
-    <string>Pro</string>
+    <string>Про</string>
     <key>Pro Theme.</key>
-    <string>Pro Theme.</string>
+    <string>Профессиональная тема.</string>
     <key>Purchase for %@</key>
-    <string>Purchase for %@</string>
+    <string>Приобрести за %@</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>
-    <string>Purchase this theme pack and get the following %@ themes:</string>
+    <string>Купите этот сборник и получите следующие %@ темы:</string>
     <key>Remove All</key>
-    <string>Remove All</string>
+    <string>Убрать всё</string>
     <key>Remove the 10 record limit and never lose a calculation again.</key>
-    <string>Remove the 10 record limit and never lose a calculation again.</string>
+    <string>Убрать лимит на 10 записей чтобы никогда больше не терять вычислений.</string>
     <key>Restore Purchased Themes</key>
-    <string>Restore Purchased Themes</string>
+    <string>Восстановить купленные темы</string>
     <key>Retro</key>
-    <string>Retro</string>
+    <string>Ретро</string>
     <key>Round for Currency</key>
-    <string>Round for Currency</string>
+    <string>Округление валюты</string>
     <key>Save</key>
-    <string>Save</string>
+    <string>Сохранить</string>
     <key>Scientific</key>
-    <string>Scientific</string>
+    <string>Научный</string>
     <key>Select All</key>
-    <string>Select All</string>
+    <string>Выбрать всё</string>
     <key>Send as Email</key>
-    <string>Send as Email</string>
+    <string>Отправить эл. почтой</string>
     <key>Send to Calculator</key>
-    <string>Send to Calculator</string>
+    <string>Отправить в калькулятор</string>
     <key>Settings</key>
-    <string>Settings</string>
+    <string>Настройки</string>
     <key>Shark Attack</key>
-    <string>Shark Attack</string>
+    <string>Нападение Акулы</string>
     <key>Show All Conversion Results</key>
-    <string>Show All Conversion Results</string>
+    <string>Показать все результаты конвертации</string>
     <key>Show Conversion</key>
-    <string>Show Conversion</string>
+    <string>Показать конвертацию</string>
     <key>Show Tape</key>
-    <string>Show Tape</string>
+    <string>Показать ленту</string>
     <key>Sounds</key>
-    <string>Sounds</string>
+    <string>Звуки</string>
     <key>Standard</key>
-    <string>Standard</string>
+    <string>Стандарт</string>
     <key>THEME PACKS</key>
-    <string>THEME PACKS</string>
+    <string>ТЕМЫ ОФОРМЛЕНИЯ</string>
     <key>Tape</key>
-    <string>Tape</string>
+    <string>Лента</string>
     <key>Tape Entry</key>
-    <string>Tape Entry</string>
+    <string>Запись ленты</string>
     <key>Theme Pack 1</key>
-    <string>Theme Pack 1</string>
+    <string>Набор Тем 1</string>
     <key>Theme Pack 2</key>
-    <string>Theme Pack 2</string>
+    <string>Набор Тем 2</string>
     <key>Themes</key>
-    <string>Themes</string>
+    <string>Темы</string>
     <key>Title</key>
-    <string>Title</string>
+    <string>Заголовок</string>
     <key>To</key>
-    <string>To</string>
+    <string>Кому</string>
     <key>Type a unit...</key>
-    <string>Type a unit...</string>
+    <string>Введите единицу измерения...</string>
     <key>Unit Conversions.</key>
-    <string>Unit Conversions.</string>
+    <string>Конвертация единиц измерения.</string>
     <key>Unlimited History Tape.</key>
-    <string>Unlimited History Tape.</string>
+    <string>Безлимитная лента для архивных расчетов.</string>
     <key>Upgrade to Pro to add your own constants and more.</key>
-    <string>Upgrade to Pro to add your own constants and more.</string>
+    <string>Обновитесь до Профессиональной версии чтобы добавлять свои константы.</string>
     <key>Upgrade to Pro to convert with over 200 units across 20 categories and more.</key>
-    <string>Upgrade to Pro to convert with over 200 units across 20 categories and more.</string>
+    <string>Обновитесь до Профессиональной версии для конвертации среди 200 единиц измерения в 20 категориях.</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
-    <string>Upgrade to Pro to get unlimited history tape records and more.</string>
+    <string>Обновитесь до Профессиональной версии и получите безлимитную ленту для хранения прошлых вычислений.</string>
     <key>Upgrade to pro and get the following benefits:</key>
-    <string>Upgrade to pro and get the following benefits:</string>
+    <string>Обновитесь до Профессиональной версии и получите следующие возможности:</string>
     <key>Use Expression</key>
-    <string>Use Expression</string>
+    <string>Использовать выражение</string>
     <key>Use Result</key>
-    <string>Use Result</string>
+    <string>Использовать результат</string>
     <key>Value</key>
-    <string>Value</string>
+    <string>Значение</string>
     <key>Version</key>
-    <string>Version</string>
+    <string>Версия</string>
     <key>View</key>
-    <string>View</string>
+    <string>Вид</string>
     <key>You cannot deselect every enabled conversion unit.</key>
-    <string>You cannot deselect every enabled conversion unit.</string>
+    <string>Вы не можете снять выбор с каждой активированной единицы измерения.</string>
     <key>You cannot deselect the last enabled conversion unit.</key>
-    <string>You cannot deselect the last enabled conversion unit.</string>
+    <string>Вы не можете снять выбор с последней активированной единицы измерения.</string>
     <key>You need at least one enabled conversion unit</key>
-    <string>You need at least one enabled conversion unit</string>
+    <string>Вам нужна как минимум одна активированная единица измерения</string>
     <key>calculated result</key>
-    <string>calculated result</string>
+    <string>подсчитанный результат</string>
     <key>conversion category chooser</key>
-    <string>conversion category chooser</string>
+    <string>выбор категории конвертации</string>
     <key>conversion category picker</key>
-    <string>conversion category picker</string>
+    <string>выбор категории конвертации</string>
     <key>conversion from unit</key>
-    <string>conversion from unit</string>
+    <string>конвертация по единице измерения</string>
     <key>conversion from unit symbol</key>
-    <string>conversion from unit symbol</string>
+    <string>конвертация по символу единицы измерения</string>
     <key>conversion to unit</key>
-    <string>conversion to unit</string>
+    <string>конвертация в единицу измерения</string>
     <key>conversion to unit symbol</key>
-    <string>conversion to unit symbol</string>
+    <string>конвертация к символу единицы измерения</string>
     <key>current expression</key>
-    <string>current expression</string>
+    <string>текущее выражение</string>
     <key>display options segmented control</key>
-    <string>display options segmented control</string>
+    <string>опции сегментированного контроля дисплея</string>
     <key>favorite expression</key>
-    <string>favorite expression</string>
+    <string>избранное выражение</string>
     <key>hide conversion</key>
-    <string>hide conversion</string>
+    <string>убрать конвертацию</string>
     <key>hide tape</key>
-    <string>hide tape</string>
+    <string>убрать ленту</string>
     <key>result</key>
-    <string>result</string>
+    <string>результат</string>
     <key>saved expression</key>
-    <string>saved expression</string>
+    <string>сохраненные выражения</string>
     <key>saved result</key>
-    <string>saved result</string>
+    <string>сохраненный результат</string>
     <key>show conversion</key>
-    <string>show conversion</string>
+    <string>показать конвертацию</string>
     <key>show favorited saved expressions</key>
-    <string>show favorited saved expressions</string>
+    <string>показать избранные сохраненные выражения</string>
     <key>show tape</key>
-    <string>show tape</string>
+    <string>показать ленту</string>
     <key>show tape of saved expressions</key>
-    <string>show tape of saved expressions</string>
+    <string>показать ленту сохраненных выражений</string>
     <key>swap from and to conversion units</key>
-    <string>swap from and to conversion units</string>
+    <string>поменять местами единицы измерения</string>
     <key>table of favorited expressions</key>
-    <string>table of favorited expressions</string>
+    <string>таблица избранных выражений</string>
     <key>table of saved expressions</key>
-    <string>table of saved expressions</string>
+    <string>таблица сохраненных выражений</string>
     <key>tape options segmented control</key>
-    <string>tape options segmented control</string>
+    <string>опции сегментированного контроля ленты</string>
     <key>tape settings button</key>
-    <string>tape settings button</string>
+    <string>кнопка настроек ленты</string>
     <key>unfavorite expression</key>
-    <string>unfavorite expression</string>
+    <string>убрать выражение из избранного</string>
     <key>unknown</key>
-    <string>unknown</string>
+    <string>неизвестно</string>
   </dict>
 </plist>

@@ -3,12 +3,12 @@
 <plist version="1.0">
   <dict>
     <key>Tap on the current category icon to quickly enable/disable units.</key>
-    <string>Tap on the current category icon to quickly enable/disable units.</string>
+    <string>Нажмите на иконку текущей категории для быстрого включения/выключения единиц измерения.</string>
     <key>Pull down on the display to reveal the history tape.</key>
-    <string>Pull down on the display to reveal the history tape.</string>
+    <string>Потяните вниз чтобы отобразить ленту с прошлыми вычислениями.</string>
     <key>Hold down the delete key to clear the expression.</key>
-    <string>Hold down the delete key to clear the expression.</string>
+    <string>Держите нажатой кнопку удаления для очистки выражения.</string>
     <key>Swipe right across the display to access conversion mode.</key>
-    <string>Swipe right across the display to access conversion mode.</string>
+    <string>Смахните вправо по экрану для доступа к режиму конвертации.</string>
   </dict>
 </plist>
