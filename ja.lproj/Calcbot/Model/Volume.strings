@@ -11,15 +11,15 @@
     <key>Drop</key>
     <string>ドロップ</string>
     <key>Drop (Imperial)</key>
-    <string>Drop (Imperial)</string>
+    <string>ドロップ (英)</string>
     <key>Dash</key>
     <string>ダッシュ</string>
     <key>Dash (Imperial)</key>
-    <string>Dash (Imperial)</string>
+    <string>ダッシュ (英)</string>
     <key>Pinch</key>
     <string>ピンチ</string>
     <key>Pinch (Imperial)</key>
-    <string>Pinch (Imperial)</string>
+    <string>ピンチ (英)</string>
     <key>Cubic Centimetre</key>
     <string>立方センチメートル</string>
     <key>Millilitre</key>
@@ -31,21 +31,21 @@
     <key>Teaspoon</key>
     <string>小さじ</string>
     <key>Teaspoon (Metric)</key>
-    <string>Teaspoon (Metric)</string>
+    <string>小さじ (メートル法)</string>
     <key>Teaspoon (Imperial)</key>
-    <string>Teaspoon (Imperial)</string>
+    <string>小さじ (英)</string>
     <key>Tablespoon</key>
     <string>大さじ</string>
     <key>Tablespoon (Metric)</key>
-    <string>Tablespoon (Metric)</string>
+    <string>大さじ (メートル法)</string>
     <key>Cubic Inch</key>
     <string>立方インチ</string>
     <key>Tablespoon (Imperial)</key>
-    <string>Tablespoon (Imperial)</string>
+    <string>大さじ (英)</string>
     <key>Shaku</key>
     <string>勺</string>
     <key>Ounce (Imperial)</key>
-    <string>Ounce (Imperial)</string>
+    <string>オンス (英)</string>
     <key>Ounce</key>
     <string>オンス</string>
     <key>Shot</key>
@@ -53,21 +53,21 @@
     <key>Gill</key>
     <string>ジル</string>
     <key>Gill (Imperial)</key>
-    <string>Gill (Imperial)</string>
+    <string>ジル (英)</string>
     <key>Gō</key>
     <string>合</string>
     <key>Cup</key>
     <string>カップ</string>
     <key>Cup (Metric)</key>
-    <string>Cup (Metric)</string>
+    <string>カップ (メートル法)</string>
     <key>Cup (Imperial)</key>
-    <string>Cup (Imperial)</string>
+    <string>カップ (英)</string>
     <key>Pint</key>
     <string>パイント</string>
     <key>Dry Pint</key>
     <string>乾量パイント</string>
     <key>Pint (Imperial)</key>
-    <string>Pint (Imperial)</string>
+    <string>パイント (英)</string>
     <key>Fifth</key>
     <string>フィフス</string>
     <key>Quart</key>
@@ -77,7 +77,7 @@
     <key>Dry Quart</key>
     <string>乾量クォート</string>
     <key>Quart (Imperial)</key>
-    <string>Quart (Imperial)</string>
+    <string>クォート (英)</string>
     <key>Shō</key>
     <string>升</string>
     <key>Gallon</key>
@@ -85,7 +85,7 @@
     <key>Dry Gallon</key>
     <string>乾量ガロン</string>
     <key>Gallon (Imperial)</key>
-    <string>Gallon (Imperial)</string>
+    <string>ガロン (英)</string>
     <key>Peck</key>
     <string>ペック</string>
     <key>To</key>
@@ -101,7 +101,7 @@
     <key>Oil Barrel</key>
     <string>石油バレル</string>
     <key>Beer Barrel (Imperial)</key>
-    <string>Beer Barrel (Imperial)</string>
+    <string>ビールバレル (英)</string>
     <key>Koku</key>
     <string>石</string>
     <key>Cubic Yard</key>
