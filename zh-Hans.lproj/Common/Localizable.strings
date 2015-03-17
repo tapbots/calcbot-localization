@@ -3,88 +3,88 @@
 <plist version="1.0">
   <dict>
     <key>%@d</key>
-    <string>%@d</string>
+    <string>%@ 天</string>
     <key>%d days</key>
-    <string>%d days</string>
+    <string>%d 天</string>
     <key>%d hours</key>
-    <string>%d hours</string>
+    <string>%d 小时</string>
     <key>%d minutes</key>
-    <string>%d minutes</string>
+    <string>%d 分钟</string>
     <key>%d seconds</key>
-    <string>%d seconds</string>
+    <string>%d 秒钟</string>
     <key>%dd</key>
-    <string>%dd</string>
+    <string>%d 天</string>
     <key>%dh</key>
-    <string>%dh</string>
+    <string>%d 时</string>
     <key>%dm</key>
-    <string>%dm</string>
+    <string>%d 月</string>
     <key>%ds</key>
-    <string>%ds</string>
+    <string>%d 秒</string>
     <key>1 day</key>
-    <string>1 day</string>
+    <string>1 天</string>
     <key>1 hour</key>
-    <string>1 hour</string>
+    <string>1 小时</string>
     <key>1 minute</key>
-    <string>1 minute</string>
+    <string>1 分钟</string>
     <key>1 second</key>
-    <string>1 second</string>
+    <string>1 秒钟</string>
     <key>About</key>
-    <string>About</string>
+    <string>关于</string>
     <key>Calcbot Preferences</key>
-    <string>Calcbot Preferences</string>
+    <string>Calcbot 偏好设置</string>
     <key>Cancel</key>
-    <string>Cancel</string>
+    <string>取消</string>
     <key>Cancelled</key>
-    <string>Cancelled</string>
+    <string>已取消</string>
     <key>Close</key>
-    <string>Close</string>
+    <string>关闭</string>
     <key>Couldn’t parse JSON data.</key>
-    <string>Couldn’t parse JSON data.</string>
+    <string>无法解析 JSON 数据。</string>
     <key>Dumb Quotes</key>
-    <string>Dumb Quotes</string>
+    <string>直引号</string>
     <key>FOLLOW US ON TWITTER</key>
-    <string>FOLLOW US ON TWITTER</string>
+    <string>在推特上关注我们</string>
     <key>Invalid Data</key>
-    <string>Invalid Data</string>
+    <string>无效数据</string>
     <key>Leave %@?</key>
-    <string>Leave %@?</string>
+    <string>离开%@?</string>
     <key>Network Connection Busy</key>
-    <string>Network Connection Busy</string>
+    <string>网络连接繁忙</string>
     <key>Now</key>
-    <string>Now</string>
+    <string>现在</string>
     <key>OFF</key>
-    <string>OFF</string>
+    <string>关</string>
     <key>ON</key>
-    <string>ON</string>
+    <string>开</string>
     <key>OTHER APPS</key>
-    <string>OTHER APPS</string>
+    <string>其它应用</string>
     <key>Open</key>
-    <string>Open</string>
+    <string>打开</string>
     <key>Over 1 year</key>
-    <string>Over 1 year</string>
+    <string>超过一年</string>
     <key>Please try again later.</key>
-    <string>Please try again later.</string>
+    <string>请稍后再试。</string>
     <key>Privacy Policy</key>
-    <string>Privacy Policy</string>
+    <string>隐私政策</string>
     <key>Request Timed Out</key>
-    <string>Request Timed Out</string>
+    <string>请求超时</string>
     <key>Review %@ on iTunes</key>
-    <string>Review %@ on iTunes</string>
+    <string>在 iTunes 上评价 %@</string>
     <key>Smart Quotes</key>
-    <string>Smart Quotes</string>
+    <string>弯引号</string>
     <key>The link is requesting to open an external application. Would you like to continue?</key>
-    <string>The link is requesting to open an external application. Would you like to continue?</string>
+    <string>当前链接需要在外部应用程序中打开。是否继续？</string>
     <key>Today at %@</key>
-    <string>Today at %@</string>
+    <string>今天 %@</string>
     <key>Unknown Error.</key>
-    <string>Unknown Error.</string>
+    <string>未知错误</string>
     <key>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
 Paul codes in Texas and Mark designs in California.</key>
-    <string>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
-Paul codes in Texas and Mark designs in California.</string>
+    <string>我们是一家很小的二人公司（有时为三人），热爱创造 iOS 和 Mac 上的卓越应用。
+Paul 于得克萨斯州编码，Mark 于加利福尼亚州设计。</string>
     <key>Which account do you want to follow %@ with?</key>
-    <string>Which account do you want to follow %@ with?</string>
+    <string>你准备用哪个账号来关注 %@?</string>
     <key>Yesterday at %@</key>
-    <string>Yesterday at %@</string>
+    <string>昨天 %@</string>
   </dict>
 </plist>
