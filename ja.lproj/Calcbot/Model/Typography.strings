@@ -28,9 +28,5 @@
     <string>センチメートル</string>
     <key>Inch</key>
     <string>インチ</string>
-    <key>歯 (H)</key>
-    <string>歯 (H)</string>
-    <key>級 (Q)</key>
-    <string>級 (Q)</string>
   </dict>
 </plist>
