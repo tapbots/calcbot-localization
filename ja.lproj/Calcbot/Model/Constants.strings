@@ -3,88 +3,88 @@
 <plist version="1.0">
   <dict>
     <key>Golden Ratio</key>
-    <string>Golden Ratio</string>
+    <string>黄金比</string>
     <key>Pi</key>
-    <string>Pi</string>
+    <string>パイ</string>
     <key>Euler’s Number</key>
-    <string>Euler’s Number</string>
+    <string>ネイピア数</string>
     <key>Proton Mass</key>
-    <string>Proton Mass</string>
+    <string>陽子質量</string>
     <key>Neutron Mass</key>
-    <string>Neutron Mass</string>
+    <string>中性子質量</string>
     <key>Electron Mass</key>
-    <string>Electron Mass</string>
+    <string>電子質量</string>
     <key>Muon Mass</key>
-    <string>Muon Mass</string>
+    <string>ミューオン質量</string>
     <key>Bohr Radius</key>
-    <string>Bohr Radius</string>
+    <string>ボーア半径</string>
     <key>Planck</key>
-    <string>Planck</string>
+    <string>プランク</string>
     <key>Nuclear Magneton</key>
-    <string>Nuclear Magneton</string>
+    <string>核磁子</string>
     <key>Bohr Magneton</key>
-    <string>Bohr Magneton</string>
+    <string>ボーア磁子</string>
     <key>Fine-Structure Constant</key>
-    <string>Fine-Structure Constant</string>
+    <string>微細構造定数</string>
     <key>Classical Electron Radius</key>
-    <string>Classical Electron Radius</string>
+    <string>古典電子半径</string>
     <key>Compton Wavelength</key>
-    <string>Compton Wavelength</string>
+    <string>コンプトン波長</string>
     <key>Proton Gyromagnetic Ratio</key>
-    <string>Proton Gyromagnetic Ratio</string>
+    <string>陽子磁気回転比</string>
     <key>Proton Compton Wavelength</key>
-    <string>Proton Compton Wavelength</string>
+    <string>陽子コンプトン波長</string>
     <key>Neutron Compton Wavelength</key>
-    <string>Neutron Compton Wavelength</string>
+    <string>中性子コンプトン波長</string>
     <key>Rydberg Constant</key>
-    <string>Rydberg Constant</string>
+    <string>リュードベリ定数</string>
     <key>Atomic Mass</key>
-    <string>Atomic Mass</string>
+    <string>原子質量</string>
     <key>Proton Magnetic Moment</key>
-    <string>Proton Magnetic Moment</string>
+    <string>陽子磁気能率</string>
     <key>Electron Magnetic Moment</key>
-    <string>Electron Magnetic Moment</string>
+    <string>電子磁気能率</string>
     <key>Neutron Magnetic Moment</key>
-    <string>Neutron Magnetic Moment</string>
+    <string>中性子磁気能率</string>
     <key>Muon Magnetic Moment</key>
-    <string>Muon Magnetic Moment</string>
+    <string>ミューオン磁気能率</string>
     <key>Faraday Constant</key>
-    <string>Faraday Constant</string>
+    <string>ファラデー定数</string>
     <key>Elementary Charge</key>
-    <string>Elementary Charge</string>
+    <string>素電荷</string>
     <key>Avogadro Constant</key>
-    <string>Avogadro Constant</string>
+    <string>アボガドロ定数</string>
     <key>Boltzmann Constant</key>
-    <string>Boltzmann Constant</string>
+    <string>ボルツマン定数</string>
     <key>Molar Volume of Ideal Gas</key>
-    <string>Molar Volume of Ideal Gas</string>
+    <string>完全ガスのモル体積</string>
     <key>Molar Gas Constant</key>
-    <string>Molar Gas Constant</string>
+    <string>モル気体定数</string>
     <key>Speed of Light</key>
-    <string>Speed of Light</string>
+    <string>光の速さ</string>
     <key>First Radiation Constant</key>
-    <string>First Radiation Constant</string>
+    <string>第一放射定数</string>
     <key>Second Radiation Constant</key>
-    <string>Second Radiation Constant</string>
+    <string>第二放射定数</string>
     <key>Stefan-Boltzmann Constant</key>
-    <string>Stefan-Boltzmann Constant</string>
+    <string>ステファン・ボルツマン定数</string>
     <key>Electric Constant</key>
-    <string>Electric Constant</string>
+    <string>電気定数</string>
     <key>Magnetic Constant</key>
-    <string>Magnetic Constant</string>
+    <string>磁気定数</string>
     <key>Magnetic Flux Quantum</key>
-    <string>Magnetic Flux Quantum</string>
+    <string>磁束の量子化</string>
     <key>Standard Acceleration of Gravity</key>
-    <string>Standard Acceleration of Gravity</string>
+    <string>標準重力</string>
     <key>Standard Atmosphere</key>
-    <string>Standard Atmosphere</string>
+    <string>標準大気</string>
     <key>Conductance Quantum</key>
-    <string>Conductance Quantum</string>
+    <string>量子コンダクタンス</string>
     <key>Characteristic Impedance of Vacuum</key>
-    <string>Characteristic Impedance of Vacuum</string>
+    <string>特性インピーダンス</string>
     <key>Celsius Temperature</key>
-    <string>Celsius Temperature</string>
+    <string>セ氏温度</string>
     <key>Newtonian Constant of Gravitation</key>
-    <string>Newtonian Constant of Gravitation</string>
+    <string>ニュートン重力定数</string>
   </dict>
 </plist>
