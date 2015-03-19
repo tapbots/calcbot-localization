@@ -3,16 +3,16 @@
 <plist version="1.0">
   <dict>
     <key>Force</key>
-    <string>Force</string>
+    <string>Сила</string>
     <key>Dyne</key>
-    <string>Dyne</string>
+    <string>Дина</string>
     <key>Poundal</key>
-    <string>Poundal</string>
+    <string>Фунтал</string>
     <key>Newton</key>
-    <string>Newton</string>
+    <string>Ньютон</string>
     <key>Pound-Force</key>
-    <string>Pound-Force</string>
+    <string>Фунт-сила</string>
     <key>Kilogram-Force</key>
-    <string>Kilogram-Force</string>
+    <string>Килограмм-сила</string>
   </dict>
 </plist>

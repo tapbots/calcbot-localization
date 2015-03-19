@@ -3,14 +3,14 @@
 <plist version="1.0">
   <dict>
     <key>Temperature</key>
-    <string>Temperature</string>
+    <string>Температура</string>
     <key>Fahrenheit</key>
-    <string>Fahrenheit</string>
+    <string>Фаренгейт</string>
     <key>Celsius</key>
-    <string>Celsius</string>
+    <string>Цельсий</string>
     <key>Kelvin</key>
-    <string>Kelvin</string>
+    <string>Кельвин</string>
     <key>Rankine</key>
-    <string>Rankine</string>
+    <string>Ранкин</string>
   </dict>
 </plist>

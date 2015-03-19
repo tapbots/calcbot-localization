@@ -41,7 +41,7 @@
     <key>Couldn’t parse JSON data.</key>
     <string>Невозможно преобразовать данные JSON.</string>
     <key>Dumb Quotes</key>
-    <string>Dumb Quotes</string>
+    <string>Прямые кавычки</string>
     <key>FOLLOW US ON TWITTER</key>
     <string>ЧИТАТЬ НАС В TWITTER</string>
     <key>Invalid Data</key>
@@ -49,7 +49,7 @@
     <key>Leave %@?</key>
     <string>Оставить %@?</string>
     <key>Network Connection Busy</key>
-    <string>Network Connection Busy</string>
+    <string>Сетевое подключение занято</string>
     <key>Now</key>
     <string>Сейчас</string>
     <key>OFF</key>
@@ -71,7 +71,7 @@
     <key>Review %@ on iTunes</key>
     <string>Оценить %@ в iTunes</string>
     <key>Smart Quotes</key>
-    <string>Smart Quotes</string>
+    <string>Изогнутые кавычки</string>
     <key>The link is requesting to open an external application. Would you like to continue?</key>
     <string>Ссылка требует открытия внешней программы. Вы хотите продолжить?</string>
     <key>Today at %@</key>

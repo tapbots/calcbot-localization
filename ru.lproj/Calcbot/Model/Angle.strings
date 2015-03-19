@@ -3,16 +3,16 @@
 <plist version="1.0">
   <dict>
     <key>Angle</key>
-    <string>Angle</string>
+    <string>Угол</string>
     <key>Mil</key>
-    <string>Mil</string>
+    <string>Тысячная</string>
     <key>Degree</key>
-    <string>Degree</string>
+    <string>Градус</string>
     <key>Grad</key>
-    <string>Grad</string>
+    <string>Град</string>
     <key>Radian</key>
-    <string>Radian</string>
+    <string>Радиан</string>
     <key>Revolution</key>
-    <string>Revolution</string>
+    <string>Оборот</string>
   </dict>
 </plist>
