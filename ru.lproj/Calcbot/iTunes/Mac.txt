@@ -1,28 +1,29 @@
-Calcbot is an intelligent calculator and unit converter for the rest of us. Featuring an easy-to-read history tape, expression view, intuitive conversion, and much more!
+Calcbot — умный калькулятор и конвертер единиц измерения для всех нас. Он поддерживает легко-читаемую историю вычислений, отображаение истории выражений, интуитивную конвертацию и многое другое!
 
-History Tape.
-Every calculation you enter gets saved to the history tape and optionally sent to your clipboard for quick pasting. Refer to calculations later or send them right back to the calculator.
 
-Expression View.
-Calcbot’s original expression view allows you to see everything you have typed so you’ll never forget what you entered or miss a typo.
+История вычислений.
+Каждое вычисление, которое вы введете, будет сохранено в историю вычислений и , опционально, добавлено в ваш буфер обмена для быстрого использования. Ссылайтесь на ваши вычисления позже либо добавляйте их в калькулятор. 
 
-Conversion.
-Convert any of your calculations with over 500 units across 22 different categories including auto-updating currency rates.
+Отображение выражений.
+Уникальный способ отображения вычислений в Calcbot позволяет вам увидеть все, что вы вводили, чтобы ничего не забыть либо не допустить ошибку.
 
-Favorites.
-Fave a calculation and get instant access to its result via the Favorites Key. No more cryptic memory keys.
+Конвертация.
+Конвертируйте любое из ваших вычислений с помощью более чем 500 единиц измерения в более чем 22 категориях, включая автоматически обновляемые курсы валют.
 
-Scientific Functions.
-Calcbot supports common scientific functions in case you ever need them.
+Избранное.
+Отмечайте выражения как избранные и получайте мгновенный доступ к их результатам с помощью клавиши Избранное. Долой загадочные и неудобные кнопки памяти.
 
-Constants.
-Get instant access to scientific constants like Pi, Atomic Mass or add your own.
+Научные функции. 
+Calcbot поддерживает наиболее распространенные научные функции на случай, если они вам понадобятся.
 
-Round for Currency.
-Have all of your results rounded to two decimal places.
+Константы.
+Получите мгновенный доступ к научным константам, таким как число Пи, Атомная Масса, либо добавьте собственные.
 
-iCloud Sync.
-Sync your history tape, constants, and faves across multiple Macs and all of your iOS devices.
+Округление для валют.
+Округляйте все свои вычисления до двух знаков после запятой.
 
-Sounds & Animations.
-Sound effects & animations to provide positive feedback when performing calculations.
+Синхронизация iCloud.
+Синхронизируйте вашу ленту истории, константы, и избранное между всеми вашими Mac, iPhone и iPad.
+
+Звуки и анимации.
+Звуковые эффекты и анимации для получения приятных впечатлений от выполнения вычислений.

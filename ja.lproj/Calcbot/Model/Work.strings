@@ -20,22 +20,16 @@
     <string>カロリー</string>
     <key>Kilojoule</key>
     <string>キロジュール</string>
-    <key>BTU</key>
-    <string>BTU</string>
     <key>Watt Hour</key>
     <string>ワット時</string>
     <key>Kilogram Calorie</key>
     <string>キログラムカロリー</string>
     <key>Megajoule</key>
     <string>メガジュール</string>
-    <key>MBTU</key>
-    <string>MBTU</string>
     <key>Kilowatt Hour</key>
     <string>キロワット時</string>
     <key>Therm</key>
     <string>サーム</string>
-    <key>MMBTU</key>
-    <string>MMBTU</string>
     <key>Megawatt Hour</key>
     <string>メガワット時</string>
     <key>Tonne of Coal</key>

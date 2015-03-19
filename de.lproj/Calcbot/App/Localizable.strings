@@ -13,7 +13,7 @@
     <key>Add your own values and labels to the constants menu.</key>
     <string>Füge deine eigenen Werte und Bezeichnungen zum Konstanten-Menü hinzu.</string>
     <key>Attach Tape</key>
-    <string>Band anheften</string>
+    <string>Verlauf anheften</string>
     <key>Basic</key>
     <string>Basic</string>
     <key>COMPANY</key>
@@ -35,7 +35,7 @@
     <key>Clear Favorites</key>
     <string>Favoriten löschen</string>
     <key>Clear Tape</key>
-    <string>Band löschen</string>
+    <string>Verlauf löschen</string>
     <key>Close</key>
     <string>Schließen</string>
     <key>Constants</key>
@@ -63,13 +63,13 @@
     <key>Delete</key>
     <string>Löschen</string>
     <key>Detach Tape</key>
-    <string>Band abheften</string>
+    <string>Verlauf abheften</string>
     <key>Disable All</key>
     <string>Alle ausschalten</string>
     <key>Edit Units</key>
     <string>Einheiten bearbeiten</string>
     <key>Email Tape</key>
-    <string>Band per Email versenden</string>
+    <string>Verlauf per Email versenden</string>
     <key>Enable All</key>
     <string>Alle einschalten</string>
     <key>Enable constants in the settings.</key>
@@ -79,7 +79,7 @@
     <key>Failed to Restore Purchases</key>
     <string>Fehler beim Wiederherstellen der In-App-Käufe.</string>
     <key>Fav an item in the history tape for quick access here.</key>
-    <string>Erstellen sie einen Favoriten im Band-Verlauf für den Schnellzugriff hier.</string>
+    <string>Erstellen sie einen Favoriten im Verlauf für den Schnellzugriff hier.</string>
     <key>Fave a Calculation to Show it Here.</key>
     <string>Berechnungs-Favoriten erstellen um ihn hier anzuzeigen.</string>
     <key>Favorites</key>
@@ -93,7 +93,7 @@
     <key>Hide Conversion</key>
     <string>Konversation ausblenden</string>
     <key>Hide Tape</key>
-    <string>Band ausblenden</string>
+    <string>Verlauf ausblenden</string>
     <key>History</key>
     <string>Verlauf</string>
     <key>Large Type</key>
@@ -177,7 +177,7 @@
     <key>Show Conversion</key>
     <string>Umrechnung anzeigen</string>
     <key>Show Tape</key>
-    <string>Band anzeigen</string>
+    <string>Verlauf anzeigen</string>
     <key>Sounds</key>
     <string>Töne</string>
     <key>Standard</key>
@@ -185,9 +185,9 @@
     <key>THEME PACKS</key>
     <string>THEME PAKETE</string>
     <key>Tape</key>
-    <string>Band</string>
+    <string>Verlauf</string>
     <key>Tape Entry</key>
-    <string>Band-Eintrag</string>
+    <string>Verlauf-Eintrag</string>
     <key>Theme Pack 1</key>
     <string>Theme Paket 1</string>
     <key>Theme Pack 2</key>
@@ -201,19 +201,19 @@
     <key>Unit Conversions.</key>
     <string>Umrechnungen.</string>
     <key>Unlimited History Tape.</key>
-    <string>Unbegrenzter Band-Verlauf.</string>
+    <string>Unbegrenzter Verlauf.</string>
     <key>Upgrade to Pro to add your own constants and more.</key>
     <string>Zu Pro upgraden um eigene Konstanten und mehr hinzuzufügen.</string>
     <key>Upgrade to Pro to convert with over 200 units across 20 categories and more.</key>
     <string>Zu Pro upgraden um u.a. über 200 Einheiten aus 20 Kategorien umzurechnen.</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
-    <string>Zu Pro upgraden für unbegrenzte Band-Verläufe und mehr.</string>
+    <string>Zu Pro upgraden für unbegrenzte Verläufe und mehr.</string>
     <key>Upgrade to pro and get the following benefits:</key>
     <string>Zu Pro upgraden und folgende Vorteile genießen:</string>
     <key>Use Expression</key>
     <string>Termini verwenden</string>
     <key>Use Result</key>
-    <string>Ergebnisse verwenden</string>
+    <string>Ergebnis verwenden</string>
     <key>Value</key>
     <string>Wert</string>
     <key>Version</key>
@@ -249,7 +249,7 @@
     <key>hide conversion</key>
     <string>Umrechnung ausblenden</string>
     <key>hide tape</key>
-    <string>Band ausblenden</string>
+    <string>Verlauf ausblenden</string>
     <key>result</key>
     <string>Ergebnis</string>
     <key>saved expression</key>
@@ -261,9 +261,9 @@
     <key>show favorited saved expressions</key>
     <string>Gespeicherte Termini-Favoriten anzeigen</string>
     <key>show tape</key>
-    <string>Band anzeigen</string>
+    <string>Verlauf anzeigen</string>
     <key>show tape of saved expressions</key>
-    <string>Band von gespeichertem Ausdruck anzeigen</string>
+    <string>Verlauf von gespeichertem Ausdruck anzeigen</string>
     <key>swap from and to conversion units</key>
     <string>Umrechnungs-Einheiten vertauschen</string>
     <key>table of favorited expressions</key>
@@ -273,7 +273,7 @@
     <key>tape options segmented control</key>
     <string>tape options segmented control</string>
     <key>tape settings button</key>
-    <string>Band-Einstellungen-Button</string>
+    <string>Verlauf-Einstellungen-Button</string>
     <key>unfavorite expression</key>
     <string>Ausdruck-Favoriten löschen</string>
     <key>unknown</key>

@@ -9,43 +9,43 @@
     <key>Byte</key>
     <string>バイト</string>
     <key>Kilobit (SI)</key>
-    <string>Kilobit (SI)</string>
+    <string>キロビット (SI)</string>
     <key>Kilobit</key>
     <string>キロビット</string>
     <key>Kilobyte (SI)</key>
-    <string>Kilobyte (SI)</string>
+    <string>キロバイト (SI)</string>
     <key>Kilobyte</key>
     <string>キロバイト</string>
     <key>Megabit (SI)</key>
-    <string>Megabit (SI)</string>
+    <string>メガビット (SI)</string>
     <key>Megabit</key>
     <string>メガビット</string>
     <key>Megabyte (SI)</key>
-    <string>Megabyte (SI)</string>
+    <string>メガバイト (SI)</string>
     <key>Megabyte</key>
     <string>メガバイト</string>
     <key>Gigabit (SI)</key>
-    <string>Gigabit (SI)</string>
+    <string>ギガビット (SI)</string>
     <key>Gigabit</key>
     <string>ギガビット</string>
     <key>Gigabyte (SI)</key>
-    <string>Gigabyte (SI)</string>
+    <string>ギガバイト (SI)</string>
     <key>Gigabyte</key>
     <string>ギガバイト</string>
     <key>Terabit (SI)</key>
-    <string>Terabit (SI)</string>
+    <string>テラビット (SI)</string>
     <key>Terabit</key>
     <string>テラビット</string>
     <key>Terabyte (SI)</key>
-    <string>Terabyte (SI)</string>
+    <string>テラバイト (SI)</string>
     <key>Terabyte</key>
     <string>テラバイト</string>
     <key>Petabit (SI)</key>
-    <string>Petabit (SI)</string>
+    <string>ペタビット (SI)</string>
     <key>Petabit</key>
     <string>ペタビット</string>
     <key>Petabyte (SI)</key>
-    <string>Petabyte (SI)</string>
+    <string>ペタバイト (SI)</string>
     <key>Petabyte</key>
     <string>ペタバイト</string>
   </dict>

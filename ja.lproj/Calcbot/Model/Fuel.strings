@@ -11,7 +11,7 @@
     <key>Gallons/100 Miles</key>
     <string>ガロン／100 マイル</string>
     <key>Gallons/100 Miles UK</key>
-    <string>Gallons/100 Miles UK</string>
+    <string>ガロン／100 マイル (英)</string>
     <key>Litres/10 KM</key>
     <string>リットル／10km</string>
     <key>KM/Litre</key>
@@ -21,6 +21,6 @@
     <key>Miles/Gallon</key>
     <string>マイル／ガロン</string>
     <key>Miles/Gallon UK</key>
-    <string>Miles/Gallon UK</string>
+    <string>マイル／ガロン (英)</string>
   </dict>
 </plist>
