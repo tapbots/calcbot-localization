@@ -3,20 +3,20 @@
 <plist version="1.0">
   <dict>
     <key>Density</key>
-    <string>Density</string>
+    <string>Плотность</string>
     <key>Gram/Litre</key>
-    <string>Gram/Litre</string>
+    <string>Грамм/Литр</string>
     <key>Kilogram/Cubic Metre</key>
-    <string>Kilogram/Cubic Metre</string>
+    <string>Килограмм/Кубический метр</string>
     <key>Pound/Cubic Foot</key>
-    <string>Pound/Cubic Foot</string>
+    <string>Фунт/Кубический фут</string>
     <key>Pound/Gallon (Imperial)</key>
-    <string>Pound/Gallon (Imperial)</string>
+    <string>Фунт/Галлон (Англ. система)</string>
     <key>Pound/Gallon</key>
-    <string>Pound/Gallon</string>
+    <string>Фунт/Галлон</string>
     <key>Gram/Cubic CM</key>
-    <string>Gram/Cubic CM</string>
+    <string>Грамм/Кубический см</string>
     <key>Pound/Cubic Inch</key>
-    <string>Pound/Cubic Inch</string>
+    <string>Фунт/Кубический дюйм</string>
   </dict>
 </plist>

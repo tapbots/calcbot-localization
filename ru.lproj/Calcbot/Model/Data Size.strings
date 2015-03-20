@@ -3,50 +3,50 @@
 <plist version="1.0">
   <dict>
     <key>Data Size</key>
-    <string>Data Size</string>
+    <string>Объем данных</string>
     <key>Bit</key>
-    <string>Bit</string>
+    <string>Бит</string>
     <key>Byte</key>
-    <string>Byte</string>
+    <string>Байт</string>
     <key>Kilobit (SI)</key>
-    <string>Kilobit (SI)</string>
+    <string>Килобит (СИ)</string>
     <key>Kilobit</key>
-    <string>Kilobit</string>
+    <string>Килобит</string>
     <key>Kilobyte (SI)</key>
-    <string>Kilobyte (SI)</string>
+    <string>Килобайт (СИ)</string>
     <key>Kilobyte</key>
-    <string>Kilobyte</string>
+    <string>Килобайт</string>
     <key>Megabit (SI)</key>
-    <string>Megabit (SI)</string>
+    <string>Мегабит (СИ)</string>
     <key>Megabit</key>
-    <string>Megabit</string>
+    <string>Мегабит</string>
     <key>Megabyte (SI)</key>
-    <string>Megabyte (SI)</string>
+    <string>Мегабайт (СИ)</string>
     <key>Megabyte</key>
-    <string>Megabyte</string>
+    <string>Мегабайт</string>
     <key>Gigabit (SI)</key>
-    <string>Gigabit (SI)</string>
+    <string>Гигабит (СИ)</string>
     <key>Gigabit</key>
-    <string>Gigabit</string>
+    <string>Гигабит</string>
     <key>Gigabyte (SI)</key>
-    <string>Gigabyte (SI)</string>
+    <string>Гигабайт (СИ)</string>
     <key>Gigabyte</key>
-    <string>Gigabyte</string>
+    <string>Гигабайт</string>
     <key>Terabit (SI)</key>
-    <string>Terabit (SI)</string>
+    <string>Терабит (СИ)</string>
     <key>Terabit</key>
-    <string>Terabit</string>
+    <string>Терабит</string>
     <key>Terabyte (SI)</key>
-    <string>Terabyte (SI)</string>
+    <string>Терабайт (СИ)</string>
     <key>Terabyte</key>
-    <string>Terabyte</string>
+    <string>Терабайт</string>
     <key>Petabit (SI)</key>
-    <string>Petabit (SI)</string>
+    <string>Петабит (СИ)</string>
     <key>Petabit</key>
-    <string>Petabit</string>
+    <string>Петабит</string>
     <key>Petabyte (SI)</key>
-    <string>Petabyte (SI)</string>
+    <string>Петабайт (СИ)</string>
     <key>Petabyte</key>
-    <string>Petabyte</string>
+    <string>Петабайт</string>
   </dict>
 </plist>

@@ -9,7 +9,7 @@
     <key>Access to the special pro theme.</key>
     <string>Доступ к специальной теме оформления.</string>
     <key>Add New</key>
-    <string>Добавить новое</string>
+    <string>Добавить новую</string>
     <key>Add your own values and labels to the constants menu.</key>
     <string>Добавьте ваши собственные значения и метки в меню констант.</string>
     <key>Attach Tape</key>
@@ -27,7 +27,7 @@
     <key>Categories</key>
     <string>Категории</string>
     <key>Categories and Units</key>
-    <string>Категории и Единицы Измерения</string>
+    <string>Категории и единицы измерения</string>
     <key>Category</key>
     <string>Категория</string>
     <key>Checking for updated currency rates</key>
@@ -79,9 +79,9 @@
     <key>Failed to Restore Purchases</key>
     <string>Ошибка при восстановлении покупок</string>
     <key>Fav an item in the history tape for quick access here.</key>
-    <string>Добавьте элемент из архива в избранное для доступа отсюда.</string>
+    <string>Отметьте результат на ленте звездочкой для быстрого доступа.</string>
     <key>Fave a Calculation to Show it Here.</key>
-    <string>Добавьте вычисление в избранное чтобы отобразить здесь.</string>
+    <string>Добавьте вычисление в избранное.</string>
     <key>Favorites</key>
     <string>Избранные</string>
     <key>From</key>
@@ -175,7 +175,7 @@
     <key>Shark Attack</key>
     <string>Нападение Акулы</string>
     <key>Show All Conversion Results</key>
-    <string>Показать все результаты конвертации</string>
+    <string>Показывать все результаты</string>
     <key>Show Conversion</key>
     <string>Показать конвертацию</string>
     <key>Show Tape</key>

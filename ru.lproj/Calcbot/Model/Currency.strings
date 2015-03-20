@@ -5,292 +5,292 @@
     <key>Currency</key>
     <string>Валюты</string>
     <key>UAE Dirham</key>
-    <string>UAE Dirham</string>
+    <string>Дирхам ОАЭ</string>
     <key>Lek</key>
-    <string>Lek</string>
+    <string>Лек</string>
     <key>Dutch Guilder</key>
-    <string>Dutch Guilder</string>
+    <string>Нидерландский гульден</string>
     <key>Argentine Peso</key>
-    <string>Argentine Peso</string>
+    <string>Аргентинское песо</string>
     <key>Australian Dollar</key>
-    <string>Australian Dollar</string>
+    <string>Австралийский доллар</string>
     <key>Aruban Florin</key>
-    <string>Aruban Florin</string>
+    <string>Арубанский флорин</string>
     <key>Barbados Dollar</key>
-    <string>Barbados Dollar</string>
+    <string>Барбадосский доллар</string>
     <key>Bangladeshi Taka</key>
-    <string>Bangladeshi Taka</string>
+    <string>Бангладешская така</string>
     <key>Bulgarian Lev</key>
-    <string>Bulgarian Lev</string>
+    <string>Болгарский лев</string>
     <key>Bahraini Dinar</key>
-    <string>Bahraini Dinar</string>
+    <string>Бахрейнский динар</string>
     <key>Burundian Franc</key>
-    <string>Burundian Franc</string>
+    <string>Бурундийский франк</string>
     <key>Bermudian Dollar</key>
-    <string>Bermudian Dollar</string>
+    <string>Бермудский доллар</string>
     <key>Brunei Dollar</key>
-    <string>Brunei Dollar</string>
+    <string>Брунейский доллар</string>
     <key>Boliviano</key>
-    <string>Boliviano</string>
+    <string>Боливиано</string>
     <key>Brazilian Real</key>
-    <string>Brazilian Real</string>
+    <string>Бразильский реал</string>
     <key>Bahamian Dollar</key>
-    <string>Bahamian Dollar</string>
+    <string>Багамский доллар</string>
     <key>Ngultrum</key>
-    <string>Ngultrum</string>
+    <string>Нгултрум</string>
     <key>Pula</key>
-    <string>Pula</string>
+    <string>Пула</string>
     <key>Belarussian Ruble</key>
-    <string>Belarussian Ruble</string>
+    <string>Белорусский рубль</string>
     <key>Belize Dollar</key>
-    <string>Belize Dollar</string>
+    <string>Белизский доллар</string>
     <key>Canadian Dollar</key>
-    <string>Canadian Dollar</string>
+    <string>Канадский доллар</string>
     <key>Swiss Franc</key>
-    <string>Swiss Franc</string>
+    <string>Швейцарский франк</string>
     <key>Chilean Peso</key>
-    <string>Chilean Peso</string>
+    <string>Чилийское песо</string>
     <key>Chinese Yuan</key>
-    <string>Chinese Yuan</string>
+    <string>Юань</string>
     <key>Colombian Peso</key>
-    <string>Colombian Peso</string>
+    <string>Колумбийское песо</string>
     <key>Costa Rican Colón</key>
-    <string>Costa Rican Colón</string>
+    <string>Костариканский колон</string>
     <key>Cuban Peso</key>
-    <string>Cuban Peso</string>
+    <string>Кубинское песо</string>
     <key>Cyprus Pound</key>
-    <string>Cyprus Pound</string>
+    <string>Кипрский фунт</string>
     <key>Czech Koruna</key>
-    <string>Czech Koruna</string>
+    <string>Чешская крона</string>
     <key>Danish Krone</key>
-    <string>Danish Krone</string>
+    <string>Датская крона</string>
     <key>Dominican Peso</key>
-    <string>Dominican Peso</string>
+    <string>Доминиканское песо</string>
     <key>Algerian Dinar</key>
-    <string>Algerian Dinar</string>
+    <string>Алжирский динар</string>
     <key>Kroon</key>
-    <string>Kroon</string>
+    <string>Крона</string>
     <key>Egyptian Pound</key>
-    <string>Egyptian Pound</string>
+    <string>Египетский фунт</string>
     <key>Ethiopian Birr</key>
-    <string>Ethiopian Birr</string>
+    <string>Эфиопский быр</string>
     <key>Euro</key>
-    <string>Euro</string>
+    <string>Евро</string>
     <key>Fiji Dollar</key>
-    <string>Fiji Dollar</string>
+    <string>Доллар Фиджи</string>
     <key>Pound Sterling</key>
-    <string>Pound Sterling</string>
+    <string>Фунт стерлингов</string>
     <key>Dalasi</key>
-    <string>Dalasi</string>
+    <string>Гамбийский даласи</string>
     <key>Guinea Franc</key>
-    <string>Guinea Franc</string>
+    <string>Гвинейский франк</string>
     <key>Quetzal</key>
-    <string>Quetzal</string>
+    <string>Кетсаль</string>
     <key>Hong Kong Dollar</key>
-    <string>Hong Kong Dollar</string>
+    <string>Гонконгский доллар</string>
     <key>Lempira</key>
-    <string>Lempira</string>
+    <string>Лемпира</string>
     <key>Croatian Kuna</key>
-    <string>Croatian Kuna</string>
+    <string>Хорватская куна</string>
     <key>Haiti Gourde</key>
-    <string>Haiti Gourde</string>
+    <string>Гаитянский гурд</string>
     <key>Forint</key>
-    <string>Forint</string>
+    <string>Форинт</string>
     <key>Indonesian Rupiah</key>
-    <string>Indonesian Rupiah</string>
+    <string>Индонезийская рупия</string>
     <key>Israeli New Sheqel</key>
-    <string>Israeli New Sheqel</string>
+    <string>Новый израильский шекель</string>
     <key>Indian Rupee</key>
-    <string>Indian Rupee</string>
+    <string>Индийская рупия</string>
     <key>Iraqi Dinar</key>
-    <string>Iraqi Dinar</string>
+    <string>Иракский динар</string>
     <key>Iranian Rial</key>
-    <string>Iranian Rial</string>
+    <string>Иранский риал</string>
     <key>Iceland Krona</key>
-    <string>Iceland Krona</string>
+    <string>Исландская крона</string>
     <key>Jamaican Dollar</key>
-    <string>Jamaican Dollar</string>
+    <string>Ямайский доллар</string>
     <key>Jordanian Dinar</key>
-    <string>Jordanian Dinar</string>
+    <string>Иорданский динар</string>
     <key>Japanese Yen</key>
-    <string>Japanese Yen</string>
+    <string>Японская иена</string>
     <key>Kenyan Shilling</key>
-    <string>Kenyan Shilling</string>
+    <string>Кенийский шиллинг</string>
     <key>Comoro Franc</key>
-    <string>Comoro Franc</string>
+    <string>Франк Комор</string>
     <key>South Korean Won</key>
-    <string>South Korean Won</string>
+    <string>Южнокорейская вона</string>
     <key>Kuwaiti Dinar</key>
-    <string>Kuwaiti Dinar</string>
+    <string>Кувейтский динар</string>
     <key>Cayman Island Dollar</key>
-    <string>Cayman Island Dollar</string>
+    <string>Доллар Каймановых Островов</string>
     <key>Tenge</key>
-    <string>Tenge</string>
+    <string>Тенге</string>
     <key>Lebanese Pound</key>
-    <string>Lebanese Pound</string>
+    <string>Ливанский фунт</string>
     <key>Sri Lanka Rupee</key>
-    <string>Sri Lanka Rupee</string>
+    <string>Шри-Ланкийская рупия</string>
     <key>Loti</key>
-    <string>Loti</string>
+    <string>Лоти</string>
     <key>Lithuanian Litas</key>
-    <string>Lithuanian Litas</string>
+    <string>Литовский лит</string>
     <key>Latvian Lats</key>
-    <string>Latvian Lats</string>
+    <string>Латвийский лат</string>
     <key>Moroccan Dirham</key>
-    <string>Moroccan Dirham</string>
+    <string>Марокканский дирхам</string>
     <key>Moldovan Leu</key>
-    <string>Moldovan Leu</string>
+    <string>Молдавский лей</string>
     <key>Macedonian Denar</key>
-    <string>Macedonian Denar</string>
+    <string>Македонский денар</string>
     <key>Tugrik</key>
-    <string>Tugrik</string>
+    <string>Тугрик</string>
     <key>Pataca</key>
-    <string>Pataca</string>
+    <string>Патака</string>
     <key>Ouguiya</key>
-    <string>Ouguiya</string>
+    <string>Угия</string>
     <key>Mauritius Rupee</key>
-    <string>Mauritius Rupee</string>
+    <string>Маврикийская рупия</string>
     <key>Rufiyaa</key>
-    <string>Rufiyaa</string>
+    <string>Руфия</string>
     <key>Kwacha</key>
-    <string>Kwacha</string>
+    <string>Квача</string>
     <key>Mexican Peso</key>
-    <string>Mexican Peso</string>
+    <string>Мексиканское песо</string>
     <key>Malaysian Ringgit</key>
-    <string>Malaysian Ringgit</string>
+    <string>Малайзийский ринггит</string>
     <key>Namibian Dollar</key>
-    <string>Namibian Dollar</string>
+    <string>Доллар Намибии</string>
     <key>Naira</key>
-    <string>Naira</string>
+    <string>Найра</string>
     <key>Cordoba Oro</key>
-    <string>Cordoba Oro</string>
+    <string>Кордоба</string>
     <key>Norwegian Krone</key>
-    <string>Norwegian Krone</string>
+    <string>Норвежская крона</string>
     <key>Nepalese Rupee</key>
-    <string>Nepalese Rupee</string>
+    <string>Непальская рупия</string>
     <key>New Zealand Dollar</key>
-    <string>New Zealand Dollar</string>
+    <string>Новозеландский доллар</string>
     <key>Rial Omani</key>
-    <string>Rial Omani</string>
+    <string>Оманский риал</string>
     <key>Balboa</key>
-    <string>Balboa</string>
+    <string>Бальбоа</string>
     <key>Nuevo Sol</key>
-    <string>Nuevo Sol</string>
+    <string>Новый соль</string>
     <key>Kina</key>
-    <string>Kina</string>
+    <string>Кина</string>
     <key>Philippine Peso</key>
-    <string>Philippine Peso</string>
+    <string>Филиппинское песо</string>
     <key>Pakistan Rupee</key>
-    <string>Pakistan Rupee</string>
+    <string>Пакистанская рупия</string>
     <key>Złoty</key>
-    <string>Złoty</string>
+    <string>Злотый</string>
     <key>Guarani</key>
-    <string>Guarani</string>
+    <string>Гуарани</string>
     <key>Qatari Riyal</key>
-    <string>Qatari Riyal</string>
+    <string>Катарский риал</string>
     <key>Renminbi</key>
-    <string>Renminbi</string>
+    <string>Ренминби</string>
     <key>Romanian New Leu</key>
-    <string>Romanian New Leu</string>
+    <string>Румынский лей</string>
     <key>Russian Rouble</key>
-    <string>Russian Rouble</string>
+    <string>Российский рубль</string>
     <key>Rwanda Franc</key>
-    <string>Rwanda Franc</string>
+    <string>Руандийский франк</string>
     <key>Saudi Riyal</key>
-    <string>Saudi Riyal</string>
+    <string>Саудовский риял</string>
     <key>Solomon Is. Dollar</key>
-    <string>Solomon Is. Dollar</string>
+    <string>Доллар Соломоновых Островов</string>
     <key>Seychelles Rupee</key>
-    <string>Seychelles Rupee</string>
+    <string>Сейшельская рупия</string>
     <key>Swedish Krona</key>
-    <string>Swedish Krona</string>
+    <string>Шведская крона</string>
     <key>Singapore Dollar</key>
-    <string>Singapore Dollar</string>
+    <string>Сингапурский доллар</string>
     <key>Slovenian Tolar</key>
-    <string>Slovenian Tolar</string>
+    <string>Словенский толар</string>
     <key>Slovak Koruna</key>
-    <string>Slovak Koruna</string>
+    <string>Словацкая крона</string>
     <key>Leone</key>
-    <string>Leone</string>
+    <string>Леоне</string>
     <key>Dobra</key>
-    <string>Dobra</string>
+    <string>Добра</string>
     <key>El Salvador Colon</key>
-    <string>El Salvador Colon</string>
+    <string>Сальвадорский колон</string>
     <key>Lilangeni</key>
-    <string>Lilangeni</string>
+    <string>Лилангени</string>
     <key>Thai Baht</key>
-    <string>Thai Baht</string>
+    <string>Тайский бат</string>
     <key>Tunisian Dinar</key>
-    <string>Tunisian Dinar</string>
+    <string>Тунисский динар</string>
     <key>Pa’anga</key>
-    <string>Pa’anga</string>
+    <string>Паанга</string>
     <key>Turkish Lira</key>
-    <string>Turkish Lira</string>
+    <string>Турецкая лира</string>
     <key>Tri. and Tob. Dollar</key>
-    <string>Tri. and Tob. Dollar</string>
+    <string>Доллар Тринидада и Тобаго</string>
     <key>New Taiwan Dollar</key>
-    <string>New Taiwan Dollar</string>
+    <string>Новый тайваньский доллар</string>
     <key>Tanzanian Shilling</key>
-    <string>Tanzanian Shilling</string>
+    <string>Танзанийский шиллинг</string>
     <key>Hryvnia</key>
-    <string>Hryvnia</string>
+    <string>Гривна</string>
     <key>Uganda Shilling</key>
-    <string>Uganda Shilling</string>
+    <string>Угандийский шиллинг</string>
     <key>US Dollar</key>
-    <string>US Dollar</string>
+    <string>Доллар США</string>
     <key>Peso Uruguayo</key>
-    <string>Peso Uruguayo</string>
+    <string>Уругвайское песо</string>
     <key>Ven. Bolivar</key>
-    <string>Ven. Bolivar</string>
+    <string>Венесуэльский боливар</string>
     <key>Vietnamese Dong</key>
-    <string>Vietnamese Dong</string>
+    <string>Вьетнамский донг</string>
     <key>Vanuatu Vatu</key>
-    <string>Vanuatu Vatu</string>
+    <string>Вату</string>
     <key>Samoan Tala</key>
-    <string>Samoan Tala</string>
+    <string>Самоанская тала</string>
     <key>CFA Franc (BEAC)</key>
-    <string>CFA Franc (BEAC)</string>
+    <string>Франк КФА BEAC</string>
     <key>E. Car. Dollar</key>
-    <string>E. Car. Dollar</string>
+    <string>Восточно-карибский доллар</string>
     <key>CFA Franc (BCEAO)</key>
-    <string>CFA Franc (BCEAO)</string>
+    <string>Франк КФА BCEAO</string>
     <key>CFP Franc</key>
-    <string>CFP Franc</string>
+    <string>Французский тихоокеанский франк</string>
     <key>Yemen Riyal</key>
-    <string>Yemen Riyal</string>
+    <string>Йеменский риал</string>
     <key>South African Rand</key>
-    <string>South African Rand</string>
+    <string>Южноафриканский рэнд</string>
     <key>Cape Verdean Escudo</key>
-    <string>Cape Verdean Escudo</string>
+    <string>Эскудо Кабо-Верде</string>
     <key>Austrian Schilling</key>
-    <string>Austrian Schilling</string>
+    <string>Австрийский шиллинг</string>
     <key>Belgian Franc</key>
-    <string>Belgian Franc</string>
+    <string>Бельгийский франк</string>
     <key>Deutsche Mark</key>
-    <string>Deutsche Mark</string>
+    <string>Немецкая марка</string>
     <key>Finnish Markka</key>
-    <string>Finnish Markka</string>
+    <string>Финляндская марка</string>
     <key>French Franc</key>
-    <string>French Franc</string>
+    <string>Французский франк</string>
     <key>Irish Pound</key>
-    <string>Irish Pound</string>
+    <string>Ирландский фунт</string>
     <key>Italian Lira</key>
-    <string>Italian Lira</string>
+    <string>Итальянская лира</string>
     <key>Luxembourgish Franc</key>
-    <string>Luxembourgish Franc</string>
+    <string>Люксембургский франк</string>
     <key>Portuguese Escudo</key>
-    <string>Portuguese Escudo</string>
+    <string>Португальский эскудо</string>
     <key>Spanish Peseta</key>
-    <string>Spanish Peseta</string>
+    <string>Испанская песета</string>
     <key>Greek Drachma</key>
-    <string>Greek Drachma</string>
+    <string>Греческая драхма</string>
     <key>Cypriot Pound</key>
-    <string>Cypriot Pound</string>
+    <string>Кипрский фунт</string>
     <key>Maltese Lira</key>
-    <string>Maltese Lira</string>
+    <string>Мальтийская лира</string>
     <key>Syrian Pound</key>
-    <string>Syrian Pound</string>
+    <string>Сирийский фунт</string>
     <key>Serbian Dinar</key>
-    <string>Serbian Dinar</string>
+    <string>Сербский динар</string>
   </dict>
 </plist>
