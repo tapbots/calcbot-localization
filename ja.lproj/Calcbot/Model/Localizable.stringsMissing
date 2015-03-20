@@ -28,8 +28,6 @@
     <string>decimal</string>
     <key>degrees</key>
     <string>degrees</string>
-    <key>delete</key>
-    <string>delete</string>
     <key>divide</key>
     <string>divide</string>
     <key>ee engineering exponent</key>
@@ -64,41 +62,11 @@
     <string>log base 10</string>
     <key>log base 2</key>
     <string>log base 2</string>
-    <key>logarithm</key>
-    <string>logarithm</string>
     <key>multiply</key>
     <string>multiply</string>
-    <key>natural log</key>
-    <string>natural log</string>
-    <key>open parenthesis</key>
-    <string>open parenthesis</string>
-    <key>percent</key>
-    <string>percent</string>
     <key>plus, minus</key>
     <string>plus, minus</string>
-    <key>power</key>
-    <string>power</string>
-    <key>radians</key>
-    <string>radians</string>
-    <key>random</key>
-    <string>random</string>
-    <key>reciprocal</key>
-    <string>reciprocal</string>
     <key>reeverse power</key>
     <string>reeverse power</string>
-    <key>root</key>
-    <string>root</string>
-    <key>round</key>
-    <string>round</string>
-    <key>sine</key>
-    <string>sine</string>
-    <key>square</key>
-    <string>square</string>
-    <key>square root</key>
-    <string>square root</string>
-    <key>subtract</key>
-    <string>subtract</string>
-    <key>tangent</key>
-    <string>tangent</string>
   </dict>
 </plist>

@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>%@ ago</key>
-    <string>%@ ago</string>
     <key>Access to the special pro theme.</key>
     <string>Access to the special pro theme.</string>
     <key>Add New</key>
@@ -14,8 +12,6 @@
     <string>Attach Tape</string>
     <key>Basic</key>
     <string>Basic</string>
-    <key>CONVERSION</key>
-    <string>CONVERSION</string>
     <key>Calcbot Calculation</key>
     <string>Calcbot Calculation</string>
     <key>Calcbot Calculations</key>
@@ -28,10 +24,6 @@
     <string>Clear Favorites</string>
     <key>Clear Tape</key>
     <string>Clear Tape</string>
-    <key>Constants</key>
-    <string>Constants</string>
-    <key>Conversion</key>
-    <string>Conversion</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
     <string>Convert with over 200 units across 20 conversion categories.</string>
     <key>Copy Expression</key>
@@ -44,8 +36,6 @@
     <string>Custom Constants.</string>
     <key>DEFAULT</key>
     <string>DEFAULT</string>
-    <key>Dark Ninja</key>
-    <string>Dark Ninja</string>
     <key>Detach Tape</key>
     <string>Detach Tape</string>
     <key>Edit Units</key>
@@ -74,38 +64,20 @@
     <string>History</string>
     <key>Large Type</key>
     <string>Large Type</string>
-    <key>Last Updated: </key>
-    <string>Last Updated: </string>
-    <key>Last updated: %@</key>
-    <string>Last updated: %@</string>
-    <key>Light Ninja</key>
-    <string>Light Ninja</string>
     <key>MY CONSTANTS</key>
     <string>MY CONSTANTS</string>
     <key>MY THEMES</key>
     <string>MY THEMES</string>
     <key>Main</key>
     <string>Main</string>
-    <key>Mark’s Office</key>
-    <string>Mark’s Office</string>
-    <key>Melancholy</key>
-    <string>Melancholy</string>
-    <key>Memories</key>
-    <string>Memories</string>
     <key>My Constant</key>
     <string>My Constant</string>
     <key>Number from Calcbot</key>
     <string>Number from Calcbot</string>
     <key>OK</key>
     <string>OK</string>
-    <key>Options</key>
-    <string>Options</string>
-    <key>Otaku</key>
-    <string>Otaku</string>
     <key>PRO</key>
     <string>PRO</string>
-    <key>Paste (%@)</key>
-    <string>Paste (%@)</string>
     <key>Please enter a valid constant.</key>
     <string>Please enter a valid constant.</string>
     <key>Please try again later</key>
@@ -182,8 +154,6 @@
     <string>Use Result</string>
     <key>Value</key>
     <string>Value</string>
-    <key>Version</key>
-    <string>Version</string>
     <key>View</key>
     <string>View</string>
     <key>You cannot deselect every enabled conversion unit.</key>

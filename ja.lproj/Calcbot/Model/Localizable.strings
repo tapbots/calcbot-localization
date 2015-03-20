@@ -31,7 +31,7 @@
     <key>degrees</key>
     <string>degrees</string>
     <key>delete</key>
-    <string>delete</string>
+    <string>削除</string>
     <key>divide</key>
     <string>divide</string>
     <key>ee engineering exponent</key>
@@ -67,40 +67,40 @@
     <key>log base 2</key>
     <string>log base 2</string>
     <key>logarithm</key>
-    <string>logarithm</string>
+    <string>対数</string>
     <key>multiply</key>
     <string>multiply</string>
     <key>natural log</key>
-    <string>natural log</string>
+    <string>自然対数</string>
     <key>open parenthesis</key>
-    <string>open parenthesis</string>
+    <string>開き角括弧</string>
     <key>percent</key>
-    <string>percent</string>
+    <string>パーセント</string>
     <key>plus, minus</key>
     <string>plus, minus</string>
     <key>power</key>
-    <string>power</string>
+    <string>冪乗</string>
     <key>radians</key>
-    <string>radians</string>
+    <string>ラジアン</string>
     <key>random</key>
-    <string>random</string>
+    <string>無作為</string>
     <key>reciprocal</key>
-    <string>reciprocal</string>
+    <string>逆数</string>
     <key>reeverse power</key>
     <string>reeverse power</string>
     <key>root</key>
-    <string>root</string>
+    <string>累乗根</string>
     <key>round</key>
-    <string>round</string>
+    <string>四捨五入</string>
     <key>sine</key>
-    <string>sine</string>
+    <string>サイン</string>
     <key>square</key>
-    <string>square</string>
+    <string>二乗</string>
     <key>square root</key>
-    <string>square root</string>
+    <string>平方根</string>
     <key>subtract</key>
-    <string>subtract</string>
+    <string>引く</string>
     <key>tangent</key>
-    <string>tangent</string>
+    <string>接線</string>
   </dict>
 </plist>
