@@ -7,35 +7,35 @@
     <key>About Tapbots</key>
     <string>Tapbotsについて</string>
     <key>Access to the special pro theme.</key>
-    <string>Access to the special pro theme.</string>
+    <string>特別なプロの配色をゲット</string>
     <key>Add New</key>
-    <string>Add New</string>
+    <string>新規作成</string>
     <key>Add your own values and labels to the constants menu.</key>
-    <string>Add your own values and labels to the constants menu.</string>
+    <string>自分の定数・ラベルを定数メニューに追加</string>
     <key>Attach Tape</key>
-    <string>Attach Tape</string>
+    <string>テープを付ける</string>
     <key>Basic</key>
-    <string>Basic</string>
+    <string>基本</string>
     <key>COMPANY</key>
     <string>開発元</string>
     <key>CONVERSION</key>
     <string>換算</string>
     <key>Calcbot Calculation</key>
-    <string>Calcbot Calculation</string>
+    <string>Calcbotの計算</string>
     <key>Calcbot Calculations</key>
-    <string>Calcbot Calculations</string>
+    <string>Calcbotの計算</string>
     <key>Categories</key>
     <string>カテゴリ</string>
     <key>Categories and Units</key>
     <string>単位とカテゴリ</string>
     <key>Category</key>
-    <string>Category</string>
+    <string>カテゴリ</string>
     <key>Checking for updated currency rates</key>
-    <string>Checking for updated currency rates</string>
+    <string>更新された為替レートを調べっています</string>
     <key>Clear Favorites</key>
-    <string>Clear Favorites</string>
+    <string>気に入りを全て削除</string>
     <key>Clear Tape</key>
-    <string>Clear Tape</string>
+    <string>テープの内容を削除</string>
     <key>Close</key>
     <string>閉じる</string>
     <key>Constants</key>
@@ -49,11 +49,11 @@
     <key>Copy</key>
     <string>コピー</string>
     <key>Copy Expression</key>
-    <string>Copy Expression</string>
+    <string>数式をコピー</string>
     <key>Copy Result</key>
-    <string>Copy Result</string>
+    <string>結果をコピー</string>
     <key>Could not fetch currency rates</key>
-    <string>Could not fetch currency rates</string>
+    <string>為替レートの調べるのが失敗しました</string>
     <key>Custom Constants.</key>
     <string>Custom Constants.</string>
     <key>DEFAULT</key>
@@ -109,9 +109,9 @@
     <key>Loading…</key>
     <string>読み込み中…</string>
     <key>MY CONSTANTS</key>
-    <string>MY CONSTANTS</string>
+    <string>マイ定数</string>
     <key>MY THEMES</key>
-    <string>MY THEMES</string>
+    <string>マイ配色</string>
     <key>Main</key>
     <string>Main</string>
     <key>Mark’s Office</key>
@@ -121,7 +121,7 @@
     <key>Memories</key>
     <string>メモリーズ</string>
     <key>My Constant</key>
-    <string>My Constant</string>
+    <string>マイ定数</string>
     <key>Never</key>
     <string>しない</string>
     <key>Number from Calcbot</key>
@@ -133,7 +133,7 @@
     <key>Otaku</key>
     <string>オタク</string>
     <key>PRO</key>
-    <string>PRO</string>
+    <string>プロ</string>
     <key>Paste (%@)</key>
     <string>ペースト (%@)</string>
     <key>Please enter a valid constant.</key>
@@ -143,9 +143,9 @@
     <key>Please type your message above this line</key>
     <string>Please type your message above this line</string>
     <key>Pro</key>
-    <string>Pro</string>
+    <string>プロ</string>
     <key>Pro Theme.</key>
-    <string>Pro Theme.</string>
+    <string>プロの配色</string>
     <key>Purchase for %@</key>
     <string>Purchase for %@</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>
