@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>%@ ago</key>
-    <string>%@ ago</string>
+    <string>%@前</string>
     <key>About Tapbots</key>
     <string>Tapbotsについて</string>
     <key>Access to the special pro theme.</key>
@@ -19,7 +19,7 @@
     <key>COMPANY</key>
     <string>開発元</string>
     <key>CONVERSION</key>
-    <string>CONVERSION</string>
+    <string>換算</string>
     <key>Calcbot Calculation</key>
     <string>Calcbot Calculation</string>
     <key>Calcbot Calculations</key>
@@ -39,11 +39,11 @@
     <key>Close</key>
     <string>閉じる</string>
     <key>Constants</key>
-    <string>Constants</string>
+    <string>定数</string>
     <key>Contact Us</key>
     <string>コンタクト</string>
     <key>Conversion</key>
-    <string>Conversion</string>
+    <string>換算</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
     <string>Convert with over 200 units across 20 conversion categories.</string>
     <key>Copy</key>
@@ -59,7 +59,7 @@
     <key>DEFAULT</key>
     <string>DEFAULT</string>
     <key>Dark Ninja</key>
-    <string>Dark Ninja</string>
+    <string>ダーク忍者</string>
     <key>Delete</key>
     <string>削除</string>
     <key>Detach Tape</key>
@@ -99,13 +99,13 @@
     <key>Large Type</key>
     <string>Large Type</string>
     <key>Last Updated: </key>
-    <string>Last Updated: </string>
+    <string>最終更新: </string>
     <key>Last updated: %@</key>
-    <string>Last updated: %@</string>
+    <string>最終更新: %@</string>
     <key>Learn More</key>
     <string>詳細</string>
     <key>Light Ninja</key>
-    <string>Light Ninja</string>
+    <string>淡い忍者</string>
     <key>Loading…</key>
     <string>読み込み中…</string>
     <key>MY CONSTANTS</key>
@@ -115,11 +115,11 @@
     <key>Main</key>
     <string>Main</string>
     <key>Mark’s Office</key>
-    <string>Mark’s Office</string>
+    <string>マークのオフィス</string>
     <key>Melancholy</key>
-    <string>Melancholy</string>
+    <string>メランコリー</string>
     <key>Memories</key>
-    <string>Memories</string>
+    <string>メモリーズ</string>
     <key>My Constant</key>
     <string>My Constant</string>
     <key>Never</key>
@@ -129,13 +129,13 @@
     <key>OK</key>
     <string>OK</string>
     <key>Options</key>
-    <string>Options</string>
+    <string>設定</string>
     <key>Otaku</key>
-    <string>Otaku</string>
+    <string>オタク</string>
     <key>PRO</key>
     <string>PRO</string>
     <key>Paste (%@)</key>
-    <string>Paste (%@)</string>
+    <string>ペースト (%@)</string>
     <key>Please enter a valid constant.</key>
     <string>Please enter a valid constant.</string>
     <key>Please try again later</key>
@@ -221,7 +221,7 @@
     <key>Value</key>
     <string>Value</string>
     <key>Version</key>
-    <string>Version</string>
+    <string>バージョン</string>
     <key>View</key>
     <string>View</string>
     <key>You cannot deselect every enabled conversion unit.</key>

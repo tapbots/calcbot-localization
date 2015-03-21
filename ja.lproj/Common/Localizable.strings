@@ -31,7 +31,7 @@
     <key>About</key>
     <string>Tapbotsについて</string>
     <key>Calcbot Preferences</key>
-    <string>Calcbot Preferences</string>
+    <string>Calcbotの設定</string>
     <key>Cancel</key>
     <string>キャンセル</string>
     <key>Cancelled</key>
@@ -57,7 +57,7 @@
     <key>ON</key>
     <string>オン</string>
     <key>OTHER APPS</key>
-    <string>OTHER APPS</string>
+    <string>他のアプリ</string>
     <key>Open</key>
     <string>開く</string>
     <key>Over 1 year</key>
