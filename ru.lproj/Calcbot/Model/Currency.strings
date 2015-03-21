@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>Currency</key>
-    <string>Валюты</string>
+    <string>Валюта</string>
     <key>UAE Dirham</key>
     <string>Дирхам ОАЭ</string>
     <key>Lek</key>

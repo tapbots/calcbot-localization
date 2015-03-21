@@ -3,24 +3,24 @@
 <plist version="1.0">
   <dict>
     <key>Time</key>
-    <string>Time</string>
+    <string>Время</string>
     <key>Nanoseconds</key>
-    <string>Nanoseconds</string>
+    <string>Наносекунды</string>
     <key>Microseconds</key>
-    <string>Microseconds</string>
+    <string>Микросекунды</string>
     <key>Milliseconds</key>
-    <string>Milliseconds</string>
+    <string>Миллисекунды</string>
     <key>Seconds</key>
-    <string>Seconds</string>
+    <string>Секунды</string>
     <key>Minutes</key>
-    <string>Minutes</string>
+    <string>Минуты</string>
     <key>Hours</key>
-    <string>Hours</string>
+    <string>Часы</string>
     <key>Days</key>
-    <string>Days</string>
+    <string>Дни</string>
     <key>Weeks</key>
-    <string>Weeks</string>
+    <string>Недели</string>
     <key>Years</key>
-    <string>Years</string>
+    <string>Годы</string>
   </dict>
 </plist>

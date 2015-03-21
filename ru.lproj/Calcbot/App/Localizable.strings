@@ -79,7 +79,7 @@
     <key>Failed to Restore Purchases</key>
     <string>Ошибка при восстановлении покупок</string>
     <key>Fav an item in the history tape for quick access here.</key>
-    <string>Отметьте результат на ленте звездочкой для быстрого доступа.</string>
+    <string>Отметьте результат звездочкой для быстрого доступа.</string>
     <key>Fave a Calculation to Show it Here.</key>
     <string>Добавьте вычисление в избранное.</string>
     <key>Favorites</key>
@@ -141,7 +141,7 @@
     <key>Please try again later</key>
     <string>Пожалуйста повторите позже</string>
     <key>Please type your message above this line</key>
-    <string>Пожалуйста введите Ваше сообщение над этой линией</string>
+    <string>Пожалуйста введите ваше сообщение над этой линией</string>
     <key>Pro</key>
     <string>Про</string>
     <key>Pro Theme.</key>
