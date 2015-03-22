@@ -6,10 +6,6 @@
     <string>Pi</string>
     <key>Planck</key>
     <string>Planck</string>
-    <key>Nuclear Magneton</key>
-    <string>Nuclear Magneton</string>
-    <key>Bohr Magneton</key>
-    <string>Bohr Magneton</string>
     <key>Conductance Quantum</key>
     <string>Conductance Quantum</string>
   </dict>

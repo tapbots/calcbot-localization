@@ -21,9 +21,9 @@
     <key>Planck</key>
     <string>Planck</string>
     <key>Nuclear Magneton</key>
-    <string>Nuclear Magneton</string>
+    <string>Kernmagneton</string>
     <key>Bohr Magneton</key>
-    <string>Bohr Magneton</string>
+    <string>Bohrsches Magneton</string>
     <key>Fine-Structure Constant</key>
     <string>Feinstrukturkonstante</string>
     <key>Classical Electron Radius</key>
