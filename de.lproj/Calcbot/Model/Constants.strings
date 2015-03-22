@@ -7,13 +7,13 @@
     <key>Euler’s Number</key>
     <string>Eulersche Zahl</string>
     <key>Proton Mass</key>
-    <string>Protonen Masse</string>
+    <string>Protonenmasse</string>
     <key>Neutron Mass</key>
-    <string>Neutronen Masse</string>
+    <string>Neutronenmasse</string>
     <key>Electron Mass</key>
-    <string>Electronen Masse</string>
+    <string>Elektronenmasse</string>
     <key>Muon Mass</key>
-    <string>Myonen Masse</string>
+    <string>Myonenmasse</string>
     <key>Bohr Radius</key>
     <string>Bohrscher Radius</string>
     <key>Planck</key>
@@ -25,39 +25,39 @@
     <key>Fine-Structure Constant</key>
     <string>Feinstrukturkonstante</string>
     <key>Classical Electron Radius</key>
-    <string>Klassischer Radius des Elektron</string>
+    <string>Klassischer Elektronenradius</string>
     <key>Compton Wavelength</key>
-    <string>Compton Wellenlänge</string>
+    <string>Compton-Wellenlänge</string>
     <key>Proton Gyromagnetic Ratio</key>
-    <string>gyromagnetischer Koeffizient des Protons</string>
+    <string>Gyromagnetisches Verhältnis des Protons</string>
     <key>Proton Compton Wavelength</key>
-    <string>Compton Wellenlänge des Protons</string>
+    <string>Compton-Wellenlänge des Protons</string>
     <key>Neutron Compton Wavelength</key>
-    <string>Compton Wellenlänge des Neutrons</string>
+    <string>Compton-Wellenlänge des Neutrons</string>
     <key>Rydberg Constant</key>
-    <string>Rydberg Konstante</string>
+    <string>Rydberg-Konstante</string>
     <key>Atomic Mass</key>
-    <string>Atomare Masse</string>
+    <string>Atommasse</string>
     <key>Proton Magnetic Moment</key>
-    <string>Magnetischer Moment des Protons</string>
+    <string>Magnetisches Moment des Protons</string>
     <key>Electron Magnetic Moment</key>
-    <string>Magnetischer Moment des Elektrons</string>
+    <string>Magnetisches Moment des Elektrons</string>
     <key>Neutron Magnetic Moment</key>
-    <string>Magnetischer Moment des Neutrons</string>
+    <string>Magnetisches Moment des Neutrons</string>
     <key>Muon Magnetic Moment</key>
-    <string>Magnetischer Moment des Muons</string>
+    <string>Magnetisches Moment des Myons</string>
     <key>Faraday Constant</key>
-    <string>Faraday Konstante</string>
+    <string>Faraday-Konstante</string>
     <key>Elementary Charge</key>
     <string>Elementarladung</string>
     <key>Avogadro Constant</key>
-    <string>Avogadro Konstante</string>
+    <string>Avogadro-Konstante</string>
     <key>Boltzmann Constant</key>
-    <string>Boltzmann Konstante</string>
+    <string>Boltzmann-Konstante</string>
     <key>Molar Volume of Ideal Gas</key>
     <string>Molares Volumen eines idealen Gases</string>
     <key>Molar Gas Constant</key>
-    <string>Molare Gas Konstante</string>
+    <string>Molare Gaskonstante</string>
     <key>Speed of Light</key>
     <string>Lichtgeschwindigkeit</string>
     <key>First Radiation Constant</key>
@@ -65,24 +65,24 @@
     <key>Second Radiation Constant</key>
     <string>Zweite Strahlungskonstante</string>
     <key>Stefan-Boltzmann Constant</key>
-    <string>Stefan-Boltzmann Konstante</string>
+    <string>Stefan-Boltzmann-Konstante</string>
     <key>Electric Constant</key>
-    <string>elektrische Feldkonstante</string>
+    <string>Elektrische Feldkonstante</string>
     <key>Magnetic Constant</key>
-    <string>magnetische Feldkonstante</string>
+    <string>Magnetische Feldkonstante</string>
     <key>Magnetic Flux Quantum</key>
-    <string>Magnetischer Flussquant</string>
+    <string>Magnetisches Flussquant</string>
     <key>Standard Acceleration of Gravity</key>
     <string>Normfallbeschleunigung</string>
     <key>Standard Atmosphere</key>
-    <string>Normalathmospäre</string>
+    <string>Normatmosphäre</string>
     <key>Conductance Quantum</key>
     <string>Quanten-Hall-Leitfähigkeit</string>
     <key>Characteristic Impedance of Vacuum</key>
-    <string>Charakteristische Impedanz des Vakuums</string>
+    <string>Wellenimpedanz des Vakuums</string>
     <key>Celsius Temperature</key>
-    <string>Temperatur in Celsius</string>
+    <string>Normtemperatur</string>
     <key>Newtonian Constant of Gravitation</key>
-    <string>Newtonsche Gravitationskonstante</string>
+    <string>Gravitationskonstante</string>
   </dict>
 </plist>
