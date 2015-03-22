@@ -3,24 +3,24 @@
 <plist version="1.0">
   <dict>
     <key>Fuel</key>
-    <string>Fuel</string>
+    <string>Топливо</string>
     <key>Litres/100 Miles</key>
-    <string>Litres/100 Miles</string>
+    <string>Литр/100 Миль</string>
     <key>Litres/100 KM</key>
-    <string>Litres/100 KM</string>
+    <string>Литр/100 КМ</string>
     <key>Gallons/100 Miles</key>
-    <string>Gallons/100 Miles</string>
+    <string>Галлон/100 Миль</string>
     <key>Gallons/100 Miles UK</key>
-    <string>Gallons/100 Miles UK</string>
+    <string>Галлон/100 Миль (Британия)</string>
     <key>Litres/10 KM</key>
-    <string>Litres/10 KM</string>
+    <string>Литр/10 КМ</string>
     <key>KM/Litre</key>
-    <string>KM/Litre</string>
+    <string>КМ/Литр</string>
     <key>Litres/KM</key>
-    <string>Litres/KM</string>
+    <string>Литр/КМ</string>
     <key>Miles/Gallon</key>
-    <string>Miles/Gallon</string>
+    <string>Миль/Галлон</string>
     <key>Miles/Gallon UK</key>
-    <string>Miles/Gallon UK</string>
+    <string>Миль/Галлон (Британия)</string>
   </dict>
 </plist>

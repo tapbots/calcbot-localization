@@ -3,46 +3,46 @@
 <plist version="1.0">
   <dict>
     <key>Mass</key>
-    <string>Mass</string>
+    <string>Масса</string>
     <key>Microgram</key>
-    <string>Microgram</string>
+    <string>Микрограмм</string>
     <key>Milligram</key>
-    <string>Milligram</string>
+    <string>Миллиграмм</string>
     <key>Grain</key>
-    <string>Grain</string>
+    <string>Гран</string>
     <key>Carat</key>
-    <string>Carat</string>
+    <string>Карат</string>
     <key>Fun</key>
-    <string>Fun</string>
+    <string>Фун</string>
     <key>Gram</key>
-    <string>Gram</string>
+    <string>Грамм</string>
     <key>Pennyweight</key>
-    <string>Pennyweight</string>
+    <string>Пеннивейт</string>
     <key>Momme</key>
-    <string>Momme</string>
+    <string>Моммэ</string>
     <key>Ounce</key>
-    <string>Ounce</string>
+    <string>Унция</string>
     <key>Troy Ounce</key>
-    <string>Troy Ounce</string>
+    <string>Тройская унция</string>
     <key>Hyakume</key>
-    <string>Hyakume</string>
+    <string>Хиакумэ</string>
     <key>Pound</key>
-    <string>Pound</string>
+    <string>Фунт</string>
     <key>Kin</key>
-    <string>Kin</string>
+    <string>Кин</string>
     <key>Kilogram</key>
-    <string>Kilogram</string>
+    <string>Килограмм</string>
     <key>Kan</key>
-    <string>Kan</string>
+    <string>Кан</string>
     <key>Stone</key>
-    <string>Stone</string>
+    <string>Стоун</string>
     <key>Slug</key>
-    <string>Slug</string>
+    <string>Слаг</string>
     <key>Short Ton</key>
-    <string>Short Ton</string>
+    <string>Короткая тонна</string>
     <key>Metric Ton</key>
-    <string>Metric Ton</string>
+    <string>Метрическая тонна</string>
     <key>Long Ton</key>
-    <string>Long Ton</string>
+    <string>Длинная тона</string>
   </dict>
 </plist>

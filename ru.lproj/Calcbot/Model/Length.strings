@@ -3,80 +3,80 @@
 <plist version="1.0">
   <dict>
     <key>Length</key>
-    <string>Length</string>
+    <string>Длина</string>
     <key>Ångström</key>
-    <string>Ångström</string>
+    <string>Ангстрем</string>
     <key>Nanometre</key>
-    <string>Nanometre</string>
+    <string>Нанометр</string>
     <key>Micron</key>
-    <string>Micron</string>
+    <string>Микрон</string>
     <key>Mil</key>
-    <string>Mil</string>
+    <string>Мил</string>
     <key>Thou</key>
-    <string>Thou</string>
+    <string>Тысячная</string>
     <key>Mō</key>
-    <string>Mō</string>
+    <string>Мо</string>
     <key>Rin</key>
-    <string>Rin</string>
+    <string>Рин</string>
     <key>Millimetre</key>
-    <string>Millimetre</string>
+    <string>Миллиметр</string>
     <key>Bu</key>
-    <string>Bu</string>
+    <string>Бу</string>
     <key>Centimetre</key>
-    <string>Centimetre</string>
+    <string>Сантиметр</string>
     <key>Inch</key>
-    <string>Inch</string>
+    <string>Дюйм</string>
     <key>Sun</key>
-    <string>Sun</string>
+    <string>Сун</string>
     <key>Hand</key>
-    <string>Hand</string>
+    <string>Хэнд</string>
     <key>Link</key>
-    <string>Link</string>
+    <string>Линк</string>
     <key>Kanejaku</key>
-    <string>Kanejaku</string>
+    <string>Канэдзяку</string>
     <key>Foot</key>
-    <string>Foot</string>
+    <string>Фут</string>
     <key>Yard</key>
-    <string>Yard</string>
+    <string>Ярд</string>
     <key>Metre</key>
-    <string>Metre</string>
+    <string>Метр</string>
     <key>Smoot</key>
-    <string>Smoot</string>
+    <string>Смут</string>
     <key>Hiro</key>
-    <string>Hiro</string>
+    <string>Хиро</string>
     <key>Ken</key>
-    <string>Ken</string>
+    <string>Кэн</string>
     <key>Fathom</key>
-    <string>Fathom</string>
+    <string>Морская сажень</string>
     <key>Jō</key>
-    <string>Jō</string>
+    <string>Дзё</string>
     <key>Rod</key>
-    <string>Rod</string>
+    <string>Род</string>
     <key>Chain</key>
-    <string>Chain</string>
+    <string>Чейн</string>
     <key>Chō</key>
-    <string>Chō</string>
+    <string>Тё</string>
     <key>Furlong</key>
-    <string>Furlong</string>
+    <string>Фурлонг</string>
     <key>Kilometre</key>
-    <string>Kilometre</string>
+    <string>Километр</string>
     <key>Mile</key>
-    <string>Mile</string>
+    <string>Миля</string>
     <key>Nautical Mile</key>
-    <string>Nautical Mile</string>
+    <string>Морская миля</string>
     <key>Ri</key>
-    <string>Ri</string>
+    <string>Ри</string>
     <key>League</key>
-    <string>League</string>
+    <string>Лига</string>
     <key>Light Second</key>
-    <string>Light Second</string>
+    <string>Световая секунда</string>
     <key>Light Minute</key>
-    <string>Light Minute</string>
+    <string>Световая минута</string>
     <key>Astronomical Unit</key>
-    <string>Astronomical Unit</string>
+    <string>Астрономическая единица</string>
     <key>Light Year</key>
-    <string>Light Year</string>
+    <string>Световой год</string>
     <key>Parsec</key>
-    <string>Parsec</string>
+    <string>Парсек</string>
   </dict>
 </plist>

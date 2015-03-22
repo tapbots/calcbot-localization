@@ -3,24 +3,24 @@
 <plist version="1.0">
   <dict>
     <key>Illuminance</key>
-    <string>Illuminance</string>
+    <string>Освещённость</string>
     <key>Millilux</key>
-    <string>Millilux</string>
+    <string>Миллилюкс</string>
     <key>Nox</key>
     <string>Nox</string>
     <key>Lumen/Square Metre</key>
-    <string>Lumen/Square Metre</string>
+    <string>Люмен/Квадратный метр</string>
     <key>Lux</key>
-    <string>Lux</string>
+    <string>Люкс</string>
     <key>Foot Candle</key>
-    <string>Foot Candle</string>
+    <string>Фут-свеча</string>
     <key>Lumen/Square Foot</key>
-    <string>Lumen/Square Foot</string>
+    <string>Люмен/Квадратный фут</string>
     <key>Kilolux</key>
-    <string>Kilolux</string>
+    <string>Килолюкс</string>
     <key>Lumen/Square CM</key>
-    <string>Lumen/Square CM</string>
+    <string>Люмен/Квадратный см</string>
     <key>Phot</key>
-    <string>Phot</string>
+    <string>Фот</string>
   </dict>
 </plist>
