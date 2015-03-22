@@ -3,48 +3,48 @@
 <plist version="1.0">
   <dict>
     <key>Area</key>
-    <string>Area</string>
+    <string>面积</string>
     <key>Square Millimetre</key>
-    <string>Square Millimetre</string>
+    <string>平方毫米</string>
     <key>Square Centimetre</key>
-    <string>Square Centimetre</string>
+    <string>平方分米</string>
     <key>Square Inch</key>
-    <string>Square Inch</string>
+    <string>平方英寸</string>
     <key>Shaku</key>
-    <string>Shaku</string>
+    <string>勺</string>
     <key>Square Foot</key>
-    <string>Square Foot</string>
+    <string>平方英尺</string>
     <key>Gō</key>
-    <string>Gō</string>
+    <string>合</string>
     <key>Square Yard</key>
-    <string>Square Yard</string>
+    <string>平方码</string>
     <key>Square Metre</key>
-    <string>Square Metre</string>
+    <string>平方米</string>
     <key>Jō</key>
-    <string>Jō</string>
+    <string>畳</string>
     <key>Bu</key>
-    <string>Bu</string>
+    <string>歩</string>
     <key>Tsubo</key>
-    <string>Tsubo</string>
+    <string>坪</string>
     <key>Se</key>
-    <string>Se</string>
+    <string>畝</string>
     <key>Are</key>
-    <string>Are</string>
+    <string>公亩</string>
     <key>Tan</key>
-    <string>Tan</string>
+    <string>段</string>
     <key>Dunam</key>
-    <string>Dunam</string>
+    <string>德南</string>
     <key>Rai</key>
-    <string>Rai</string>
+    <string>莱</string>
     <key>Acre</key>
-    <string>Acre</string>
+    <string>英亩</string>
     <key>Chō</key>
-    <string>Chō</string>
+    <string>町</string>
     <key>Hectare</key>
-    <string>Hectare</string>
+    <string>公顷</string>
     <key>Square Kilometre</key>
-    <string>Square Kilometre</string>
+    <string>平方公里</string>
     <key>Square Mile</key>
-    <string>Square Mile</string>
+    <string>平方英里</string>
   </dict>
 </plist>
