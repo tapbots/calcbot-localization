@@ -2,36 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>Access to the special pro theme.</key>
-    <string>Access to the special pro theme.</string>
-    <key>Add New</key>
-    <string>Add New</string>
-    <key>Add your own values and labels to the constants menu.</key>
-    <string>Add your own values and labels to the constants menu.</string>
-    <key>Attach Tape</key>
-    <string>Attach Tape</string>
-    <key>Basic</key>
-    <string>Basic</string>
-    <key>Calcbot Calculation</key>
-    <string>Calcbot Calculation</string>
-    <key>Calcbot Calculations</key>
-    <string>Calcbot Calculations</string>
-    <key>Category</key>
-    <string>Category</string>
-    <key>Checking for updated currency rates</key>
-    <string>Checking for updated currency rates</string>
-    <key>Clear Favorites</key>
-    <string>Clear Favorites</string>
-    <key>Clear Tape</key>
-    <string>Clear Tape</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
     <string>Convert with over 200 units across 20 conversion categories.</string>
-    <key>Copy Expression</key>
-    <string>Copy Expression</string>
-    <key>Copy Result</key>
-    <string>Copy Result</string>
-    <key>Could not fetch currency rates</key>
-    <string>Could not fetch currency rates</string>
     <key>Custom Constants.</key>
     <string>Custom Constants.</string>
     <key>DEFAULT</key>
@@ -64,30 +36,18 @@
     <string>History</string>
     <key>Large Type</key>
     <string>Large Type</string>
-    <key>MY CONSTANTS</key>
-    <string>MY CONSTANTS</string>
-    <key>MY THEMES</key>
-    <string>MY THEMES</string>
     <key>Main</key>
     <string>Main</string>
-    <key>My Constant</key>
-    <string>My Constant</string>
     <key>Number from Calcbot</key>
     <string>Number from Calcbot</string>
     <key>OK</key>
     <string>OK</string>
-    <key>PRO</key>
-    <string>PRO</string>
     <key>Please enter a valid constant.</key>
     <string>Please enter a valid constant.</string>
     <key>Please try again later</key>
     <string>Please try again later</string>
     <key>Please type your message above this line</key>
     <string>Please type your message above this line</string>
-    <key>Pro</key>
-    <string>Pro</string>
-    <key>Pro Theme.</key>
-    <string>Pro Theme.</string>
     <key>Purchase for %@</key>
     <string>Purchase for %@</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>

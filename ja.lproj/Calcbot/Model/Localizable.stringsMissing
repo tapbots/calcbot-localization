@@ -66,7 +66,7 @@
     <string>multiply</string>
     <key>plus, minus</key>
     <string>plus, minus</string>
-    <key>reeverse power</key>
-    <string>reeverse power</string>
+    <key>reverse power</key>
+    <string>reverse power</string>
   </dict>
 </plist>
