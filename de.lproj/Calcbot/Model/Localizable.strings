@@ -3,17 +3,17 @@
 <plist version="1.0">
   <dict>
     <key>10 to the power of</key>
-    <string>10 to the power of</string>
+    <string>10 hoch</string>
     <key>2 to the power of</key>
-    <string>2 to the power of</string>
+    <string>2 hoch</string>
     <key>Error</key>
     <string>Fehler</string>
     <key>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</key>
-    <string>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</string>
+    <string>Fehler beim Lesen der Umrechnungsdaten. Falls dieses Problem wiederholt auftritt, kontaktiere den Tapbots-Support.</string>
     <key>add</key>
-    <string>add</string>
+    <string>addieren</string>
     <key>alternate functions</key>
-    <string>alternate functions</string>
+    <string>Alternative Funktionen</string>
     <key>clear</key>
     <string>löschen</string>
     <key>close parenthesis</key>
@@ -35,13 +35,13 @@
     <key>divide</key>
     <string>teilen</string>
     <key>ee engineering exponent</key>
-    <string>ee engineering exponent</string>
+    <string>EE Exponent der wissenschaftlichen Notation</string>
     <key>equal</key>
-    <string>equal</string>
+    <string>gleich</string>
     <key>exponential</key>
-    <string>exponential</string>
+    <string>Natürliche Exponentialfunktion</string>
     <key>factorial</key>
-    <string>factorial</string>
+    <string>Fakultät</string>
     <key>favorites</key>
     <string>Favoriten</string>
     <key>hyperbolic cosine</key>
@@ -63,9 +63,9 @@
     <key>inverse tangent</key>
     <string>inverse Tangente</string>
     <key>log base 10</key>
-    <string>log base 10</string>
+    <string>Logarithmus zur Basis 10</string>
     <key>log base 2</key>
-    <string>log base 2</string>
+    <string>Logarithmus zur Basis 2</string>
     <key>logarithm</key>
     <string>Logarithmus</string>
     <key>multiply</key>
@@ -79,28 +79,28 @@
     <key>plus, minus</key>
     <string>Plus, Minus</string>
     <key>power</key>
-    <string>power</string>
+    <string>hoch</string>
     <key>radians</key>
-    <string>radians</string>
+    <string>Radiant</string>
     <key>random</key>
     <string>Zufällig</string>
     <key>reciprocal</key>
-    <string>reciprocal</string>
+    <string>Kehrwert</string>
     <key>reverse power</key>
-    <string>reverse power</string>
+    <string>Exponent zur Basis</string>
     <key>root</key>
     <string>Wurzel</string>
     <key>round</key>
-    <string>round</string>
+    <string>runden</string>
     <key>sine</key>
-    <string>sine</string>
+    <string>Sinus</string>
     <key>square</key>
-    <string>square</string>
+    <string>Quadrat</string>
     <key>square root</key>
-    <string>square root</string>
+    <string>Quadratwurzel</string>
     <key>subtract</key>
-    <string>subtract</string>
+    <string>subtrahieren</string>
     <key>tangent</key>
-    <string>tangent</string>
+    <string>Tangens</string>
   </dict>
 </plist>
