@@ -7,7 +7,7 @@
     <key>Pull down on the display to reveal the history tape.</key>
     <string>Streiche nach unten, um den Verlauf anzuzeigen.</string>
     <key>Hold down the delete key to clear the expression.</key>
-    <string>Halte den Entfernen-Knopf gedrückt, um die ganze Rechnung zu löschen.</string>
+    <string>Halte den Entfernen-Knopf gedrückt, um den ganzen Ausdruck zu löschen.</string>
     <key>Swipe right across the display to access conversion mode.</key>
     <string>Streiche nach rechts, um in den Umrechnungs-Modus zu gelangen.</string>
   </dict>
