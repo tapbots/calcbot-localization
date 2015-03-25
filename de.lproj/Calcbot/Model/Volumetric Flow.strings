@@ -19,7 +19,7 @@
     <key>Cubic Metre/Hour</key>
     <string>Kubikmeter/Stunde</string>
     <key>Cubic Feet/Min.</key>
-    <string>Kubikfuß/Min.</string>
+    <string>Kubikfoot/Min.</string>
     <key>Litre/Sec.</key>
     <string>Liter/Sek.</string>
     <key>Gallon/Sec.</key>
@@ -29,7 +29,7 @@
     <key>Cubic Metre/Min</key>
     <string>Kubikmeter/Min.</string>
     <key>Cubic Feet/Sec.</key>
-    <string>Kubikfuß/Sek.</string>
+    <string>Kubikfoot/Sek.</string>
     <key>Cubic Yard/Sec.</key>
     <string>Kubikyard/Sek.</string>
     <key>Cubic Metre/Sec.</key>
