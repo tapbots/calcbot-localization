@@ -15,7 +15,7 @@
     <key>Attach Tape</key>
     <string>Verlauf anheften</string>
     <key>Basic</key>
-    <string>Basis</string>
+    <string>Standard</string>
     <key>COMPANY</key>
     <string>UNTERNEHMEN</string>
     <key>CONVERSION</key>
@@ -63,7 +63,7 @@
     <key>Delete</key>
     <string>Löschen</string>
     <key>Detach Tape</key>
-    <string>Verlauf entfernen</string>
+    <string>Verlauf loslösen</string>
     <key>Disable All</key>
     <string>Alle deaktivieren</string>
     <key>Edit Units</key>
@@ -155,7 +155,7 @@
     <key>Scientific</key>
     <string>Wissenschaftlich</string>
     <key>Select All</key>
-    <string>Alles auswählen</string>
+    <string>Alle auswählen</string>
     <key>Send as Email</key>
     <string>Als E-Mail senden</string>
     <key>Send to Calculator</key>
@@ -223,11 +223,11 @@
     <key>conversion from unit</key>
     <string>Umrechnung aus Einheit</string>
     <key>conversion from unit symbol</key>
-    <string>Umrechnung aus Einheitensymbol</string>
+    <string>Symbol der Ursprungseinheit der Umrechnung</string>
     <key>conversion to unit</key>
     <string>Umrechnung zu Einheit</string>
     <key>conversion to unit symbol</key>
-    <string>Umrechnung zu Einheitensymbol</string>
+    <string>Symbol der Zieleinheit der Umrechnung</string>
     <key>current expression</key>
     <string>aktueller Ausdruck</string>
     <key>display options segmented control</key>
