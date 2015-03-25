@@ -3,5 +3,7 @@
 <plist version="1.0">
   <array>
       <string>Newton</string>
+      <string>Poundal</string>
+      <string>Pound-Force</string>
   </array>
 </plist>

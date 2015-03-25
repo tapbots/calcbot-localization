@@ -6,11 +6,7 @@
     <string>Kraft</string>
     <key>Dyne</key>
     <string>Dyn</string>
-    <key>Poundal</key>
-    <string>Pfund Bezogen</string>
-    <key>Pound-Force</key>
-    <string>Pfund-Kraft</string>
     <key>Kilogram-Force</key>
-    <string>Kilogramm-Kraft</string>
+    <string>Kilopond</string>
   </dict>
 </plist>
