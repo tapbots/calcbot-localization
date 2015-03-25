@@ -9,9 +9,9 @@
     <key>Square Centimetre</key>
     <string>Quadratzentimeter</string>
     <key>Square Inch</key>
-    <string>Quadratzoll</string>
+    <string>Quadratinch</string>
     <key>Square Foot</key>
-    <string>Quadratfuss</string>
+    <string>Quadratfoot</string>
     <key>Square Yard</key>
     <string>Quadratyard</string>
     <key>Square Metre</key>

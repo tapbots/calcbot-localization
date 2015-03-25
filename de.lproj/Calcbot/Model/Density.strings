@@ -9,7 +9,7 @@
     <key>Kilogram/Cubic Metre</key>
     <string>Kilogramm/m³</string>
     <key>Pound/Cubic Foot</key>
-    <string>Pfund/Fuß³</string>
+    <string>Pfund/Kubikfoot</string>
     <key>Pound/Gallon (Imperial)</key>
     <string>Pfund/Gallone (Imperial)</string>
     <key>Pound/Gallon</key>
@@ -17,6 +17,6 @@
     <key>Gram/Cubic CM</key>
     <string>Gramm/cm³</string>
     <key>Pound/Cubic Inch</key>
-    <string>Pfund/Zoll³</string>
+    <string>Pfund/Kubikinch</string>
   </dict>
 </plist>
