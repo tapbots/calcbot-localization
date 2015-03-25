@@ -12,10 +12,6 @@
     <string>Tropfen</string>
     <key>Drop (Imperial)</key>
     <string>Tropfen (Imperial)</string>
-    <key>Dash (Imperial)</key>
-    <string>Dash (Imperial)</string>
-    <key>Pinch (Imperial)</key>
-    <string>Pinch (Imperial)</string>
     <key>Cubic Centimetre</key>
     <string>Kubikzentimeter</string>
     <key>Millilitre</key>
@@ -23,13 +19,13 @@
     <key>Teaspoon</key>
     <string>Teelöffel</string>
     <key>Teaspoon (Metric)</key>
-    <string>Teelöffel (Metric)</string>
+    <string>Teelöffel (Metrisch)</string>
     <key>Teaspoon (Imperial)</key>
     <string>Teelöffel (Imperial)</string>
     <key>Tablespoon</key>
     <string>Esslöffel</string>
     <key>Tablespoon (Metric)</key>
-    <string>Esslöffel (Metric)</string>
+    <string>Esslöffel (Metrisch)</string>
     <key>Cubic Inch</key>
     <string>Kubikzoll</string>
     <key>Tablespoon (Imperial)</key>
@@ -38,43 +34,29 @@
     <string>Unze (Imperial)</string>
     <key>Ounce</key>
     <string>Unze</string>
-    <key>Gill (Imperial)</key>
-    <string>Gill (Imperial)</string>
     <key>Cup (Metric)</key>
-    <string>Tasse (Metric)</string>
+    <string>Tasse (Metrisch)</string>
     <key>Cup (Imperial)</key>
     <string>Tasse (Imperial)</string>
-    <key>Dry Pint</key>
-    <string>US dry.pt.</string>
-    <key>Pint (Imperial)</key>
-    <string>Pint (Imperial)</string>
     <key>Fifth</key>
     <string>Quint</string>
     <key>Litre</key>
     <string>Liter</string>
-    <key>Dry Quart</key>
-    <string>US dry.qt.</string>
-    <key>Quart (Imperial)</key>
-    <string>Quart (Imperial)</string>
     <key>Gallon</key>
     <string>Gallone</string>
-    <key>Dry Gallon</key>
-    <string>US dry.gal.</string>
     <key>Gallon (Imperial)</key>
-    <string>Gallon (Imperial)</string>
+    <string>Gallone (Imperial)</string>
     <key>Cubic Feet</key>
     <string>Kubikfuss</string>
-    <key>Bushel</key>
-    <string>Scheffel</string>
-    <key>Beer Barrel</key>
-    <string>Bierfass</string>
     <key>Oil Barrel</key>
-    <string>Barrel</string>
-    <key>Beer Barrel (Imperial)</key>
-    <string>Beer Barrel (Imperial)</string>
+    <string>Barrel (US, Öl)</string>
     <key>Cubic Yard</key>
-    <string>Kubik Yard</string>
+    <string>Kubikyard</string>
     <key>Cubic Metre</key>
     <string>Kubikmeter</string>
+    <key>Shot</key>
+    <string>Schuss</string>
+    <key>Cup</key>
+    <string>Tasse</string>
   </dict>
 </plist>
