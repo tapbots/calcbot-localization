@@ -52,10 +52,6 @@
     <string>Сетевое подключение занято</string>
     <key>Now</key>
     <string>Сейчас</string>
-    <key>OFF</key>
-    <string>Выкл</string>
-    <key>ON</key>
-    <string>Вкл</string>
     <key>OTHER APPS</key>
     <string>ДРУГИЕ ПРИЛОЖЕНИЯ</string>
     <key>Open</key>

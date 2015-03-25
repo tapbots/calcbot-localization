@@ -186,6 +186,8 @@
     <string>Schemata</string>
     <key>Title</key>
     <string>Titel</string>
+    <key>To</key>
+    <string>Zu</string>
     <key>Type a unit...</key>
     <string>Einheit eingeben...</string>
     <key>Unit Conversions.</key>

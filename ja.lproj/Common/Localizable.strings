@@ -52,10 +52,6 @@
     <string>ネットワークが混雑しています</string>
     <key>Now</key>
     <string>今</string>
-    <key>OFF</key>
-    <string>オフ</string>
-    <key>ON</key>
-    <string>オン</string>
     <key>OTHER APPS</key>
     <string>他のアプリ</string>
     <key>Open</key>
