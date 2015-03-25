@@ -2,7 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <array>
-    <string>OK</string>
-    <string>To</string>
+      <string>PRO</string>
+      <string>Pro</string>
+      <string>Retro</string>
+      <string>Standard</string>
+      <string>Version</string>
+      <string>Otaku</string>
   </array>
 </plist>
