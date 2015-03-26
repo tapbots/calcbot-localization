@@ -6,5 +6,10 @@
     <string>Cicero</string>
     <string>歯 (H)</string>
     <string>級 (Q)</string>
+    <string>Pixel (300 dpi)</string>
+    <string>Pixel (150 dpi)</string>
+    <string>Pixel (96 dpi)</string>
+    <string>Pixel (72 dpi)</string>
+    <string>Inch</string>
   </array>
 </plist>
