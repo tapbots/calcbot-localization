@@ -5,11 +5,11 @@
     <key>Speed</key>
     <string>Geschw.</string>
     <key>Feet/Minute</key>
-    <string>Fuss/Minute</string>
+    <string>Foot/Minute</string>
     <key>Kilometres/Hour</key>
     <string>Kilometer/Stunde</string>
     <key>Feet/Second</key>
-    <string>Fuss/Sekunde</string>
+    <string>Foot/Sekunde</string>
     <key>Miles/Hour</key>
     <string>Meilen/Stunde</string>
     <key>Knots</key>

@@ -9,7 +9,7 @@
     <key>MM of Water</key>
     <string>MM Wassersäule</string>
     <key>Pounds/Square Foot</key>
-    <string>Pfund/Quadrat Fuss</string>
+    <string>Pfund/Quadratfoot</string>
     <key>CM of Water</key>
     <string>CM Wassersäule</string>
     <key>Hectopascal</key>
@@ -23,7 +23,7 @@
     <key>Inches of Mercury</key>
     <string>Quecksilber Zoll</string>
     <key>Pounds/Square Inch</key>
-    <string>Pfund/Quadrat Inch</string>
+    <string>Pfund/Quadratinch</string>
     <key>KG/Square CM</key>
     <string>KG/Quadratzentimeter</string>
     <key>Bars</key>
