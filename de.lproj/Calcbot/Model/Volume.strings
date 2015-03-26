@@ -34,6 +34,10 @@
     <string>Unze (Imperial)</string>
     <key>Ounce</key>
     <string>Unze</string>
+    <key>Shot</key>
+    <string>Schuss</string>
+    <key>Cup</key>
+    <string>Tasse</string>
     <key>Cup (Metric)</key>
     <string>Tasse (Metrisch)</string>
     <key>Cup (Imperial)</key>
@@ -52,9 +56,5 @@
     <string>Kubikyard</string>
     <key>Cubic Metre</key>
     <string>Kubikmeter</string>
-    <key>Shot</key>
-    <string>Schuss</string>
-    <key>Cup</key>
-    <string>Tasse</string>
   </dict>
 </plist>
