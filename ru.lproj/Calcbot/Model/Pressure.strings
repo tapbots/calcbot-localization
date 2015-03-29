@@ -3,44 +3,44 @@
 <plist version="1.0">
   <dict>
     <key>Pressure</key>
-    <string>Pressure</string>
+    <string>Давление</string>
     <key>Pascal</key>
-    <string>Pascal</string>
+    <string>Паскаль</string>
     <key>KG/Square Metre</key>
-    <string>KG/Square Metre</string>
+    <string>Килограмм/Квадратный метр</string>
     <key>MM of Water</key>
-    <string>MM of Water</string>
+    <string>Миллиметр водяного столба</string>
     <key>Pounds/Square Foot</key>
-    <string>Pounds/Square Foot</string>
+    <string>Фунт/Квадратный фут</string>
     <key>CM of Water</key>
-    <string>CM of Water</string>
+    <string>Сантиметр водяного столба</string>
     <key>Hectopascal</key>
-    <string>Hectopascal</string>
+    <string>Гектопаскаль</string>
     <key>Millibar</key>
-    <string>Millibar</string>
+    <string>Миллибар</string>
     <key>Torr</key>
-    <string>Torr</string>
+    <string>Торр</string>
     <key>MM of Mercury</key>
-    <string>MM of Mercury</string>
+    <string>Миллиметр ртутного столба</string>
     <key>Inch of Water</key>
-    <string>Inch of Water</string>
+    <string>Дюйм водяного столба</string>
     <key>Kilopascal</key>
-    <string>Kilopascal</string>
+    <string>Килопаскаль</string>
     <key>CM of Mercury</key>
-    <string>CM of Mercury</string>
+    <string>Сантиметр ртутного столба</string>
     <key>Inches of Mercury</key>
-    <string>Inches of Mercury</string>
+    <string>Дюйм ртутного столба</string>
     <key>Pounds/Square Inch</key>
-    <string>Pounds/Square Inch</string>
+    <string>Фунт/Квадратный дюйм</string>
     <key>KG/Square CM</key>
-    <string>KG/Square CM</string>
+    <string>Килограмм/Квадратный сантиметр</string>
     <key>Bars</key>
-    <string>Bars</string>
+    <string>Бар</string>
     <key>Atmospheres</key>
-    <string>Atmospheres</string>
+    <string>Атмосфера</string>
     <key>Megapascal</key>
-    <string>Megapascal</string>
+    <string>Мегапаскаль</string>
     <key>Gigapascal</key>
-    <string>Gigapascal</string>
+    <string>Гигапаскаль</string>
   </dict>
 </plist>

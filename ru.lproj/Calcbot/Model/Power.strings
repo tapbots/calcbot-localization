@@ -3,36 +3,34 @@
 <plist version="1.0">
   <dict>
     <key>Power</key>
-    <string>Power</string>
+    <string>Мощность</string>
     <key>Newton Metre/Hour</key>
-    <string>Newton Metre/Hour</string>
+    <string>Ньютон-метр/Час</string>
     <key>Newton Metre/Minute</key>
-    <string>Newton Metre/Minute</string>
+    <string>Ньютон-метр/Минута</string>
     <key>Foot-Pound/Minute</key>
-    <string>Foot-Pound/Minute</string>
+    <string>Фут-фунт/Минута</string>
     <key>BTU/Hour</key>
-    <string>BTU/Hour</string>
+    <string>Британская термическая единица/Час</string>
     <key>Newton Metre/Second</key>
-    <string>Newton Metre/Second</string>
+    <string>Ньютон-метр/Секунда</string>
     <key>Watt</key>
-    <string>Watt</string>
+    <string>Ватт</string>
     <key>Foot-Pound/Second</key>
-    <string>Foot-Pound/Second</string>
+    <string>Фут-фунт/Second</string>
     <key>BTU/Minute</key>
-    <string>BTU/Minute</string>
+    <string>Британская термическая единица/Минута</string>
     <key>Metric Horsepower</key>
-    <string>Metric Horsepower</string>
-    <key>Pferdestärke</key>
-    <string>Pferdestärke</string>
+    <string>Метрическая лошадиная сила</string>
     <key>Horsepower</key>
-    <string>Horsepower</string>
+    <string>Лошадиная сила</string>
     <key>Kilowatt</key>
-    <string>Kilowatt</string>
+    <string>Киловатт</string>
     <key>BTU/Second</key>
-    <string>BTU/Second</string>
+    <string>Британская термическая единица/Секунда</string>
     <key>Ton of Refrigeration</key>
-    <string>Ton of Refrigeration</string>
+    <string>Тонна охлаждения</string>
     <key>Megawatt</key>
-    <string>Megawatt</string>
+    <string>Мегаватт</string>
   </dict>
 </plist>

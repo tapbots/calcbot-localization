@@ -3,34 +3,34 @@
 <plist version="1.0">
   <dict>
     <key>Typography</key>
-    <string>Typography</string>
+    <string>Типографика</string>
     <key>Pixel (300 dpi)</key>
-    <string>Pixel (300 dpi)</string>
+    <string>Пиксель (300 тнд)</string>
     <key>Pixel (150 dpi)</key>
-    <string>Pixel (150 dpi)</string>
+    <string>Пиксель (150 тнд)</string>
     <key>Pixel (96 dpi)</key>
-    <string>Pixel (96 dpi)</string>
+    <string>Пиксель (96 тнд)</string>
     <key>Pixel (72 dpi)</key>
-    <string>Pixel (72 dpi)</string>
+    <string>Пиксель (72 тнд)</string>
     <key>Point</key>
-    <string>Point</string>
+    <string>Пункт</string>
     <key>Didot</key>
-    <string>Didot</string>
+    <string>Дидо</string>
     <key>Millimetre</key>
-    <string>Millimetre</string>
+    <string>Миллиметр</string>
     <key>Agate Line</key>
-    <string>Agate Line</string>
+    <string>Агат</string>
     <key>Pica</key>
-    <string>Pica</string>
+    <string>Пика</string>
     <key>Cicero</key>
-    <string>Cicero</string>
+    <string>Цицеро</string>
     <key>Centimetre</key>
-    <string>Centimetre</string>
+    <string>Сантиметр</string>
     <key>Inch</key>
-    <string>Inch</string>
+    <string>Дюйм</string>
     <key>歯 (H)</key>
-    <string>歯 (H)</string>
+    <string>歯 (Эйч - четверть мм)</string>
     <key>級 (Q)</key>
-    <string>級 (Q)</string>
+    <string>級 (Кью - четверть мм)</string>
   </dict>
 </plist>

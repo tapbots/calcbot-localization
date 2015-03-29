@@ -3,104 +3,104 @@
 <plist version="1.0">
   <dict>
     <key>10 to the power of</key>
-    <string>10 to the power of</string>
+    <string>10 в степень</string>
     <key>2 to the power of</key>
-    <string>2 to the power of</string>
+    <string>2 в степень</string>
     <key>Error</key>
-    <string>Error</string>
+    <string>Ошибка</string>
     <key>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</key>
-    <string>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</string>
+    <string>Ошибка при чтении данных курса валют. Если ошибка повторится, свяжитесь с поддержкой Tapbots</string>
     <key>add</key>
-    <string>add</string>
+    <string>добавить</string>
     <key>alternate functions</key>
-    <string>alternate functions</string>
+    <string>альтернативные функции</string>
     <key>clear</key>
-    <string>clear</string>
+    <string>очистить</string>
     <key>close parenthesis</key>
-    <string>close parenthesis</string>
+    <string>закрыть скобки</string>
     <key>constants</key>
-    <string>constants</string>
+    <string>константы</string>
     <key>cosine</key>
-    <string>cosine</string>
+    <string>косинус</string>
     <key>cube</key>
-    <string>cube</string>
+    <string>куб</string>
     <key>cube root</key>
-    <string>cube root</string>
+    <string>кубический корень</string>
     <key>decimal</key>
-    <string>decimal</string>
+    <string>десятичный</string>
     <key>degrees</key>
-    <string>degrees</string>
+    <string>градусы</string>
     <key>delete</key>
-    <string>delete</string>
+    <string>удалить</string>
     <key>divide</key>
-    <string>divide</string>
+    <string>делить</string>
     <key>ee engineering exponent</key>
-    <string>ee engineering exponent</string>
+    <string>инженерная экспонента</string>
     <key>equal</key>
-    <string>equal</string>
+    <string>равно</string>
     <key>exponential</key>
-    <string>exponential</string>
+    <string>экспоненциальный</string>
     <key>factorial</key>
-    <string>factorial</string>
+    <string>факториал</string>
     <key>favorites</key>
-    <string>favorites</string>
+    <string>избранные</string>
     <key>hyperbolic cosine</key>
-    <string>hyperbolic cosine</string>
+    <string>гиберболический косинус</string>
     <key>hyperbolic sine</key>
-    <string>hyperbolic sine</string>
+    <string>гиберболический синус</string>
     <key>hyperbolic tangent</key>
-    <string>hyperbolic tangent</string>
+    <string>гиберболический тангенс</string>
     <key>inverse cosine</key>
-    <string>inverse cosine</string>
+    <string>инверсный косинус</string>
     <key>inverse hyperbolic cosine</key>
-    <string>inverse hyperbolic cosine</string>
+    <string>инверсный гиперболический косинус</string>
     <key>inverse hyperbolic sine</key>
-    <string>inverse hyperbolic sine</string>
+    <string>инверсный гиперболический синус</string>
     <key>inverse hyperbolic tangent</key>
-    <string>inverse hyperbolic tangent</string>
+    <string>инверсный гиперболический тангенс</string>
     <key>inverse sine</key>
-    <string>inverse sine</string>
+    <string>инверсный синус</string>
     <key>inverse tangent</key>
-    <string>inverse tangent</string>
+    <string>инверсный тангенс</string>
     <key>log base 10</key>
-    <string>log base 10</string>
+    <string>логарифм по основанию 10</string>
     <key>log base 2</key>
-    <string>log base 2</string>
+    <string>логарифм по основанию 2</string>
     <key>logarithm</key>
-    <string>logarithm</string>
+    <string>логарифм</string>
     <key>multiply</key>
-    <string>multiply</string>
+    <string>умножить</string>
     <key>natural log</key>
-    <string>natural log</string>
+    <string>натуральный логарифм</string>
     <key>open parenthesis</key>
-    <string>open parenthesis</string>
+    <string>открыть скобки</string>
     <key>percent</key>
-    <string>percent</string>
+    <string>процент</string>
     <key>plus, minus</key>
-    <string>plus, minus</string>
+    <string>плюс, минус</string>
     <key>power</key>
-    <string>power</string>
+    <string>степень</string>
     <key>radians</key>
-    <string>radians</string>
+    <string>радиан</string>
     <key>random</key>
-    <string>random</string>
+    <string>случайное число</string>
     <key>reciprocal</key>
-    <string>reciprocal</string>
+    <string>обратный</string>
     <key>reverse power</key>
-    <string>reverse power</string>
+    <string>обратная степень</string>
     <key>root</key>
-    <string>root</string>
+    <string>корень</string>
     <key>round</key>
-    <string>round</string>
+    <string>округлить</string>
     <key>sine</key>
-    <string>sine</string>
+    <string>синус</string>
     <key>square</key>
-    <string>square</string>
+    <string>квадрат</string>
     <key>square root</key>
-    <string>square root</string>
+    <string>квадратный корень</string>
     <key>subtract</key>
-    <string>subtract</string>
+    <string>вычесть</string>
     <key>tangent</key>
-    <string>tangent</string>
+    <string>тангенс</string>
   </dict>
 </plist>

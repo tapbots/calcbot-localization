@@ -3,48 +3,48 @@
 <plist version="1.0">
   <dict>
     <key>SI</key>
-    <string>SI</string>
+    <string>СИ</string>
     <key>Yocto</key>
-    <string>Yocto</string>
+    <string>Иокто</string>
     <key>Zepto</key>
-    <string>Zepto</string>
+    <string>Зепто</string>
     <key>Atto</key>
-    <string>Atto</string>
+    <string>Атто</string>
     <key>Femto</key>
-    <string>Femto</string>
+    <string>Фемто</string>
     <key>Pico</key>
-    <string>Pico</string>
+    <string>Пико</string>
     <key>Nano</key>
-    <string>Nano</string>
+    <string>Нано</string>
     <key>Micro</key>
-    <string>Micro</string>
+    <string>Микро</string>
     <key>Milli</key>
-    <string>Milli</string>
+    <string>Милли</string>
     <key>Centi</key>
-    <string>Centi</string>
+    <string>Санти</string>
     <key>Deci</key>
-    <string>Deci</string>
+    <string>Деци</string>
     <key>Base</key>
-    <string>Base</string>
+    <string>Единица</string>
     <key>Deka</key>
-    <string>Deka</string>
+    <string>Дека</string>
     <key>Hecto</key>
-    <string>Hecto</string>
+    <string>Гекто</string>
     <key>Kilo</key>
-    <string>Kilo</string>
+    <string>Кило</string>
     <key>Mega</key>
-    <string>Mega</string>
+    <string>Мега</string>
     <key>Giga</key>
-    <string>Giga</string>
+    <string>Гига</string>
     <key>Tera</key>
-    <string>Tera</string>
+    <string>Тера</string>
     <key>Peta</key>
-    <string>Peta</string>
+    <string>Пета</string>
     <key>Exa</key>
-    <string>Exa</string>
+    <string>Экза</string>
     <key>Zetta</key>
-    <string>Zetta</string>
+    <string>Зетта</string>
     <key>Yotta</key>
-    <string>Yotta</string>
+    <string>Йотта</string>
   </dict>
 </plist>
