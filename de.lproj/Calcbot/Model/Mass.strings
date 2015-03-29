@@ -16,15 +16,13 @@
     <string>Unze</string>
     <key>Troy Ounce</key>
     <string>Feinunze</string>
-    <key>Pound</key>
-    <string>Pfund</string>
     <key>Kilogram</key>
     <string>Kilogramm</string>
     <key>Short Ton</key>
-    <string>Kurze Tonne</string>
+    <string>Shortton</string>
     <key>Metric Ton</key>
     <string>Metrische Tonne</string>
     <key>Long Ton</key>
-    <string>Lange Tonne</string>
+    <string>Longton</string>
   </dict>
 </plist>

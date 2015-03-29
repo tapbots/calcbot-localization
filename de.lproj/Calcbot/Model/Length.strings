@@ -12,10 +12,6 @@
     <string>Millimeter</string>
     <key>Centimetre</key>
     <string>Zentimeter</string>
-    <key>Inch</key>
-    <string>Zoll</string>
-    <key>Foot</key>
-    <string>Fuss</string>
     <key>Metre</key>
     <string>Meter</string>
     <key>Fathom</key>

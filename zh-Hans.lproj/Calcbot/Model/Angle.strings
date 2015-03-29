@@ -3,16 +3,16 @@
 <plist version="1.0">
   <dict>
     <key>Angle</key>
-    <string>Angle</string>
+    <string>角度</string>
     <key>Mil</key>
-    <string>Mil</string>
+    <string>密位</string>
     <key>Degree</key>
-    <string>Degree</string>
+    <string>度</string>
     <key>Grad</key>
-    <string>Grad</string>
+    <string>百分度</string>
     <key>Radian</key>
-    <string>Radian</string>
+    <string>弧度</string>
     <key>Revolution</key>
-    <string>Revolution</string>
+    <string>转</string>
   </dict>
 </plist>

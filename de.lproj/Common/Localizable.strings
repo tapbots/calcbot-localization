@@ -42,10 +42,6 @@
     <string>Netzwerkverbindung besetzt</string>
     <key>Now</key>
     <string>Jetzt</string>
-    <key>OFF</key>
-    <string>AUS</string>
-    <key>ON</key>
-    <string>EIN</string>
     <key>OTHER APPS</key>
     <string>ANDERE APPS</string>
     <key>Open</key>

@@ -7,7 +7,7 @@
     <key>About Tapbots</key>
     <string>Über Tapbots</string>
     <key>Access to the special pro theme.</key>
-    <string>Zugang zum Spezial-Pro-Theme</string>
+    <string>Zugang zum speziellen Pro-Schema</string>
     <key>Add New</key>
     <string>Neu hinzufügen</string>
     <key>Add your own values and labels to the constants menu.</key>
@@ -15,11 +15,11 @@
     <key>Attach Tape</key>
     <string>Verlauf anheften</string>
     <key>Basic</key>
-    <string>Basic</string>
+    <string>Standard</string>
     <key>COMPANY</key>
-    <string>FIRMA</string>
+    <string>UNTERNEHMEN</string>
     <key>CONVERSION</key>
-    <string>KONVERTIERUNG</string>
+    <string>UMRECHNUNG</string>
     <key>Calcbot Calculation</key>
     <string>Calcbot Berechnung</string>
     <key>Calcbot Calculations</key>
@@ -41,11 +41,11 @@
     <key>Constants</key>
     <string>Konstanten</string>
     <key>Contact Us</key>
-    <string>Kontaktieren Sie uns</string>
+    <string>Kontaktiere uns</string>
     <key>Conversion</key>
-    <string>Konvertierung</string>
+    <string>Umrechnung</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
-    <string>Konvertiere über 200 Einheiten aus 20 Kategorien.</string>
+    <string>Rechne mit über 200 Einheiten aus 20 Kategorien um.</string>
     <key>Copy</key>
     <string>Kopieren</string>
     <key>Copy Expression</key>
@@ -59,29 +59,29 @@
     <key>DEFAULT</key>
     <string>STANDARD</string>
     <key>Dark Ninja</key>
-    <string>Dark Ninja</string>
+    <string>Ninja dunkel</string>
     <key>Delete</key>
     <string>Löschen</string>
     <key>Detach Tape</key>
-    <string>Verlauf abheften</string>
+    <string>Verlauf loslösen</string>
     <key>Disable All</key>
-    <string>Alle ausschalten</string>
+    <string>Alle deaktivieren</string>
     <key>Edit Units</key>
     <string>Einheiten bearbeiten</string>
     <key>Email Tape</key>
-    <string>Verlauf per Email versenden</string>
+    <string>Verlauf e-mailen</string>
     <key>Enable All</key>
-    <string>Alle einschalten</string>
+    <string>Alle aktivieren</string>
     <key>Enable constants in the settings.</key>
     <string>Konstanten in den Einstellungen aktivieren.</string>
     <key>Enter a Calculation to Save it Here.</key>
-    <string>Eine Berechnung eingeben um sie hier zu speichern.</string>
+    <string>Gib eine Rechnung ein um sie hier zu speichern.</string>
     <key>Failed to Restore Purchases</key>
     <string>Fehler beim Wiederherstellen der In-App-Käufe.</string>
     <key>Fav an item in the history tape for quick access here.</key>
-    <string>Erstellen sie einen Favoriten im Verlauf für den Schnellzugriff hier.</string>
+    <string>Favorisiere ein Element im Verlauf für den Schnellzugriff hier.</string>
     <key>Fave a Calculation to Show it Here.</key>
-    <string>Berechnungs-Favoriten erstellen um ihn hier anzuzeigen.</string>
+    <string>Favorisiere eine Rechnung um sie hier anzuzeigen.</string>
     <key>Favorites</key>
     <string>Favoriten</string>
     <key>From</key>
@@ -91,7 +91,7 @@
     <key>General</key>
     <string>Allgemein</string>
     <key>Hide Conversion</key>
-    <string>Konversation ausblenden</string>
+    <string>Umrechnung ausblenden</string>
     <key>Hide Tape</key>
     <string>Verlauf ausblenden</string>
     <key>History</key>
@@ -105,59 +105,51 @@
     <key>Learn More</key>
     <string>Mehr erfahren</string>
     <key>Light Ninja</key>
-    <string>Light Ninja</string>
+    <string>Ninja hell</string>
     <key>Loading…</key>
     <string>Lade…</string>
     <key>MY CONSTANTS</key>
     <string>EIGENE KONSTANTEN</string>
     <key>MY THEMES</key>
-    <string>EIGENE THEMES</string>
+    <string>MEINE SCHEMATA</string>
     <key>Main</key>
     <string>Main</string>
     <key>Mark’s Office</key>
-    <string>Mark’s Office</string>
+    <string>Marks Büro</string>
     <key>Melancholy</key>
-    <string>Melancholy</string>
+    <string>Melancholie</string>
     <key>Memories</key>
-    <string>Memories</string>
+    <string>Erinnerungen</string>
     <key>My Constant</key>
-    <string>Eigene Konstanten</string>
+    <string>Eigene Konstante</string>
     <key>Never</key>
     <string>Nie</string>
     <key>Number from Calcbot</key>
-    <string>Nummer aus Calcbot</string>
+    <string>Zahl aus Calcbot</string>
     <key>Options</key>
     <string>Optionen</string>
-    <key>Otaku</key>
-    <string>Otaku</string>
-    <key>PRO</key>
-    <string>PRO</string>
     <key>Paste (%@)</key>
     <string>(%@) einfügen</string>
     <key>Please enter a valid constant.</key>
-    <string>Bitte geben Sie eine gültige Konstante ein.</string>
+    <string>Bitte gib eine gültige Konstante ein.</string>
     <key>Please try again later</key>
-    <string>Versuchen Sie es später noch ein Mal.</string>
+    <string>Bitte versuche es später nochmals.</string>
     <key>Please type your message above this line</key>
-    <string>Beginnen Sie ihre Nachricht unter diesem Strich</string>
-    <key>Pro</key>
-    <string>Pro</string>
+    <string>Bitte gib deine Nachricht über dieser Linie ein.</string>
     <key>Pro Theme.</key>
-    <string>Pro Theme.</string>
+    <string>Pro-Schema.</string>
     <key>Purchase for %@</key>
     <string>Für %@ kaufen</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>
-    <string>Kaufen Sie dieses Theme-Paket und erhalten Sie folgende %@ Themes:</string>
+    <string>Kaufe dieses Schema-Paket und erhalte folgende %@ Schemata:</string>
     <key>Remove All</key>
     <string>Alle entfernen</string>
     <key>Remove the 10 record limit and never lose a calculation again.</key>
-    <string>Entfernen Sie das 10-Einträge-Limit und verlieren Sie nie wieder eine Berechnung.</string>
+    <string>Entferne das 10-Einträge-Limit und verliere nie wieder eine Berechnung.</string>
     <key>Restore Purchased Themes</key>
-    <string>Gekaufte Themes wiederherstellen</string>
-    <key>Retro</key>
-    <string>Retro</string>
+    <string>Gekaufte Schemata wiederherstellen</string>
     <key>Round for Currency</key>
-    <string>Für Währungen runden</string>
+    <string>Als Währung runden</string>
     <key>Save</key>
     <string>Speichern</string>
     <key>Scientific</key>
@@ -165,13 +157,13 @@
     <key>Select All</key>
     <string>Alle auswählen</string>
     <key>Send as Email</key>
-    <string>Als Email senden</string>
+    <string>Als E-Mail senden</string>
     <key>Send to Calculator</key>
-    <string>Zum Taschenrechner senden</string>
+    <string>Zum Rechner senden</string>
     <key>Settings</key>
     <string>Einstellungen</string>
     <key>Shark Attack</key>
-    <string>Shark Attack</string>
+    <string>Hai-Attacke</string>
     <key>Show All Conversion Results</key>
     <string>Alle Umrechnungsergebnisse anzeigen</string>
     <key>Show Conversion</key>
@@ -180,22 +172,22 @@
     <string>Verlauf anzeigen</string>
     <key>Sounds</key>
     <string>Töne</string>
-    <key>Standard</key>
-    <string>Standard</string>
     <key>THEME PACKS</key>
-    <string>THEME PAKETE</string>
+    <string>SCHEMA-PAKETE</string>
     <key>Tape</key>
     <string>Verlauf</string>
     <key>Tape Entry</key>
     <string>Verlauf-Eintrag</string>
     <key>Theme Pack 1</key>
-    <string>Theme Paket 1</string>
+    <string>Schema-Paket 1</string>
     <key>Theme Pack 2</key>
-    <string>Theme Paket 2</string>
+    <string>Schema-Paket 2</string>
     <key>Themes</key>
-    <string>Themes</string>
+    <string>Schemata</string>
     <key>Title</key>
     <string>Titel</string>
+    <key>To</key>
+    <string>Zu</string>
     <key>Type a unit...</key>
     <string>Einheit eingeben...</string>
     <key>Unit Conversions.</key>
@@ -205,47 +197,45 @@
     <key>Upgrade to Pro to add your own constants and more.</key>
     <string>Zu Pro upgraden um eigene Konstanten und mehr hinzuzufügen.</string>
     <key>Upgrade to Pro to convert with over 200 units across 20 categories and more.</key>
-    <string>Zu Pro upgraden um u.a. über 200 Einheiten aus 20 Kategorien umzurechnen.</string>
+    <string>Zu Pro upgraden um u. a. über 200 Einheiten aus 20 Kategorien umzurechnen.</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
     <string>Zu Pro upgraden für unbegrenzte Verläufe und mehr.</string>
     <key>Upgrade to pro and get the following benefits:</key>
     <string>Zu Pro upgraden und folgende Vorteile genießen:</string>
     <key>Use Expression</key>
-    <string>Termini verwenden</string>
+    <string>Ausdruck verwenden</string>
     <key>Use Result</key>
     <string>Ergebnis verwenden</string>
     <key>Value</key>
     <string>Wert</string>
-    <key>Version</key>
-    <string>Version</string>
     <key>View</key>
     <string>Anzeige</string>
     <key>You cannot deselect every enabled conversion unit.</key>
-    <string>Es muss mindestens eine Umrechnungs-Einheit ausgewählt sein.</string>
+    <string>Du kannst nicht alle aktivierten Umrechnungs-Einheiten deaktivieren.</string>
     <key>You cannot deselect the last enabled conversion unit.</key>
-    <string>Es muss mindestens eine Umrechnungs-Einheit ausgewählt sein.</string>
+    <string>Du kannst die einzige aktivierte Umrechnungs-Einheit nicht deaktivieren.</string>
     <key>You need at least one enabled conversion unit</key>
-    <string>Es muss mindestens eine Umrechnungs-Einheit ausgewählt sein.</string>
+    <string>Es muss mindestens eine Umrechnungs-Einheit aktiviert sein.</string>
     <key>calculated result</key>
     <string>Berechnetes Ergebnis</string>
     <key>conversion category chooser</key>
-    <string>Umrechnungs-Kategorie Auswahl</string>
+    <string>Umrechnungs-Kategorie-Auswahl</string>
     <key>conversion category picker</key>
-    <string>Umrechnungs-Kategorie Auswahl</string>
+    <string>Umrechnungs-Kategorie-Auswahl</string>
     <key>conversion from unit</key>
     <string>Umrechnung aus Einheit</string>
     <key>conversion from unit symbol</key>
-    <string>Umrechnung aus Einheitensymbol</string>
+    <string>Symbol der Ursprungseinheit der Umrechnung</string>
     <key>conversion to unit</key>
     <string>Umrechnung zu Einheit</string>
     <key>conversion to unit symbol</key>
-    <string>Umrechnung zu Einheitensymbol</string>
+    <string>Symbol der Zieleinheit der Umrechnung</string>
     <key>current expression</key>
     <string>aktueller Ausdruck</string>
     <key>display options segmented control</key>
-    <string>display options segmented control</string>
+    <string>Anzeige-Optionen-Registerkarten</string>
     <key>favorite expression</key>
-    <string>Termini-Favoriten</string>
+    <string>Ausdruck favorisieren</string>
     <key>hide conversion</key>
     <string>Umrechnung ausblenden</string>
     <key>hide tape</key>
@@ -253,29 +243,29 @@
     <key>result</key>
     <string>Ergebnis</string>
     <key>saved expression</key>
-    <string>Gespeicherte Termini</string>
+    <string>Gespeicherter Ausdruck</string>
     <key>saved result</key>
-    <string>Gespeicherte Ergebnisse</string>
+    <string>Gespeichertes Ergebnis</string>
     <key>show conversion</key>
-    <string>Umrechnung anziegen</string>
+    <string>Umrechnung anzeigen</string>
     <key>show favorited saved expressions</key>
-    <string>Gespeicherte Termini-Favoriten anzeigen</string>
+    <string>Gespeicherte Favoriten-Ausdrücke anzeigen</string>
     <key>show tape</key>
     <string>Verlauf anzeigen</string>
     <key>show tape of saved expressions</key>
-    <string>Verlauf von gespeichertem Ausdruck anzeigen</string>
+    <string>Verlauf von gespeicherten Ausdrücken anzeigen</string>
     <key>swap from and to conversion units</key>
     <string>Umrechnungs-Einheiten vertauschen</string>
     <key>table of favorited expressions</key>
-    <string>Liste der Termini-Favoriten</string>
+    <string>Tabelle der Favoriten-Ausdrücke</string>
     <key>table of saved expressions</key>
-    <string>Liste der gespeicherten Termini</string>
+    <string>Tabelle der gespeicherten Ausdrücke</string>
     <key>tape options segmented control</key>
-    <string>tape options segmented control</string>
+    <string>Verlauf-Optionen-Registerkarten</string>
     <key>tape settings button</key>
-    <string>Verlauf-Einstellungen-Button</string>
+    <string>Verlaufs-Einstellungen-Taste</string>
     <key>unfavorite expression</key>
-    <string>Ausdruck-Favoriten löschen</string>
+    <string>Favorisierung des Ausdrucks aufheben</string>
     <key>unknown</key>
     <string>unbekannt</string>
   </dict>

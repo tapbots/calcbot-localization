@@ -52,10 +52,6 @@
     <string>网络连接繁忙</string>
     <key>Now</key>
     <string>现在</string>
-    <key>OFF</key>
-    <string>关</string>
-    <key>ON</key>
-    <string>开</string>
     <key>OTHER APPS</key>
     <string>其它应用</string>
     <key>Open</key>
