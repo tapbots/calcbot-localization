@@ -7,13 +7,13 @@
     <key>Pascal</key>
     <string>Паскаль</string>
     <key>KG/Square Metre</key>
-    <string>Килограмм/Квадратный метр</string>
+    <string>КГ/Кв. метр</string>
     <key>MM of Water</key>
-    <string>Миллиметр водяного столба</string>
+    <string>ММ водяного столба</string>
     <key>Pounds/Square Foot</key>
-    <string>Фунт/Квадратный фут</string>
+    <string>Фунт/Кв. фут</string>
     <key>CM of Water</key>
-    <string>Сантиметр водяного столба</string>
+    <string>СМ водяного столба</string>
     <key>Hectopascal</key>
     <string>Гектопаскаль</string>
     <key>Millibar</key>
@@ -21,19 +21,19 @@
     <key>Torr</key>
     <string>Торр</string>
     <key>MM of Mercury</key>
-    <string>Миллиметр ртутного столба</string>
+    <string>ММ ртутного столба</string>
     <key>Inch of Water</key>
     <string>Дюйм водяного столба</string>
     <key>Kilopascal</key>
     <string>Килопаскаль</string>
     <key>CM of Mercury</key>
-    <string>Сантиметр ртутного столба</string>
+    <string>СМ ртутного столба</string>
     <key>Inches of Mercury</key>
     <string>Дюйм ртутного столба</string>
     <key>Pounds/Square Inch</key>
-    <string>Фунт/Квадратный дюйм</string>
+    <string>Фунт/Кв. дюйм</string>
     <key>KG/Square CM</key>
-    <string>Килограмм/Квадратный сантиметр</string>
+    <string>КГ/Кв. СМ</string>
     <key>Bars</key>
     <string>Бар</string>
     <key>Atmospheres</key>

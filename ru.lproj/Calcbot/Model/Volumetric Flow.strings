@@ -27,12 +27,12 @@
     <key>Gallon/Sec. (Imperial)</key>
     <string>Галлон/Секунда (Брит. система)</string>
     <key>Cubic Metre/Min</key>
-    <string>Кубический метр/Минута</string>
+    <string>Куб. метр/Минута</string>
     <key>Cubic Feet/Sec.</key>
-    <string>Кубический фут/Секунда</string>
+    <string>Куб. фут/Секунда</string>
     <key>Cubic Yard/Sec.</key>
-    <string>Кубический ярд/Секунда</string>
+    <string>Куб. ярд/Секунда</string>
     <key>Cubic Metre/Sec.</key>
-    <string>Кубический метр/Секунда</string>
+    <string>Куб. метр/Секунда</string>
   </dict>
 </plist>

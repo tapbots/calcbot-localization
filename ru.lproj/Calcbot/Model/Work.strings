@@ -20,28 +20,22 @@
     <string>Калория</string>
     <key>Kilojoule</key>
     <string>Килоджоуль</string>
-    <key>BTU</key>
-    <string>Британская термальная единица</string>
     <key>Watt Hour</key>
     <string>Ватт час</string>
     <key>Kilogram Calorie</key>
     <string>Килокалория</string>
     <key>Megajoule</key>
     <string>Мегаджоуль</string>
-    <key>MBTU</key>
-    <string>Тысяча БТЕ</string>
     <key>Kilowatt Hour</key>
     <string>Киловатт час</string>
     <key>Therm</key>
     <string>Терм</string>
-    <key>MMBTU</key>
-    <string>Миллион БТЕ</string>
     <key>Megawatt Hour</key>
     <string>Мегаватт час</string>
     <key>Tonne of Coal</key>
-    <string>Тонна угольного эквивалента</string>
+    <string>Тонна угля (экв.)</string>
     <key>Tonne of Oil</key>
-    <string>Тонна нефтяного эквивалента</string>
+    <string>Тонна нефти (экв.)</string>
     <key>Gigawatt Hour</key>
     <string>Гигаватт час</string>
     <key>Quad</key>

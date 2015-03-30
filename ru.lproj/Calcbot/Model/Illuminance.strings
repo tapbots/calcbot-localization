@@ -9,17 +9,17 @@
     <key>Nox</key>
     <string>Нокс</string>
     <key>Lumen/Square Metre</key>
-    <string>Люмен/Квадратный метр</string>
+    <string>Люмен/Кв. метр</string>
     <key>Lux</key>
     <string>Люкс</string>
     <key>Foot Candle</key>
     <string>Фут-свеча</string>
     <key>Lumen/Square Foot</key>
-    <string>Люмен/Квадратный фут</string>
+    <string>Люмен/Кв. фут</string>
     <key>Kilolux</key>
     <string>Килолюкс</string>
     <key>Lumen/Square CM</key>
-    <string>Люмен/Квадратный см</string>
+    <string>Люмен/Кв. СМ</string>
     <key>Phot</key>
     <string>Фот</string>
   </dict>
