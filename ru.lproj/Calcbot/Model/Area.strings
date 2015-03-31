@@ -5,9 +5,9 @@
     <key>Area</key>
     <string>Площадь</string>
     <key>Square Millimetre</key>
-    <string>Квадратный миллиметр</string>
+    <string>Квадратный ММ</string>
     <key>Square Centimetre</key>
-    <string>Квадратный сантиметр</string>
+    <string>Квадратный СМ</string>
     <key>Square Inch</key>
     <string>Квадратный дюйм</string>
     <key>Shaku</key>
@@ -43,7 +43,7 @@
     <key>Hectare</key>
     <string>Гектар</string>
     <key>Square Kilometre</key>
-    <string>Квадратный километр</string>
+    <string>Квадратный КМ</string>
     <key>Square Mile</key>
     <string>Квадратная миля</string>
   </dict>

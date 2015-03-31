@@ -5,7 +5,7 @@
     <key>Volume</key>
     <string>Объем</string>
     <key>Cubic Millimetre</key>
-    <string>Кубический миллиметр</string>
+    <string>Куб. ММ</string>
     <key>Microlitre</key>
     <string>Микролитр</string>
     <key>Drop</key>
@@ -13,7 +13,7 @@
     <key>Drop (Imperial)</key>
     <string>Drop (Брит. система)</string>
     <key>Cubic Centimetre</key>
-    <string>Кубический сантиметр</string>
+    <string>Куб. СМ</string>
     <key>Millilitre</key>
     <string>Миллилитр</string>
     <key>Sai</key>
@@ -83,7 +83,7 @@
     <key>Bucket</key>
     <string>Ведро</string>
     <key>Cubic Feet</key>
-    <string>Кубический фут</string>
+    <string>Куб. фут</string>
     <key>Bushel</key>
     <string>Бушель</string>
     <key>Beer Barrel</key>
@@ -95,8 +95,8 @@
     <key>Koku</key>
     <string>Коку</string>
     <key>Cubic Yard</key>
-    <string>Кубический ярд</string>
+    <string>Куб. ярд</string>
     <key>Cubic Metre</key>
-    <string>Кубический метр</string>
+    <string>Куб. метр</string>
   </dict>
 </plist>

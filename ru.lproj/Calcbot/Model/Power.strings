@@ -11,7 +11,7 @@
     <key>Foot-Pound/Minute</key>
     <string>Фут-фунт/Минута</string>
     <key>BTU/Hour</key>
-    <string>Британская термическая единица/Час</string>
+    <string>BTU/Час</string>
     <key>Newton Metre/Second</key>
     <string>Ньютон-метр/Секунда</string>
     <key>Watt</key>
@@ -19,15 +19,15 @@
     <key>Foot-Pound/Second</key>
     <string>Фут-фунт/Second</string>
     <key>BTU/Minute</key>
-    <string>Британская термическая единица/Минута</string>
+    <string>BTU/Минута</string>
     <key>Metric Horsepower</key>
-    <string>Метрическая лошадиная сила</string>
+    <string>Метр. лошадиная сила</string>
     <key>Horsepower</key>
     <string>Лошадиная сила</string>
     <key>Kilowatt</key>
     <string>Киловатт</string>
     <key>BTU/Second</key>
-    <string>Британская термическая единица/Секунда</string>
+    <string>BTU/Секунда</string>
     <key>Ton of Refrigeration</key>
     <string>Тонна охлаждения</string>
     <key>Megawatt</key>

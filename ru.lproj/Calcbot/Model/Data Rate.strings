@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>Data Rate</key>
-    <string>Скорость передачи данных</string>
+    <string>Передача данных</string>
     <key>Bytes/Week</key>
     <string>Байт/Неделя</string>
     <key>Bytes/Day</key>
