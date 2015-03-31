@@ -4,14 +4,8 @@
   <dict>
     <key>Typography</key>
     <string>タイポグラフィ</string>
-    <key>Pixel (300 dpi)</key>
-    <string>ピクセル (300 dpi)</string>
-    <key>Pixel (150 dpi)</key>
-    <string>ピクセル (150 dpi)</string>
-    <key>Pixel (96 dpi)</key>
-    <string>ピクセル (96 dpi)</string>
-    <key>Pixel (72 dpi)</key>
-    <string>ピクセル (72 dpi)</string>
+    <key>Pixel</key>
+    <string>ピクセル</string>
     <key>Point</key>
     <string>ポイント</string>
     <key>Didot</key>

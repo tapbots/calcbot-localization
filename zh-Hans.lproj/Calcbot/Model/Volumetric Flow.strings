@@ -6,16 +6,14 @@
     <string>Volumetric Flow</string>
     <key>Gallon/Day</key>
     <string>Gallon/Day</string>
-    <key>Gallon/Day (Imperial)</key>
-    <string>Gallon/Day (Imperial)</string>
+    <key>Imperial</key>
+    <string>Imperial</string>
     <key>Litre/Hour</key>
     <string>Litre/Hour</string>
     <key>Litre/Min.</key>
     <string>Litre/Min.</string>
     <key>Gallon/Min.</key>
     <string>Gallon/Min.</string>
-    <key>Gallon/Min. (Imperial)</key>
-    <string>Gallon/Min. (Imperial)</string>
     <key>Cubic Metre/Hour</key>
     <string>Cubic Metre/Hour</string>
     <key>Cubic Feet/Min.</key>
@@ -24,8 +22,6 @@
     <string>Litre/Sec.</string>
     <key>Gallon/Sec.</key>
     <string>Gallon/Sec.</string>
-    <key>Gallon/Sec. (Imperial)</key>
-    <string>Gallon/Sec. (Imperial)</string>
     <key>Cubic Metre/Min</key>
     <string>Cubic Metre/Min</string>
     <key>Cubic Feet/Sec.</key>

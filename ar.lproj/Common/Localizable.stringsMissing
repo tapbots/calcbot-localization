@@ -52,10 +52,6 @@
     <string>Network Connection Busy</string>
     <key>Now</key>
     <string>Now</string>
-    <key>OFF</key>
-    <string>OFF</string>
-    <key>ON</key>
-    <string>ON</string>
     <key>OTHER APPS</key>
     <string>OTHER APPS</string>
     <key>Open</key>

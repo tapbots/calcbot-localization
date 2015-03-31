@@ -4,14 +4,16 @@
   <dict>
     <key>Typography</key>
     <string>Типографика</string>
-    <key>Pixel (300 dpi)</key>
-    <string>Пиксель (300 тнд)</string>
-    <key>Pixel (150 dpi)</key>
-    <string>Пиксель (150 тнд)</string>
-    <key>Pixel (96 dpi)</key>
-    <string>Пиксель (96 тнд)</string>
-    <key>Pixel (72 dpi)</key>
-    <string>Пиксель (72 тнд)</string>
+    <key>Pixel</key>
+    <string>Пиксель</string>
+    <key>300 dpi</key>
+    <string>300 тнд</string>
+    <key>150 dpi</key>
+    <string>150 тнд</string>
+    <key>96 dpi</key>
+    <string>96 тнд</string>
+    <key>72 dpi</key>
+    <string>72 тнд</string>
     <key>Point</key>
     <string>Пункт</string>
     <key>Didot</key>

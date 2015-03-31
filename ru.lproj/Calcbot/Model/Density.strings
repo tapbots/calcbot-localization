@@ -10,10 +10,10 @@
     <string>КГ/Куб. метр</string>
     <key>Pound/Cubic Foot</key>
     <string>Фунт/Куб. фут</string>
-    <key>Pound/Gallon (Imperial)</key>
-    <string>Фунт/Галлон (Брит. система)</string>
     <key>Pound/Gallon</key>
     <string>Фунт/Галлон</string>
+    <key>Imperial</key>
+    <string>Брит. система</string>
     <key>Gram/Cubic CM</key>
     <string>Грамм/Куб. СМ</string>
     <key>Pound/Cubic Inch</key>

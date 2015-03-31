@@ -10,8 +10,8 @@
     <string>Litres/100 KM</string>
     <key>Gallons/100 Miles</key>
     <string>Gallons/100 Miles</string>
-    <key>Gallons/100 Miles UK</key>
-    <string>Gallons/100 Miles UK</string>
+    <key>Imperial</key>
+    <string>Imperial</string>
     <key>Litres/10 KM</key>
     <string>Litres/10 KM</string>
     <key>KM/Litre</key>
@@ -20,7 +20,5 @@
     <string>Litres/KM</string>
     <key>Miles/Gallon</key>
     <string>Miles/Gallon</string>
-    <key>Miles/Gallon UK</key>
-    <string>Miles/Gallon UK</string>
   </dict>
 </plist>

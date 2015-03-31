@@ -4,5 +4,9 @@
 <array>
 	<string>歯 (H)</string>
 	<string>級 (Q)</string>
+    <string>300 dpi</string>
+    <string>150 dpi</string>
+    <string>96 dpi</string>
+    <string>72 dpi</string>
 </array>
 </plist>
