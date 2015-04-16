@@ -5,9 +5,9 @@
     <key>Golden Ratio</key>
     <string>黄金比</string>
     <key>Pi</key>
-    <string>パイ</string>
+    <string>円周率</string>
     <key>Euler’s Number</key>
-    <string>ネイピア数</string>
+    <string>オイラー数</string>
     <key>Proton Mass</key>
     <string>陽子質量</string>
     <key>Neutron Mass</key>
@@ -19,7 +19,7 @@
     <key>Bohr Radius</key>
     <string>ボーア半径</string>
     <key>Planck</key>
-    <string>プランク</string>
+    <string>プランク定数</string>
     <key>Nuclear Magneton</key>
     <string>核磁子</string>
     <key>Bohr Magneton</key>
@@ -57,11 +57,11 @@
     <key>Boltzmann Constant</key>
     <string>ボルツマン定数</string>
     <key>Molar Volume of Ideal Gas</key>
-    <string>完全ガスのモル体積</string>
+    <string>理想気体のモル体積</string>
     <key>Molar Gas Constant</key>
     <string>モル気体定数</string>
     <key>Speed of Light</key>
-    <string>光の速さ</string>
+    <string>光速度</string>
     <key>First Radiation Constant</key>
     <string>第一放射定数</string>
     <key>Second Radiation Constant</key>
@@ -77,13 +77,13 @@
     <key>Standard Acceleration of Gravity</key>
     <string>標準重力</string>
     <key>Standard Atmosphere</key>
-    <string>標準大気</string>
+    <string>標準大気stan</string>
     <key>Conductance Quantum</key>
     <string>量子コンダクタンス</string>
     <key>Characteristic Impedance of Vacuum</key>
     <string>特性インピーダンス</string>
     <key>Celsius Temperature</key>
-    <string>セ氏温度</string>
+    <string>摂氏温度</string>
     <key>Newtonian Constant of Gravitation</key>
     <string>ニュートン重力定数</string>
   </dict>
