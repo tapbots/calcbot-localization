@@ -126,14 +126,10 @@
     <string>しない</string>
     <key>Number from Calcbot</key>
     <string>Calcbotからの数値</string>
-    <key>OK</key>
-    <string>OK</string>
     <key>Options</key>
     <string>設定</string>
     <key>Otaku</key>
     <string>オタク</string>
-    <key>PRO</key>
-    <string>PRO</string>
     <key>Paste (%@)</key>
     <string>ペースト (%@)</string>
     <key>Please enter a valid constant.</key>
@@ -141,7 +137,7 @@
     <key>Please try again later</key>
     <string>後ほど再度お試しください</string>
     <key>Please type your message above this line</key>
-    <string>この上にメッセージを入力してください/string>
+    <string>この上にメッセージを入力してください</string>
     <key>Pro</key>
     <string>PRO</string>
     <key>Pro Theme.</key>
