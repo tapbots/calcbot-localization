@@ -7,23 +7,23 @@
     <key>About Tapbots</key>
     <string>Tapbotsについて</string>
     <key>Access to the special pro theme.</key>
-    <string>特別なプロの配色をゲット</string>
+    <string>PROテーマを入手。</string>
     <key>Add New</key>
     <string>新規作成</string>
     <key>Add your own values and labels to the constants menu.</key>
-    <string>自分の定数・ラベルを定数メニューに追加</string>
+    <string>カスタムの定数・ラベルを定数メニューに追加できます。</string>
     <key>Attach Tape</key>
-    <string>テープを付ける</string>
+    <string>テープを結合</string>
     <key>Basic</key>
-    <string>基本</string>
+    <string>通常</string>
     <key>COMPANY</key>
     <string>開発元</string>
     <key>CONVERSION</key>
     <string>換算</string>
     <key>Calcbot Calculation</key>
-    <string>Calcbotの計算</string>
+    <string>Calcbotの計算結果</string>
     <key>Calcbot Calculations</key>
-    <string>Calcbotの計算</string>
+    <string>Calcbotの計算結果</string>
     <key>Categories</key>
     <string>カテゴリ</string>
     <key>Categories and Units</key>
@@ -31,11 +31,11 @@
     <key>Category</key>
     <string>カテゴリ</string>
     <key>Checking for updated currency rates</key>
-    <string>更新された為替レートを調べっています</string>
+    <string>為替レートを更新中</string>
     <key>Clear Favorites</key>
-    <string>気に入りを全て削除</string>
+    <string>お気に入りを消去</string>
     <key>Clear Tape</key>
-    <string>テープの内容を削除</string>
+    <string>テープを消去</string>
     <key>Close</key>
     <string>閉じる</string>
     <key>Constants</key>
@@ -45,7 +45,7 @@
     <key>Conversion</key>
     <string>換算</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
-    <string>Convert with over 200 units across 20 conversion categories.</string>
+    <string>20カテゴリ・200超の単位を換算。</string>
     <key>Copy</key>
     <string>コピー</string>
     <key>Copy Expression</key>
@@ -53,51 +53,51 @@
     <key>Copy Result</key>
     <string>結果をコピー</string>
     <key>Could not fetch currency rates</key>
-    <string>為替レートの調べるのが失敗しました</string>
+    <string>為替レートを更新できませんでした</string>
     <key>Custom Constants.</key>
-    <string>Custom Constants.</string>
+    <string>カスタムの定数を追加。</string>
     <key>DEFAULT</key>
-    <string>DEFAULT</string>
+    <string>デフォルト</string>
     <key>Dark Ninja</key>
-    <string>ダーク忍者</string>
+    <string>ダーク・ニンジャ</string>
     <key>Delete</key>
     <string>削除</string>
     <key>Detach Tape</key>
-    <string>Detach Tape</string>
+    <string>テープを分離</string>
     <key>Disable All</key>
     <string>すべて使用停止</string>
     <key>Edit Units</key>
-    <string>Edit Units</string>
+    <string>単位を編集</string>
     <key>Email Tape</key>
-    <string>Email Tape</string>
+    <string>テープをメール送信</string>
     <key>Enable All</key>
     <string>すべて使用</string>
     <key>Enable constants in the settings.</key>
-    <string>Enable constants in the settings.</string>
+    <string>設定で定数を有効にしてください。</string>
     <key>Enter a Calculation to Save it Here.</key>
-    <string>Enter a Calculation to Save it Here.</string>
+    <string>計算結果はこちらに保存できます。</string>
     <key>Failed to Restore Purchases</key>
-    <string>Failed to Restore Purchases</string>
+    <string>購入内容の復元に失敗</string>
     <key>Fav an item in the history tape for quick access here.</key>
-    <string>Fav an item in the history tape for quick access here.</string>
+    <string>履歴テープの項目をお気に入りにするとこちらからアクセスできます。</string>
     <key>Fave a Calculation to Show it Here.</key>
-    <string>Fave a Calculation to Show it Here.</string>
+    <string>お気に入りにした計算結果が表示されます。</string>
     <key>Favorites</key>
     <string>お気に入り</string>
     <key>From</key>
-    <string>From</string>
+    <string>換算前</string>
     <key>GENERAL</key>
     <string>一般</string>
     <key>General</key>
-    <string>General</string>
+    <string>一般</string>
     <key>Hide Conversion</key>
-    <string>Hide Conversion</string>
+    <string>換算結果を隠す</string>
     <key>Hide Tape</key>
-    <string>Hide Tape</string>
+    <string>テープを隠す</string>
     <key>History</key>
-    <string>History</string>
+    <string>履歴</string>
     <key>Large Type</key>
-    <string>Large Type</string>
+    <string>文字を拡大表示</string>
     <key>Last Updated: </key>
     <string>最終更新: </string>
     <key>Last updated: %@</key>
@@ -105,17 +105,17 @@
     <key>Learn More</key>
     <string>詳細</string>
     <key>Light Ninja</key>
-    <string>淡い忍者</string>
+    <string>ライト・ニンジャ</string>
     <key>Loading…</key>
     <string>読み込み中…</string>
     <key>MY CONSTANTS</key>
     <string>マイ定数</string>
     <key>MY THEMES</key>
-    <string>マイ配色</string>
+    <string>マイテーマ</string>
     <key>Main</key>
-    <string>Main</string>
+    <string>メイン</string>
     <key>Mark’s Office</key>
-    <string>マークのオフィス</string>
+    <string>マークズ・オフィス</string>
     <key>Melancholy</key>
     <string>メランコリー</string>
     <key>Memories</key>
@@ -125,7 +125,7 @@
     <key>Never</key>
     <string>しない</string>
     <key>Number from Calcbot</key>
-    <string>Number from Calcbot</string>
+    <string>Calcbotからの数値</string>
     <key>OK</key>
     <string>OK</string>
     <key>Options</key>
@@ -133,154 +133,154 @@
     <key>Otaku</key>
     <string>オタク</string>
     <key>PRO</key>
-    <string>プロ</string>
+    <string>PRO</string>
     <key>Paste (%@)</key>
     <string>ペースト (%@)</string>
     <key>Please enter a valid constant.</key>
-    <string>Please enter a valid constant.</string>
+    <string>正しい定数を入力してください。</string>
     <key>Please try again later</key>
-    <string>Please try again later</string>
+    <string>後ほど再度お試しください</string>
     <key>Please type your message above this line</key>
-    <string>Please type your message above this line</string>
+    <string>この上にメッセージを入力してください/string>
     <key>Pro</key>
-    <string>プロ</string>
+    <string>PRO</string>
     <key>Pro Theme.</key>
-    <string>プロの配色</string>
+    <string>PROテーマ。</string>
     <key>Purchase for %@</key>
-    <string>Purchase for %@</string>
+    <string>%@で購入</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>
-    <string>Purchase this theme pack and get the following %@ themes:</string>
+    <string>このテーマパックには以下の%@テーマが含まれます：</string>
     <key>Remove All</key>
-    <string>Remove All</string>
+    <string>すべて消去</string>
     <key>Remove the 10 record limit and never lose a calculation again.</key>
-    <string>Remove the 10 record limit and never lose a calculation again.</string>
+    <string>最大10件までの制限を解除。もう計算結果を失うことはありません。</string>
     <key>Restore Purchased Themes</key>
-    <string>Restore Purchased Themes</string>
+    <string>購入済みテーマを復元</string>
     <key>Retro</key>
-    <string>Retro</string>
+    <string>レトロ</string>
     <key>Round for Currency</key>
-    <string>Round for Currency</string>
+    <string>通貨を最近接偶数へ丸める</string>
     <key>Save</key>
     <string>保存</string>
     <key>Scientific</key>
-    <string>Scientific</string>
+    <string>関数</string>
     <key>Select All</key>
-    <string>Select All</string>
+    <string>すべてを選択</string>
     <key>Send as Email</key>
-    <string>Send as Email</string>
+    <string>メールで送信</string>
     <key>Send to Calculator</key>
-    <string>Send to Calculator</string>
+    <string>計算機に送る</string>
     <key>Settings</key>
     <string>設定</string>
     <key>Shark Attack</key>
-    <string>Shark Attack</string>
+    <string>シャーク・アタック</string>
     <key>Show All Conversion Results</key>
-    <string>Show All Conversion Results</string>
+    <string>すべての換算結果を表示</string>
     <key>Show Conversion</key>
-    <string>Show Conversion</string>
+    <string>換算結果を表示</string>
     <key>Show Tape</key>
-    <string>Show Tape</string>
+    <string>テープを表示</string>
     <key>Sounds</key>
     <string>サウンド</string>
     <key>Standard</key>
-    <string>Standard</string>
+    <string>スタンダード</string>
     <key>THEME PACKS</key>
-    <string>THEME PACKS</string>
+    <string>テーマパック</string>
     <key>Tape</key>
-    <string>Tape</string>
+    <string>テープ</string>
     <key>Tape Entry</key>
-    <string>Tape Entry</string>
+    <string>テープの項目</string>
     <key>Theme Pack 1</key>
-    <string>Theme Pack 1</string>
+    <string>テーマパック1</string>
     <key>Theme Pack 2</key>
-    <string>Theme Pack 2</string>
+    <string>テーマパック2</string>
     <key>Themes</key>
-    <string>Themes</string>
+    <string>テーマ</string>
     <key>Title</key>
-    <string>Title</string>
+    <string>タイトル</string>
     <key>To</key>
-    <string>斗</string>
+    <string>換算後</string>
     <key>Type a unit...</key>
-    <string>Type a unit...</string>
+    <string>単位を入力…</string>
     <key>Unit Conversions.</key>
-    <string>Unit Conversions.</string>
+    <string>単位を換算。</string>
     <key>Unlimited History Tape.</key>
-    <string>Unlimited History Tape.</string>
+    <string>履歴テープが無制限に。</string>
     <key>Upgrade to Pro to add your own constants and more.</key>
-    <string>Upgrade to Pro to add your own constants and more.</string>
+    <string>PROにアップグレードすればカスタム定数を追加できます。</string>
     <key>Upgrade to Pro to convert with over 200 units across 20 categories and more.</key>
-    <string>Upgrade to Pro to convert with over 200 units across 20 categories and more.</string>
+    <string>PROにアップグレードすれば20カテゴリ・200超の単位を変換できます。</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
-    <string>Upgrade to Pro to get unlimited history tape records and more.</string>
+    <string>PROにアップグレードすれば履歴テープ記録件数が無制限になります。</string>
     <key>Upgrade to pro and get the following benefits:</key>
-    <string>Upgrade to pro and get the following benefits:</string>
+    <string>PROにアップグレードすれば以下の機能が追加されます：</string>
     <key>Use Expression</key>
-    <string>Use Expression</string>
+    <string>数式を使用</string>
     <key>Use Result</key>
-    <string>Use Result</string>
+    <string>計算結果を使用</string>
     <key>Value</key>
-    <string>Value</string>
+    <string>値</string>
     <key>Version</key>
     <string>バージョン</string>
     <key>View</key>
-    <string>View</string>
+    <string>表示</string>
     <key>You cannot deselect every enabled conversion unit.</key>
-    <string>You cannot deselect every enabled conversion unit.</string>
+    <string>使用中の単位は選択解除できません。</string>
     <key>You cannot deselect the last enabled conversion unit.</key>
-    <string>You cannot deselect the last enabled conversion unit.</string>
+    <string>最後に有効にした単位は選択解除できません。</string>
     <key>You need at least one enabled conversion unit</key>
-    <string>You need at least one enabled conversion unit</string>
+    <string>1つ以上の有効な単位を選択する必要があります</string>
     <key>calculated result</key>
-    <string>calculated result</string>
+    <string>計算結果</string>
     <key>conversion category chooser</key>
-    <string>conversion category chooser</string>
+    <string>換算カテゴリ選択</string>
     <key>conversion category picker</key>
-    <string>conversion category picker</string>
+    <string>換算カテゴリ選択</string>
     <key>conversion from unit</key>
-    <string>conversion from unit</string>
+    <string>換算前単位</string>
     <key>conversion from unit symbol</key>
-    <string>conversion from unit symbol</string>
+    <string>換算前単位のシンボル</string>
     <key>conversion to unit</key>
-    <string>conversion to unit</string>
+    <string>換算後単位</string>
     <key>conversion to unit symbol</key>
-    <string>conversion to unit symbol</string>
+    <string>換算後単位のシンボル</string>
     <key>current expression</key>
-    <string>current expression</string>
+    <string>現在の数式</string>
     <key>display options segmented control</key>
-    <string>display options segmented control</string>
+    <string>表示設定セグメント制御</string>
     <key>favorite expression</key>
-    <string>favorite expression</string>
+    <string>お気に入りの数式</string>
     <key>hide conversion</key>
-    <string>hide conversion</string>
+    <string>換算を隠す</string>
     <key>hide tape</key>
-    <string>hide tape</string>
+    <string>テープを隠す</string>
     <key>result</key>
-    <string>result</string>
+    <string>結果</string>
     <key>saved expression</key>
-    <string>saved expression</string>
+    <string>保存済み数式</string>
     <key>saved result</key>
-    <string>saved result</string>
+    <string>結果を表示</string>
     <key>show conversion</key>
-    <string>show conversion</string>
+    <string>換算を表示</string>
     <key>show favorited saved expressions</key>
-    <string>show favorited saved expressions</string>
+    <string>お気に入りの保存済み数式を表示</string>
     <key>show tape</key>
-    <string>show tape</string>
+    <string>テープを表示</string>
     <key>show tape of saved expressions</key>
-    <string>show tape of saved expressions</string>
+    <string>保存済み数式のテープを表示</string>
     <key>swap from and to conversion units</key>
-    <string>swap from and to conversion units</string>
+    <string>換算前と換算後の単位を入替</string>
     <key>table of favorited expressions</key>
-    <string>table of favorited expressions</string>
+    <string>お気に入り数式一覧</string>
     <key>table of saved expressions</key>
-    <string>table of saved expressions</string>
+    <string>保存済み数式一覧</string>
     <key>tape options segmented control</key>
-    <string>tape options segmented control</string>
+    <string>テープ設定セグメント制御</string>
     <key>tape settings button</key>
-    <string>tape settings button</string>
+    <string>セープ設定ボタン</string>
     <key>unfavorite expression</key>
-    <string>unfavorite expression</string>
+    <string>数式のお気に入りを解除</string>
     <key>unknown</key>
-    <string>unknown</string>
+    <string>不明</string>
   </dict>
 </plist>
