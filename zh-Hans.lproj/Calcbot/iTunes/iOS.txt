@@ -6,6 +6,9 @@ Every calculation you enter gets saved to the history tape. Refer to calculation
 Expression View.
 Calcbot's original expression view allows you to see everything you have typed so you'll never forget what you entered or miss a typo.
 
+Apple Watch Extension.
+Perform basic calculations, conversions, calculate tips, and split bills right from your Apple Watch.
+
 Conversion*.
 Convert any of your calculations with over 500 units across 22 different categories including auto-updating currency rates.
 

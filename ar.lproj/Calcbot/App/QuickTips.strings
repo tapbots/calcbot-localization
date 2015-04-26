@@ -3,12 +3,12 @@
 <plist version="1.0">
   <dict>
     <key>Tap on the current category icon to quickly enable/disable units.</key>
-    <string>Tap on the current category icon to quickly enable/disable units.</string>
+    <string>إلمس أيقونة الفئة الحالية لتمكين/تعطيل الوحدات بسرعة.</string>
     <key>Pull down on the display to reveal the history tape.</key>
-    <string>Pull down on the display to reveal the history tape.</string>
+    <string>اسحب الشاشة للأسفل لعرض شريط السجل..</string>
     <key>Hold down the delete key to clear the expression.</key>
-    <string>Hold down the delete key to clear the expression.</string>
+    <string>إلمس زر الحذف لمسة مطوّلة لمسح العملية الحسابية.</string>
     <key>Swipe right across the display to access conversion mode.</key>
-    <string>Swipe right across the display to access conversion mode.</string>
+    <string>اسحب الشاشة لليمين للوصول إلى وضع التحويل.</string>
   </dict>
 </plist>

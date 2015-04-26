@@ -10,8 +10,6 @@
     <string>Liters/100 KM</string>
     <key>Gallons/100 Miles</key>
     <string>Gall./100 Meilen</string>
-    <key>Gallons/100 Miles UK</key>
-    <string>Gallonen/100 Meilen UK</string>
     <key>Litres/10 KM</key>
     <string>Liter/10 KM</string>
     <key>KM/Litre</key>
@@ -20,7 +18,5 @@
     <string>Liter/KM</string>
     <key>Miles/Gallon</key>
     <string>Meilen/Gallone</string>
-    <key>Miles/Gallon UK</key>
-    <string>Milen/Gallone UK</string>
   </dict>
 </plist>

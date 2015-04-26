@@ -28,14 +28,10 @@
     <string>メガバイト／日</string>
     <key>Kilobytes/Min.</key>
     <string>キロバイト／分</string>
-    <key>Kilobits/Sec. (SI)</key>
-    <string>キロビット／秒 (SI)</string>
     <key>Kilobits/Sec.</key>
     <string>キロビット／秒</string>
     <key>Megabytes/Hour</key>
     <string>メガバイト／時</string>
-    <key>Kilobytes/Sec. (SI)</key>
-    <string>キロバイト／秒 (SI)</string>
     <key>Kilobytes/Sec.</key>
     <string>キロバイト／秒</string>
     <key>Gigabytes/Week</key>
@@ -44,14 +40,10 @@
     <string>ギガバイト／日</string>
     <key>Megabytes/Min.</key>
     <string>メガバイト／分</string>
-    <key>Megabits/Sec. (SI)</key>
-    <string>メガビット／秒 (SI)</string>
     <key>Megabits/Sec.</key>
     <string>メガビット／秒</string>
     <key>Gigabytes/Hour</key>
     <string>ギガバイト／時</string>
-    <key>Megabytes/Sec. (SI)</key>
-    <string>メガバイト／秒 (SI)</string>
     <key>Megabytes/Sec.</key>
     <string>メガバイト／秒</string>
     <key>Terabytes/Week</key>
@@ -60,24 +52,16 @@
     <string>テラバイト／日</string>
     <key>Gigabytes/Min.</key>
     <string>ギガバイト／分</string>
-    <key>Gigabits/Sec. (SI)</key>
-    <string>ギガビット／秒 (SI)</string>
     <key>Gigabits/Sec.</key>
     <string>ギガビット／秒</string>
     <key>Terabytes/Hour</key>
     <string>テラバイト／時</string>
-    <key>Gigabytes/Sec. (SI)</key>
-    <string>ギガバイト／秒 (SI)</string>
     <key>Gigabytes/Sec.</key>
     <string>ギガバイト／秒</string>
     <key>Terabytes/Min.</key>
     <string>テラバイト／分</string>
-    <key>Terabits/Sec. (SI)</key>
-    <string>テラビット／秒 (SI)</string>
     <key>Terabits/Sec.</key>
     <string>テラビット／秒</string>
-    <key>Terabytes/Sec. (SI)</key>
-    <string>テラバイト／秒 (SI)</string>
     <key>Terabytes/Sec.</key>
     <string>テラバイト／秒</string>
   </dict>

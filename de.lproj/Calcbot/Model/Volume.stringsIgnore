@@ -3,17 +3,14 @@
 <plist version="1.0">
   <array>
     <string>Dash</string>
-    <string>Dash (Imperial)</string>
     <string>Pinch</string>
-    <string>Pinch (Imperial)</string>
     <string>Sai</string>
     <string>Dram</string>
     <string>Shaku</string>
     <string>Gill</string>
-    <string>Gill (Imperial)</string>
     <string>Gō</string>
     <string>Pint</string>
-    <string>Pint (Imperial)</string>
+    <string>Imperial</string>
     <string>Quart</string>
     <string>Quart (Imperial)</string>
     <string>Shō</string>
@@ -21,7 +18,6 @@
     <string>To</string>
     <string>Koku</string>
     <string>Beer Barrel</string>
-    <string>Beer Barrel (Imperial)</string>
     <string>Bucket</string>
     <string>Dry Pint</string>
     <string>Dry Quart</string>

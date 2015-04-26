@@ -6,16 +6,14 @@
     <string>流量</string>
     <key>Gallon/Day</key>
     <string>ガロン／日</string>
-    <key>Gallon/Day (Imperial)</key>
-    <string>ガロン／日 (英)</string>
+    <key>Imperial</key>
+    <string>英</string>
     <key>Litre/Hour</key>
     <string>リットル／時</string>
     <key>Litre/Min.</key>
     <string>リットル／分</string>
     <key>Gallon/Min.</key>
     <string>ガロン／分</string>
-    <key>Gallon/Min. (Imperial)</key>
-    <string>ガロン／分 (英)</string>
     <key>Cubic Metre/Hour</key>
     <string>立方メートル／時</string>
     <key>Cubic Feet/Min.</key>
@@ -24,8 +22,6 @@
     <string>リットル／秒</string>
     <key>Gallon/Sec.</key>
     <string>ガロン／秒</string>
-    <key>Gallon/Sec. (Imperial)</key>
-    <string>ガロン／秒 (英)</string>
     <key>Cubic Metre/Min</key>
     <string>立方メートル／分</string>
     <key>Cubic Feet/Sec.</key>

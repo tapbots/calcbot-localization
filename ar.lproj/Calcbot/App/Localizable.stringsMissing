@@ -2,234 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>%@ ago</key>
-    <string>%@ ago</string>
-    <key>About Tapbots</key>
-    <string>About Tapbots</string>
-    <key>Access to the special pro theme.</key>
-    <string>Access to the special pro theme.</string>
-    <key>Add New</key>
-    <string>Add New</string>
-    <key>Add your own values and labels to the constants menu.</key>
-    <string>Add your own values and labels to the constants menu.</string>
     <key>Attach Tape</key>
     <string>Attach Tape</string>
-    <key>Basic</key>
-    <string>Basic</string>
-    <key>COMPANY</key>
-    <string>COMPANY</string>
-    <key>CONVERSION</key>
-    <string>CONVERSION</string>
-    <key>Calcbot Calculation</key>
-    <string>Calcbot Calculation</string>
-    <key>Calcbot Calculations</key>
-    <string>Calcbot Calculations</string>
-    <key>Categories</key>
-    <string>Categories</string>
-    <key>Categories and Units</key>
-    <string>Categories and Units</string>
-    <key>Category</key>
-    <string>Category</string>
-    <key>Checking for updated currency rates</key>
-    <string>Checking for updated currency rates</string>
-    <key>Clear Favorites</key>
-    <string>Clear Favorites</string>
-    <key>Clear Tape</key>
-    <string>Clear Tape</string>
-    <key>Close</key>
-    <string>Close</string>
-    <key>Constants</key>
-    <string>Constants</string>
-    <key>Contact Us</key>
-    <string>Contact Us</string>
-    <key>Conversion</key>
-    <string>Conversion</string>
-    <key>Convert with over 200 units across 20 conversion categories.</key>
-    <string>Convert with over 200 units across 20 conversion categories.</string>
-    <key>Copy</key>
-    <string>Copy</string>
-    <key>Copy Expression</key>
-    <string>Copy Expression</string>
-    <key>Copy Result</key>
-    <string>Copy Result</string>
     <key>Could not fetch currency rates</key>
     <string>Could not fetch currency rates</string>
-    <key>Custom Constants.</key>
-    <string>Custom Constants.</string>
-    <key>DEFAULT</key>
-    <string>DEFAULT</string>
-    <key>Dark Ninja</key>
-    <string>Dark Ninja</string>
-    <key>Delete</key>
-    <string>Delete</string>
     <key>Detach Tape</key>
     <string>Detach Tape</string>
-    <key>Disable All</key>
-    <string>Disable All</string>
-    <key>Edit Units</key>
-    <string>Edit Units</string>
-    <key>Email Tape</key>
-    <string>Email Tape</string>
-    <key>Enable All</key>
-    <string>Enable All</string>
-    <key>Enable constants in the settings.</key>
-    <string>Enable constants in the settings.</string>
-    <key>Enter a Calculation to Save it Here.</key>
-    <string>Enter a Calculation to Save it Here.</string>
-    <key>Failed to Restore Purchases</key>
-    <string>Failed to Restore Purchases</string>
-    <key>Fav an item in the history tape for quick access here.</key>
-    <string>Fav an item in the history tape for quick access here.</string>
-    <key>Fave a Calculation to Show it Here.</key>
-    <string>Fave a Calculation to Show it Here.</string>
-    <key>Favorites</key>
-    <string>Favorites</string>
-    <key>From</key>
-    <string>From</string>
-    <key>GENERAL</key>
-    <string>GENERAL</string>
-    <key>General</key>
-    <string>General</string>
-    <key>Hide Conversion</key>
-    <string>Hide Conversion</string>
-    <key>Hide Tape</key>
-    <string>Hide Tape</string>
-    <key>History</key>
-    <string>History</string>
+    <key>From Unit</key>
+    <string>From Unit</string>
     <key>Large Type</key>
     <string>Large Type</string>
-    <key>Last Updated: </key>
-    <string>Last Updated: </string>
-    <key>Last updated: %@</key>
-    <string>Last updated: %@</string>
-    <key>Learn More</key>
-    <string>Learn More</string>
-    <key>Light Ninja</key>
-    <string>Light Ninja</string>
-    <key>Loading…</key>
-    <string>Loading…</string>
-    <key>MY CONSTANTS</key>
-    <string>MY CONSTANTS</string>
-    <key>MY THEMES</key>
-    <string>MY THEMES</string>
-    <key>Main</key>
-    <string>Main</string>
-    <key>Mark’s Office</key>
-    <string>Mark’s Office</string>
-    <key>Melancholy</key>
-    <string>Melancholy</string>
-    <key>Memories</key>
-    <string>Memories</string>
-    <key>My Constant</key>
-    <string>My Constant</string>
-    <key>Never</key>
-    <string>Never</string>
-    <key>Number from Calcbot</key>
-    <string>Number from Calcbot</string>
-    <key>OK</key>
-    <string>OK</string>
-    <key>Options</key>
-    <string>Options</string>
-    <key>Otaku</key>
-    <string>Otaku</string>
     <key>PRO</key>
     <string>PRO</string>
-    <key>Paste (%@)</key>
-    <string>Paste (%@)</string>
-    <key>Please enter a valid constant.</key>
-    <string>Please enter a valid constant.</string>
-    <key>Please try again later</key>
-    <string>Please try again later</string>
-    <key>Please type your message above this line</key>
-    <string>Please type your message above this line</string>
-    <key>Pro</key>
-    <string>Pro</string>
-    <key>Pro Theme.</key>
-    <string>Pro Theme.</string>
-    <key>Purchase for %@</key>
-    <string>Purchase for %@</string>
-    <key>Purchase this theme pack and get the following %@ themes:</key>
-    <string>Purchase this theme pack and get the following %@ themes:</string>
-    <key>Remove All</key>
-    <string>Remove All</string>
-    <key>Remove the 10 record limit and never lose a calculation again.</key>
-    <string>Remove the 10 record limit and never lose a calculation again.</string>
-    <key>Restore Purchased Themes</key>
-    <string>Restore Purchased Themes</string>
-    <key>Retro</key>
-    <string>Retro</string>
-    <key>Round for Currency</key>
-    <string>Round for Currency</string>
-    <key>Save</key>
-    <string>Save</string>
-    <key>Scientific</key>
-    <string>Scientific</string>
-    <key>Select All</key>
-    <string>Select All</string>
-    <key>Send as Email</key>
-    <string>Send as Email</string>
-    <key>Send to Calculator</key>
-    <string>Send to Calculator</string>
-    <key>Settings</key>
-    <string>Settings</string>
-    <key>Shark Attack</key>
-    <string>Shark Attack</string>
-    <key>Show All Conversion Results</key>
-    <string>Show All Conversion Results</string>
+    <key>Pre-define 4 conversions for quick access
+on your Apple Watch.</key>
+    <string>Pre-define 4 conversions for quick access
+on your Apple Watch.</string>
     <key>Show Conversion</key>
     <string>Show Conversion</string>
-    <key>Show Tape</key>
-    <string>Show Tape</string>
-    <key>Sounds</key>
-    <string>Sounds</string>
-    <key>Standard</key>
-    <string>Standard</string>
-    <key>THEME PACKS</key>
-    <string>THEME PACKS</string>
-    <key>Tape</key>
-    <string>Tape</string>
     <key>Tape Entry</key>
     <string>Tape Entry</string>
-    <key>Theme Pack 1</key>
-    <string>Theme Pack 1</string>
-    <key>Theme Pack 2</key>
-    <string>Theme Pack 2</string>
-    <key>Themes</key>
-    <string>Themes</string>
-    <key>Title</key>
-    <string>Title</string>
-    <key>To</key>
-    <string>To</string>
-    <key>Type a unit...</key>
-    <string>Type a unit...</string>
-    <key>Unit Conversions.</key>
-    <string>Unit Conversions.</string>
-    <key>Unlimited History Tape.</key>
-    <string>Unlimited History Tape.</string>
-    <key>Upgrade to Pro to add your own constants and more.</key>
-    <string>Upgrade to Pro to add your own constants and more.</string>
-    <key>Upgrade to Pro to convert with over 200 units across 20 categories and more.</key>
-    <string>Upgrade to Pro to convert with over 200 units across 20 categories and more.</string>
+    <key>To Unit</key>
+    <string>To Unit</string>
+    <key>Upgrade to Pro to customize the conversions
+on your Apple Watch.</key>
+    <string>Upgrade to Pro to customize the conversions
+on your Apple Watch.</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
     <string>Upgrade to Pro to get unlimited history tape records and more.</string>
-    <key>Upgrade to pro and get the following benefits:</key>
-    <string>Upgrade to pro and get the following benefits:</string>
-    <key>Use Expression</key>
-    <string>Use Expression</string>
-    <key>Use Result</key>
-    <string>Use Result</string>
-    <key>Value</key>
-    <string>Value</string>
-    <key>Version</key>
-    <string>Version</string>
-    <key>View</key>
-    <string>View</string>
-    <key>You cannot deselect every enabled conversion unit.</key>
-    <string>You cannot deselect every enabled conversion unit.</string>
-    <key>You cannot deselect the last enabled conversion unit.</key>
-    <string>You cannot deselect the last enabled conversion unit.</string>
-    <key>You need at least one enabled conversion unit</key>
-    <string>You need at least one enabled conversion unit</string>
+    <key>Watch</key>
+    <string>Watch</string>
+    <key>You may define your own title. Try to keep it under 8 characters to avoid truncation.</key>
+    <string>You may define your own title. Try to keep it under 8 characters to avoid truncation.</string>
     <key>calculated result</key>
     <string>calculated result</string>
     <key>conversion category chooser</key>
@@ -252,10 +56,6 @@
     <string>favorite expression</string>
     <key>hide conversion</key>
     <string>hide conversion</string>
-    <key>hide tape</key>
-    <string>hide tape</string>
-    <key>result</key>
-    <string>result</string>
     <key>saved expression</key>
     <string>saved expression</string>
     <key>saved result</key>
@@ -264,8 +64,6 @@
     <string>show conversion</string>
     <key>show favorited saved expressions</key>
     <string>show favorited saved expressions</string>
-    <key>show tape</key>
-    <string>show tape</string>
     <key>show tape of saved expressions</key>
     <string>show tape of saved expressions</string>
     <key>swap from and to conversion units</key>
@@ -280,7 +78,5 @@
     <string>tape settings button</string>
     <key>unfavorite expression</key>
     <string>unfavorite expression</string>
-    <key>unknown</key>
-    <string>unknown</string>
   </dict>
 </plist>

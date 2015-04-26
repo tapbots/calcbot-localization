@@ -6,16 +6,14 @@
     <string>Объемный поток</string>
     <key>Gallon/Day</key>
     <string>Галлон/День</string>
-    <key>Gallon/Day (Imperial)</key>
-    <string>Галлон/День (Брит. система)</string>
+    <key>Imperial</key>
+    <string>Брит. система</string>
     <key>Litre/Hour</key>
     <string>Литр/Час</string>
     <key>Litre/Min.</key>
     <string>Литр/Минута</string>
     <key>Gallon/Min.</key>
     <string>Галлон/Минута</string>
-    <key>Gallon/Min. (Imperial)</key>
-    <string>Галлон/Минута (Imperial)</string>
     <key>Cubic Metre/Hour</key>
     <string>Кубический метр/Час</string>
     <key>Cubic Feet/Min.</key>
@@ -24,8 +22,6 @@
     <string>Литр/Секунда</string>
     <key>Gallon/Sec.</key>
     <string>Галлон/Секунда</string>
-    <key>Gallon/Sec. (Imperial)</key>
-    <string>Галлон/Секунда (Брит. система)</string>
     <key>Cubic Metre/Min</key>
     <string>Куб. метр/Минута</string>
     <key>Cubic Feet/Sec.</key>

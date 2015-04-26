@@ -14,15 +14,6 @@
     <string>Terabyte</string>
     <string>Petabit</string>
     <string>Petabyte</string>
-    <string>Kilobit (SI)</string>
-    <string>Kilobyte (SI)</string>
-    <string>Megabit (SI)</string>
-    <string>Megabyte (SI)</string>
-    <string>Gigabit (SI)</string>
-    <string>Gigabyte (SI)</string>
-    <string>Terabit (SI)</string>
-    <string>Terabyte (SI)</string>
-    <string>Petabit (SI)</string>
-    <string>Petabyte (SI)</string>
+    <string>SI</string>
   </array>
 </plist>

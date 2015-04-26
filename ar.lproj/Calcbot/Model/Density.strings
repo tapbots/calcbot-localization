@@ -10,10 +10,10 @@
     <string>Kilogram/Cubic Metre</string>
     <key>Pound/Cubic Foot</key>
     <string>Pound/Cubic Foot</string>
-    <key>Pound/Gallon (Imperial)</key>
-    <string>Pound/Gallon (Imperial)</string>
     <key>Pound/Gallon</key>
     <string>Pound/Gallon</string>
+    <key>Imperial</key>
+    <string>Imperial</string>
     <key>Gram/Cubic CM</key>
     <string>Gram/Cubic CM</string>
     <key>Pound/Cubic Inch</key>

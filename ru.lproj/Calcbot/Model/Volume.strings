@@ -10,8 +10,8 @@
     <string>Микролитр</string>
     <key>Drop</key>
     <string>Капля</string>
-    <key>Drop (Imperial)</key>
-    <string>Drop (Брит. система)</string>
+    <key>Imperial</key>
+    <string>Брит. система</string>
     <key>Cubic Centimetre</key>
     <string>Куб. СМ</string>
     <key>Millilitre</key>
@@ -22,42 +22,26 @@
     <string>Драхма</string>
     <key>Teaspoon</key>
     <string>Чайная ложка</string>
-    <key>Teaspoon (Metric)</key>
-    <string>Чайная ложка (Метрическая)</string>
-    <key>Teaspoon (Imperial)</key>
-    <string>Чайная ложка (Брит. система)</string>
+    <key>Metric</key>
+    <string>Метрическая</string>
     <key>Tablespoon</key>
     <string>Столовая ложка</string>
-    <key>Tablespoon (Metric)</key>
-    <string>Столовая ложка (Метрическая)</string>
     <key>Cubic Inch</key>
     <string>Кубический дюйм</string>
-    <key>Tablespoon (Imperial)</key>
-    <string>Столовая ложка (Брит. система)</string>
     <key>Shaku</key>
     <string>Шаку</string>
-    <key>Ounce (Imperial)</key>
-    <string>Унция (Брит. система)</string>
     <key>Ounce</key>
     <string>Унция</string>
     <key>Gill</key>
     <string>Джилл</string>
-    <key>Gill (Imperial)</key>
-    <string>Джилл (Брит. система)</string>
     <key>Gō</key>
     <string>Го</string>
     <key>Cup</key>
     <string>Стакан</string>
-    <key>Cup (Metric)</key>
-    <string>Стакан (Метрический)</string>
-    <key>Cup (Imperial)</key>
-    <string>Стакан (Брит. система)</string>
     <key>Pint</key>
     <string>Пинта</string>
     <key>Dry Pint</key>
     <string>Пинта (сыпучие вещества)</string>
-    <key>Pint (Imperial)</key>
-    <string>Пинта (Брит. система)</string>
     <key>Fifth</key>
     <string>Бутылка (1/5 галлона)</string>
     <key>Quart</key>
@@ -66,16 +50,12 @@
     <string>Литр</string>
     <key>Dry Quart</key>
     <string>Кварта (сыпучие вещества)</string>
-    <key>Quart (Imperial)</key>
-    <string>Кварта (Брит. система)</string>
     <key>Shō</key>
     <string>Шо</string>
     <key>Gallon</key>
     <string>Галлон</string>
     <key>Dry Gallon</key>
     <string>Галлон (сыпучие вещества)</string>
-    <key>Gallon (Imperial)</key>
-    <string>Галлон (Брит. система)</string>
     <key>Peck</key>
     <string>Пек</string>
     <key>To</key>
@@ -90,8 +70,6 @@
     <string>Пивной баррель</string>
     <key>Oil Barrel</key>
     <string>Нефтяной баррель</string>
-    <key>Beer Barrel (Imperial)</key>
-    <string>Пивной баррель (Брит. система)</string>
     <key>Koku</key>
     <string>Коку</string>
     <key>Cubic Yard</key>
