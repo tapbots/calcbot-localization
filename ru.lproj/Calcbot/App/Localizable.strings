@@ -87,7 +87,7 @@
     <key>From</key>
     <string>От</string>
     <key>From Unit</key>
-    <string>From Unit</string>
+    <string>Из единицы</string>
     <key>GENERAL</key>
     <string>ОСНОВНЫЕ</string>
     <key>General</key>
@@ -146,8 +146,7 @@
     <string>Пожалуйста введите ваше сообщение над этой линией</string>
     <key>Pre-define 4 conversions for quick access
 on your Apple Watch.</key>
-    <string>Pre-define 4 conversions for quick access
-on your Apple Watch.</string>
+    <string>Задайте 4 конвертации для быстрого доступа с Apple Watch.</string>
     <key>Pro</key>
     <string>Про</string>
     <key>Pro Theme.</key>
@@ -207,7 +206,7 @@ on your Apple Watch.</string>
     <key>To</key>
     <string>Кому</string>
     <key>To Unit</key>
-    <string>To Unit</string>
+    <string>В единицу</string>
     <key>Type a unit...</key>
     <string>Введите единицу измерения...</string>
     <key>Unit Conversions.</key>
@@ -215,17 +214,16 @@ on your Apple Watch.</string>
     <key>Unlimited History Tape.</key>
     <string>Безлимитная лента для архивных расчетов.</string>
     <key>Upgrade to Pro to add your own constants and more.</key>
-    <string>Обновитесь до Профессиональной версии чтобы добавлять свои константы.</string>
+    <string>Купите Профессиональную версию для добавления собственных констант.</string>
     <key>Upgrade to Pro to convert with over 200 units across 20 categories and more.</key>
-    <string>Обновитесь до Профессиональной версии для конвертации среди 200 единиц измерения в 20 категориях.</string>
+    <string>Купите Профессиональную версию для конвертации среди 200 единиц измерения в 20 категориях.</string>
     <key>Upgrade to Pro to customize the conversions
 on your Apple Watch.</key>
-    <string>Upgrade to Pro to customize the conversions
-on your Apple Watch.</string>
+    <string>Купите Профессиональную версию для настройки конвертации на Apple Watch.</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
-    <string>Обновитесь до Профессиональной версии и получите безлимитную ленту для хранения прошлых вычислений.</string>
+    <string>Купите Профессиональную версию для получения неограниченного хранения прошлых вычислений.</string>
     <key>Upgrade to pro and get the following benefits:</key>
-    <string>Обновитесь до Профессиональной версии и получите следующие возможности:</string>
+    <string>Купите Профессиональную версию для получения следующих возможностей:</string>
     <key>Use Expression</key>
     <string>Использовать выражение</string>
     <key>Use Result</key>
@@ -237,13 +235,13 @@ on your Apple Watch.</string>
     <key>View</key>
     <string>Вид</string>
     <key>Watch</key>
-    <string>Watch</string>
+    <string>Часы</string>
     <key>You cannot deselect every enabled conversion unit.</key>
     <string>Вы не можете снять выбор с каждой активированной единицы измерения.</string>
     <key>You cannot deselect the last enabled conversion unit.</key>
     <string>Вы не можете снять выбор с последней активированной единицы измерения.</string>
     <key>You may define your own title. Try to keep it under 8 characters to avoid truncation.</key>
-    <string>You may define your own title. Try to keep it under 8 characters to avoid truncation.</string>
+    <string>Вы можете задать собственное название. Постарайтесь ограничиться 8 символами для избежания сокращений.</string>
     <key>You need at least one enabled conversion unit</key>
     <string>Вам нужна как минимум одна активированная единица измерения</string>
     <key>calculated result</key>
