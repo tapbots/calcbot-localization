@@ -86,6 +86,8 @@
     <string>المفضلة</string>
     <key>From</key>
     <string>من</string>
+    <key>From Unit</key>
+    <string>From Unit</string>
     <key>GENERAL</key>
     <string>عام</string>
     <key>General</key>
@@ -142,6 +144,10 @@
     <string>فضلًا حاول مرة أخرى لاحقا</string>
     <key>Please type your message above this line</key>
     <string>فضلًا اكتب رسالتك فوق هذا الخط</string>
+    <key>Pre-define 4 conversions for quick access
+on your Apple Watch.</key>
+    <string>Pre-define 4 conversions for quick access
+on your Apple Watch.</string>
     <key>Pro</key>
     <string>الاحترافي</string>
     <key>Pro Theme.</key>
@@ -149,7 +155,7 @@
     <key>Purchase for %@</key>
     <string>شراء بـ %@</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>
-<string>اشتر هذه الحزمة %@ واحصل على الثيمات التالية:</string>
+    <string>اشتر هذه الحزمة %@ واحصل على الثيمات التالية:</string>
     <key>Remove All</key>
     <string>مسح الكل</string>
     <key>Remove the 10 record limit and never lose a calculation again.</key>
@@ -200,8 +206,10 @@
     <string>الاسم</string>
     <key>To</key>
     <string>إلى</string>
+    <key>To Unit</key>
+    <string>To Unit</string>
     <key>Type a unit...</key>
-<string>اكتب وحدة...</string>
+    <string>اكتب وحدة...</string>
     <key>Unit Conversions.</key>
     <string>تحويل العملات</string>
     <key>Unlimited History Tape.</key>
@@ -210,10 +218,14 @@
     <string>قم بالترقية إلى النسخة الاحترافية لإضافة الثوابت الخاصة بك والمزيد.</string>
     <key>Upgrade to Pro to convert with over 200 units across 20 categories and more.</key>
     <string>قم بالترقية إلى النسخة الاحترافية للتحويل بين أكثر من ٢٠٠ وحدة عبر ٢٠ فئة وأكثر.</string>
+    <key>Upgrade to Pro to customize the conversions
+on your Apple Watch.</key>
+    <string>Upgrade to Pro to customize the conversions
+on your Apple Watch.</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
     <string>Upgrade to Pro to get unlimited history tape records and more.</string>
     <key>Upgrade to pro and get the following benefits:</key>
-<string>قم بالترقية للنسخة الاحترافية واحصل على الميزات التالية:</string>
+    <string>قم بالترقية للنسخة الاحترافية واحصل على الميزات التالية:</string>
     <key>Use Expression</key>
     <string>استخدام العبارة الرياضية</string>
     <key>Use Result</key>
@@ -224,10 +236,14 @@
     <string>النسخة</string>
     <key>View</key>
     <string>عرض</string>
+    <key>Watch</key>
+    <string>Watch</string>
     <key>You cannot deselect every enabled conversion unit.</key>
     <string>ليس بإمكانك إلغاء تحديد كل وحدات التحويل.</string>
     <key>You cannot deselect the last enabled conversion unit.</key>
     <string>ليس بإمكانك إلغاء تحديد آخر عنصر مفعل من قائمة وحدات التحويل..</string>
+    <key>You may define your own title. Try to keep it under 8 characters to avoid truncation.</key>
+    <string>You may define your own title. Try to keep it under 8 characters to avoid truncation.</string>
     <key>You need at least one enabled conversion unit</key>
     <string>تحتاج إلى وحدة تحويل واحدة مفعلة على الأقل</string>
     <key>calculated result</key>

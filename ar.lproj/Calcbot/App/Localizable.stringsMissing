@@ -8,16 +8,32 @@
     <string>Could not fetch currency rates</string>
     <key>Detach Tape</key>
     <string>Detach Tape</string>
+    <key>From Unit</key>
+    <string>From Unit</string>
     <key>Large Type</key>
     <string>Large Type</string>
     <key>PRO</key>
     <string>PRO</string>
+    <key>Pre-define 4 conversions for quick access
+on your Apple Watch.</key>
+    <string>Pre-define 4 conversions for quick access
+on your Apple Watch.</string>
     <key>Show Conversion</key>
     <string>Show Conversion</string>
     <key>Tape Entry</key>
     <string>Tape Entry</string>
+    <key>To Unit</key>
+    <string>To Unit</string>
+    <key>Upgrade to Pro to customize the conversions
+on your Apple Watch.</key>
+    <string>Upgrade to Pro to customize the conversions
+on your Apple Watch.</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
     <string>Upgrade to Pro to get unlimited history tape records and more.</string>
+    <key>Watch</key>
+    <string>Watch</string>
+    <key>You may define your own title. Try to keep it under 8 characters to avoid truncation.</key>
+    <string>You may define your own title. Try to keep it under 8 characters to avoid truncation.</string>
     <key>calculated result</key>
     <string>calculated result</string>
     <key>conversion category chooser</key>
