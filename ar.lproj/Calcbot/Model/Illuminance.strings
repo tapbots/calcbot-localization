@@ -3,12 +3,12 @@
 <plist version="1.0">
   <dict>
     <key>Illuminance</key>
-    <string>Illuminance</string>
+    <string>استضاءة</string>
     <key>Lumen/Square Metre</key>
-    <string>Lumen/Square Metre</string>
+    <string>لومن/متر مربع</string>
     <key>Lumen/Square Foot</key>
-    <string>Lumen/Square Foot</string>
+    <string>لومن/قدم مربع</string>
     <key>Lumen/Square CM</key>
-    <string>Lumen/Square CM</string>
+    <string>لومن/سم مربع</string>
   </dict>
 </plist>

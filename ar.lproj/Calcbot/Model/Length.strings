@@ -3,40 +3,38 @@
 <plist version="1.0">
   <dict>
     <key>Length</key>
-    <string>Length</string>
+    <string>الطول</string>
     <key>Nanometre</key>
-    <string>Nanometre</string>
+    <string>نانو متر</string>
     <key>Micron</key>
-    <string>Micron</string>
+    <string>ميكرومتر</string>
     <key>Millimetre</key>
-    <string>Millimetre</string>
+    <string>مليمتر</string>
     <key>Centimetre</key>
-    <string>Centimetre</string>
+    <string>سنتيمتر</string>
     <key>Inch</key>
-    <string>Inch</string>
+    <string>بوصة</string>
     <key>Foot</key>
-    <string>Foot</string>
+    <string>قدم</string>
     <key>Metre</key>
-    <string>Metre</string>
+    <string>متر</string>
     <key>Fathom</key>
-    <string>Fathom</string>
+    <string>قامة</string>
     <key>Furlong</key>
     <string>Furlong</string>
     <key>Kilometre</key>
-    <string>Kilometre</string>
+    <string>كيلومتر</string>
     <key>Mile</key>
-    <string>Mile</string>
+    <string>ميل</string>
     <key>Nautical Mile</key>
-    <string>Nautical Mile</string>
-    <key>League</key>
-    <string>League</string>
+    <string>ميل بحري</string>
     <key>Light Second</key>
-    <string>Light Second</string>
+    <string>الثانية الضوئية</string>
     <key>Light Minute</key>
-    <string>Light Minute</string>
+    <string>دقيقة ضوئية</string>
     <key>Astronomical Unit</key>
-    <string>Astronomical Unit</string>
+    <string>وحدة فلكية</string>
     <key>Light Year</key>
-    <string>Light Year</string>
+    <string>سنة ضوئية</string>
   </dict>
 </plist>

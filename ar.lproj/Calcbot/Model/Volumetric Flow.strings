@@ -3,32 +3,32 @@
 <plist version="1.0">
   <dict>
     <key>Volumetric Flow</key>
-    <string>Volumetric Flow</string>
+    <string>التدفق الحجمي</string>
     <key>Gallon/Day</key>
-    <string>Gallon/Day</string>
+    <string>غالون باليوم</string>
     <key>Imperial</key>
-    <string>Imperial</string>
+    <string>إمبراطوري   </string>
     <key>Litre/Hour</key>
-    <string>Litre/Hour</string>
+    <string>لتر بالساعة</string>
     <key>Litre/Min.</key>
-    <string>Litre/Min.</string>
+    <string>لتر بالدقيقة</string>
     <key>Gallon/Min.</key>
-    <string>Gallon/Min.</string>
+    <string>غالون بالدقيقة</string>
     <key>Cubic Metre/Hour</key>
-    <string>Cubic Metre/Hour</string>
+    <string>متر مكعب بالساعة</string>
     <key>Cubic Feet/Min.</key>
-    <string>Cubic Feet/Min.</string>
+    <string>قدم مكعب بالدقيقة</string>
     <key>Litre/Sec.</key>
-    <string>Litre/Sec.</string>
+    <string>لتر بالثانية</string>
     <key>Gallon/Sec.</key>
-    <string>Gallon/Sec.</string>
+    <string>غالون بالثانية</string>
     <key>Cubic Metre/Min</key>
-    <string>Cubic Metre/Min</string>
+    <string>متر مكعب بالدقيقة</string>
     <key>Cubic Feet/Sec.</key>
-    <string>Cubic Feet/Sec.</string>
+    <string>قدم مكعب بالثانية</string>
     <key>Cubic Yard/Sec.</key>
-    <string>Cubic Yard/Sec.</string>
+    <string>ياردة مكعبة بالثانية</string>
     <key>Cubic Metre/Sec.</key>
-    <string>Cubic Metre/Sec.</string>
+    <string>متر مكعب بالثانية</string>
   </dict>
 </plist>

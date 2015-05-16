@@ -3,52 +3,52 @@
 <plist version="1.0">
   <dict>
     <key>Volume</key>
-    <string>Volume</string>
+    <string>الحجم</string>
     <key>Cubic Millimetre</key>
-    <string>Cubic Millimetre</string>
+    <string>ملمتر مكعب</string>
     <key>Microlitre</key>
-    <string>Microlitre</string>
+    <string>ميكرولتر</string>
     <key>Drop</key>
-    <string>Drop</string>
+    <string>قطرة</string>
     <key>Imperial</key>
-    <string>Imperial</string>
+    <string>إمبريالي</string>
     <key>Cubic Centimetre</key>
-    <string>Cubic Centimetre</string>
+    <string>سنتيمتر مكعب</string>
     <key>Millilitre</key>
-    <string>Millilitre</string>
+    <string>مللتر</string>
     <key>Teaspoon</key>
-    <string>Teaspoon</string>
+    <string>ملعقة شاي</string>
     <key>Metric</key>
-    <string>Metric</string>
+    <string>متري</string>
     <key>Tablespoon</key>
-    <string>Tablespoon</string>
+    <string>ملعقة طاولة</string>
     <key>Cubic Inch</key>
-    <string>Cubic Inch</string>
+    <string>بوصة مكعبة</string>
     <key>Ounce</key>
-    <string>Ounce</string>
+    <string>أونصة</string>
     <key>Dry Pint</key>
     <string>Dry Pint</string>
     <key>Fifth</key>
     <string>Fifth</string>
     <key>Litre</key>
-    <string>Litre</string>
+    <string>لتر</string>
     <key>Dry Quart</key>
     <string>Dry Quart</string>
     <key>Gallon</key>
-    <string>Gallon</string>
+    <string>غالون</string>
     <key>Dry Gallon</key>
     <string>Dry Gallon</string>
     <key>Cubic Feet</key>
-    <string>Cubic Feet</string>
+    <string>قدم مكعب</string>
     <key>Bushel</key>
     <string>Bushel</string>
     <key>Beer Barrel</key>
-    <string>Beer Barrel</string>
+    <string>برميل بيرة</string>
     <key>Oil Barrel</key>
-    <string>Oil Barrel</string>
+    <string>برميل نفط</string>
     <key>Cubic Yard</key>
-    <string>Cubic Yard</string>
+    <string>ياردة مكعبة</string>
     <key>Cubic Metre</key>
-    <string>Cubic Metre</string>
+    <string>متر مكعب</string>
   </dict>
 </plist>

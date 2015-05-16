@@ -4,8 +4,6 @@
   <dict>
     <key>Typography</key>
     <string>Typography</string>
-    <key>Pixel</key>
-    <string>Pixel</string>
     <key>300 dpi</key>
     <string>300 dpi</string>
     <key>150 dpi</key>
@@ -14,17 +12,7 @@
     <string>96 dpi</string>
     <key>72 dpi</key>
     <string>72 dpi</string>
-    <key>Point</key>
-    <string>Point</string>
     <key>Didot</key>
     <string>Didot</string>
-    <key>Millimetre</key>
-    <string>Millimetre</string>
-    <key>Agate Line</key>
-    <string>Agate Line</string>
-    <key>Centimetre</key>
-    <string>Centimetre</string>
-    <key>Inch</key>
-    <string>Inch</string>
   </dict>
 </plist>

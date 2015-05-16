@@ -7,15 +7,15 @@
     <key>2 to the power of</key>
     <string>2 to the power of</string>
     <key>Error</key>
-    <string>Error</string>
+    <string>خطأ</string>
     <key>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</key>
     <string>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</string>
     <key>add</key>
-    <string>add</string>
+    <string>إضافة</string>
     <key>alternate functions</key>
-    <string>alternate functions</string>
+    <string>وظائف بديلة</string>
     <key>clear</key>
-    <string>clear</string>
+    <string>مسح</string>
     <key>close parenthesis</key>
     <string>close parenthesis</string>
     <key>constants</key>
@@ -23,27 +23,27 @@
     <key>cosine</key>
     <string>cosine</string>
     <key>cube</key>
-    <string>cube</string>
+    <string>تكعيب</string>
     <key>cube root</key>
-    <string>cube root</string>
+    <string>جذر تكعيبي</string>
     <key>decimal</key>
-    <string>decimal</string>
+    <string>عشري</string>
     <key>degrees</key>
-    <string>degrees</string>
+    <string>درجة</string>
     <key>delete</key>
-    <string>delete</string>
+    <string>حذف</string>
     <key>divide</key>
-    <string>divide</string>
+    <string>تقسيم</string>
     <key>ee engineering exponent</key>
     <string>ee engineering exponent</string>
     <key>equal</key>
-    <string>equal</string>
+    <string>يساوي</string>
     <key>exponential</key>
     <string>exponential</string>
     <key>factorial</key>
     <string>factorial</string>
     <key>favorites</key>
-    <string>favorites</string>
+    <string>المفضلة</string>
     <key>hyperbolic cosine</key>
     <string>hyperbolic cosine</string>
     <key>hyperbolic sine</key>
@@ -67,40 +67,40 @@
     <key>log base 2</key>
     <string>log base 2</string>
     <key>logarithm</key>
-    <string>logarithm</string>
+    <string>لوغاريتم</string>
     <key>multiply</key>
-    <string>multiply</string>
+    <string>ضرب</string>
     <key>natural log</key>
     <string>natural log</string>
     <key>open parenthesis</key>
-    <string>open parenthesis</string>
+    <string>قوس مفتوح</string>
     <key>percent</key>
-    <string>percent</string>
+    <string>نسبة مئوية</string>
     <key>plus, minus</key>
     <string>plus, minus</string>
     <key>power</key>
     <string>power</string>
     <key>radians</key>
-    <string>radians</string>
+    <string>راديان</string>
     <key>random</key>
-    <string>random</string>
+    <string>عشوائي</string>
     <key>reciprocal</key>
-    <string>reciprocal</string>
+    <string>مقلوب عدد</string>
     <key>reverse power</key>
     <string>reverse power</string>
     <key>root</key>
-    <string>root</string>
+    <string>جذر</string>
     <key>round</key>
-    <string>round</string>
+    <string>تقريب</string>
     <key>sine</key>
-    <string>sine</string>
+    <string>جيب</string>
     <key>square</key>
-    <string>square</string>
+    <string>مربع</string>
     <key>square root</key>
-    <string>square root</string>
+    <string>جذر تربيعي</string>
     <key>subtract</key>
-    <string>subtract</string>
+    <string>طرح</string>
     <key>tangent</key>
-    <string>tangent</string>
+    <string>مماس</string>
   </dict>
 </plist>

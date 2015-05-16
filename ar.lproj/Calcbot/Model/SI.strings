@@ -3,14 +3,14 @@
 <plist version="1.0">
   <dict>
     <key>Atto</key>
-    <string>Atto</string>
+    <string>أتو</string>
     <key>Micro</key>
-    <string>Micro</string>
+    <string>ميكرو</string>
     <key>Deci</key>
-    <string>Deci</string>
+    <string>ديسي</string>
     <key>Base</key>
-    <string>Base</string>
+    <string>أساسية</string>
     <key>Hecto</key>
-    <string>Hecto</string>
+    <string>هكتو</string>
   </dict>
 </plist>

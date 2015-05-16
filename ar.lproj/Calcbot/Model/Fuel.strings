@@ -3,22 +3,22 @@
 <plist version="1.0">
   <dict>
     <key>Fuel</key>
-    <string>Fuel</string>
+    <string>وقود</string>
     <key>Litres/100 Miles</key>
-    <string>Litres/100 Miles</string>
+    <string>لتر/100 ميل</string>
     <key>Litres/100 KM</key>
-    <string>Litres/100 KM</string>
+    <string>لتر/100 كم</string>
     <key>Gallons/100 Miles</key>
-    <string>Gallons/100 Miles</string>
+    <string>غالون/100 ميل</string>
     <key>Imperial</key>
     <string>Imperial</string>
     <key>Litres/10 KM</key>
-    <string>Litres/10 KM</string>
+    <string>لتر/10 كم</string>
     <key>KM/Litre</key>
-    <string>KM/Litre</string>
+    <string>كم/لتر</string>
     <key>Litres/KM</key>
-    <string>Litres/KM</string>
+    <string>لتر/كم</string>
     <key>Miles/Gallon</key>
-    <string>Miles/Gallon</string>
+    <string>ميل/غالون</string>
   </dict>
 </plist>

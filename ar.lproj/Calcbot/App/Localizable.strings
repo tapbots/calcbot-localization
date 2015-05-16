@@ -13,7 +13,7 @@
     <key>Add your own values and labels to the constants menu.</key>
     <string>أضف القيم الخاصة بك ومسمياتها إلى قائمة الثوابت.</string>
     <key>Attach Tape</key>
-    <string>Attach Tape</string>
+    <string>تعليق شريط السجل</string>
     <key>Basic</key>
     <string>بسيط</string>
     <key>COMPANY</key>
@@ -53,7 +53,7 @@
     <key>Copy Result</key>
     <string>نسخ النتيجة</string>
     <key>Could not fetch currency rates</key>
-    <string>Could not fetch currency rates</string>
+    <string>لم يمكن جلب أسعار العملات</string>
     <key>Custom Constants.</key>
     <string>تخصيص الثوابت</string>
     <key>DEFAULT</key>
@@ -63,7 +63,7 @@
     <key>Delete</key>
     <string>حذف</string>
     <key>Detach Tape</key>
-    <string>Detach Tape</string>
+    <string>فصل شريط السجل</string>
     <key>Disable All</key>
     <string>تعطيل الكل</string>
     <key>Edit Units</key>
@@ -87,7 +87,7 @@
     <key>From</key>
     <string>من</string>
     <key>From Unit</key>
-    <string>From Unit</string>
+    <string>تحويل من</string>
     <key>GENERAL</key>
     <string>عام</string>
     <key>General</key>
@@ -99,7 +99,7 @@
     <key>History</key>
     <string>السجل</string>
     <key>Large Type</key>
-    <string>Large Type</string>
+    <string>تكبير الناتج</string>
     <key>Last Updated: </key>
     <string>آخر تحديث: </string>
     <key>Last updated: %@</key>
@@ -146,8 +146,7 @@
     <string>فضلًا اكتب رسالتك فوق هذا الخط</string>
     <key>Pre-define 4 conversions for quick access
 on your Apple Watch.</key>
-    <string>Pre-define 4 conversions for quick access
-on your Apple Watch.</string>
+    <string>قم بتحديد ٤ عمليات تحويل ليمكنك استخدامها سريعًا على ساعة Apple الخاصة بك.</string>
     <key>Pro</key>
     <string>الاحترافي</string>
     <key>Pro Theme.</key>
@@ -183,7 +182,7 @@ on your Apple Watch.</string>
     <key>Show All Conversion Results</key>
     <string>عرض جميع نتائج التحويل</string>
     <key>Show Conversion</key>
-    <string>Show Conversion</string>
+    <string>عرض التحويل</string>
     <key>Show Tape</key>
     <string>عرض السجل</string>
     <key>Sounds</key>
@@ -195,7 +194,7 @@ on your Apple Watch.</string>
     <key>Tape</key>
     <string>سجل</string>
     <key>Tape Entry</key>
-    <string>Tape Entry</string>
+    <string>في السجل</string>
     <key>Theme Pack 1</key>
     <string>حزمة الثيمات الأولى</string>
     <key>Theme Pack 2</key>
@@ -207,7 +206,7 @@ on your Apple Watch.</string>
     <key>To</key>
     <string>إلى</string>
     <key>To Unit</key>
-    <string>To Unit</string>
+    <string>إلى</string>
     <key>Type a unit...</key>
     <string>اكتب وحدة...</string>
     <key>Unit Conversions.</key>
@@ -220,10 +219,9 @@ on your Apple Watch.</string>
     <string>قم بالترقية إلى النسخة الاحترافية للتحويل بين أكثر من ٢٠٠ وحدة عبر ٢٠ فئة وأكثر.</string>
     <key>Upgrade to Pro to customize the conversions
 on your Apple Watch.</key>
-    <string>Upgrade to Pro to customize the conversions
-on your Apple Watch.</string>
+    <string>قم بالترقية إلى النسخة الاحترافية لتخصيص التحويلات على ساعة Apple الخاصة بك.</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
-    <string>Upgrade to Pro to get unlimited history tape records and more.</string>
+    <string>قم بالترقية للنسخة الاحترافية للحصول على سجل غير محدود والمزيد.</string>
     <key>Upgrade to pro and get the following benefits:</key>
     <string>قم بالترقية للنسخة الاحترافية واحصل على الميزات التالية:</string>
     <key>Use Expression</key>
@@ -237,65 +235,65 @@ on your Apple Watch.</string>
     <key>View</key>
     <string>عرض</string>
     <key>Watch</key>
-    <string>Watch</string>
+    <string>تطبيق الساعة</string>
     <key>You cannot deselect every enabled conversion unit.</key>
     <string>ليس بإمكانك إلغاء تحديد كل وحدات التحويل.</string>
     <key>You cannot deselect the last enabled conversion unit.</key>
     <string>ليس بإمكانك إلغاء تحديد آخر عنصر مفعل من قائمة وحدات التحويل..</string>
     <key>You may define your own title. Try to keep it under 8 characters to avoid truncation.</key>
-    <string>You may define your own title. Try to keep it under 8 characters to avoid truncation.</string>
+    <string>بإمكانك تعيين اسم خاص للعملية، ولكن اجعله أقل من ٨ أحرف لتفادي اقتطاع الكلمة على شاشة الساعة.</string>
     <key>You need at least one enabled conversion unit</key>
     <string>تحتاج إلى وحدة تحويل واحدة مفعلة على الأقل</string>
     <key>calculated result</key>
-    <string>calculated result</string>
+    <string>نتيجة الحساب</string>
     <key>conversion category chooser</key>
-    <string>conversion category chooser</string>
+    <string>اختيار فئة التحويل</string>
     <key>conversion category picker</key>
-    <string>conversion category picker</string>
+    <string>اختيار فئة التحويل</string>
     <key>conversion from unit</key>
-    <string>conversion from unit</string>
+    <string>تحويل من وحدة</string>
     <key>conversion from unit symbol</key>
-    <string>conversion from unit symbol</string>
+    <string>شعار الوحدة المحول منها</string>
     <key>conversion to unit</key>
-    <string>conversion to unit</string>
+    <string>إلى</string>
     <key>conversion to unit symbol</key>
-    <string>conversion to unit symbol</string>
+    <string>شعار الوحدة المحول إليها</string>
     <key>current expression</key>
-    <string>current expression</string>
+    <string>العملية الحالية</string>
     <key>display options segmented control</key>
-    <string>display options segmented control</string>
+    <string>عرض الخيارات</string>
     <key>favorite expression</key>
-    <string>favorite expression</string>
+    <string>تفضيل العملية</string>
     <key>hide conversion</key>
-    <string>hide conversion</string>
+    <string>إخفاء التحويل</string>
     <key>hide tape</key>
     <string>إخفاء السجل</string>
     <key>result</key>
     <string>النتيجة</string>
     <key>saved expression</key>
-    <string>saved expression</string>
+    <string>عملية محفوظة</string>
     <key>saved result</key>
-    <string>saved result</string>
+    <string>نتيجة محفوظة</string>
     <key>show conversion</key>
-    <string>show conversion</string>
+    <string>عرض التحويل</string>
     <key>show favorited saved expressions</key>
-    <string>show favorited saved expressions</string>
+    <string>عرض سجل العمليات المفضلة</string>
     <key>show tape</key>
     <string>إظهار السجل</string>
     <key>show tape of saved expressions</key>
-    <string>show tape of saved expressions</string>
+    <string>عرض سجل العمليات المحفوظة</string>
     <key>swap from and to conversion units</key>
-    <string>swap from and to conversion units</string>
+    <string>التبديل بين وإلى وحدات التحويل</string>
     <key>table of favorited expressions</key>
-    <string>table of favorited expressions</string>
+    <string>جدول العمليات المفضلة</string>
     <key>table of saved expressions</key>
-    <string>table of saved expressions</string>
+    <string>جدول العمليات المحفوظة</string>
     <key>tape options segmented control</key>
-    <string>tape options segmented control</string>
+    <string>شريط التحكم بالسجل</string>
     <key>tape settings button</key>
-    <string>tape settings button</string>
+    <string>زر إعدادات السجل</string>
     <key>unfavorite expression</key>
-    <string>unfavorite expression</string>
+    <string>إلغاء تفضيل العملية</string>
     <key>unknown</key>
     <string>غيرمعروف</string>
   </dict>

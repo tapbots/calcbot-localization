@@ -5,7 +5,7 @@
     <key>Typography</key>
     <string>Typography</string>
     <key>Pixel</key>
-    <string>Pixel</string>
+    <string>بكسل</string>
     <key>300 dpi</key>
     <string>300 dpi</string>
     <key>150 dpi</key>
@@ -15,16 +15,16 @@
     <key>72 dpi</key>
     <string>72 dpi</string>
     <key>Point</key>
-    <string>Point</string>
+    <string>نقطة</string>
     <key>Didot</key>
     <string>Didot</string>
     <key>Millimetre</key>
-    <string>Millimetre</string>
+    <string>مليمتر</string>
     <key>Agate Line</key>
-    <string>Agate Line</string>
+    <string>Agate خط</string>
     <key>Centimetre</key>
-    <string>Centimetre</string>
+    <string>سنتيمتر</string>
     <key>Inch</key>
-    <string>Inch</string>
+    <string>بوصة</string>
   </dict>
 </plist>

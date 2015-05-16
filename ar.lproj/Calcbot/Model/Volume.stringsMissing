@@ -2,53 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>Volume</key>
-    <string>Volume</string>
-    <key>Cubic Millimetre</key>
-    <string>Cubic Millimetre</string>
-    <key>Microlitre</key>
-    <string>Microlitre</string>
-    <key>Drop</key>
-    <string>Drop</string>
-    <key>Imperial</key>
-    <string>Imperial</string>
-    <key>Cubic Centimetre</key>
-    <string>Cubic Centimetre</string>
-    <key>Millilitre</key>
-    <string>Millilitre</string>
-    <key>Teaspoon</key>
-    <string>Teaspoon</string>
-    <key>Metric</key>
-    <string>Metric</string>
-    <key>Tablespoon</key>
-    <string>Tablespoon</string>
-    <key>Cubic Inch</key>
-    <string>Cubic Inch</string>
-    <key>Ounce</key>
-    <string>Ounce</string>
     <key>Dry Pint</key>
     <string>Dry Pint</string>
     <key>Fifth</key>
     <string>Fifth</string>
-    <key>Litre</key>
-    <string>Litre</string>
     <key>Dry Quart</key>
     <string>Dry Quart</string>
-    <key>Gallon</key>
-    <string>Gallon</string>
     <key>Dry Gallon</key>
     <string>Dry Gallon</string>
-    <key>Cubic Feet</key>
-    <string>Cubic Feet</string>
     <key>Bushel</key>
     <string>Bushel</string>
-    <key>Beer Barrel</key>
-    <string>Beer Barrel</string>
-    <key>Oil Barrel</key>
-    <string>Oil Barrel</string>
-    <key>Cubic Yard</key>
-    <string>Cubic Yard</string>
-    <key>Cubic Metre</key>
-    <string>Cubic Metre</string>
   </dict>
 </plist>

@@ -3,58 +3,58 @@
 <plist version="1.0">
   <dict>
     <key>Data Rate</key>
-    <string>Data Rate</string>
+    <string>معدل نقل البيانات</string>
     <key>Bytes/Week</key>
-    <string>Bytes/Week</string>
+    <string>بايت/أسبوع</string>
     <key>Bytes/Day</key>
-    <string>Bytes/Day</string>
+    <string>بايت/يوم</string>
     <key>Bytes/Hour</key>
-    <string>Bytes/Hour</string>
+    <string>بايت/ساعة</string>
     <key>Kilobytes/Week</key>
-    <string>Kilobytes/Week</string>
+    <string>كيلوبايت/أسبوع</string>
     <key>Kilobytes/Day</key>
-    <string>Kilobytes/Day</string>
+    <string>كيلوبايت/يوم</string>
     <key>Bits/Sec.</key>
-    <string>Bits/Sec.</string>
+    <string>بت/ثانية</string>
     <key>Kilobytes/Hour</key>
-    <string>Kilobytes/Hour</string>
+    <string>كيلوبايت/ساعة</string>
     <key>Bytes/Sec.</key>
-    <string>Bytes/Sec.</string>
+    <string>بايت/ثانية</string>
     <key>Megabytes/Week</key>
-    <string>Megabytes/Week</string>
+    <string>ميجابايت/أسبوع</string>
     <key>Megabytes/Day</key>
-    <string>Megabytes/Day</string>
+    <string>ميجابايت/يوم</string>
     <key>Kilobits/Sec.</key>
-    <string>Kilobits/Sec.</string>
+    <string>كيلوبت/ثانية</string>
     <key>SI</key>
     <string>SI</string>
     <key>Megabytes/Hour</key>
-    <string>Megabytes/Hour</string>
+    <string>ميجابايت/ساعة</string>
     <key>Kilobytes/Sec.</key>
-    <string>Kilobytes/Sec.</string>
+    <string>كيلوبايت/ثانية</string>
     <key>Gigabytes/Week</key>
-    <string>Gigabytes/Week</string>
+    <string>جيجابايت/أسبوع</string>
     <key>Gigabytes/Day</key>
-    <string>Gigabytes/Day</string>
+    <string>جيجابايت/يوم</string>
     <key>Megabits/Sec.</key>
-    <string>Megabits/Sec.</string>
+    <string>ميجابت/ثانية</string>
     <key>Gigabytes/Hour</key>
-    <string>Gigabytes/Hour</string>
+    <string>جيجابايت/ساعة</string>
     <key>Megabytes/Sec.</key>
-    <string>Megabytes/Sec.</string>
+    <string>ميجابايت/ثانية</string>
     <key>Terabytes/Week</key>
-    <string>Terabytes/Week</string>
+    <string>تيرابايت/أسبوع</string>
     <key>Terabytes/Day</key>
-    <string>Terabytes/Day</string>
+    <string>تيرابايت/يوم</string>
     <key>Gigabits/Sec.</key>
-    <string>Gigabits/Sec.</string>
+    <string>جيجابت/ثانية</string>
     <key>Terabytes/Hour</key>
-    <string>Terabytes/Hour</string>
+    <string>تيرابايت/ساعة</string>
     <key>Gigabytes/Sec.</key>
-    <string>Gigabytes/Sec.</string>
+    <string>جيجابايت/ثانية</string>
     <key>Terabits/Sec.</key>
-    <string>Terabits/Sec.</string>
+    <string>تيرابت/ثانية</string>
     <key>Terabytes/Sec.</key>
-    <string>Terabytes/Sec.</string>
+    <string>تيرابايت/ثانية</string>
   </dict>
 </plist>

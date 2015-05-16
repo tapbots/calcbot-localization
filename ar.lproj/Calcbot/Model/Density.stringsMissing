@@ -2,21 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>Density</key>
-    <string>Density</string>
-    <key>Gram/Litre</key>
-    <string>Gram/Litre</string>
-    <key>Kilogram/Cubic Metre</key>
-    <string>Kilogram/Cubic Metre</string>
-    <key>Pound/Cubic Foot</key>
-    <string>Pound/Cubic Foot</string>
-    <key>Pound/Gallon</key>
-    <string>Pound/Gallon</string>
     <key>Imperial</key>
     <string>Imperial</string>
-    <key>Gram/Cubic CM</key>
-    <string>Gram/Cubic CM</string>
-    <key>Pound/Cubic Inch</key>
-    <string>Pound/Cubic Inch</string>
   </dict>
 </plist>

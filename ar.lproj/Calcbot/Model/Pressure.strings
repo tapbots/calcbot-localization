@@ -3,17 +3,17 @@
 <plist version="1.0">
   <dict>
     <key>Pressure</key>
-    <string>Pressure</string>
+    <string>ضغط</string>
     <key>KG/Square Metre</key>
-    <string>KG/Square Metre</string>
+    <string>كيلوغرام/متر مربع</string>
     <key>MM of Water</key>
     <string>MM of Water</string>
     <key>Pounds/Square Foot</key>
-    <string>Pounds/Square Foot</string>
+    <string>أرطال/قدم مربع</string>
     <key>CM of Water</key>
     <string>CM of Water</string>
     <key>Hectopascal</key>
-    <string>Hectopascal</string>
+    <string>هكتوباسكال</string>
     <key>MM of Mercury</key>
     <string>MM of Mercury</string>
     <key>Inch of Water</key>
@@ -23,12 +23,12 @@
     <key>Inches of Mercury</key>
     <string>Inches of Mercury</string>
     <key>Pounds/Square Inch</key>
-    <string>Pounds/Square Inch</string>
+    <string>أرطال/بوصة مربعة</string>
     <key>KG/Square CM</key>
-    <string>KG/Square CM</string>
+    <string>كيلوغرام/سم مربع</string>
     <key>Bars</key>
-    <string>Bars</string>
+    <string>بار</string>
     <key>Atmospheres</key>
-    <string>Atmospheres</string>
+    <string>جو</string>
   </dict>
 </plist>

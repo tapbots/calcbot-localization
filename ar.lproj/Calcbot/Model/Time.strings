@@ -3,24 +3,24 @@
 <plist version="1.0">
   <dict>
     <key>Time</key>
-    <string>Time</string>
+    <string>الوقت</string>
     <key>Nanoseconds</key>
-    <string>Nanoseconds</string>
+    <string>نانو ثانية</string>
     <key>Microseconds</key>
-    <string>Microseconds</string>
+    <string>ميكرو ثانية</string>
     <key>Milliseconds</key>
-    <string>Milliseconds</string>
+    <string>ميلي ثانية</string>
     <key>Seconds</key>
-    <string>Seconds</string>
+    <string>ثواني</string>
     <key>Minutes</key>
-    <string>Minutes</string>
+    <string>دقائق</string>
     <key>Hours</key>
-    <string>Hours</string>
+    <string>ساعات</string>
     <key>Days</key>
-    <string>Days</string>
+    <string>أيام</string>
     <key>Weeks</key>
-    <string>Weeks</string>
+    <string>أسابيع</string>
     <key>Years</key>
-    <string>Years</string>
+    <string>سنوات</string>
   </dict>
 </plist>

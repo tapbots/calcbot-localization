@@ -3,28 +3,28 @@
 <plist version="1.0">
   <dict>
     <key>Mass</key>
-    <string>Mass</string>
+    <string>كتلة</string>
     <key>Microgram</key>
-    <string>Microgram</string>
+    <string>ميكروغرام</string>
     <key>Milligram</key>
-    <string>Milligram</string>
+    <string>مليغرام</string>
     <key>Carat</key>
-    <string>Carat</string>
+    <string>قيراط</string>
     <key>Gram</key>
-    <string>Gram</string>
+    <string>غرام</string>
     <key>Ounce</key>
-    <string>Ounce</string>
+    <string>أونصة</string>
     <key>Troy Ounce</key>
-    <string>Troy Ounce</string>
+    <string>الأوقية الترويسية</string>
     <key>Pound</key>
-    <string>Pound</string>
+    <string>رطل</string>
     <key>Kilogram</key>
-    <string>Kilogram</string>
+    <string>كيلوغرام</string>
     <key>Short Ton</key>
-    <string>Short Ton</string>
+    <string>طن أمريكي</string>
     <key>Metric Ton</key>
-    <string>Metric Ton</string>
+    <string>طن متري</string>
     <key>Long Ton</key>
-    <string>Long Ton</string>
+    <string>طن بريطاني إمبراطوري</string>
   </dict>
 </plist>
