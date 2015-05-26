@@ -3,20 +3,20 @@
 <plist version="1.0">
   <dict>
     <key>Radioactivity</key>
-    <string>Radioactivity</string>
+    <string>Радиация</string>
     <key>Becquerel</key>
-    <string>Becquerel</string>
+    <string>Беккерель</string>
     <key>Microcurie</key>
-    <string>Microcurie</string>
+    <string>Микрокюри</string>
     <key>Megabecquerel</key>
-    <string>Megabecquerel</string>
+    <string>Мегабеккерель</string>
     <key>Millicurie</key>
-    <string>Millicurie</string>
+    <string>Милликюри</string>
     <key>Gigabecquerel</key>
-    <string>Gigabecquerel</string>
+    <string>Гигабеккерель</string>
     <key>Curie</key>
-    <string>Curie</string>
+    <string>Кюри</string>
     <key>Terabecquerel</key>
-    <string>Terabecquerel</string>
+    <string>Терабеккерель</string>
   </dict>
 </plist>

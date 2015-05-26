@@ -3,36 +3,32 @@
 <plist version="1.0">
   <dict>
     <key>Volumetric Flow</key>
-    <string>Volumetric Flow</string>
+    <string>Объемный поток</string>
     <key>Gallon/Day</key>
-    <string>Gallon/Day</string>
-    <key>Gallon/Day (Imperial)</key>
-    <string>Gallon/Day (Imperial)</string>
+    <string>Галлон/День</string>
+    <key>Imperial</key>
+    <string>Брит. система</string>
     <key>Litre/Hour</key>
-    <string>Litre/Hour</string>
+    <string>Литр/Час</string>
     <key>Litre/Min.</key>
-    <string>Litre/Min.</string>
+    <string>Литр/Минута</string>
     <key>Gallon/Min.</key>
-    <string>Gallon/Min.</string>
-    <key>Gallon/Min. (Imperial)</key>
-    <string>Gallon/Min. (Imperial)</string>
+    <string>Галлон/Минута</string>
     <key>Cubic Metre/Hour</key>
-    <string>Cubic Metre/Hour</string>
+    <string>Кубический метр/Час</string>
     <key>Cubic Feet/Min.</key>
-    <string>Cubic Feet/Min.</string>
+    <string>Кубический фут/Минута</string>
     <key>Litre/Sec.</key>
-    <string>Litre/Sec.</string>
+    <string>Литр/Секунда</string>
     <key>Gallon/Sec.</key>
-    <string>Gallon/Sec.</string>
-    <key>Gallon/Sec. (Imperial)</key>
-    <string>Gallon/Sec. (Imperial)</string>
+    <string>Галлон/Секунда</string>
     <key>Cubic Metre/Min</key>
-    <string>Cubic Metre/Min</string>
+    <string>Куб. метр/Минута</string>
     <key>Cubic Feet/Sec.</key>
-    <string>Cubic Feet/Sec.</string>
+    <string>Куб. фут/Секунда</string>
     <key>Cubic Yard/Sec.</key>
-    <string>Cubic Yard/Sec.</string>
+    <string>Куб. ярд/Секунда</string>
     <key>Cubic Metre/Sec.</key>
-    <string>Cubic Metre/Sec.</string>
+    <string>Куб. метр/Секунда</string>
   </dict>
 </plist>

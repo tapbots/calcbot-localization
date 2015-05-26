@@ -1,30 +1,33 @@
-Calcbot is an intelligent calculator and unit converter for the rest of us. Featuring an easy-to-read history tape, expression view, intuitive conversion, and much more!
+‏‫Calcbot تطبيق حاسبة ذكية ومحول وحدات لكل واحد منّا. من مميزاته سجل العمليات سهل القرائة، عرض العمليات بتفاصيلها، محول بديهي، والمزيد!‬
 
-History Tape.
-Every calculation you enter gets saved to the history tape. Refer to calculations later or send them right back to your current calculation.
+سجل العمليات.
+‫كل عملية تقوم بإدخالها يتم حفظها إلى السجل وبإمكانك نسخها إلى الحافظة للصقها بسهولة‬.‫ كما يمكنك العودة إليها لاحقًا كمرجع أو استخدام العملية في الحاسبة مرة أخرى.‬
 
-Expression View.
-Calcbot's original expression view allows you to see everything you have typed so you'll never forget what you entered or miss a typo.
+عرض العبارة الجبرية.
+‫بإمكانك رؤية كل شي كتبته لكي لا تنسى ما أدخلت أو تفقد خطأ.‬
 
-Conversion*.
-Convert any of your calculations with over 500 units across 22 different categories including auto-updating currency rates.
+Apple Watch إضافة.
+‫بإمكانك القيام بالحساب والتحويل، حساب البقشيش، واقتسام الفواتير ببساطة من ساعة آبل الخاصة بك.‬
 
-Favorites.
-Fave a calculation and get instant access to its result via the Favorites Key. No more cryptic memory keys.
+التحويل*.
+‫قم بتحويل أي رقم مع أكثر من ٥٠٠ وحدة عبر ٢٢ تصنيف مختلف منها أسعار العملات المحدثة تلقائيًا.‬
 
-Scientific Functions. 
-Rotate your device into landscape mode to gain access to common scientific functions.
+المفضلة.
+‫فضّل عملية لتصل إلى نتيجتها سريعًا عبر زر المفضلة.‬
 
-Constants.
-Get instant access to scientific constants like Pi, Atomic Mass, or add your own*.
+وظائف علمية. 
+‫قم بتدوير جهازك إلى الوضع الأفقي للوصول إلى أزرار الوظائف العلمية المعروفة.‬
 
-Round for Currency.
-Have all of your results rounded to two decimal places.
+الثوابت.
+‫الوصول السريع إلى الثوابت الرياضية مثل عدد باي، الكتلة الذرية، وأضف الثوابت الخاصة بك.‬
 
-iCloud Sync.
-Sync your history tape, constants, and faves across all of your Macs, iPhones, and iPads.
+تقريب العملات.
+‫تقريب النتائج إلى منزلتين عشريتين.‬
 
-Sounds & Animations.
-Beautiful custom animations and sound effects provide positive feedback and an enjoyable experience while performing calculations.
+iCloud مزامنة.
+‫مزامنة السجل، الثوابت، والمفضلة عبر كل أجهزة الـ Mac والـ iPad و الـ iPhone الخاصة بك.‬
 
-* In-App purchase required.
+الأصوات والحركة.
+‫مؤثرات حركية وأصوات جميلة تقدم تجربة إيجابية وممتعة حين تنفيذ العمليات الحسابية.‬
+
+* يتطلب شراء الترقية من داخل التطبيق.

@@ -3,79 +3,79 @@
 <plist version="1.0">
   <dict>
     <key>Golden Ratio</key>
-    <string>Golden Ratio</string>
+    <string>النسبة الذهبية</string>
     <key>Pi</key>
-    <string>Pi</string>
+    <string>ثابت الدائرة ط (باي)</string>
     <key>Euler’s Number</key>
-    <string>Euler’s Number</string>
+    <string>عدد أويلر</string>
     <key>Proton Mass</key>
-    <string>Proton Mass</string>
+    <string>كتلة البروتون</string>
     <key>Neutron Mass</key>
-    <string>Neutron Mass</string>
+    <string>كتلة النيوترون</string>
     <key>Electron Mass</key>
-    <string>Electron Mass</string>
+    <string>كتلة الإلكترون</string>
     <key>Muon Mass</key>
-    <string>Muon Mass</string>
+    <string>كتلة الميوون</string>
     <key>Bohr Radius</key>
-    <string>Bohr Radius</string>
+    <string>نصف قطر بور</string>
     <key>Planck</key>
-    <string>Planck</string>
+    <string>ثابت بلانك</string>
     <key>Nuclear Magneton</key>
-    <string>Nuclear Magneton</string>
+    <string>مغنطون نووي</string>
     <key>Bohr Magneton</key>
-    <string>Bohr Magneton</string>
+    <string>مغنطون بور</string>
     <key>Fine-Structure Constant</key>
-    <string>Fine-Structure Constant</string>
+    <string>ثابت البناء الدقيق</string>
     <key>Classical Electron Radius</key>
-    <string>Classical Electron Radius</string>
+    <string>نصف القطر التقليدي للإلكترون</string>
     <key>Compton Wavelength</key>
-    <string>Compton Wavelength</string>
+    <string>طول موجة كومبتون</string>
     <key>Proton Gyromagnetic Ratio</key>
-    <string>Proton Gyromagnetic Ratio</string>
+    <string>النسبة المغناطيسية الدورانية للبروتون</string>
     <key>Proton Compton Wavelength</key>
-    <string>Proton Compton Wavelength</string>
+    <string>طول موجة كومبتون للبروتون</string>
     <key>Neutron Compton Wavelength</key>
-    <string>Neutron Compton Wavelength</string>
+    <string>طول موجة كومبتون للنيوترون</string>
     <key>Rydberg Constant</key>
-    <string>Rydberg Constant</string>
+    <string>ثابت ريدبرغ</string>
     <key>Atomic Mass</key>
-    <string>Atomic Mass</string>
+    <string>الكتلة الذرية</string>
     <key>Proton Magnetic Moment</key>
-    <string>Proton Magnetic Moment</string>
+    <string>العزم المغناطيسي للبروتون</string>
     <key>Electron Magnetic Moment</key>
-    <string>Electron Magnetic Moment</string>
+    <string>العزم المغناطيسي للإلكترون</string>
     <key>Neutron Magnetic Moment</key>
-    <string>Neutron Magnetic Moment</string>
+    <string>العزم المغناطيسي للنيوترون</string>
     <key>Muon Magnetic Moment</key>
-    <string>Muon Magnetic Moment</string>
+    <string>العزم المغناطيسي للميوون</string>
     <key>Faraday Constant</key>
-    <string>Faraday Constant</string>
+    <string>ثابت فاراداي</string>
     <key>Elementary Charge</key>
-    <string>Elementary Charge</string>
+    <string>الشحنة الأساسية</string>
     <key>Avogadro Constant</key>
-    <string>Avogadro Constant</string>
+    <string>ثابت أفوجادرو</string>
     <key>Boltzmann Constant</key>
-    <string>Boltzmann Constant</string>
+    <string>ثابت بولتزمان</string>
     <key>Molar Volume of Ideal Gas</key>
-    <string>Molar Volume of Ideal Gas</string>
+    <string>الحجم المولي للغاز المثالي</string>
     <key>Molar Gas Constant</key>
-    <string>Molar Gas Constant</string>
+    <string>ثابت الغاز المولِ</string>
     <key>Speed of Light</key>
-    <string>Speed of Light</string>
+    <string>سرعة الضوء</string>
     <key>First Radiation Constant</key>
     <string>First Radiation Constant</string>
     <key>Second Radiation Constant</key>
     <string>Second Radiation Constant</string>
     <key>Stefan-Boltzmann Constant</key>
-    <string>Stefan-Boltzmann Constant</string>
+    <string>ثابت ستيفان-بولتزمان</string>
     <key>Electric Constant</key>
-    <string>Electric Constant</string>
+    <string>ثابت الإلكتريك</string>
     <key>Magnetic Constant</key>
-    <string>Magnetic Constant</string>
+    <string>الثابت المغناطيسي</string>
     <key>Magnetic Flux Quantum</key>
     <string>Magnetic Flux Quantum</string>
     <key>Standard Acceleration of Gravity</key>
-    <string>Standard Acceleration of Gravity</string>
+    <string>تسارع الجاذبية المعيارية</string>
     <key>Standard Atmosphere</key>
     <string>Standard Atmosphere</string>
     <key>Conductance Quantum</key>
@@ -83,8 +83,8 @@
     <key>Characteristic Impedance of Vacuum</key>
     <string>Characteristic Impedance of Vacuum</string>
     <key>Celsius Temperature</key>
-    <string>Celsius Temperature</string>
+    <string>درجة حرارة مئوية</string>
     <key>Newtonian Constant of Gravitation</key>
-    <string>Newtonian Constant of Gravitation</string>
+    <string>ثابت الجذب لنيوتن</string>
   </dict>
 </plist>

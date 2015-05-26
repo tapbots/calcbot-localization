@@ -7,16 +7,22 @@
     <string>Sai</string>
     <string>Dram</string>
     <string>Shaku</string>
-    <string>Shot</string>
     <string>Gill</string>
     <string>Gō</string>
-    <string>Cup</string>
     <string>Pint</string>
+    <string>Imperial</string>
     <string>Quart</string>
+    <string>Quart (Imperial)</string>
     <string>Shō</string>
     <string>Peck</string>
     <string>To</string>
-    <string>Bucket</string>
     <string>Koku</string>
+    <string>Beer Barrel</string>
+    <string>Bucket</string>
+    <string>Dry Pint</string>
+    <string>Dry Quart</string>
+    <string>Dry Gallon</string>
+    <string>Bushel</string>
+    <string>Fifth</string>
   </array>
 </plist>

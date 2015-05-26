@@ -14,5 +14,6 @@
     <string>Terabyte</string>
     <string>Petabit</string>
     <string>Petabyte</string>
+    <string>SI</string>
   </array>
 </plist>

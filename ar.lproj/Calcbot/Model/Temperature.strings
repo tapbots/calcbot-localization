@@ -3,6 +3,6 @@
 <plist version="1.0">
   <dict>
     <key>Temperature</key>
-    <string>Temperature</string>
+    <string>درجة الحرارة</string>
   </dict>
 </plist>

@@ -3,88 +3,84 @@
 <plist version="1.0">
   <dict>
     <key>%@d</key>
-    <string>%@d</string>
+    <string>%@ي</string>
     <key>%d days</key>
-    <string>%d days</string>
+    <string>%d يوم</string>
     <key>%d hours</key>
-    <string>%d hours</string>
+    <string>%d ساعة</string>
     <key>%d minutes</key>
-    <string>%d minutes</string>
+    <string>%d دقيقة</string>
     <key>%d seconds</key>
-    <string>%d seconds</string>
+    <string>%d ثانية</string>
     <key>%dd</key>
-    <string>%dd</string>
+    <string>%dي</string>
     <key>%dh</key>
-    <string>%dh</string>
+    <string>%dس</string>
     <key>%dm</key>
-    <string>%dm</string>
+    <string>%dد</string>
     <key>%ds</key>
-    <string>%ds</string>
+    <string>%dث</string>
     <key>1 day</key>
-    <string>1 day</string>
+    <string>1 يوم</string>
     <key>1 hour</key>
-    <string>1 hour</string>
+    <string>1 ساعة</string>
     <key>1 minute</key>
-    <string>1 minute</string>
+    <string>1 دقيقة</string>
     <key>1 second</key>
-    <string>1 second</string>
+    <string>1 ثانية</string>
     <key>About</key>
-    <string>About</string>
+    <string>حول</string>
     <key>Calcbot Preferences</key>
-    <string>Calcbot Preferences</string>
+    <string>Calcbot تفضيلات</string>
     <key>Cancel</key>
-    <string>Cancel</string>
+    <string>إلغاء</string>
     <key>Cancelled</key>
-    <string>Cancelled</string>
+    <string>مُلغى</string>
     <key>Close</key>
-    <string>Close</string>
+    <string>إغلاق</string>
     <key>Couldn’t parse JSON data.</key>
-    <string>Couldn’t parse JSON data.</string>
+    <string>لم يمكن تحليل البيانات.</string>
     <key>Dumb Quotes</key>
-    <string>Dumb Quotes</string>
+    <string>اقتباسات غير ذكية</string>
     <key>FOLLOW US ON TWITTER</key>
-    <string>FOLLOW US ON TWITTER</string>
+    <string>تابعنا على تويتر</string>
     <key>Invalid Data</key>
-    <string>Invalid Data</string>
+    <string>بيانات غير صالحة</string>
     <key>Leave %@?</key>
-    <string>Leave %@?</string>
+    <string>مغادرة %@ ؟</string>
     <key>Network Connection Busy</key>
-    <string>Network Connection Busy</string>
+    <string>اتصال الشبكة مشغول</string>
     <key>Now</key>
-    <string>Now</string>
-    <key>OFF</key>
-    <string>OFF</string>
-    <key>ON</key>
-    <string>ON</string>
+    <string>الآن</string>
     <key>OTHER APPS</key>
-    <string>OTHER APPS</string>
+    <string>تطبيقاتنا الأخرى</string>
     <key>Open</key>
-    <string>Open</string>
+    <string>فتح</string>
     <key>Over 1 year</key>
-    <string>Over 1 year</string>
+    <string>أكثر من سنة</string>
     <key>Please try again later.</key>
-    <string>Please try again later.</string>
+    <string>فضلًا حاول مرة أخرى لاحقًا.</string>
     <key>Privacy Policy</key>
-    <string>Privacy Policy</string>
+    <string>سياسة الخصوصية</string>
     <key>Request Timed Out</key>
-    <string>Request Timed Out</string>
+    <string>انتهت مهلة الطلب</string>
     <key>Review %@ on iTunes</key>
-    <string>Review %@ on iTunes</string>
+    <string>تقييم %@ في متجر التطبيقات</string>
     <key>Smart Quotes</key>
-    <string>Smart Quotes</string>
+    <string>اقتباسات ذكية</string>
     <key>The link is requesting to open an external application. Would you like to continue?</key>
-    <string>The link is requesting to open an external application. Would you like to continue?</string>
+    <string>الرابط يطلب الفتح في تطبيق خارجي. هل تريد المتابعة؟</string>
     <key>Today at %@</key>
-    <string>Today at %@</string>
+    <string>اليوم في %@</string>
     <key>Unknown Error.</key>
-    <string>Unknown Error.</string>
+    <string>خطأ غير معروف.</string>
     <key>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
 Paul codes in Texas and Mark designs in California.</key>
-    <string>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
-Paul codes in Texas and Mark designs in California.</string>
+    <string>نحن شركة صغيرة تتكون من شخصين (وأحيانًا ثلاثة) نحب إنشاء تطبيقات استثنائية لـ iOS والماك.
+بول يبرمج في تكساس ومارك يصمم في كاليفورنيا.</string>
     <key>Which account do you want to follow %@ with?</key>
-    <string>Which account do you want to follow %@ with?</string>
+    <string>بأي حساب تريد متابعة %@ ؟</string>
     <key>Yesterday at %@</key>
-    <string>Yesterday at %@</string>
+    <string>الأمس بتوقيت %@</string>
   </dict>
 </plist>

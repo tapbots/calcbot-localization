@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>Data Rate</key>
-    <string>Скорость передачи данных</string>
+    <string>Передача данных</string>
     <key>Bytes/Week</key>
     <string>Байт/Неделя</string>
     <key>Bytes/Day</key>
@@ -28,14 +28,12 @@
     <string>Мегабайт/День</string>
     <key>Kilobytes/Min.</key>
     <string>Килобайт/Мин.</string>
-    <key>Kilobits/Sec. (SI)</key>
-    <string>Килобит/Сек. (СИ)</string>
     <key>Kilobits/Sec.</key>
     <string>Килобит/Сек.</string>
+    <key>SI</key>
+    <string>СИ</string>
     <key>Megabytes/Hour</key>
     <string>Мегабайт/Час</string>
-    <key>Kilobytes/Sec. (SI)</key>
-    <string>Килобайт/Сек. (СИ)</string>
     <key>Kilobytes/Sec.</key>
     <string>Килобайт/Сек.</string>
     <key>Gigabytes/Week</key>
@@ -44,14 +42,10 @@
     <string>Гигабайт/День</string>
     <key>Megabytes/Min.</key>
     <string>Мегабайт/Мин.</string>
-    <key>Megabits/Sec. (SI)</key>
-    <string>Мегабит/Сек. (СИ)</string>
     <key>Megabits/Sec.</key>
     <string>Мегабит/Сек.</string>
     <key>Gigabytes/Hour</key>
     <string>Гигабит/Час</string>
-    <key>Megabytes/Sec. (SI)</key>
-    <string>Мегабит/Сек. (СИ)</string>
     <key>Megabytes/Sec.</key>
     <string>Мегабайт/Сек.</string>
     <key>Terabytes/Week</key>
@@ -60,24 +54,16 @@
     <string>Терабайт/День</string>
     <key>Gigabytes/Min.</key>
     <string>Гигабайт/Мин.</string>
-    <key>Gigabits/Sec. (SI)</key>
-    <string>Гигабит/Сек. (СИ)</string>
     <key>Gigabits/Sec.</key>
     <string>Гигабит/Сек.</string>
     <key>Terabytes/Hour</key>
     <string>Терабайт/Час</string>
-    <key>Gigabytes/Sec. (SI)</key>
-    <string>Гигабит/Сек. (СИ)</string>
     <key>Gigabytes/Sec.</key>
     <string>Гигабайт/Сек.</string>
     <key>Terabytes/Min.</key>
     <string>Терабайт/Мин.</string>
-    <key>Terabits/Sec. (SI)</key>
-    <string>Терабит/Сек. (СИ)</string>
     <key>Terabits/Sec.</key>
     <string>Терабит/Сек.</string>
-    <key>Terabytes/Sec. (SI)</key>
-    <string>Терабайт/Сек. (СИ)</string>
     <key>Terabytes/Sec.</key>
     <string>Терабайт/Сек.</string>
   </dict>

@@ -8,44 +8,24 @@
     <string>ビット</string>
     <key>Byte</key>
     <string>バイト</string>
-    <key>Kilobit (SI)</key>
-    <string>キロビット (SI)</string>
     <key>Kilobit</key>
     <string>キロビット</string>
-    <key>Kilobyte (SI)</key>
-    <string>キロバイト (SI)</string>
     <key>Kilobyte</key>
     <string>キロバイト</string>
-    <key>Megabit (SI)</key>
-    <string>メガビット (SI)</string>
     <key>Megabit</key>
     <string>メガビット</string>
-    <key>Megabyte (SI)</key>
-    <string>メガバイト (SI)</string>
     <key>Megabyte</key>
     <string>メガバイト</string>
-    <key>Gigabit (SI)</key>
-    <string>ギガビット (SI)</string>
     <key>Gigabit</key>
     <string>ギガビット</string>
-    <key>Gigabyte (SI)</key>
-    <string>ギガバイト (SI)</string>
     <key>Gigabyte</key>
     <string>ギガバイト</string>
-    <key>Terabit (SI)</key>
-    <string>テラビット (SI)</string>
     <key>Terabit</key>
     <string>テラビット</string>
-    <key>Terabyte (SI)</key>
-    <string>テラバイト (SI)</string>
     <key>Terabyte</key>
     <string>テラバイト</string>
-    <key>Petabit (SI)</key>
-    <string>ペタビット (SI)</string>
     <key>Petabit</key>
     <string>ペタビット</string>
-    <key>Petabyte (SI)</key>
-    <string>ペタバイト (SI)</string>
     <key>Petabyte</key>
     <string>ペタバイト</string>
   </dict>

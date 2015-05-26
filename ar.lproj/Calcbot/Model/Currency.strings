@@ -3,210 +3,210 @@
 <plist version="1.0">
   <dict>
     <key>Currency</key>
-    <string>Currency</string>
+    <string>العملات</string>
     <key>UAE Dirham</key>
-    <string>UAE Dirham</string>
+    <string>درهم إماراتي</string>
     <key>Dutch Guilder</key>
-    <string>Dutch Guilder</string>
+    <string>خولده هولندي</string>
     <key>Argentine Peso</key>
-    <string>Argentine Peso</string>
+    <string>بيزو أرجنتيني</string>
     <key>Australian Dollar</key>
-    <string>Australian Dollar</string>
+    <string>دولار أسترالي</string>
     <key>Aruban Florin</key>
-    <string>Aruban Florin</string>
+    <string>فلورن أروبي</string>
     <key>Bangladeshi Taka</key>
-    <string>Bangladeshi Taka</string>
+    <string>تاكا بنغلاديشي</string>
     <key>Bulgarian Lev</key>
-    <string>Bulgarian Lev</string>
+    <string>ليف بلغاري</string>
     <key>Bahraini Dinar</key>
-    <string>Bahraini Dinar</string>
+    <string>دينار بحريني</string>
     <key>Burundian Franc</key>
-    <string>Burundian Franc</string>
+    <string>فرنك بوروندي</string>
     <key>Bermudian Dollar</key>
-    <string>Bermudian Dollar</string>
+    <string>دولار برمودي</string>
     <key>Brazilian Real</key>
-    <string>Brazilian Real</string>
+    <string>ريال برازيلي</string>
     <key>Bahamian Dollar</key>
-    <string>Bahamian Dollar</string>
+    <string>دولار بهامي</string>
     <key>Belarusian Ruble</key>
-    <string>Belarusian Ruble</string>
+    <string>روبل بلاروسي</string>
     <key>Canadian Dollar</key>
-    <string>Canadian Dollar</string>
+    <string>دولار كندي</string>
     <key>Swiss Franc</key>
-    <string>Swiss Franc</string>
+    <string>فرنك سويسري</string>
     <key>Chilean Peso</key>
-    <string>Chilean Peso</string>
+    <string>بيزو تشيلي</string>
     <key>Chinese Yuan</key>
-    <string>Chinese Yuan</string>
+    <string>يوان صيني</string>
     <key>Colombian Peso</key>
-    <string>Colombian Peso</string>
+    <string>بيزو كولومبي</string>
     <key>Costa Rican Colón</key>
-    <string>Costa Rican Colón</string>
+    <string>كولون كوستاريكي</string>
     <key>Cuban Peso</key>
-    <string>Cuban Peso</string>
+    <string>بيزو كوبي</string>
     <key>Cyprus Pound</key>
-    <string>Cyprus Pound</string>
+    <string>جنيه قبرصي</string>
     <key>Czech Koruna</key>
-    <string>Czech Koruna</string>
+    <string>كرونة تشيكية</string>
     <key>Danish Krone</key>
-    <string>Danish Krone</string>
+    <string>كرونة دنماركية</string>
     <key>Dominican Peso</key>
-    <string>Dominican Peso</string>
+    <string>بيزو دومنيكاني</string>
     <key>Algerian Dinar</key>
-    <string>Algerian Dinar</string>
+    <string>دينار جزائري</string>
     <key>Egyptian Pound</key>
-    <string>Egyptian Pound</string>
+    <string>جنيه مصري</string>
     <key>Ethiopian Birr</key>
-    <string>Ethiopian Birr</string>
+    <string>بير إثيوبي</string>
     <key>Fiji Dollar</key>
-    <string>Fiji Dollar</string>
+    <string>دولار فيجي</string>
     <key>Pound Sterling</key>
-    <string>Pound Sterling</string>
+    <string>جنيه إسترليني</string>
     <key>Croatian Kuna</key>
-    <string>Croatian Kuna</string>
+    <string>كونا كرواتية</string>
     <key>Indonesian Rupiah</key>
-    <string>Indonesian Rupiah</string>
+    <string>روبية إندونيسية</string>
     <key>Israeli New Sheqel</key>
-    <string>Israeli New Sheqel</string>
+    <string>شيقل إسرائيلي جديد</string>
     <key>Indian Rupee</key>
-    <string>Indian Rupee</string>
+    <string>روبية هندية</string>
     <key>Iraqi Dinar</key>
-    <string>Iraqi Dinar</string>
+    <string>دينار عراقي</string>
     <key>Iranian Rial</key>
-    <string>Iranian Rial</string>
+    <string>ريال إيراني</string>
     <key>Iceland Krona</key>
-    <string>Iceland Krona</string>
+    <string>كرونة آيسلندية</string>
     <key>Jamaican Dollar</key>
-    <string>Jamaican Dollar</string>
+    <string>دولار جامايكي</string>
     <key>Jordanian Dinar</key>
-    <string>Jordanian Dinar</string>
+    <string>دينار أردني</string>
     <key>Japanese Yen</key>
-    <string>Japanese Yen</string>
+    <string>ين ياباني</string>
     <key>Kenyan Shilling</key>
-    <string>Kenyan Shilling</string>
+    <string>شيلينغ كيني</string>
     <key>Comoro Franc</key>
-    <string>Comoro Franc</string>
+    <string>فرنك قمري</string>
     <key>South Korean Won</key>
-    <string>South Korean Won</string>
+    <string>وون كوري جنوبي</string>
     <key>Cayman Island Dollar</key>
-    <string>Cayman Island Dollar</string>
+    <string>دولار جزر كايمان</string>
     <key>Lebanese Pound</key>
-    <string>Lebanese Pound</string>
+    <string>ليرة لبنانية</string>
     <key>Sri Lanka Rupee</key>
-    <string>Sri Lanka Rupee</string>
+    <string>روبية سريلانكي</string>
     <key>Lithuanian Litas</key>
-    <string>Lithuanian Litas</string>
+    <string>ليتاس ليتواني</string>
     <key>Latvian Lats</key>
-    <string>Latvian Lats</string>
+    <string>لاتس لاتفي</string>
     <key>Moroccan Dirham</key>
-    <string>Moroccan Dirham</string>
+    <string>درهم مغربي</string>
     <key>Moldovan Leu</key>
-    <string>Moldovan Leu</string>
+    <string>ليو مولدوفي</string>
     <key>Macedonian Denar</key>
-    <string>Macedonian Denar</string>
+    <string>دينار مقدوني</string>
     <key>Mauritius Rupee</key>
-    <string>Mauritius Rupee</string>
+    <string>روبي موريشي</string>
     <key>Mexican Peso</key>
-    <string>Mexican Peso</string>
+    <string>بيزو مكسيكي</string>
     <key>Malaysian Ringgit</key>
-    <string>Malaysian Ringgit</string>
+    <string>رينغيت ماليزي</string>
     <key>Namibian Dollar</key>
-    <string>Namibian Dollar</string>
+    <string>دولار ناميبي</string>
     <key>Cordoba Oro</key>
-    <string>Cordoba Oro</string>
+    <string>كوردبا نيكاراغوا</string>
     <key>Norwegian Krone</key>
-    <string>Norwegian Krone</string>
+    <string>كرونة نروجية</string>
     <key>Nepalese Rupee</key>
-    <string>Nepalese Rupee</string>
+    <string>روبية نيبالية</string>
     <key>New Zealand Dollar</key>
-    <string>New Zealand Dollar</string>
+    <string>دولار نيوزيلندي</string>
     <key>Rial Omani</key>
-    <string>Rial Omani</string>
+    <string>ريال عماني</string>
     <key>Philippine Peso</key>
-    <string>Philippine Peso</string>
+    <string>بيسو فلبيني</string>
     <key>Pakistan Rupee</key>
-    <string>Pakistan Rupee</string>
+    <string>روبية باكستانية</string>
     <key>Qatari Riyal</key>
-    <string>Qatari Riyal</string>
+    <string>ريال قطري</string>
     <key>Romanian New Leu</key>
-    <string>Romanian New Leu</string>
+    <string>ليو روماني جديد</string>
     <key>Russian Ruble</key>
-    <string>Russian Ruble</string>
+    <string>روبل روسي</string>
     <key>Rwanda Franc</key>
-    <string>Rwanda Franc</string>
+    <string>فرنك رواندي</string>
     <key>Saudi Riyal</key>
-    <string>Saudi Riyal</string>
+    <string>ريال سعودي</string>
     <key>Solomon Is. Dollar</key>
-    <string>Solomon Is. Dollar</string>
+    <string>دولار جزر سليمان</string>
     <key>Seychelles Rupee</key>
-    <string>Seychelles Rupee</string>
+    <string>روبية سيشلية</string>
     <key>Swedish Krona</key>
-    <string>Swedish Krona</string>
+    <string>كرونة سويدية</string>
     <key>Singapore Dollar</key>
-    <string>Singapore Dollar</string>
+    <string>دولار سنغافوري</string>
     <key>Slovenian Tolar</key>
-    <string>Slovenian Tolar</string>
+    <string>تولار سلوفيني</string>
     <key>Slovak Koruna</key>
-    <string>Slovak Koruna</string>
+    <string>كرونة سلوفاكية</string>
     <key>El Salvador Colon</key>
-    <string>El Salvador Colon</string>
+    <string>كولون سلڤادوري</string>
     <key>Thai Baht</key>
-    <string>Thai Baht</string>
+    <string>بات تايلاندي</string>
     <key>Tunisian Dinar</key>
-    <string>Tunisian Dinar</string>
+    <string>دينار تونسي</string>
     <key>Pa’anga</key>
-    <string>Pa’anga</string>
+    <string>بانغا تونغي</string>
     <key>Turkish Lira</key>
-    <string>Turkish Lira</string>
+    <string>ليرة تركية</string>
     <key>Tri. and Tob. Dollar</key>
-    <string>Tri. and Tob. Dollar</string>
+    <string>دولار ترينيداد وتوباغو</string>
     <key>New Taiwan Dollar</key>
-    <string>New Taiwan Dollar</string>
+    <string>دولار تايواني جديد</string>
     <key>Tanzanian Shilling</key>
-    <string>Tanzanian Shilling</string>
+    <string>شيلينغ تانزاني</string>
     <key>Uganda Shilling</key>
-    <string>Uganda Shilling</string>
+    <string>شيلينغ أوغندي</string>
     <key>Peso Uruguayo</key>
-    <string>Peso Uruguayo</string>
+    <string>بيزو أوروغواي</string>
     <key>Ven. Bolivar</key>
-    <string>Ven. Bolivar</string>
+    <string>بوليفار فنزويلي</string>
     <key>Vietnamese Dong</key>
-    <string>Vietnamese Dong</string>
+    <string>دونغ فيتنامي</string>
     <key>Samoan Tala</key>
-    <string>Samoan Tala</string>
+    <string>تالا ساموي</string>
     <key>Yemen Riyal</key>
-    <string>Yemen Riyal</string>
+    <string>ريال يمني</string>
     <key>South African Rand</key>
-    <string>South African Rand</string>
+    <string>راند جنوب أفريقي</string>
     <key>Cape Verdean Escudo</key>
-    <string>Cape Verdean Escudo</string>
+    <string>إيسكودو جزر الرأس الأخضر</string>
     <key>Austrian Schilling</key>
-    <string>Austrian Schilling</string>
+    <string>شيلينغ نمساوي</string>
     <key>Belgian Franc</key>
-    <string>Belgian Franc</string>
+    <string>فرانك بلجيكي</string>
     <key>Finnish Markka</key>
-    <string>Finnish Markka</string>
+    <string>ماركا فنلندية</string>
     <key>French Franc</key>
-    <string>French Franc</string>
+    <string>فرانك فرنسي</string>
     <key>Irish Pound</key>
-    <string>Irish Pound</string>
+    <string>جنيه أيرلندي</string>
     <key>Italian Lira</key>
-    <string>Italian Lira</string>
+    <string>ليرة إيطالية</string>
     <key>Luxembourgish Franc</key>
-    <string>Luxembourgish Franc</string>
+    <string>فرانك لوكسمبورغي</string>
     <key>Portuguese Escudo</key>
-    <string>Portuguese Escudo</string>
+    <string>اسکودوی برتغالي</string>
     <key>Spanish Peseta</key>
-    <string>Spanish Peseta</string>
+    <string>بيزيتا إسبانية</string>
     <key>Greek Drachma</key>
-    <string>Greek Drachma</string>
+    <string>دراخما يوناني</string>
     <key>Cypriot Pound</key>
-    <string>Cypriot Pound</string>
+    <string>جنيه قبرصي</string>
     <key>Maltese Lira</key>
-    <string>Maltese Lira</string>
+    <string>ليرة مالطية</string>
     <key>Syrian Pound</key>
-    <string>Syrian Pound</string>
+    <string>ليرة سورية</string>
     <key>Serbian Dinar</key>
-    <string>Serbian Dinar</string>
+    <string>دينار صربي</string>
   </dict>
 </plist>

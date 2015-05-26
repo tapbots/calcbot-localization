@@ -7,16 +7,14 @@
     <key>Gram/Litre</key>
     <string>Gramm/Liter</string>
     <key>Kilogram/Cubic Metre</key>
-    <string>Kilogramm/m³</string>
+    <string>Kilogramm/Kubikmeter</string>
     <key>Pound/Cubic Foot</key>
-    <string>Pfund/Fuß³</string>
-    <key>Pound/Gallon (Imperial)</key>
-    <string>Pfund/Gallone (Imperial)</string>
+    <string>Pfund/Kubikfoot</string>
     <key>Pound/Gallon</key>
     <string>Pfund/Gallone</string>
     <key>Gram/Cubic CM</key>
-    <string>Gramm/cm³</string>
+    <string>Gramm/Kubikzentimeter</string>
     <key>Pound/Cubic Inch</key>
-    <string>Pfund/Zoll³</string>
+    <string>Pfund/Kubikinch</string>
   </dict>
 </plist>

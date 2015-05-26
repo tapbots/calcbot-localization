@@ -3,26 +3,26 @@
 <plist version="1.0">
   <dict>
     <key>Area</key>
-    <string>Area</string>
+    <string>المساحة</string>
     <key>Square Millimetre</key>
-    <string>Square Millimetre</string>
+    <string>مليمتر مربع</string>
     <key>Square Centimetre</key>
-    <string>Square Centimetre</string>
+    <string>سنتيمتر مربع</string>
     <key>Square Inch</key>
-    <string>Square Inch</string>
+    <string>بوصة مربعة</string>
     <key>Square Foot</key>
-    <string>Square Foot</string>
+    <string>قدم مربع</string>
     <key>Square Yard</key>
-    <string>Square Yard</string>
+    <string>ياردة مربعة</string>
     <key>Square Metre</key>
-    <string>Square Metre</string>
+    <string>متر مربع</string>
     <key>Are</key>
-    <string>Are</string>
+    <string>فدان</string>
     <key>Hectare</key>
-    <string>Hectare</string>
+    <string>هكتار</string>
     <key>Square Kilometre</key>
-    <string>Square Kilometre</string>
+    <string>كيلومتر مربع</string>
     <key>Square Mile</key>
-    <string>Square Mile</string>
+    <string>ميل مربع</string>
   </dict>
 </plist>

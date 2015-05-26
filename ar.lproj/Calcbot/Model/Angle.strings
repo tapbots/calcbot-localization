@@ -3,14 +3,14 @@
 <plist version="1.0">
   <dict>
     <key>Angle</key>
-    <string>Angle</string>
+    <string>زاوية</string>
     <key>Degree</key>
-    <string>Degree</string>
+    <string>درجة</string>
     <key>Grad</key>
-    <string>Grad</string>
+    <string>غراد</string>
     <key>Radian</key>
-    <string>Radian</string>
+    <string>راديان</string>
     <key>Revolution</key>
-    <string>Revolution</string>
+    <string>دورة</string>
   </dict>
 </plist>

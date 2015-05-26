@@ -3,110 +3,78 @@
 <plist version="1.0">
   <dict>
     <key>Volume</key>
-    <string>Volume</string>
+    <string>Объем</string>
     <key>Cubic Millimetre</key>
-    <string>Cubic Millimetre</string>
+    <string>Куб. ММ</string>
     <key>Microlitre</key>
-    <string>Microlitre</string>
+    <string>Микролитр</string>
     <key>Drop</key>
-    <string>Drop</string>
-    <key>Drop (Imperial)</key>
-    <string>Drop (Imperial)</string>
-    <key>Dash</key>
-    <string>Dash</string>
-    <key>Dash (Imperial)</key>
-    <string>Dash (Imperial)</string>
-    <key>Pinch</key>
-    <string>Pinch</string>
-    <key>Pinch (Imperial)</key>
-    <string>Pinch (Imperial)</string>
+    <string>Капля</string>
+    <key>Imperial</key>
+    <string>Брит. система</string>
     <key>Cubic Centimetre</key>
-    <string>Cubic Centimetre</string>
+    <string>Куб. СМ</string>
     <key>Millilitre</key>
-    <string>Millilitre</string>
+    <string>Миллилитр</string>
     <key>Sai</key>
-    <string>Sai</string>
+    <string>Сай</string>
     <key>Dram</key>
-    <string>Dram</string>
+    <string>Драхма</string>
     <key>Teaspoon</key>
-    <string>Teaspoon</string>
-    <key>Teaspoon (Metric)</key>
-    <string>Teaspoon (Metric)</string>
-    <key>Teaspoon (Imperial)</key>
-    <string>Teaspoon (Imperial)</string>
+    <string>Чайная ложка</string>
+    <key>Metric</key>
+    <string>Метрическая</string>
     <key>Tablespoon</key>
-    <string>Tablespoon</string>
-    <key>Tablespoon (Metric)</key>
-    <string>Tablespoon (Metric)</string>
+    <string>Столовая ложка</string>
     <key>Cubic Inch</key>
-    <string>Cubic Inch</string>
-    <key>Tablespoon (Imperial)</key>
-    <string>Tablespoon (Imperial)</string>
+    <string>Кубический дюйм</string>
     <key>Shaku</key>
-    <string>Shaku</string>
-    <key>Ounce (Imperial)</key>
-    <string>Ounce (Imperial)</string>
+    <string>Шаку</string>
     <key>Ounce</key>
-    <string>Ounce</string>
-    <key>Shot</key>
-    <string>Shot</string>
+    <string>Унция</string>
     <key>Gill</key>
-    <string>Gill</string>
-    <key>Gill (Imperial)</key>
-    <string>Gill (Imperial)</string>
+    <string>Джилл</string>
     <key>Gō</key>
-    <string>Gō</string>
+    <string>Го</string>
     <key>Cup</key>
-    <string>Cup</string>
-    <key>Cup (Metric)</key>
-    <string>Cup (Metric)</string>
-    <key>Cup (Imperial)</key>
-    <string>Cup (Imperial)</string>
+    <string>Стакан</string>
     <key>Pint</key>
-    <string>Pint</string>
+    <string>Пинта</string>
     <key>Dry Pint</key>
-    <string>Dry Pint</string>
-    <key>Pint (Imperial)</key>
-    <string>Pint (Imperial)</string>
+    <string>Пинта (сыпучие вещества)</string>
     <key>Fifth</key>
-    <string>Fifth</string>
+    <string>Бутылка (1/5 галлона)</string>
     <key>Quart</key>
-    <string>Quart</string>
+    <string>Кварта</string>
     <key>Litre</key>
-    <string>Litre</string>
+    <string>Литр</string>
     <key>Dry Quart</key>
-    <string>Dry Quart</string>
-    <key>Quart (Imperial)</key>
-    <string>Quart (Imperial)</string>
+    <string>Кварта (сыпучие вещества)</string>
     <key>Shō</key>
-    <string>Shō</string>
+    <string>Шо</string>
     <key>Gallon</key>
-    <string>Gallon</string>
+    <string>Галлон</string>
     <key>Dry Gallon</key>
-    <string>Dry Gallon</string>
-    <key>Gallon (Imperial)</key>
-    <string>Gallon (Imperial)</string>
+    <string>Галлон (сыпучие вещества)</string>
     <key>Peck</key>
-    <string>Peck</string>
+    <string>Пек</string>
     <key>To</key>
-    <string>To</string>
+    <string>То</string>
     <key>Bucket</key>
-    <string>Bucket</string>
+    <string>Ведро</string>
     <key>Cubic Feet</key>
-    <string>Cubic Feet</string>
+    <string>Куб. фут</string>
     <key>Bushel</key>
-    <string>Bushel</string>
+    <string>Бушель</string>
     <key>Beer Barrel</key>
-    <string>Beer Barrel</string>
+    <string>Пивной баррель</string>
     <key>Oil Barrel</key>
-    <string>Oil Barrel</string>
-    <key>Beer Barrel (Imperial)</key>
-    <string>Beer Barrel (Imperial)</string>
+    <string>Нефтяной баррель</string>
     <key>Koku</key>
-    <string>Koku</string>
+    <string>Коку</string>
     <key>Cubic Yard</key>
-    <string>Cubic Yard</string>
+    <string>Куб. ярд</string>
     <key>Cubic Metre</key>
-    <string>Cubic Metre</string>
+    <string>Куб. метр</string>
   </dict>
 </plist>

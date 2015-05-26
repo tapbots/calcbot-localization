@@ -10,10 +10,10 @@
     <string>キログラム／立方メートル</string>
     <key>Pound/Cubic Foot</key>
     <string>ポンド／立方フィート</string>
-    <key>Pound/Gallon (Imperial)</key>
-    <string>ポンド／ガロン (英)</string>
     <key>Pound/Gallon</key>
     <string>ポンド／ガロン</string>
+    <key>Imperial</key>
+    <string>英</string>
     <key>Gram/Cubic CM</key>
     <string>グラム／立方センチメートル</string>
     <key>Pound/Cubic Inch</key>

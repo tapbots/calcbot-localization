@@ -3,284 +3,298 @@
 <plist version="1.0">
   <dict>
     <key>%@ ago</key>
-    <string>%@ ago</string>
+    <string>قبل %@</string>
     <key>About Tapbots</key>
-    <string>About Tapbots</string>
+    <string>حول Tapbots</string>
     <key>Access to the special pro theme.</key>
-    <string>Access to the special pro theme.</string>
+    <string>الحصول على الثيم الخاص بالنسخة الاحترافية.</string>
     <key>Add New</key>
-    <string>Add New</string>
+    <string>إضافة جديد</string>
     <key>Add your own values and labels to the constants menu.</key>
-    <string>Add your own values and labels to the constants menu.</string>
+    <string>أضف القيم الخاصة بك ومسمياتها إلى قائمة الثوابت.</string>
     <key>Attach Tape</key>
-    <string>Attach Tape</string>
+    <string>تعليق شريط السجل</string>
     <key>Basic</key>
-    <string>Basic</string>
+    <string>بسيط</string>
     <key>COMPANY</key>
-    <string>COMPANY</string>
+    <string>الشركة</string>
     <key>CONVERSION</key>
-    <string>CONVERSION</string>
+    <string>التحويل</string>
     <key>Calcbot Calculation</key>
-    <string>Calcbot Calculation</string>
+    <string>Calcbot عملية حسابية من</string>
     <key>Calcbot Calculations</key>
-    <string>Calcbot Calculations</string>
+    <string>Calcbot عمليات حسابية من</string>
     <key>Categories</key>
-    <string>Categories</string>
+    <string>الفئات</string>
     <key>Categories and Units</key>
-    <string>Categories and Units</string>
+    <string>الفئات والوحدات</string>
     <key>Category</key>
-    <string>Category</string>
+    <string>فئة</string>
     <key>Checking for updated currency rates</key>
-    <string>Checking for updated currency rates</string>
+    <string>جاري التحقق من وجود تحديث لأسعار العملات</string>
     <key>Clear Favorites</key>
-    <string>Clear Favorites</string>
+    <string>مسح المفضلة</string>
     <key>Clear Tape</key>
-    <string>Clear Tape</string>
+    <string>مسح السجل</string>
     <key>Close</key>
-    <string>Close</string>
+    <string>إغلاق</string>
     <key>Constants</key>
-    <string>Constants</string>
+    <string>الثوابت</string>
     <key>Contact Us</key>
-    <string>Contact Us</string>
+    <string>اتصل بنا</string>
     <key>Conversion</key>
-    <string>Conversion</string>
+    <string>تحويل</string>
     <key>Convert with over 200 units across 20 conversion categories.</key>
-    <string>Convert with over 200 units across 20 conversion categories.</string>
+    <string>حوّل أكثر من ٢٠٠ وحدة عبر ٢٠ فئة للتحويل.</string>
     <key>Copy</key>
-    <string>Copy</string>
+    <string>نسخ</string>
     <key>Copy Expression</key>
-    <string>Copy Expression</string>
+    <string>نسخ العمليةالحسابية</string>
     <key>Copy Result</key>
-    <string>Copy Result</string>
+    <string>نسخ النتيجة</string>
     <key>Could not fetch currency rates</key>
-    <string>Could not fetch currency rates</string>
+    <string>لم يمكن جلب أسعار العملات</string>
     <key>Custom Constants.</key>
-    <string>Custom Constants.</string>
+    <string>تخصيص الثوابت</string>
     <key>DEFAULT</key>
-    <string>DEFAULT</string>
+    <string>الافتراضية</string>
     <key>Dark Ninja</key>
-    <string>Dark Ninja</string>
+    <string>النينجا الداكن</string>
     <key>Delete</key>
-    <string>Delete</string>
+    <string>حذف</string>
     <key>Detach Tape</key>
-    <string>Detach Tape</string>
+    <string>فصل شريط السجل</string>
     <key>Disable All</key>
-    <string>Disable All</string>
+    <string>تعطيل الكل</string>
     <key>Edit Units</key>
-    <string>Edit Units</string>
+    <string>تحرير الوحدات</string>
     <key>Email Tape</key>
-    <string>Email Tape</string>
+    <string>إرسال السجل بالبريد</string>
     <key>Enable All</key>
-    <string>Enable All</string>
+    <string>تمكين الكل</string>
     <key>Enable constants in the settings.</key>
-    <string>Enable constants in the settings.</string>
+    <string>فعّل الثوابت من الإعدادات..</string>
     <key>Enter a Calculation to Save it Here.</key>
-    <string>Enter a Calculation to Save it Here.</string>
+    <string>اكتب عملية حسابية لحفظها هنا.</string>
     <key>Failed to Restore Purchases</key>
-    <string>Failed to Restore Purchases</string>
+    <string>فشل استعادة المشتريات</string>
     <key>Fav an item in the history tape for quick access here.</key>
-    <string>Fav an item in the history tape for quick access here.</string>
+    <string>قم بتفضيل عنصر في سجل العمليات للوصول السريع إليه من هنا.</string>
     <key>Fave a Calculation to Show it Here.</key>
-    <string>Fave a Calculation to Show it Here.</string>
+    <string>قم بتفضيل عملية حسابية لإظهارها هنا.</string>
     <key>Favorites</key>
-    <string>Favorites</string>
+    <string>المفضلة</string>
     <key>From</key>
-    <string>From</string>
+    <string>من</string>
+    <key>From Unit</key>
+    <string>تحويل من</string>
     <key>GENERAL</key>
-    <string>GENERAL</string>
+    <string>عام</string>
     <key>General</key>
-    <string>General</string>
+    <string>عام</string>
     <key>Hide Conversion</key>
-    <string>Hide Conversion</string>
+    <string>إخفاء التحويل</string>
     <key>Hide Tape</key>
-    <string>Hide Tape</string>
+    <string>إخفاء السجل</string>
     <key>History</key>
-    <string>History</string>
+    <string>السجل</string>
     <key>Large Type</key>
-    <string>Large Type</string>
+    <string>تكبير الناتج</string>
     <key>Last Updated: </key>
-    <string>Last Updated: </string>
+    <string>آخر تحديث: </string>
     <key>Last updated: %@</key>
-    <string>Last updated: %@</string>
+    <string>آخر تحديث: %@</string>
     <key>Learn More</key>
-    <string>Learn More</string>
+    <string>اعرف المزيد</string>
     <key>Light Ninja</key>
-    <string>Light Ninja</string>
+    <string>النينجا الفاتح</string>
     <key>Loading…</key>
-    <string>Loading…</string>
+    <string>جاري التحميل…</string>
     <key>MY CONSTANTS</key>
-    <string>MY CONSTANTS</string>
+    <string>الثوابت الخاصة بي</string>
     <key>MY THEMES</key>
-    <string>MY THEMES</string>
+    <string>ثيماتي</string>
     <key>Main</key>
-    <string>Main</string>
+    <string>الرئيسي</string>
     <key>Mark’s Office</key>
-    <string>Mark’s Office</string>
+    <string>مكتب مارك</string>
     <key>Melancholy</key>
-    <string>Melancholy</string>
+    <string>الكئيب</string>
     <key>Memories</key>
-    <string>Memories</string>
+    <string>الذكريات</string>
     <key>My Constant</key>
-    <string>My Constant</string>
+    <string>ثابت</string>
     <key>Never</key>
-    <string>Never</string>
+    <string>أبدًا</string>
     <key>Number from Calcbot</key>
-    <string>Number from Calcbot</string>
+    <string>الرقم من Calcbot</string>
     <key>OK</key>
-    <string>OK</string>
+    <string>موافق</string>
     <key>Options</key>
-    <string>Options</string>
+    <string>خيارات</string>
     <key>Otaku</key>
-    <string>Otaku</string>
+    <string>المهووس</string>
     <key>PRO</key>
     <string>PRO</string>
     <key>Paste (%@)</key>
-    <string>Paste (%@)</string>
+    <string>لصق (%@)</string>
     <key>Please enter a valid constant.</key>
-    <string>Please enter a valid constant.</string>
+    <string>فضلًا أدخل ثابت صالح.</string>
     <key>Please try again later</key>
-    <string>Please try again later</string>
+    <string>فضلًا حاول مرة أخرى لاحقا</string>
     <key>Please type your message above this line</key>
-    <string>Please type your message above this line</string>
+    <string>فضلًا اكتب رسالتك فوق هذا الخط</string>
+    <key>Pre-define 4 conversions for quick access
+on your Apple Watch.</key>
+    <string>قم بتحديد ٤ عمليات تحويل ليمكنك استخدامها سريعًا على ساعة Apple الخاصة بك.</string>
     <key>Pro</key>
-    <string>Pro</string>
+    <string>الاحترافي</string>
     <key>Pro Theme.</key>
-    <string>Pro Theme.</string>
+    <string>ثيم احترافي</string>
     <key>Purchase for %@</key>
-    <string>Purchase for %@</string>
+    <string>شراء بـ %@</string>
     <key>Purchase this theme pack and get the following %@ themes:</key>
-    <string>Purchase this theme pack and get the following %@ themes:</string>
+    <string>اشتر هذه الحزمة %@ واحصل على الثيمات التالية:</string>
     <key>Remove All</key>
-    <string>Remove All</string>
+    <string>مسح الكل</string>
     <key>Remove the 10 record limit and never lose a calculation again.</key>
-    <string>Remove the 10 record limit and never lose a calculation again.</string>
+    <string>إزالة الحد الأقصى للسجل ولن تخسر أي من عملياتك الحسابية.</string>
     <key>Restore Purchased Themes</key>
-    <string>Restore Purchased Themes</string>
+    <string>استعادة الثيمات المشتراة</string>
     <key>Retro</key>
-    <string>Retro</string>
+    <string>القديم</string>
     <key>Round for Currency</key>
-    <string>Round for Currency</string>
+    <string>التقريب للعملات</string>
     <key>Save</key>
-    <string>Save</string>
+    <string>حفظ</string>
     <key>Scientific</key>
-    <string>Scientific</string>
+    <string>علمية</string>
     <key>Select All</key>
-    <string>Select All</string>
+    <string>تحديد الكل</string>
     <key>Send as Email</key>
-    <string>Send as Email</string>
+    <string>إرسال عبر البريد الإلكتروني</string>
     <key>Send to Calculator</key>
-    <string>Send to Calculator</string>
+    <string>إرسال إلى الحاسبة</string>
     <key>Settings</key>
-    <string>Settings</string>
+    <string>الإعدادات</string>
     <key>Shark Attack</key>
-    <string>Shark Attack</string>
+    <string>هجوم القرش</string>
     <key>Show All Conversion Results</key>
-    <string>Show All Conversion Results</string>
+    <string>عرض جميع نتائج التحويل</string>
     <key>Show Conversion</key>
-    <string>Show Conversion</string>
+    <string>عرض التحويل</string>
     <key>Show Tape</key>
-    <string>Show Tape</string>
+    <string>عرض السجل</string>
     <key>Sounds</key>
-    <string>Sounds</string>
+    <string>الأصوات</string>
     <key>Standard</key>
-    <string>Standard</string>
+    <string>القياسي</string>
     <key>THEME PACKS</key>
-    <string>THEME PACKS</string>
+    <string>حزم الثيمات</string>
     <key>Tape</key>
-    <string>Tape</string>
+    <string>سجل</string>
     <key>Tape Entry</key>
-    <string>Tape Entry</string>
+    <string>في السجل</string>
     <key>Theme Pack 1</key>
-    <string>Theme Pack 1</string>
+    <string>حزمة الثيمات الأولى</string>
     <key>Theme Pack 2</key>
-    <string>Theme Pack 2</string>
+    <string>حزمة الثيمات الثانية</string>
     <key>Themes</key>
-    <string>Themes</string>
+    <string>الثيمات</string>
     <key>Title</key>
-    <string>Title</string>
+    <string>الاسم</string>
     <key>To</key>
-    <string>To</string>
+    <string>إلى</string>
+    <key>To Unit</key>
+    <string>إلى</string>
     <key>Type a unit...</key>
-    <string>Type a unit...</string>
+    <string>اكتب وحدة...</string>
     <key>Unit Conversions.</key>
-    <string>Unit Conversions.</string>
+    <string>تحويل العملات</string>
     <key>Unlimited History Tape.</key>
-    <string>Unlimited History Tape.</string>
+    <string>سجل غير محدود</string>
     <key>Upgrade to Pro to add your own constants and more.</key>
-    <string>Upgrade to Pro to add your own constants and more.</string>
+    <string>قم بالترقية إلى النسخة الاحترافية لإضافة الثوابت الخاصة بك والمزيد.</string>
     <key>Upgrade to Pro to convert with over 200 units across 20 categories and more.</key>
-    <string>Upgrade to Pro to convert with over 200 units across 20 categories and more.</string>
+    <string>قم بالترقية إلى النسخة الاحترافية للتحويل بين أكثر من ٢٠٠ وحدة عبر ٢٠ فئة وأكثر.</string>
+    <key>Upgrade to Pro to customize the conversions
+on your Apple Watch.</key>
+    <string>قم بالترقية إلى النسخة الاحترافية لتخصيص التحويلات على ساعة Apple الخاصة بك.</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
-    <string>Upgrade to Pro to get unlimited history tape records and more.</string>
+    <string>قم بالترقية للنسخة الاحترافية للحصول على سجل غير محدود والمزيد.</string>
     <key>Upgrade to pro and get the following benefits:</key>
-    <string>Upgrade to pro and get the following benefits:</string>
+    <string>قم بالترقية للنسخة الاحترافية واحصل على الميزات التالية:</string>
     <key>Use Expression</key>
-    <string>Use Expression</string>
+    <string>استخدام العبارة الرياضية</string>
     <key>Use Result</key>
-    <string>Use Result</string>
+    <string>استخدام النتيجة</string>
     <key>Value</key>
-    <string>Value</string>
+    <string>القيمة</string>
     <key>Version</key>
-    <string>Version</string>
+    <string>النسخة</string>
     <key>View</key>
-    <string>View</string>
+    <string>عرض</string>
+    <key>Watch</key>
+    <string>تطبيق الساعة</string>
     <key>You cannot deselect every enabled conversion unit.</key>
-    <string>You cannot deselect every enabled conversion unit.</string>
+    <string>ليس بإمكانك إلغاء تحديد كل وحدات التحويل.</string>
     <key>You cannot deselect the last enabled conversion unit.</key>
-    <string>You cannot deselect the last enabled conversion unit.</string>
+    <string>ليس بإمكانك إلغاء تحديد آخر عنصر مفعل من قائمة وحدات التحويل..</string>
+    <key>You may define your own title. Try to keep it under 8 characters to avoid truncation.</key>
+    <string>بإمكانك تعيين اسم خاص للعملية، ولكن اجعله أقل من ٨ أحرف لتفادي اقتطاع الكلمة على شاشة الساعة.</string>
     <key>You need at least one enabled conversion unit</key>
-    <string>You need at least one enabled conversion unit</string>
+    <string>تحتاج إلى وحدة تحويل واحدة مفعلة على الأقل</string>
     <key>calculated result</key>
-    <string>calculated result</string>
+    <string>نتيجة الحساب</string>
     <key>conversion category chooser</key>
-    <string>conversion category chooser</string>
+    <string>اختيار فئة التحويل</string>
     <key>conversion category picker</key>
-    <string>conversion category picker</string>
+    <string>اختيار فئة التحويل</string>
     <key>conversion from unit</key>
-    <string>conversion from unit</string>
+    <string>تحويل من وحدة</string>
     <key>conversion from unit symbol</key>
-    <string>conversion from unit symbol</string>
+    <string>شعار الوحدة المحول منها</string>
     <key>conversion to unit</key>
-    <string>conversion to unit</string>
+    <string>إلى</string>
     <key>conversion to unit symbol</key>
-    <string>conversion to unit symbol</string>
+    <string>شعار الوحدة المحول إليها</string>
     <key>current expression</key>
-    <string>current expression</string>
+    <string>العملية الحالية</string>
     <key>display options segmented control</key>
-    <string>display options segmented control</string>
+    <string>عرض الخيارات</string>
     <key>favorite expression</key>
-    <string>favorite expression</string>
+    <string>تفضيل العملية</string>
     <key>hide conversion</key>
-    <string>hide conversion</string>
+    <string>إخفاء التحويل</string>
     <key>hide tape</key>
-    <string>hide tape</string>
+    <string>إخفاء السجل</string>
     <key>result</key>
-    <string>result</string>
+    <string>النتيجة</string>
     <key>saved expression</key>
-    <string>saved expression</string>
+    <string>عملية محفوظة</string>
     <key>saved result</key>
-    <string>saved result</string>
+    <string>نتيجة محفوظة</string>
     <key>show conversion</key>
-    <string>show conversion</string>
+    <string>عرض التحويل</string>
     <key>show favorited saved expressions</key>
-    <string>show favorited saved expressions</string>
+    <string>عرض سجل العمليات المفضلة</string>
     <key>show tape</key>
-    <string>show tape</string>
+    <string>إظهار السجل</string>
     <key>show tape of saved expressions</key>
-    <string>show tape of saved expressions</string>
+    <string>عرض سجل العمليات المحفوظة</string>
     <key>swap from and to conversion units</key>
-    <string>swap from and to conversion units</string>
+    <string>التبديل بين وإلى وحدات التحويل</string>
     <key>table of favorited expressions</key>
-    <string>table of favorited expressions</string>
+    <string>جدول العمليات المفضلة</string>
     <key>table of saved expressions</key>
-    <string>table of saved expressions</string>
+    <string>جدول العمليات المحفوظة</string>
     <key>tape options segmented control</key>
-    <string>tape options segmented control</string>
+    <string>شريط التحكم بالسجل</string>
     <key>tape settings button</key>
-    <string>tape settings button</string>
+    <string>زر إعدادات السجل</string>
     <key>unfavorite expression</key>
-    <string>unfavorite expression</string>
+    <string>إلغاء تفضيل العملية</string>
     <key>unknown</key>
-    <string>unknown</string>
+    <string>غيرمعروف</string>
   </dict>
 </plist>

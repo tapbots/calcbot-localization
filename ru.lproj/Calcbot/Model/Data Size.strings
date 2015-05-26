@@ -8,44 +8,26 @@
     <string>Бит</string>
     <key>Byte</key>
     <string>Байт</string>
-    <key>Kilobit (SI)</key>
-    <string>Килобит (СИ)</string>
     <key>Kilobit</key>
     <string>Килобит</string>
-    <key>Kilobyte (SI)</key>
-    <string>Килобайт (СИ)</string>
+    <key>SI</key>
+    <string>СИ</string>
     <key>Kilobyte</key>
     <string>Килобайт</string>
-    <key>Megabit (SI)</key>
-    <string>Мегабит (СИ)</string>
     <key>Megabit</key>
     <string>Мегабит</string>
-    <key>Megabyte (SI)</key>
-    <string>Мегабайт (СИ)</string>
     <key>Megabyte</key>
     <string>Мегабайт</string>
-    <key>Gigabit (SI)</key>
-    <string>Гигабит (СИ)</string>
     <key>Gigabit</key>
     <string>Гигабит</string>
-    <key>Gigabyte (SI)</key>
-    <string>Гигабайт (СИ)</string>
     <key>Gigabyte</key>
     <string>Гигабайт</string>
-    <key>Terabit (SI)</key>
-    <string>Терабит (СИ)</string>
     <key>Terabit</key>
     <string>Терабит</string>
-    <key>Terabyte (SI)</key>
-    <string>Терабайт (СИ)</string>
     <key>Terabyte</key>
     <string>Терабайт</string>
-    <key>Petabit (SI)</key>
-    <string>Петабит (СИ)</string>
     <key>Petabit</key>
     <string>Петабит</string>
-    <key>Petabyte (SI)</key>
-    <string>Петабайт (СИ)</string>
     <key>Petabyte</key>
     <string>Петабайт</string>
   </dict>

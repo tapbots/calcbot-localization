@@ -3,20 +3,20 @@
 <plist version="1.0">
   <dict>
     <key>Density</key>
-    <string>Density</string>
+    <string>كثافة</string>
     <key>Gram/Litre</key>
-    <string>Gram/Litre</string>
+    <string>غرام لكل لتر</string>
     <key>Kilogram/Cubic Metre</key>
-    <string>Kilogram/Cubic Metre</string>
+    <string>كيلوغرام لكل متر مكعب</string>
     <key>Pound/Cubic Foot</key>
-    <string>Pound/Cubic Foot</string>
-    <key>Pound/Gallon (Imperial)</key>
-    <string>Pound/Gallon (Imperial)</string>
+    <string>رطل/قدم مكعب</string>
     <key>Pound/Gallon</key>
-    <string>Pound/Gallon</string>
+    <string>رطل/غالون</string>
+    <key>Imperial</key>
+    <string>Imperial</string>
     <key>Gram/Cubic CM</key>
-    <string>Gram/Cubic CM</string>
+    <string>غرام/سم مكعب</string>
     <key>Pound/Cubic Inch</key>
-    <string>Pound/Cubic Inch</string>
+    <string>رطل/بوصة مكعبة</string>
   </dict>
 </plist>

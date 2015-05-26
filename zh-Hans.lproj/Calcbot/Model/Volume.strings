@@ -10,16 +10,12 @@
     <string>Microlitre</string>
     <key>Drop</key>
     <string>Drop</string>
-    <key>Drop (Imperial)</key>
-    <string>Drop (Imperial)</string>
+    <key>Imperial</key>
+    <string>Imperial</string>
     <key>Dash</key>
     <string>Dash</string>
-    <key>Dash (Imperial)</key>
-    <string>Dash (Imperial)</string>
     <key>Pinch</key>
     <string>Pinch</string>
-    <key>Pinch (Imperial)</key>
-    <string>Pinch (Imperial)</string>
     <key>Cubic Centimetre</key>
     <string>Cubic Centimetre</string>
     <key>Millilitre</key>
@@ -30,44 +26,28 @@
     <string>Dram</string>
     <key>Teaspoon</key>
     <string>Teaspoon</string>
-    <key>Teaspoon (Metric)</key>
-    <string>Teaspoon (Metric)</string>
-    <key>Teaspoon (Imperial)</key>
-    <string>Teaspoon (Imperial)</string>
+    <key>Metric</key>
+    <string>Metric</string>
     <key>Tablespoon</key>
     <string>Tablespoon</string>
-    <key>Tablespoon (Metric)</key>
-    <string>Tablespoon (Metric)</string>
     <key>Cubic Inch</key>
     <string>Cubic Inch</string>
-    <key>Tablespoon (Imperial)</key>
-    <string>Tablespoon (Imperial)</string>
     <key>Shaku</key>
     <string>Shaku</string>
-    <key>Ounce (Imperial)</key>
-    <string>Ounce (Imperial)</string>
     <key>Ounce</key>
     <string>Ounce</string>
     <key>Shot</key>
     <string>Shot</string>
     <key>Gill</key>
     <string>Gill</string>
-    <key>Gill (Imperial)</key>
-    <string>Gill (Imperial)</string>
     <key>Gō</key>
     <string>Gō</string>
     <key>Cup</key>
     <string>Cup</string>
-    <key>Cup (Metric)</key>
-    <string>Cup (Metric)</string>
-    <key>Cup (Imperial)</key>
-    <string>Cup (Imperial)</string>
     <key>Pint</key>
     <string>Pint</string>
     <key>Dry Pint</key>
     <string>Dry Pint</string>
-    <key>Pint (Imperial)</key>
-    <string>Pint (Imperial)</string>
     <key>Fifth</key>
     <string>Fifth</string>
     <key>Quart</key>
@@ -76,16 +56,12 @@
     <string>Litre</string>
     <key>Dry Quart</key>
     <string>Dry Quart</string>
-    <key>Quart (Imperial)</key>
-    <string>Quart (Imperial)</string>
     <key>Shō</key>
     <string>Shō</string>
     <key>Gallon</key>
     <string>Gallon</string>
     <key>Dry Gallon</key>
     <string>Dry Gallon</string>
-    <key>Gallon (Imperial)</key>
-    <string>Gallon (Imperial)</string>
     <key>Peck</key>
     <string>Peck</string>
     <key>To</key>
@@ -100,8 +76,6 @@
     <string>Beer Barrel</string>
     <key>Oil Barrel</key>
     <string>Oil Barrel</string>
-    <key>Beer Barrel (Imperial)</key>
-    <string>Beer Barrel (Imperial)</string>
     <key>Koku</key>
     <string>Koku</string>
     <key>Cubic Yard</key>

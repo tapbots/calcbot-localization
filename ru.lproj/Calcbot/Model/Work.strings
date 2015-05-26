@@ -3,48 +3,42 @@
 <plist version="1.0">
   <dict>
     <key>Work</key>
-    <string>Work</string>
+    <string>Работа</string>
     <key>Electron Volt</key>
-    <string>Electron Volt</string>
+    <string>Электронвольт</string>
     <key>Erg</key>
-    <string>Erg</string>
+    <string>Эрг</string>
     <key>Inch Pound</key>
-    <string>Inch Pound</string>
+    <string>Дюйм-фунт</string>
     <key>Joule</key>
-    <string>Joule</string>
+    <string>Джоуль</string>
     <key>Newton Metre</key>
-    <string>Newton Metre</string>
+    <string>Ньютон-метр</string>
     <key>Foot Pound</key>
-    <string>Foot Pound</string>
+    <string>Фут-фунт</string>
     <key>Calorie</key>
-    <string>Calorie</string>
+    <string>Калория</string>
     <key>Kilojoule</key>
-    <string>Kilojoule</string>
-    <key>BTU</key>
-    <string>BTU</string>
+    <string>Килоджоуль</string>
     <key>Watt Hour</key>
-    <string>Watt Hour</string>
+    <string>Ватт час</string>
     <key>Kilogram Calorie</key>
-    <string>Kilogram Calorie</string>
+    <string>Килокалория</string>
     <key>Megajoule</key>
-    <string>Megajoule</string>
-    <key>MBTU</key>
-    <string>MBTU</string>
+    <string>Мегаджоуль</string>
     <key>Kilowatt Hour</key>
-    <string>Kilowatt Hour</string>
+    <string>Киловатт час</string>
     <key>Therm</key>
-    <string>Therm</string>
-    <key>MMBTU</key>
-    <string>MMBTU</string>
+    <string>Терм</string>
     <key>Megawatt Hour</key>
-    <string>Megawatt Hour</string>
+    <string>Мегаватт час</string>
     <key>Tonne of Coal</key>
-    <string>Tonne of Coal</string>
+    <string>Тонна угля (экв.)</string>
     <key>Tonne of Oil</key>
-    <string>Tonne of Oil</string>
+    <string>Тонна нефти (экв.)</string>
     <key>Gigawatt Hour</key>
-    <string>Gigawatt Hour</string>
+    <string>Гигаватт час</string>
     <key>Quad</key>
-    <string>Quad</string>
+    <string>Квад</string>
   </dict>
 </plist>

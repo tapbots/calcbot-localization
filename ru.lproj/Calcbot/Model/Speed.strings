@@ -3,32 +3,32 @@
 <plist version="1.0">
   <dict>
     <key>Speed</key>
-    <string>Speed</string>
+    <string>Скорость</string>
     <key>Feet/Minute</key>
-    <string>Feet/Minute</string>
+    <string>Фут/Минута</string>
     <key>Kilometres/Hour</key>
-    <string>Kilometres/Hour</string>
+    <string>Километр/Час</string>
     <key>Feet/Second</key>
-    <string>Feet/Second</string>
+    <string>Фут/Секунда</string>
     <key>Miles/Hour</key>
-    <string>Miles/Hour</string>
+    <string>Миля/Час</string>
     <key>Knots</key>
-    <string>Knots</string>
+    <string>Узел</string>
     <key>Metres/Second</key>
-    <string>Metres/Second</string>
+    <string>Метр/Секунда</string>
     <key>Kilometres/Minute</key>
-    <string>Kilometres/Minute</string>
+    <string>Километр/Минута</string>
     <key>Miles/Second</key>
-    <string>Miles/Second</string>
+    <string>Миля/Секунда</string>
     <key>Minutes/Metres</key>
-    <string>Minutes/Metres</string>
+    <string>Минута/Метр</string>
     <key>Minutes/Kilometres</key>
-    <string>Minutes/Kilometres</string>
+    <string>Минута/Километр</string>
     <key>Miles/Minute</key>
-    <string>Miles/Minute</string>
+    <string>Миля/Минута</string>
     <key>Minutes/Yards</key>
-    <string>Minutes/Yards</string>
+    <string>Минута/Ярд</string>
     <key>Minutes/Miles</key>
-    <string>Minutes/Miles</string>
+    <string>Минута/Миля</string>
   </dict>
 </plist>
