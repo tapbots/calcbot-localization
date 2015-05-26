@@ -31,7 +31,7 @@
     <key>Litre</key>
     <string>Liter</string>
     <key>Gallon</key>
-    <string>Gallone</string>
+    <string>Gallone (US)</string>
     <key>Cubic Feet</key>
     <string>Kubikfoot</string>
     <key>Oil Barrel</key>

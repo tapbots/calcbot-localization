@@ -17,6 +17,6 @@
     <key>Litres/KM</key>
     <string>Liter/KM</string>
     <key>Miles/Gallon</key>
-    <string>Meilen/Gallone</string>
+    <string>Meilen/Gallone (US)</string>
   </dict>
 </plist>
