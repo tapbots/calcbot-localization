@@ -14,6 +14,8 @@
     <string>Australischer Dollar</string>
     <key>Aruban Florin</key>
     <string>Aruba-Florin</string>
+    <key>Barbados Dollar</key>
+    <string>Barbados-Dollar</string>
     <key>Bangladeshi Taka</key>
     <string>Bangladeschischer Taka</string>
     <key>Bulgarian Lev</key>
@@ -24,12 +26,18 @@
     <string>Burundi-Franc</string>
     <key>Bermudian Dollar</key>
     <string>Bermuda-Dollar</string>
+    <key>Brunei Dollar</key>
+    <string>Brunei-Dollar</string>
     <key>Brazilian Real</key>
     <string>Brasilianischer Real</string>
     <key>Bahamian Dollar</key>
     <string>Bahama-Dollar</string>
+    <key>Pula</key>
+    <string>Botsuanischer Pula</string>
     <key>Belarusian Ruble</key>
     <string>Belarus-Rubel</string>
+    <key>Belize Dollar</key>
+    <string>Belize-Dollar</string>
     <key>Canadian Dollar</key>
     <string>Kanadischer Dollar</string>
     <key>Swiss Franc</key>
@@ -54,6 +62,8 @@
     <string>Dominikanischer Peso</string>
     <key>Algerian Dinar</key>
     <string>Algerischer Dinar</string>
+    <key>Kroon</key>
+    <string>Estnische Krone</string>
     <key>Egyptian Pound</key>
     <string>Ägyptisches Pfund</string>
     <key>Ethiopian Birr</key>
@@ -62,8 +72,14 @@
     <string>Fidschi-Dollar</string>
     <key>Pound Sterling</key>
     <string>Pfund Sterling</string>
+    <key>Guinea Franc</key>
+    <string>Guinea-Franc</string>
+    <key>Hong Kong Dollar</key>
+    <string>Hongkong-Dollar</string>
     <key>Croatian Kuna</key>
     <string>Kroatische Kuna</string>
+    <key>Haiti Gourde</key>
+    <string>Haitianischer Gourde</string>
     <key>Indonesian Rupiah</key>
     <string>Indonesische Rupiah</string>
     <key>Israeli New Sheqel</key>
@@ -88,12 +104,18 @@
     <string>Komoren-Franc</string>
     <key>South Korean Won</key>
     <string>Südkoreanischer Won</string>
+    <key>Kuwaiti Dinar</key>
+    <string>Kuwait-Dinar</string>
     <key>Cayman Island Dollar</key>
     <string>Kaiman-Dollar</string>
+    <key>Tenge</key>
+    <string>Kasachischer Tenge</string>
     <key>Lebanese Pound</key>
     <string>Libanesisches Pfund</string>
     <key>Sri Lanka Rupee</key>
     <string>Sri-Lanka-Rupie</string>
+    <key>Loti</key>
+    <string>Lesothischer Loti</string>
     <key>Lithuanian Litas</key>
     <string>Litauischer Litas</string>
     <key>Latvian Lats</key>
@@ -104,14 +126,26 @@
     <string>Moldau-Leu</string>
     <key>Macedonian Denar</key>
     <string>Mazedonischer Denar</string>
+    <key>Tugrik</key>
+    <string>Mongolischer Tugrik</string>
+    <key>Pataca</key>
+    <string>Macau-Pataca</string>
+    <key>Ouguiya</key>
+    <string>Mauretanischer Ouguiya</string>
     <key>Mauritius Rupee</key>
     <string>Mauritius-Rupie</string>
+    <key>Rufiyaa</key>
+    <string>Maledivische Rufiyaa</string>
+    <key>Kwacha</key>
+    <string>Malawi-Kwacha</string>
     <key>Mexican Peso</key>
     <string>Mexikanischer Peso</string>
     <key>Malaysian Ringgit</key>
     <string>Malaysischer Ringgit</string>
     <key>Namibian Dollar</key>
     <string>Namibia-Dollar</string>
+    <key>Naira</key>
+    <string>Nigerianischer Naira</string>
     <key>Cordoba Oro</key>
     <string>Nicaraguanischer Cór­do­ba</string>
     <key>Norwegian Krone</key>
@@ -122,6 +156,8 @@
     <string>Neuseeland-Dollar</string>
     <key>Rial Omani</key>
     <string>Omanischer Rial</string>
+    <key>Nuevo Sol</key>
+    <string>Neuer Sol</string>
     <key>Philippine Peso</key>
     <string>Philippinischer Peso</string>
     <key>Pakistan Rupee</key>
@@ -148,12 +184,20 @@
     <string>Slowenischer Tolar</string>
     <key>Slovak Koruna</key>
     <string>Slowakische Krone</string>
+    <key>Leone</key>
+    <string>Sierra-leonische Leone</string>
+    <key>Dobra</key>
+    <string>São-toméischer Dobra</string>
     <key>El Salvador Colon</key>
     <string>El-Salvador-Colón</string>
+    <key>Lilangeni</key>
+    <string>Swasiländischer Lilangeni</string>
     <key>Thai Baht</key>
     <string>Thailändischer Baht</string>
     <key>Tunisian Dinar</key>
     <string>Tunesischer Dinar</string>
+    <key>Pa’anga</key>
+    <string>Tongaischer Pa’anga</string>
     <key>Turkish Lira</key>
     <string>Türkische Lira</string>
     <key>Tri. and Tob. Dollar</key>
@@ -162,16 +206,30 @@
     <string>Neuer Taiwan-Dollar</string>
     <key>Tanzanian Shilling</key>
     <string>Tansania-Shilling</string>
+    <key>Hryvnia</key>
+    <string>Hryw­nja</string>
     <key>Uganda Shilling</key>
     <string>Uganda-Shilling</string>
+    <key>US Dollar</key>
+    <string>US-Dollar</string>
     <key>Peso Uruguayo</key>
     <string>Uruguayischer Peso</string>
     <key>Ven. Bolivar</key>
     <string>Venezolanischer Bolivar</string>
     <key>Vietnamese Dong</key>
     <string>Vietnamesischer Dong</string>
+    <key>Vanuatu Vatu</key>
+    <string>Vanuatu-Vatu</string>
     <key>Samoan Tala</key>
     <string>Samoanischer Tala</string>
+    <key>CFA Franc (BEAC)</key>
+    <string>CFA-Franc (BEAC)</string>
+    <key>E. Car. Dollar</key>
+    <string>Ostkaribischer Dollar</string>
+    <key>CFA Franc (BCEAO)</key>
+    <string>CFA-Franc (BCEAO)</string>
+    <key>CFP Franc</key>
+    <string>CFP-Franc</string>
     <key>Yemen Riyal</key>
     <string>Jemenitischer Rial</string>
     <key>South African Rand</key>
