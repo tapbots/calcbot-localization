@@ -143,13 +143,13 @@
     <key>Swedish Krona</key>
     <string>Schwedische Krone</string>
     <key>Singapore Dollar</key>
-    <string>Singapur Dollar</string>
+    <string>Singapur-Dollar</string>
     <key>Slovenian Tolar</key>
     <string>Slowenischer Tolar</string>
     <key>Slovak Koruna</key>
     <string>Slowakische Krone</string>
     <key>El Salvador Colon</key>
-    <string>El Salvador Colón</string>
+    <string>El-Salvador-Colón</string>
     <key>Thai Baht</key>
     <string>Thailändischer Baht</string>
     <key>Tunisian Dinar</key>
@@ -157,53 +157,53 @@
     <key>Turkish Lira</key>
     <string>Türkische Lira</string>
     <key>Tri. and Tob. Dollar</key>
-    <string>Tri. und Tob. Dollar</string>
+    <string>Trinidad-und-Tobago-Dollar</string>
     <key>New Taiwan Dollar</key>
-    <string>N. Taiwan. Dollar</string>
+    <string>Neuer Taiwan-Dollar</string>
     <key>Tanzanian Shilling</key>
-    <string>Tansan. Schilling</string>
+    <string>Tansania-Shilling</string>
     <key>Uganda Shilling</key>
-    <string>Uganda Schilling</string>
+    <string>Uganda-Shilling</string>
     <key>Peso Uruguayo</key>
     <string>Uruguayischer Peso</string>
     <key>Ven. Bolivar</key>
-    <string>Venezuela Bolivar</string>
+    <string>Venezolanischer Bolivar</string>
     <key>Vietnamese Dong</key>
     <string>Vietnamesischer Dong</string>
     <key>Samoan Tala</key>
-    <string>Samoanische Tala</string>
+    <string>Samoanischer Tala</string>
     <key>Yemen Riyal</key>
-    <string>Jemenitischer Riyal</string>
+    <string>Jemenitischer Rial</string>
     <key>South African Rand</key>
-    <string>Südafrik. Rand</string>
+    <string>Südafrikanischer Rand</string>
     <key>Cape Verdean Escudo</key>
     <string>Kap-Verde-Escudo</string>
     <key>Austrian Schilling</key>
-    <string>Öst. Schilling</string>
+    <string>Österreichischer Schilling</string>
     <key>Belgian Franc</key>
     <string>Belgischer Franc</string>
     <key>Finnish Markka</key>
-    <string>Finnmark</string>
+    <string>Finnische Mark</string>
     <key>French Franc</key>
-    <string>Frnzösicher Franc</string>
+    <string>Französischer Franc</string>
     <key>Irish Pound</key>
-    <string>Irischer Pfund</string>
+    <string>Irisches Pfund</string>
     <key>Italian Lira</key>
-    <string>Italienische Lire</string>
+    <string>Italienische Lira</string>
     <key>Luxembourgish Franc</key>
-    <string>Lux. Franc</string>
+    <string>Luxemburgischer Franc</string>
     <key>Portuguese Escudo</key>
-    <string>Port. Escudo</string>
+    <string>Portugiesischer Escudo</string>
     <key>Spanish Peseta</key>
-    <string>Spanischer Peseta</string>
+    <string>Spanische Peseta</string>
     <key>Greek Drachma</key>
-    <string>Griechische Drachmen</string>
+    <string>Griechische Drachme</string>
     <key>Cypriot Pound</key>
-    <string>Zypern-Pfund </string>
+    <string>Zypern-Pfund</string>
     <key>Maltese Lira</key>
     <string>Maltesische Lira</string>
     <key>Syrian Pound</key>
-    <string>Syrische Pfund</string>
+    <string>Syrisches Pfund</string>
     <key>Serbian Dinar</key>
     <string>Serbischer Dinar</string>
   </dict>
