@@ -14,24 +14,18 @@
     <string>Zentimeter</string>
     <key>Metre</key>
     <string>Meter</string>
-    <key>Fathom</key>
-    <string>Faden</string>
-    <key>Furlong</key>
-    <string>Achtelmeile</string>
     <key>Kilometre</key>
     <string>Kilometer</string>
     <key>Mile</key>
     <string>Meile</string>
     <key>Nautical Mile</key>
     <string>Nautische Meile</string>
-    <key>League</key>
-    <string>Meile</string>
     <key>Light Second</key>
-    <string>Licht Sekunde</string>
+    <string>Lichtsekunde</string>
     <key>Light Minute</key>
-    <string>Licht Minute</string>
+    <string>Lichtminute</string>
     <key>Astronomical Unit</key>
-    <string>Astron. Einheit</string>
+    <string>Astronomische Einheit</string>
     <key>Light Year</key>
     <string>Lichtjahr</string>
   </dict>
