@@ -59,7 +59,7 @@
     <key>Ethiopian Birr</key>
     <string>Äthiopisches Birr</string>
     <key>Fiji Dollar</key>
-    <string>Fidschi Dollar</string>
+    <string>Fidschi-Dollar</string>
     <key>Pound Sterling</key>
     <string>Pfund Sterling</string>
     <key>Croatian Kuna</key>
@@ -67,7 +67,7 @@
     <key>Indonesian Rupiah</key>
     <string>Indonesische Rupiah</string>
     <key>Israeli New Sheqel</key>
-    <string>Israel. N. Sheqel</string>
+    <string>Israelischer Neuer Schekel</string>
     <key>Indian Rupee</key>
     <string>Indische Rupie</string>
     <key>Iraqi Dinar</key>
@@ -77,49 +77,49 @@
     <key>Iceland Krona</key>
     <string>Isländische Krone</string>
     <key>Jamaican Dollar</key>
-    <string>Jamaica. Dollar</string>
+    <string>Jamaika-Dollar</string>
     <key>Jordanian Dinar</key>
     <string>Jordanischer Dinar</string>
     <key>Japanese Yen</key>
     <string>Japanischer Yen</string>
     <key>Kenyan Shilling</key>
-    <string>Kenia. Schilling</string>
+    <string>Kenia-Shilling</string>
     <key>Comoro Franc</key>
-    <string>Komorischer Franc</string>
+    <string>Komoren-Franc</string>
     <key>South Korean Won</key>
     <string>Südkoreanischer Won</string>
     <key>Cayman Island Dollar</key>
-    <string>Cayman Inseln Dollar</string>
+    <string>Kaiman-Dollar</string>
     <key>Lebanese Pound</key>
     <string>Libanesisches Pfund</string>
     <key>Sri Lanka Rupee</key>
-    <string>Sri -lankische Rupie</string>
+    <string>Sri-Lanka-Rupie</string>
     <key>Lithuanian Litas</key>
-    <string>Litauische Litas</string>
+    <string>Litauischer Litas</string>
     <key>Latvian Lats</key>
-    <string>Lettische Lats</string>
+    <string>Lettischer Lats</string>
     <key>Moroccan Dirham</key>
-    <string>Marokkanische Dirham</string>
+    <string>Marokkanischer Dirham</string>
     <key>Moldovan Leu</key>
-    <string>Moldawische Leu</string>
+    <string>Moldau-Leu</string>
     <key>Macedonian Denar</key>
     <string>Mazedonischer Denar</string>
     <key>Mauritius Rupee</key>
-    <string>Mauritische Rupie</string>
+    <string>Mauritius-Rupie</string>
     <key>Mexican Peso</key>
     <string>Mexikanischer Peso</string>
     <key>Malaysian Ringgit</key>
-    <string>Malaysische Ringgit</string>
+    <string>Malaysischer Ringgit</string>
     <key>Namibian Dollar</key>
-    <string>Namibischer Dollar</string>
+    <string>Namibia-Dollar</string>
     <key>Cordoba Oro</key>
-    <string>Cordoba Gold</string>
+    <string>Nicaraguanischer Cór­do­ba</string>
     <key>Norwegian Krone</key>
     <string>Norwegische Krone</string>
     <key>Nepalese Rupee</key>
     <string>Nepalesische Rupie</string>
     <key>New Zealand Dollar</key>
-    <string>Neuseel. Dollar</string>
+    <string>Neuseeland-Dollar</string>
     <key>Rial Omani</key>
     <string>Omanischer Rial</string>
     <key>Philippine Peso</key>
@@ -127,19 +127,19 @@
     <key>Pakistan Rupee</key>
     <string>Pakistanische Rupie</string>
     <key>Qatari Riyal</key>
-    <string>Qatarischer Rial</string>
+    <string>Katar-Riyal</string>
     <key>Romanian New Leu</key>
-    <string>Rumänischer N. Leu</string>
+    <string>Rumänischer Neuer Leu</string>
     <key>Russian Ruble</key>
     <string>Russischer Rubel</string>
     <key>Rwanda Franc</key>
-    <string>Ruandische Franc</string>
+    <string>Ruanda-Franc</string>
     <key>Saudi Riyal</key>
-    <string>Saudische Rial</string>
+    <string>Saudi-Riyal</string>
     <key>Solomon Is. Dollar</key>
-    <string>Salomoninseln Dollar</string>
+    <string>Salomonen-Dollar</string>
     <key>Seychelles Rupee</key>
-    <string>Seychellen Rupie</string>
+    <string>Seychellen-Rupie</string>
     <key>Swedish Krona</key>
     <string>Schwedische Krone</string>
     <key>Singapore Dollar</key>
