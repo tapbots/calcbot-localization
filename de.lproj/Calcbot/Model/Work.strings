@@ -6,28 +6,26 @@
     <string>Arbeit</string>
     <key>Electron Volt</key>
     <string>Elektronenvolt</string>
-    <key>Erg</key>
-    <string>ERG</string>
     <key>Inch Pound</key>
-    <string>Zoll Pfund</string>
+    <string>Inch-Pound</string>
     <key>Newton Metre</key>
-    <string>Newton Meter</string>
+    <string>Newtonmeter</string>
     <key>Foot Pound</key>
-    <string>Fuss Pfund</string>
+    <string>Foot-Pound</string>
     <key>Calorie</key>
     <string>Kalorie</string>
     <key>Watt Hour</key>
     <string>Wattstunde</string>
     <key>Kilogram Calorie</key>
-    <string>Kilogrammkalorie</string>
+    <string>Kilokalorie</string>
     <key>Kilowatt Hour</key>
     <string>Kilowattstunde</string>
     <key>Megawatt Hour</key>
     <string>Megawattstunde</string>
     <key>Tonne of Coal</key>
-    <string>Tonnen Kohle</string>
+    <string>Tonnen Kohlenäquivalent</string>
     <key>Tonne of Oil</key>
-    <string>Tonnen Öl</string>
+    <string>Tonnen Öläquivalent</string>
     <key>Gigawatt Hour</key>
     <string>Gigawattstunde</string>
   </dict>
