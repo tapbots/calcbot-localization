@@ -7,5 +7,8 @@
     <string>Pferdestärke</string>
     <string>Kilowatt</string>
     <string>Megawatt</string>
+    <string>Foot-Pound/Minute</string>
+    <string>Horsepower</string>
+    <string>Ton of Refrigeration</string>
   </array>
 </plist>
