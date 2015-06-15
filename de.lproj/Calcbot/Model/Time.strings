@@ -5,7 +5,7 @@
     <key>Time</key>
     <string>Zeit</string>
     <key>Nanoseconds</key>
-    <string>Nanosekunde</string>
+    <string>Nanosekunden</string>
     <key>Microseconds</key>
     <string>Mikrosekunden</string>
     <key>Milliseconds</key>
