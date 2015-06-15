@@ -5,31 +5,31 @@
     <key>Currency</key>
     <string>Währung</string>
     <key>UAE Dirham</key>
-    <string>U.A.E Dirham</string>
+    <string>VAE Dirham</string>
     <key>Dutch Guilder</key>
-    <string>Holländische Gulden</string>
+    <string>Niederländischer Gulden</string>
     <key>Argentine Peso</key>
     <string>Argentinischer Peso</string>
     <key>Australian Dollar</key>
     <string>Australischer Dollar</string>
     <key>Aruban Florin</key>
-    <string>Arubanische Florin</string>
+    <string>Aruba-Florin</string>
     <key>Bangladeshi Taka</key>
-    <string>Bangladesch. Taka</string>
+    <string>Bangladeschischer Taka</string>
     <key>Bulgarian Lev</key>
     <string>Bulgarischer Lew</string>
     <key>Bahraini Dinar</key>
-    <string>Bahrainischer Dinar</string>
+    <string>Bahrain-Dinar</string>
     <key>Burundian Franc</key>
-    <string>Burundischer Franc</string>
+    <string>Burundi-Franc</string>
     <key>Bermudian Dollar</key>
-    <string>Bermudischer Dollar</string>
+    <string>Bermuda-Dollar</string>
     <key>Brazilian Real</key>
     <string>Brasilianischer Real</string>
     <key>Bahamian Dollar</key>
-    <string>Bahamaischer Dollar</string>
+    <string>Bahama-Dollar</string>
     <key>Belarusian Ruble</key>
-    <string>Belorussischer Rubel</string>
+    <string>Belarus-Rubel</string>
     <key>Canadian Dollar</key>
     <string>Kanadischer Dollar</string>
     <key>Swiss Franc</key>
@@ -37,15 +37,15 @@
     <key>Chilean Peso</key>
     <string>Chilenischer Peso</string>
     <key>Chinese Yuan</key>
-    <string>Chinesischer Yuan</string>
+    <string>Chinesischer Renminbi Yuan</string>
     <key>Colombian Peso</key>
     <string>Kolumbianischer Peso</string>
     <key>Costa Rican Colón</key>
-    <string>Costa Ricanischer Colón</string>
+    <string>Costa-Rica-Colón</string>
     <key>Cuban Peso</key>
     <string>Kubanischer Peso</string>
     <key>Cyprus Pound</key>
-    <string>Zyprischer Pfund</string>
+    <string>Zypern-Pfund</string>
     <key>Czech Koruna</key>
     <string>Tschechische Krone</string>
     <key>Danish Krone</key>
@@ -57,7 +57,7 @@
     <key>Egyptian Pound</key>
     <string>Ägyptisches Pfund</string>
     <key>Ethiopian Birr</key>
-    <string>Äthiopische Birr</string>
+    <string>Äthiopisches Birr</string>
     <key>Fiji Dollar</key>
     <string>Fidschi Dollar</string>
     <key>Pound Sterling</key>
