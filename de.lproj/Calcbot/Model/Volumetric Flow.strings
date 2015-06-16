@@ -5,13 +5,13 @@
     <key>Volumetric Flow</key>
     <string>Volumendurchsatz</string>
     <key>Gallon/Day</key>
-    <string>Gallone (US)/Tag</string>
+    <string>Gallone/Tag</string>
     <key>Litre/Hour</key>
     <string>Liter/Stunde</string>
     <key>Litre/Min.</key>
     <string>Liter/Min.</string>
     <key>Gallon/Min.</key>
-    <string>Gallone (US)/Min.</string>
+    <string>Gallone/Min.</string>
     <key>Cubic Metre/Hour</key>
     <string>Kubikmeter/Stunde</string>
     <key>Cubic Feet/Min.</key>
@@ -19,7 +19,7 @@
     <key>Litre/Sec.</key>
     <string>Liter/Sek.</string>
     <key>Gallon/Sec.</key>
-    <string>Gallone (US)/Sek.</string>
+    <string>Gallone/Sek.</string>
     <key>Cubic Metre/Min</key>
     <string>Kubikmeter/Min.</string>
     <key>Cubic Feet/Sec.</key>

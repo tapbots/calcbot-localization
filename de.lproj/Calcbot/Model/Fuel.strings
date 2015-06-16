@@ -9,7 +9,7 @@
     <key>Litres/100 KM</key>
     <string>Liter/100 km</string>
     <key>Gallons/100 Miles</key>
-    <string>Gallonen (US)/100 Meilen</string>
+    <string>Gallonen/100 Meilen</string>
     <key>Litres/10 KM</key>
     <string>Liter/10 km</string>
     <key>KM/Litre</key>
@@ -17,6 +17,6 @@
     <key>Litres/KM</key>
     <string>Liter/km</string>
     <key>Miles/Gallon</key>
-    <string>Meilen/Gallone (US)</string>
+    <string>Meilen/Gallone</string>
   </dict>
 </plist>
