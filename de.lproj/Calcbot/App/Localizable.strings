@@ -141,7 +141,7 @@
     <key>Pre-define 4 conversions for quick access
 on your Apple Watch.</key>
     <string>Definiere 4 Umrechnungen für den schnellen Zugriff
-auf Deiner Apple Watch.</string>
+auf deiner Apple Watch.</string>
     <key>Pro Theme.</key>
     <string>Pro-Schema.</string>
     <key>Purchase for %@</key>
@@ -209,7 +209,7 @@ auf Deiner Apple Watch.</string>
     <key>Upgrade to Pro to customize the conversions
 on your Apple Watch.</key>
     <string>Upgrade auf Pro, um die Umrechnungen
-auf Deiner Apple Watch anzupassen.</string>
+auf deiner Apple Watch anzupassen.</string>
     <key>Upgrade to Pro to get unlimited history tape records and more.</key>
     <string>Zu Pro upgraden für unbegrenzte Verläufe und mehr.</string>
     <key>Upgrade to pro and get the following benefits:</key>
@@ -227,7 +227,7 @@ auf Deiner Apple Watch anzupassen.</string>
     <key>You cannot deselect the last enabled conversion unit.</key>
     <string>Du kannst die einzige aktivierte Umrechnungs-Einheit nicht deaktivieren.</string>
     <key>You may define your own title. Try to keep it under 8 characters to avoid truncation.</key>
-    <string>Du kannst Deinen eigenen Titel festlegen. Versuche ihn unter 8 Zeichen zu halten, damit er nicht abgeschnitten wird.</string>
+    <string>Du kannst deinen eigenen Titel festlegen. Versuche ihn unter 8 Zeichen zu halten, damit er nicht abgeschnitten wird.</string>
     <key>You need at least one enabled conversion unit</key>
     <string>Es muss mindestens eine Umrechnungs-Einheit aktiviert sein.</string>
     <key>calculated result</key>
