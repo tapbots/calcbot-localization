@@ -18,11 +18,11 @@ Calcbot unterstützt übliche wissenschaftliche Funktionen, falls du sie je brau
 Konstanten.
 Erhalte sofortigen Zugriff auf wissenschaftliche Konstanten wie Pi, Atommassen-Einheit, oder füge deine eigenen hinzu.
 
-Round for Currency.
-Have all of your results rounded to two decimal places.
+Runden bei Währungen.
+Lass alle deine Resultate auf zwei Dezimalstellen runden.
 
-iCloud Sync.
-Sync your history tape, constants, and faves across multiple Macs and all of your iOS devices.
+iCloud-Synchronisation.
+Synchronisiere deinen Verlauf, deine Konstanten und deine Favoriten mit mehreren Macs und all deinen iOS-Devices.
 
-Sounds & Animations.
-Sound effects & animations to provide positive feedback when performing calculations.
+Töne und Animationen.
+Soundeffekte und Animationen liefern positives Feedback beim Ausführen von Rechnungen.
