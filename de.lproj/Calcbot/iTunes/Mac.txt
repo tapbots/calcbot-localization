@@ -1,4 +1,4 @@
-Calcbot is an intelligent calculator and unit converter for the rest of us. Featuring an easy-to-read history tape, expression view, intuitive conversion, and much more!
+Calcbot ist ein intelligenter Kalkulator und Einheiten-Umrechner für den Rest von uns. Mit einfach zu lesendem Verlauf, Ausdrucks-Ansicht, intuitiver Umrechnung und vielem mehr!
 
 History Tape.
 Every calculation you enter gets saved to the history tape and optionally sent to your clipboard for quick pasting. Refer to calculations later or send them right back to the calculator.
