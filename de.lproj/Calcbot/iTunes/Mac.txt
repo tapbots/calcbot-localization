@@ -7,7 +7,7 @@ Ausdrucks-Ansicht.
 Calcbots originale Ausdrucks-Ansicht erlaubt dir, alles, was du eingetippt hast, zu sehen, sodass du nie vergisst, was du eingegeben hast, und keinen Tippfehler übersiehst.
 
 Umrechnung.
-Konvertiere sämtliche deiner Berechnungen mit über 500 Einheiten aus 22 verschiedenen Kategorien, inklusive automatisch updatender Währungen.
+Konvertiere sämtliche deiner Berechnungen mit über 500 Einheiten aus 22 verschiedenen Kategorien, inklusive automatisch updatender Währungskurse.
 
 Favoriten.
 Favorisiere Berechnungen und erhalte Schnellzugang zu deren Resultaten via Favoriten-Taste. Keine kryptischen Speicher-Tasten mehr.
