@@ -5,30 +5,30 @@
     <key>Pressure</key>
     <string>Druck</string>
     <key>KG/Square Metre</key>
-    <string>KG/Quadratmeter</string>
+    <string>kg/Quadratmeter</string>
     <key>MM of Water</key>
-    <string>MM Wassersäule</string>
+    <string>mm Wassersäule</string>
     <key>Pounds/Square Foot</key>
-    <string>Pfund/Quadratfoot</string>
+    <string>Pounds/Quadratfoot</string>
     <key>CM of Water</key>
-    <string>CM Wassersäule</string>
+    <string>cm Wassersäule</string>
     <key>Hectopascal</key>
     <string>Hektopascal</string>
     <key>MM of Mercury</key>
-    <string>MM Quecksilbersäule</string>
+    <string>mm Quecksilbersäule</string>
     <key>Inch of Water</key>
-    <string>Zoll Wassersäule</string>
+    <string>Inch Wassersäule</string>
     <key>CM of Mercury</key>
-    <string>Zentimeter Quecks.</string>
+    <string>cm Quecksilbersäule</string>
     <key>Inches of Mercury</key>
-    <string>Quecksilber Zoll</string>
+    <string>Inch Quecksilbersäule</string>
     <key>Pounds/Square Inch</key>
-    <string>Pfund/Quadratinch</string>
+    <string>Pounds/Quadratinch</string>
     <key>KG/Square CM</key>
-    <string>KG/Quadratzentimeter</string>
+    <string>kg/Quadratzentimeter</string>
     <key>Bars</key>
     <string>Bar</string>
     <key>Atmospheres</key>
-    <string>Atmosphäre</string>
+    <string>Atmosphären</string>
   </dict>
 </plist>

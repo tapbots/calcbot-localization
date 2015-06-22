@@ -3,12 +3,14 @@
 <plist version="1.0">
   <dict>
     <key>Illuminance</key>
-    <string>Lichtintesität</string>
+    <string>Beleuchtungsstärke</string>
     <key>Lumen/Square Metre</key>
     <string>Lumen/Quadratmeter</string>
+    <key>Foot Candle</key>
+    <string>Footcandle</string>
     <key>Lumen/Square Foot</key>
     <string>Lumen/Quadratfoot</string>
     <key>Lumen/Square CM</key>
-    <string>Lumen/cm²</string>
+    <string>Lumen/Quadratzentimeter</string>
   </dict>
 </plist>

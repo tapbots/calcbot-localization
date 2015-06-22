@@ -24,5 +24,8 @@
     <string>Parsec</string>
     <string>Inch</string>
     <string>Foot</string>
+    <string>Fathom</string>
+    <string>Furlong</string>
+    <string>League</string>
   </array>
 </plist>

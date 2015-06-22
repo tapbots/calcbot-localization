@@ -9,12 +9,12 @@
     <key>Kilogram/Cubic Metre</key>
     <string>Kilogramm/Kubikmeter</string>
     <key>Pound/Cubic Foot</key>
-    <string>Pfund/Kubikfoot</string>
+    <string>Pound/Kubikfoot</string>
     <key>Pound/Gallon</key>
-    <string>Pfund/Gallone</string>
+    <string>Pound/Gallone</string>
     <key>Gram/Cubic CM</key>
     <string>Gramm/Kubikzentimeter</string>
     <key>Pound/Cubic Inch</key>
-    <string>Pfund/Kubikinch</string>
+    <string>Pound/Kubikinch</string>
   </dict>
 </plist>

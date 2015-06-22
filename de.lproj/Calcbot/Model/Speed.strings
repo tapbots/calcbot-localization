@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>Speed</key>
-    <string>Geschw.</string>
+    <string>Geschwindigkeit</string>
     <key>Feet/Minute</key>
     <string>Foot/Minute</string>
     <key>Kilometres/Hour</key>
@@ -27,8 +27,8 @@
     <key>Miles/Minute</key>
     <string>Meilen/Minute</string>
     <key>Minutes/Yards</key>
-    <string>Minuten/Yards</string>
+    <string>Minuten/Yard</string>
     <key>Minutes/Miles</key>
-    <string>Minuten/Meilen</string>
+    <string>Minuten/Meile</string>
   </dict>
 </plist>
