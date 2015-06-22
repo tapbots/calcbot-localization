@@ -1,28 +1,28 @@
-Calcbot is an intelligent calculator and unit converter for the rest of us. Featuring an easy-to-read history tape, expression view, intuitive conversion, and much more!
+Calcbot ist ein intelligenter Kalkulator und Einheiten-Umrechner für den Rest von uns. Mit einfach zu lesendem Verlauf, Ausdrucks-Ansicht, intuitiver Umrechnung und vielem mehr!
 
-History Tape.
-Every calculation you enter gets saved to the history tape and optionally sent to your clipboard for quick pasting. Refer to calculations later or send them right back to the calculator.
+Verlauf.
+Jede Rechnung, die du eingibst, wird im Verlauf gespeichert und optional zum schnellen Einfügen in deine Zwischenablage kopiert. Verwende Resultate oder Berechnungen später im Kalkulator erneut.
 
-Expression View.
-Calcbot’s original expression view allows you to see everything you have typed so you’ll never forget what you entered or miss a typo.
+Ausdrucks-Ansicht.
+Calcbots originale Ausdrucks-Ansicht erlaubt dir, alles, was du eingetippt hast, zu sehen, sodass du nie vergisst, was du eingegeben hast, und keinen Tippfehler übersiehst.
 
-Conversion.
-Convert any of your calculations with over 500 units across 22 different categories including auto-updating currency rates.
+Umrechnung.
+Konvertiere sämtliche deiner Berechnungen mit über 500 Einheiten aus 22 verschiedenen Kategorien, inklusive automatisch updatender Währungskurse.
 
-Favorites.
-Fave a calculation and get instant access to its result via the Favorites Key. No more cryptic memory keys.
+Favoriten.
+Favorisiere Berechnungen und erhalte Schnellzugang zu deren Resultaten via Favoriten-Taste. Keine kryptischen Speicher-Tasten mehr.
 
-Scientific Functions.
-Calcbot supports common scientific functions in case you ever need them.
+Wissenschaftliche Funktionen.
+Calcbot unterstützt übliche wissenschaftliche Funktionen, falls du sie je brauchst.
 
-Constants.
-Get instant access to scientific constants like Pi, Atomic Mass or add your own.
+Konstanten.
+Erhalte sofortigen Zugriff auf wissenschaftliche Konstanten wie Pi, Atommassen-Einheit, oder füge deine eigenen hinzu.
 
-Round for Currency.
-Have all of your results rounded to two decimal places.
+Runden bei Währungen.
+Lass alle deine Resultate auf zwei Dezimalstellen runden.
 
-iCloud Sync.
-Sync your history tape, constants, and faves across multiple Macs and all of your iOS devices.
+iCloud-Synchronisation.
+Synchronisiere deinen Verlauf, deine Konstanten und deine Favoriten mit mehreren Macs und all deinen iOS-Devices.
 
-Sounds & Animations.
-Sound effects & animations to provide positive feedback when performing calculations.
+Töne und Animationen.
+Soundeffekte und Animationen liefern positives Feedback beim Ausführen von Rechnungen.
