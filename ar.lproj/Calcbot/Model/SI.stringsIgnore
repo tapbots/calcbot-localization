@@ -2,22 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <array>
-    <string>SI</string>
-    <string>Yocto</string>
-    <string>Zepto</string>
-    <string>Femto</string>
-    <string>Pico</string>
-    <string>Nano</string>
-    <string>Milli</string>
-    <string>Centi</string>
-    <string>Deka</string>
-    <string>Kilo</string>
-    <string>Mega</string>
-    <string>Giga</string>
-    <string>Tera</string>
-    <string>Peta</string>
-    <string>Exa</string>
-    <string>Zetta</string>
-    <string>Yotta</string>
+
   </array>
 </plist>

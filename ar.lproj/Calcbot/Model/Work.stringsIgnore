@@ -2,13 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <array>
-    <string>Joule</string>
-    <string>Kilojoule</string>
     <string>BTU</string>
-    <string>Megajoule</string>
     <string>MBTU</string>
-    <string>Therm</string>
     <string>MMBTU</string>
-    <string>Quad</string>
   </array>
 </plist>

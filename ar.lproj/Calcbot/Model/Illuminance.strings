@@ -4,11 +4,23 @@
   <dict>
     <key>Illuminance</key>
     <string>استضاءة</string>
+    <key>Millilux</key>
+    <string>مليلكس</string>
+    <key>Nox</key>
+    <string>نكس</string>
     <key>Lumen/Square Metre</key>
     <string>لومن/متر مربع</string>
+    <key>Lux</key>
+    <string>لكس</string>
+    <key>Foot Candle</key>
+    <string>قدم شمعة</string>
     <key>Lumen/Square Foot</key>
     <string>لومن/قدم مربع</string>
+    <key>Kilolux</key>
+    <string>كيلولكس</string>
     <key>Lumen/Square CM</key>
     <string>لومن/سم مربع</string>
+    <key>Phot</key>
+    <string>فت</string>
   </dict>
 </plist>

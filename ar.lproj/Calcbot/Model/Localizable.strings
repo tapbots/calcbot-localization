@@ -9,7 +9,7 @@
     <key>Error</key>
     <string>خطأ</string>
     <key>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</key>
-    <string>Failed to read conversion rates data. If this error continues to happen contact Tapbots support</string>
+    <string>فشلت قراءة بيانات أسعار التحويل. إذا تكرر هذا الخطأ راسل الدعم الفني</string>
     <key>add</key>
     <string>إضافة</string>
     <key>alternate functions</key>
@@ -17,11 +17,11 @@
     <key>clear</key>
     <string>مسح</string>
     <key>close parenthesis</key>
-    <string>close parenthesis</string>
+    <string>إغلاق القوس</string>
     <key>constants</key>
-    <string>constants</string>
+    <string>الثوابت</string>
     <key>cosine</key>
-    <string>cosine</string>
+    <string>الجيب التمام لزاوية</string>
     <key>cube</key>
     <string>تكعيب</string>
     <key>cube root</key>
@@ -39,25 +39,25 @@
     <key>equal</key>
     <string>يساوي</string>
     <key>exponential</key>
-    <string>exponential</string>
+    <string>دالة أسية</string>
     <key>factorial</key>
-    <string>factorial</string>
+    <string>عاملي</string>
     <key>favorites</key>
     <string>المفضلة</string>
     <key>hyperbolic cosine</key>
-    <string>hyperbolic cosine</string>
+    <string>جيب التمام الزائدي</string>
     <key>hyperbolic sine</key>
-    <string>hyperbolic sine</string>
+    <string>الجيب الزائدي</string>
     <key>hyperbolic tangent</key>
-    <string>hyperbolic tangent</string>
+    <string>الظل الزائدي</string>
     <key>inverse cosine</key>
     <string>inverse cosine</string>
     <key>inverse hyperbolic cosine</key>
-    <string>inverse hyperbolic cosine</string>
+    <string>معكوس جيب التمام الزائدي</string>
     <key>inverse hyperbolic sine</key>
-    <string>inverse hyperbolic sine</string>
+    <string>معكوس الجيب الزائدي</string>
     <key>inverse hyperbolic tangent</key>
-    <string>inverse hyperbolic tangent</string>
+    <string>معكوس الظل الزائدي</string>
     <key>inverse sine</key>
     <string>inverse sine</string>
     <key>inverse tangent</key>
@@ -77,7 +77,7 @@
     <key>percent</key>
     <string>نسبة مئوية</string>
     <key>plus, minus</key>
-    <string>plus, minus</string>
+    <string>زائد، ناقص</string>
     <key>power</key>
     <string>power</string>
     <key>radians</key>

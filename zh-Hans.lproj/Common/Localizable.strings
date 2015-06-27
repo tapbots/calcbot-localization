@@ -3,84 +3,84 @@
 <plist version="1.0">
   <dict>
     <key>%@d</key>
-    <string>%@ 天</string>
+    <string>%@d</string>
     <key>%d days</key>
-    <string>%d 天</string>
+    <string>%d days</string>
     <key>%d hours</key>
-    <string>%d 小时</string>
+    <string>%d hours</string>
     <key>%d minutes</key>
-    <string>%d 分钟</string>
+    <string>%d minutes</string>
     <key>%d seconds</key>
-    <string>%d 秒钟</string>
+    <string>%d seconds</string>
     <key>%dd</key>
-    <string>%d 天</string>
+    <string>%dd</string>
     <key>%dh</key>
-    <string>%d 时</string>
+    <string>%dh</string>
     <key>%dm</key>
-    <string>%d 月</string>
+    <string>%dm</string>
     <key>%ds</key>
-    <string>%d 秒</string>
+    <string>%ds</string>
     <key>1 day</key>
-    <string>1 天</string>
+    <string>1 day</string>
     <key>1 hour</key>
-    <string>1 小时</string>
+    <string>1 hour</string>
     <key>1 minute</key>
-    <string>1 分钟</string>
+    <string>1 minute</string>
     <key>1 second</key>
-    <string>1 秒钟</string>
+    <string>1 second</string>
     <key>About</key>
-    <string>关于</string>
+    <string>About</string>
     <key>Calcbot Preferences</key>
-    <string>Calcbot 偏好设置</string>
+    <string>Calcbot Preferences</string>
     <key>Cancel</key>
-    <string>取消</string>
+    <string>Cancel</string>
     <key>Cancelled</key>
-    <string>已取消</string>
+    <string>Cancelled</string>
     <key>Close</key>
-    <string>关闭</string>
+    <string>Close</string>
     <key>Couldn’t parse JSON data.</key>
-    <string>无法解析 JSON 数据。</string>
+    <string>Couldn’t parse JSON data.</string>
     <key>Dumb Quotes</key>
-    <string>直引号</string>
+    <string>Dumb Quotes</string>
     <key>FOLLOW US ON TWITTER</key>
-    <string>在推特上关注我们</string>
+    <string>FOLLOW US ON TWITTER</string>
     <key>Invalid Data</key>
-    <string>无效数据</string>
+    <string>Invalid Data</string>
     <key>Leave %@?</key>
-    <string>离开%@?</string>
+    <string>Leave %@?</string>
     <key>Network Connection Busy</key>
-    <string>网络连接繁忙</string>
+    <string>Network Connection Busy</string>
     <key>Now</key>
-    <string>现在</string>
+    <string>Now</string>
     <key>OTHER APPS</key>
-    <string>其它应用</string>
+    <string>OTHER APPS</string>
     <key>Open</key>
-    <string>打开</string>
+    <string>Open</string>
     <key>Over 1 year</key>
-    <string>超过一年</string>
+    <string>Over 1 year</string>
     <key>Please try again later.</key>
-    <string>请稍后再试。</string>
+    <string>Please try again later.</string>
     <key>Privacy Policy</key>
-    <string>隐私政策</string>
+    <string>Privacy Policy</string>
     <key>Request Timed Out</key>
-    <string>请求超时</string>
+    <string>Request Timed Out</string>
     <key>Review %@ on iTunes</key>
-    <string>在 iTunes 上评价 %@</string>
+    <string>Review %@ on iTunes</string>
     <key>Smart Quotes</key>
-    <string>弯引号</string>
+    <string>Smart Quotes</string>
     <key>The link is requesting to open an external application. Would you like to continue?</key>
-    <string>当前链接需要在外部应用程序中打开。是否继续？</string>
+    <string>The link is requesting to open an external application. Would you like to continue?</string>
     <key>Today at %@</key>
-    <string>今天 %@</string>
+    <string>Today at %@</string>
     <key>Unknown Error.</key>
-    <string>未知错误</string>
+    <string>Unknown Error.</string>
     <key>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
 Paul codes in Texas and Mark designs in California.</key>
-    <string>我们是一家很小的二人公司（有时为三人），热爱创造 iOS 和 Mac 上的卓越应用。
-Paul 于得克萨斯州编码，Mark 于加利福尼亚州设计。</string>
+    <string>We are a tiny two-person company (sometimes three) that loves creating exceptional apps for iOS and the Mac.
+Paul codes in Texas and Mark designs in California.</string>
     <key>Which account do you want to follow %@ with?</key>
-    <string>你准备用哪个账号来关注 %@?</string>
+    <string>Which account do you want to follow %@ with?</string>
     <key>Yesterday at %@</key>
-    <string>昨天 %@</string>
+    <string>Yesterday at %@</string>
   </dict>
 </plist>

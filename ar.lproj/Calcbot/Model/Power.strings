@@ -14,15 +14,23 @@
     <string>وحدة حرارية بريطانية/ساعة</string>
     <key>Newton Metre/Second</key>
     <string>متر نيوتن/ثانية</string>
+    <key>Watt</key>
+    <string>واط</string>
     <key>Foot-Pound/Second</key>
     <string>Foot-Pound/Second</string>
+    <key>BTU/Minute</key>
+    <string>BTU/دقيقة</string>
     <key>Metric Horsepower</key>
     <string>وحدة الحصان المترية</string>
     <key>Horsepower</key>
     <string>حصان</string>
+    <key>Kilowatt</key>
+    <string>كيلوواط</string>
     <key>BTU/Second</key>
     <string>وحدة حرارية بريطانية/ثانية</string>
     <key>Ton of Refrigeration</key>
     <string>Ton of Refrigeration</string>
+    <key>Megawatt</key>
+    <string>ميجاواط</string>
   </dict>
 </plist>

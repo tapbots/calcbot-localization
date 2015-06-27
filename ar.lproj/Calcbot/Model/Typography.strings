@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>Typography</key>
-    <string>Typography</string>
+    <string>طباعة وخط</string>
     <key>Pixel</key>
     <string>بكسل</string>
     <key>300 dpi</key>
@@ -17,7 +17,7 @@
     <key>Point</key>
     <string>نقطة</string>
     <key>Didot</key>
-    <string>Didot</string>
+    <string>ديدوت</string>
     <key>Millimetre</key>
     <string>مليمتر</string>
     <key>Agate Line</key>

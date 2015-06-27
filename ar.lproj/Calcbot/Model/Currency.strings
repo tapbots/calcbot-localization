@@ -6,6 +6,8 @@
     <string>العملات</string>
     <key>UAE Dirham</key>
     <string>درهم إماراتي</string>
+    <key>Lek</key>
+    <string>ليك ألباني</string>
     <key>Dutch Guilder</key>
     <string>خولده هولندي</string>
     <key>Argentine Peso</key>
@@ -14,6 +16,8 @@
     <string>دولار أسترالي</string>
     <key>Aruban Florin</key>
     <string>فلورن أروبي</string>
+    <key>Barbados Dollar</key>
+    <string>دولار بربادوسي</string>
     <key>Bangladeshi Taka</key>
     <string>تاكا بنغلاديشي</string>
     <key>Bulgarian Lev</key>
@@ -24,12 +28,22 @@
     <string>فرنك بوروندي</string>
     <key>Bermudian Dollar</key>
     <string>دولار برمودي</string>
+    <key>Brunei Dollar</key>
+    <string>دولار بروناي</string>
+    <key>Boliviano</key>
+    <string>بوليفاريو بوليفي</string>
     <key>Brazilian Real</key>
     <string>ريال برازيلي</string>
     <key>Bahamian Dollar</key>
     <string>دولار بهامي</string>
+    <key>Ngultrum</key>
+    <string>نغولترم بوتاني</string>
+    <key>Pula</key>
+    <string>بوتسوانا بولا</string>
     <key>Belarusian Ruble</key>
     <string>روبل بلاروسي</string>
+    <key>Belize Dollar</key>
+    <string>دولار بليزي</string>
     <key>Canadian Dollar</key>
     <string>دولار كندي</string>
     <key>Swiss Franc</key>
@@ -54,16 +68,34 @@
     <string>بيزو دومنيكاني</string>
     <key>Algerian Dinar</key>
     <string>دينار جزائري</string>
+    <key>Kroon</key>
+    <string>كرون إستوني</string>
     <key>Egyptian Pound</key>
     <string>جنيه مصري</string>
     <key>Ethiopian Birr</key>
     <string>بير إثيوبي</string>
+    <key>Euro</key>
+    <string>يورو</string>
     <key>Fiji Dollar</key>
     <string>دولار فيجي</string>
     <key>Pound Sterling</key>
     <string>جنيه إسترليني</string>
+    <key>Dalasi</key>
+    <string>دالاسي غامبي</string>
+    <key>Guinea Franc</key>
+    <string>فرنك غيني</string>
+    <key>Quetzal</key>
+    <string>كتزال غواتيمالي</string>
+    <key>Hong Kong Dollar</key>
+    <string>دولار هونغ كونغ</string>
+    <key>Lempira</key>
+    <string>لمبيرة هندوراسية</string>
     <key>Croatian Kuna</key>
     <string>كونا كرواتية</string>
+    <key>Haiti Gourde</key>
+    <string>جوردة هايتية</string>
+    <key>Forint</key>
+    <string>فورنت مجري</string>
     <key>Indonesian Rupiah</key>
     <string>روبية إندونيسية</string>
     <key>Israeli New Sheqel</key>
@@ -88,12 +120,18 @@
     <string>فرنك قمري</string>
     <key>South Korean Won</key>
     <string>وون كوري جنوبي</string>
+    <key>Kuwaiti Dinar</key>
+    <string>دينار كويتي</string>
     <key>Cayman Island Dollar</key>
     <string>دولار جزر كايمان</string>
+    <key>Tenge</key>
+    <string>تينغ كازاخستاني</string>
     <key>Lebanese Pound</key>
     <string>ليرة لبنانية</string>
     <key>Sri Lanka Rupee</key>
     <string>روبية سريلانكي</string>
+    <key>Loti</key>
+    <string>لوتي ليسوتو</string>
     <key>Lithuanian Litas</key>
     <string>ليتاس ليتواني</string>
     <key>Latvian Lats</key>
@@ -104,14 +142,26 @@
     <string>ليو مولدوفي</string>
     <key>Macedonian Denar</key>
     <string>دينار مقدوني</string>
+    <key>Tugrik</key>
+    <string>توغروغ منغولي</string>
+    <key>Pataca</key>
+    <string>باتاكا ماكاوية</string>
+    <key>Ouguiya</key>
+    <string>أوقية موريتانية</string>
     <key>Mauritius Rupee</key>
     <string>روبي موريشي</string>
+    <key>Rufiyaa</key>
+    <string>روفيه مالديفية</string>
+    <key>Kwacha</key>
+    <string>كواشا ملاوية</string>
     <key>Mexican Peso</key>
     <string>بيزو مكسيكي</string>
     <key>Malaysian Ringgit</key>
     <string>رينغيت ماليزي</string>
     <key>Namibian Dollar</key>
     <string>دولار ناميبي</string>
+    <key>Naira</key>
+    <string>نيرة نيجيرية</string>
     <key>Cordoba Oro</key>
     <string>كوردبا نيكاراغوا</string>
     <key>Norwegian Krone</key>
@@ -122,12 +172,22 @@
     <string>دولار نيوزيلندي</string>
     <key>Rial Omani</key>
     <string>ريال عماني</string>
+    <key>Balboa</key>
+    <string>بالبوا بنمي</string>
+    <key>Nuevo Sol</key>
+    <string>سول بيروفي جديد</string>
+    <key>Kina</key>
+    <string>كينا بابوا غينيا الجديدة</string>
     <key>Philippine Peso</key>
     <string>بيسو فلبيني</string>
     <key>Pakistan Rupee</key>
     <string>روبية باكستانية</string>
+    <key>Guarani</key>
+    <string> غواراني باراغواي</string>
     <key>Qatari Riyal</key>
     <string>ريال قطري</string>
+    <key>Renminbi</key>
+    <string> رنمينبي </string>
     <key>Romanian New Leu</key>
     <string>ليو روماني جديد</string>
     <key>Russian Ruble</key>
@@ -148,8 +208,14 @@
     <string>تولار سلوفيني</string>
     <key>Slovak Koruna</key>
     <string>كرونة سلوفاكية</string>
+    <key>Leone</key>
+    <string>ليون سيراليوني </string>
+    <key>Dobra</key>
+    <string>دوبرا ساو توميه وبرينسيب</string>
     <key>El Salvador Colon</key>
     <string>كولون سلڤادوري</string>
+    <key>Lilangeni</key>
+    <string>ليلانغيني سوازيلندي</string>
     <key>Thai Baht</key>
     <string>بات تايلاندي</string>
     <key>Tunisian Dinar</key>
@@ -164,16 +230,30 @@
     <string>دولار تايواني جديد</string>
     <key>Tanzanian Shilling</key>
     <string>شيلينغ تانزاني</string>
+    <key>Hryvnia</key>
+    <string>هريفنا أوكرانية</string>
     <key>Uganda Shilling</key>
     <string>شيلينغ أوغندي</string>
+    <key>US Dollar</key>
+    <string>دولار أمريكي</string>
     <key>Peso Uruguayo</key>
     <string>بيزو أوروغواي</string>
     <key>Ven. Bolivar</key>
     <string>بوليفار فنزويلي</string>
     <key>Vietnamese Dong</key>
     <string>دونغ فيتنامي</string>
+    <key>Vanuatu Vatu</key>
+    <string> فاتو فانواتي</string>
     <key>Samoan Tala</key>
     <string>تالا ساموي</string>
+    <key>CFA Franc (BEAC)</key>
+    <string>فرنك وسط أفريقي</string>
+    <key>E. Car. Dollar</key>
+    <string>E. Car. دولار</string>
+    <key>CFA Franc (BCEAO)</key>
+    <string> فرنك غرب أفريقي</string>
+    <key>CFP Franc</key>
+    <string>فرنك س ف ب</string>
     <key>Yemen Riyal</key>
     <string>ريال يمني</string>
     <key>South African Rand</key>
@@ -184,6 +264,8 @@
     <string>شيلينغ نمساوي</string>
     <key>Belgian Franc</key>
     <string>فرانك بلجيكي</string>
+    <key>Deutsche Mark</key>
+    <string>مارك ألماني</string>
     <key>Finnish Markka</key>
     <string>ماركا فنلندية</string>
     <key>French Franc</key>

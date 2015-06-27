@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>Typography</key>
-    <string>Typography</string>
     <key>300 dpi</key>
     <string>300 dpi</string>
     <key>150 dpi</key>
@@ -12,7 +10,5 @@
     <string>96 dpi</string>
     <key>72 dpi</key>
     <string>72 dpi</string>
-    <key>Didot</key>
-    <string>Didot</string>
   </dict>
 </plist>

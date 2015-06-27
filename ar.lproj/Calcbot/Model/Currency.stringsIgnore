@@ -2,47 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <array>
-    <string>Lek</string>
-    <string>Barbados Dollar</string>
-    <string>Brunei Dollar</string>
-    <string>Boliviano</string>
-    <string>Ngultrum</string>
-    <string>Pula</string>
-    <string>Belize Dollar</string>
-    <string>Kroon</string>
-    <string>Euro</string>
-    <string>Dalasi</string>
-    <string>Guinea Franc</string>
-    <string>Quetzal</string>
-    <string>Hong Kong Dollar</string>
-    <string>Lempira</string>
-    <string>Haiti Gourde</string>
-    <string>Forint</string>
-    <string>Kuwaiti Dinar</string>
-    <string>Tenge</string>
-    <string>Loti</string>
-    <string>Tugrik</string>
-    <string>Pataca</string>
-    <string>Ouguiya</string>
-    <string>Rufiyaa</string>
-    <string>Kwacha</string>
-    <string>Naira</string>
-    <string>Balboa</string>
-    <string>Nuevo Sol</string>
-    <string>Kina</string>
     <string>Złoty</string>
-    <string>Guarani</string>
-    <string>Renminbi</string>
-    <string>Leone</string>
-    <string>Dobra</string>
-    <string>Lilangeni</string>
-    <string>Hryvnia</string>
-    <string>US Dollar</string>
-    <string>Vanuatu Vatu</string>
-    <string>CFA Franc (BEAC)</string>
-    <string>E. Car. Dollar</string>
-    <string>CFA Franc (BCEAO)</string>
-    <string>CFP Franc</string>
-    <string>Deutsche Mark</string>
   </array>
 </plist>

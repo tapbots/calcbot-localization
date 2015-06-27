@@ -16,10 +16,14 @@
     <string>بوصة</string>
     <key>Foot</key>
     <string>قدم</string>
+    <key>Yard</key>
+    <string>يارد</string>
     <key>Metre</key>
     <string>متر</string>
     <key>Fathom</key>
     <string>قامة</string>
+    <key>Rod</key>
+    <string>قصبة</string>
     <key>Furlong</key>
     <string>Furlong</string>
     <key>Kilometre</key>
@@ -36,5 +40,7 @@
     <string>وحدة فلكية</string>
     <key>Light Year</key>
     <string>سنة ضوئية</string>
+    <key>Parsec</key>
+    <string>فرسخ</string>
   </dict>
 </plist>

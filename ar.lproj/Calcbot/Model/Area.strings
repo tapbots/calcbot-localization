@@ -17,6 +17,10 @@
     <key>Square Metre</key>
     <string>متر مربع</string>
     <key>Are</key>
+    <string>آر</string>
+    <key>Dunam</key>
+    <string>دونم</string>
+    <key>Acre</key>
     <string>فدان</string>
     <key>Hectare</key>
     <string>هكتار</string>

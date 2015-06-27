@@ -4,7 +4,31 @@
   <dict>
     <key>Data Size</key>
     <string>حجم البيانات</string>
+    <key>Bit</key>
+    <string>بت</string>
+    <key>Byte</key>
+    <string>بايت</string>
+    <key>Kilobit</key>
+    <string>كيلوبت</string>
     <key>SI</key>
     <string>نظام الوحدات الدولي</string>
+    <key>Kilobyte</key>
+    <string>كيلوبايت</string>
+    <key>Megabit</key>
+    <string>ميجابت</string>
+    <key>Megabyte</key>
+    <string>ميجابايت</string>
+    <key>Gigabit</key>
+    <string>جيجابت</string>
+    <key>Gigabyte</key>
+    <string>جيجابايت</string>
+    <key>Terabit</key>
+    <string>تيرابت</string>
+    <key>Terabyte</key>
+    <string>تيرابايت</string>
+    <key>Petabit</key>
+    <string>بيتابت</string>
+    <key>Petabyte</key>
+    <string>بيتابايت</string>
   </dict>
 </plist>

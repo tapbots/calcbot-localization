@@ -33,7 +33,7 @@
     <key>Litre</key>
     <string>لتر</string>
     <key>Dry Quart</key>
-    <string>Dry Quart</string>
+    <string>الكوارت الجاف</string>
     <key>Gallon</key>
     <string>غالون</string>
     <key>Dry Gallon</key>
@@ -41,7 +41,7 @@
     <key>Cubic Feet</key>
     <string>قدم مكعب</string>
     <key>Bushel</key>
-    <string>Bushel</string>
+    <string>بوشل</string>
     <key>Beer Barrel</key>
     <string>برميل بيرة</string>
     <key>Oil Barrel</key>

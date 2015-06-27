@@ -2,17 +2,5 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <array>
-    <string>Bit</string>
-    <string>Byte</string>
-    <string>Kilobit</string>
-    <string>Kilobyte</string>
-    <string>Megabit</string>
-    <string>Megabyte</string>
-    <string>Gigabit</string>
-    <string>Gigabyte</string>
-    <string>Terabit</string>
-    <string>Terabyte</string>
-    <string>Petabit</string>
-    <string>Petabyte</string>
-  </array>
+ </array>
 </plist>

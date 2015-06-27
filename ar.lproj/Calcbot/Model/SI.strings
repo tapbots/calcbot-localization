@@ -2,15 +2,49 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>SI</key>
+    <string>نظام الوحدات الدولي</string>
+    <key>Yocto</key>
+    <string>يوكتو</string>
+    <key>Zepto</key>
+    <string>زيبتو</string>
     <key>Atto</key>
     <string>أتو</string>
+    <key>Femto</key>
+    <string>فيمتو</string>
+    <key>Pico</key>
+    <string>بيكو</string>
+    <key>Nano</key>
+    <string>نانو</string>
     <key>Micro</key>
     <string>ميكرو</string>
+    <key>Milli</key>
+    <string>ميللي</string>
+    <key>Centi</key>
+    <string>سنتي</string>
     <key>Deci</key>
     <string>ديسي</string>
     <key>Base</key>
     <string>أساسية</string>
+    <key>Deka</key>
+    <string>ديكا</string>
     <key>Hecto</key>
     <string>هكتو</string>
+    <key>Kilo</key>
+    <string>كيلو</string>
+    <key>Mega</key>
+    <string>ميجا</string>
+    <key>Giga</key>
+    <string>جيجا</string>
+    <key>Tera</key>
+    <string>تيرا</string>
+    <key>Peta</key>
+    <string>بيتا</string>
+    <key>Exa</key>
+    <string>إكسا</string>
+    <key>Zetta</key>
+    <string>زيتا</string>
+    <key>Yotta</key>
+    <string>يوتا</string>
   </dict>
 </plist>

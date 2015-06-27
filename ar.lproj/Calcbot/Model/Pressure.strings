@@ -4,6 +4,8 @@
   <dict>
     <key>Pressure</key>
     <string>ضغط</string>
+    <key>Pascal</key>
+    <string>باسكال</string>
     <key>KG/Square Metre</key>
     <string>كيلوغرام/متر مربع</string>
     <key>MM of Water</key>
@@ -14,10 +16,16 @@
     <string>CM of Water</string>
     <key>Hectopascal</key>
     <string>هكتوباسكال</string>
+    <key>Millibar</key>
+    <string>مليبار</string>
+    <key>Torr</key>
+    <string>تور</string>
     <key>MM of Mercury</key>
     <string>MM of Mercury</string>
     <key>Inch of Water</key>
     <string>Inch of Water</string>
+    <key>Kilopascal</key>
+    <string>كيلوباسكال</string>
     <key>CM of Mercury</key>
     <string>CM of Mercury</string>
     <key>Inches of Mercury</key>
@@ -30,5 +38,9 @@
     <string>بار</string>
     <key>Atmospheres</key>
     <string>جو</string>
+    <key>Megapascal</key>
+    <string>ميجاباسكال</string>
+    <key>Gigapascal</key>
+    <string>جيجاباسكال</string>
   </dict>
 </plist>

@@ -10,18 +10,26 @@
     <string>إرج</string>
     <key>Inch Pound</key>
     <string>رطل على البوصة المربعة</string>
+    <key>Joule</key>
+    <string>جول</string>
     <key>Newton Metre</key>
     <string>نيوتن متر</string>
     <key>Foot Pound</key>
     <string>رطل على القدم المربعة</string>
     <key>Calorie</key>
     <string>سعرة</string>
+    <key>Kilojoule</key>
+    <string>كيلو جول</string>
     <key>Watt Hour</key>
     <string>واط ساعي</string>
     <key>Kilogram Calorie</key>
     <string>كيلو كالوري</string>
+    <key>Megajoule</key>
+    <string>ميجا جول</string>
     <key>Kilowatt Hour</key>
     <string>كيلوواط ساعي</string>
+    <key>Therm</key>
+    <string>تيرم</string>
     <key>Megawatt Hour</key>
     <string>ميجاواط ساعي</string>
     <key>Tonne of Coal</key>
@@ -30,5 +38,7 @@
     <string>طن نفط مكافئ</string>
     <key>Gigawatt Hour</key>
     <string>جيجاواط ساعي</string>
+    <key>Quad</key>
+    <string>كواد</string>
   </dict>
 </plist>

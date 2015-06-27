@@ -4,5 +4,13 @@
   <dict>
     <key>Temperature</key>
     <string>درجة الحرارة</string>
+    <key>Fahrenheit</key>
+    <string>فهرنهايت</string>
+    <key>Celsius</key>
+    <string>درجة حرارة مئوية</string>
+    <key>Kelvin</key>
+    <string>كلفن</string>
+    <key>Rankine</key>
+    <string>رانكين</string>
   </dict>
 </plist>

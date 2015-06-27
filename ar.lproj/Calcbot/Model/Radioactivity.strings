@@ -3,8 +3,20 @@
 <plist version="1.0">
   <dict>
     <key>Radioactivity</key>
-    <string>Radioactivity</string>
+    <string>النشاط الإشعاعي</string>
+    <key>Becquerel</key>
+    <string>بيكريل</string>
     <key>Microcurie</key>
     <string>ميكرو كوري</string>
+    <key>Megabecquerel</key>
+    <string>ميجابيكريل</string>
+    <key>Millicurie</key>
+    <string>مليكوري</string>
+    <key>Gigabecquerel</key>
+    <string>جيجابيكريل</string>
+    <key>Curie</key>
+    <string>كوري</string>
+    <key>Terabecquerel</key>
+    <string>تيرابيكريل</string>
   </dict>
 </plist>

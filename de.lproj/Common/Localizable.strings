@@ -59,7 +59,7 @@
     <key>Smart Quotes</key>
     <string>Typographische Anführungszeichen</string>
     <key>The link is requesting to open an external application. Would you like to continue?</key>
-    <string>Der Link möchte eine externe Anwendung öffnen. Möchtest du fortfahren?</string>
+    <string>Der Link möchte eine externe Anwendung öffnen. Wollen Sie fortfahren?</string>
     <key>Today at %@</key>
     <string>Heute um %@</string>
     <key>Unknown Error.</key>
@@ -69,7 +69,7 @@ Paul codes in Texas and Mark designs in California.</key>
     <string>Wir sind ein kleines Zwei-, manchmal auch Drei-Personen-Unternehmen, welches es liebt außergewöhnliche Apps für iOS und den Mac zu erschaffen.
 Paul programmiert in Texas und Mark designt in Kalifornien.</string>
     <key>Which account do you want to follow %@ with?</key>
-    <string>Mit welchem Account möchtest du %@ folgen?</string>
+    <string>Mit welchem Account möchten Sie %@ folgen?</string>
     <key>Yesterday at %@</key>
     <string>Gestern um %@</string>
   </dict>
