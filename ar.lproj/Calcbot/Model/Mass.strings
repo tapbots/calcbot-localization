@@ -8,16 +8,22 @@
     <string>ميكروغرام</string>
     <key>Milligram</key>
     <string>مليغرام</string>
+    <key>Grain</key>
+    <string>حبة</string>
     <key>Carat</key>
     <string>قيراط</string>
     <key>Gram</key>
     <string>غرام</string>
+    <key>Pennyweight</key>
+    <string>پني ويت</string>
     <key>Ounce</key>
     <string>أونصة</string>
     <key>Troy Ounce</key>
     <string>الأوقية الترويسية</string>
     <key>Pound</key>
     <string>رطل</string>
+    <key>Kin</key>
+    <string>كن</string>
     <key>Kilogram</key>
     <string>كيلوغرام</string>
     <key>Short Ton</key>
@@ -25,6 +31,6 @@
     <key>Metric Ton</key>
     <string>طن متري</string>
     <key>Long Ton</key>
-    <string>طن بريطاني إمبراطوري</string>
+    <string>طن إنجليزي</string>
   </dict>
 </plist>

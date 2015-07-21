@@ -5,18 +5,9 @@
     <string>Dash</string>
     <string>Pinch</string>
     <string>Sai</string>
-    <string>Dram</string>
     <string>Shaku</string>
     <string>Shot</string>
-    <string>Gill</string>
-    <string>Gō</string>
-    <string>Cup</string>
-    <string>Pint</string>
-    <string>Quart</string>
-    <string>Shō</string>
-    <string>Peck</string>
-    <string>To</string>
     <string>Bucket</string>
-    <string>Koku</string>
+    <string>Fifth</string>
   </array>
 </plist>

@@ -4,16 +4,26 @@
   <dict>
     <key>Length</key>
     <string>الطول</string>
+    <key>Ångström</key>
+    <string>أنجستروم</string>
     <key>Nanometre</key>
     <string>نانو متر</string>
     <key>Micron</key>
     <string>ميكرومتر</string>
+    <key>Mil</key>
+    <string>مل</string>
+    <key>Thou</key>
+    <string>مل دائري</string>
     <key>Millimetre</key>
     <string>مليمتر</string>
     <key>Centimetre</key>
     <string>سنتيمتر</string>
     <key>Inch</key>
     <string>بوصة</string>
+    <key>Hand</key>
+    <string>يد</string>
+    <key>Link</key>
+    <string>رابط</string>
     <key>Foot</key>
     <string>قدم</string>
     <key>Yard</key>
@@ -24,14 +34,18 @@
     <string>قامة</string>
     <key>Rod</key>
     <string>قصبة</string>
+    <key>Chain</key>
+    <string>سلسلة</string>
     <key>Furlong</key>
-    <string>Furlong</string>
+    <string>الفرلنغ</string>
     <key>Kilometre</key>
     <string>كيلومتر</string>
     <key>Mile</key>
     <string>ميل</string>
     <key>Nautical Mile</key>
     <string>ميل بحري</string>
+    <key>League</key>
+    <string>فَرْسَخ</string>
     <key>Light Second</key>
     <string>الثانية الضوئية</string>
     <key>Light Minute</key>
@@ -41,6 +55,6 @@
     <key>Light Year</key>
     <string>سنة ضوئية</string>
     <key>Parsec</key>
-    <string>فرسخ</string>
+    <string>فرسخ نجمى</string>
   </dict>
 </plist>

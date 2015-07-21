@@ -10,18 +10,28 @@
     <string>سنتيمتر مربع</string>
     <key>Square Inch</key>
     <string>بوصة مربعة</string>
+    <key>Shaku</key>
+    <string>شاكو</string>
     <key>Square Foot</key>
     <string>قدم مربع</string>
     <key>Square Yard</key>
     <string>ياردة مربعة</string>
     <key>Square Metre</key>
     <string>متر مربع</string>
+    <key>Tsubo</key>
+    <string>تسوبو</string>
+    <key>Se</key>
+    <string>سي</string>
     <key>Are</key>
     <string>آر</string>
+    <key>Tan</key>
+    <string>تان</string>
     <key>Dunam</key>
     <string>دونم</string>
     <key>Acre</key>
     <string>فدان</string>
+    <key>Chō</key>
+    <string>تشو</string>
     <key>Hectare</key>
     <string>هكتار</string>
     <key>Square Kilometre</key>

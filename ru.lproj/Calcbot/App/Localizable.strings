@@ -296,7 +296,5 @@ on your Apple Watch.</key>
     <string>кнопка настроек ленты</string>
     <key>unfavorite expression</key>
     <string>убрать выражение из избранного</string>
-    <key>unknown</key>
-    <string>неизвестно</string>
   </dict>
 </plist>

@@ -10,8 +10,6 @@
     <string>بايت</string>
     <key>Kilobit</key>
     <string>كيلوبت</string>
-    <key>SI</key>
-    <string>نظام الوحدات الدولي</string>
     <key>Kilobyte</key>
     <string>كيلوبايت</string>
     <key>Megabit</key>

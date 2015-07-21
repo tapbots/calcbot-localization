@@ -2,6 +2,20 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>%@B</key>
+    <string>%@B</string>
+    <key>%@E</key>
+    <string>%@E</string>
+    <key>%@K</key>
+    <string>%@K</string>
+    <key>%@M</key>
+    <string>%@M</string>
+    <key>%@P</key>
+    <string>%@P</string>
+    <key>%@T</key>
+    <string>%@T</string>
+    <key>%@Z</key>
+    <string>%@Z</string>
     <key>%@d</key>
     <string>%@日</string>
     <key>%d days</key>

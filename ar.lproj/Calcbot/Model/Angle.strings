@@ -4,6 +4,8 @@
   <dict>
     <key>Angle</key>
     <string>زاوية</string>
+    <key>Mil</key>
+    <string>Mil</string>
     <key>Degree</key>
     <string>درجة</string>
     <key>Grad</key>

@@ -9,11 +9,11 @@
     <key>KG/Square Metre</key>
     <string>كيلوغرام/متر مربع</string>
     <key>MM of Water</key>
-    <string>MM of Water</string>
+    <string>ميلليمتر ماء</string>
     <key>Pounds/Square Foot</key>
     <string>أرطال/قدم مربع</string>
     <key>CM of Water</key>
-    <string>CM of Water</string>
+    <string>سنتيمتر من الماء</string>
     <key>Hectopascal</key>
     <string>هكتوباسكال</string>
     <key>Millibar</key>
@@ -21,15 +21,15 @@
     <key>Torr</key>
     <string>تور</string>
     <key>MM of Mercury</key>
-    <string>MM of Mercury</string>
+    <string>ملليمتر من الزئبق</string>
     <key>Inch of Water</key>
-    <string>Inch of Water</string>
+    <string>بوصة من الماء</string>
     <key>Kilopascal</key>
     <string>كيلوباسكال</string>
     <key>CM of Mercury</key>
-    <string>CM of Mercury</string>
+    <string>سنتيمتر من الزئبق</string>
     <key>Inches of Mercury</key>
-    <string>Inches of Mercury</string>
+    <string>بوصة من الزئبق</string>
     <key>Pounds/Square Inch</key>
     <string>أرطال/بوصة مربعة</string>
     <key>KG/Square CM</key>

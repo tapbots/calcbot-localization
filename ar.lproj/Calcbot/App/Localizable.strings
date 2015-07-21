@@ -13,7 +13,7 @@
     <key>Add your own values and labels to the constants menu.</key>
     <string>أضف القيم الخاصة بك ومسمياتها إلى قائمة الثوابت.</string>
     <key>Already Purchased? &lt;link&gt;Restore Pro&lt;/link&gt;.</key>
-    <string>Already Purchased? &lt;link&gt;Restore Pro&lt;/link&gt;.</string>
+    <string>هل اشتريتها من قبل؟ &lt;link&gt;استعادة المشتريات&lt;/link&gt;.</string>
     <key>Attach Tape</key>
     <string>تعليق شريط السجل</string>
     <key>Basic</key>
@@ -296,7 +296,5 @@ on your Apple Watch.</key>
     <string>زر إعدادات السجل</string>
     <key>unfavorite expression</key>
     <string>إلغاء تفضيل العملية</string>
-    <key>unknown</key>
-    <string>غيرمعروف</string>
   </dict>
 </plist>

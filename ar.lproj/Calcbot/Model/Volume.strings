@@ -16,6 +16,8 @@
     <string>سنتيمتر مكعب</string>
     <key>Millilitre</key>
     <string>مللتر</string>
+    <key>Dram</key>
+    <string>ثمن أونصة</string>
     <key>Teaspoon</key>
     <string>ملعقة شاي</string>
     <key>Metric</key>
@@ -26,18 +28,32 @@
     <string>بوصة مكعبة</string>
     <key>Ounce</key>
     <string>أونصة</string>
+    <key>Gill</key>
+    <string>ﭼل</string>
+    <key>Gō</key>
+    <string>جو</string>
+    <key>Cup</key>
+    <string>كوب</string>
+    <key>Pint</key>
+    <string>ݒاينت</string>
     <key>Dry Pint</key>
-    <string>Dry Pint</string>
-    <key>Fifth</key>
-    <string>Fifth</string>
+    <string>ݒاينت جاف</string>
+    <key>Quart</key>
+    <string>كوارت</string>
     <key>Litre</key>
     <string>لتر</string>
     <key>Dry Quart</key>
     <string>الكوارت الجاف</string>
+    <key>Shō</key>
+    <string>شو</string>
     <key>Gallon</key>
     <string>غالون</string>
     <key>Dry Gallon</key>
-    <string>Dry Gallon</string>
+    <string>جالون جاف</string>
+    <key>Peck</key>
+    <string>ݒك</string>
+    <key>To</key>
+    <string>تو</string>
     <key>Cubic Feet</key>
     <string>قدم مكعب</string>
     <key>Bushel</key>
@@ -46,6 +62,8 @@
     <string>برميل بيرة</string>
     <key>Oil Barrel</key>
     <string>برميل نفط</string>
+    <key>Koku</key>
+    <string>كوكيو</string>
     <key>Cubic Yard</key>
     <string>ياردة مكعبة</string>
     <key>Cubic Metre</key>

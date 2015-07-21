@@ -294,7 +294,5 @@ on your Apple Watch.</string>
     <string>セープ設定ボタン</string>
     <key>unfavorite expression</key>
     <string>数式のお気に入りを解除</string>
-    <key>unknown</key>
-    <string>不明</string>
   </dict>
 </plist>
